@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>特朗普访华动态追踪</title>
+  <meta name="description" content="实时追踪特朗普访问北京会谈的新闻、媒体分析与资本市场影响" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌏</text></svg>" />
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+
+<!-- ── Header ───────────────────────────────────────── -->
+<header>
+  <div class="header-inner">
+    <div class="header-left">
+      <span class="flags">🇺🇸🤝🇨🇳</span>
+      <h1>特朗普访华动态追踪</h1>
+      <span class="live-badge">LIVE</span>
+    </div>
+    <div class="header-right">
+      <div class="meta-line" id="last-updated">数据加载中…</div>
+      <div class="meta-line" id="next-update">下次更新: 计算中…</div>
+    </div>
+  </div>
+</header>
+
+<!-- ── Tab Navigation ────────────────────────────────── -->
+<nav class="tab-nav">
+  <button class="tab-btn active" data-tab="tab-timeline">📰 新闻时间线</button>
+  <button class="tab-btn"        data-tab="tab-media">🗞 媒体视角</button>
+  <button class="tab-btn"        data-tab="tab-market">📈 市场影响</button>
+</nav>
+
+<!-- ── Main Content ──────────────────────────────────── -->
+<div class="page-content">
+
+  <!-- Tab 1: Timeline -->
+  <div id="tab-timeline" class="tab-panel active">
+    <div class="filter-bar" id="filter-bar">
+      <span class="filter-label">来源筛选:</span>
+      <button class="filter-btn active" data-source="all">全部</button>
+    </div>
+    <div id="news-list">
+      <!-- Cards injected by script.js -->
+    </div>
+  </div>
+
+  <!-- Tab 2: Media Views -->
+  <div id="tab-media" class="tab-panel">
+    <div class="media-grid" id="media-grid">
+      <!-- Media blocks injected by script.js -->
+    </div>
+  </div>
+
+  <!-- Tab 3: Market Impact -->
+  <div id="tab-market" class="tab-panel">
+    <div class="market-section">
+      <h2>🏢 访华代表团企业股价</h2>
+      <div class="stocks-grid" id="stocks-grid">
+        <!-- Stock cards injected by script.js -->
+      </div>
+    </div>
+
+    <div class="market-section">
+      <h2>🌐 主要市场指数</h2>
+      <div class="indices-grid" id="indices-grid">
+        <!-- Index cards injected by script.js -->
+      </div>
+    </div>
+
+    <p class="market-note">
+      ⚠️ 数据由 Yahoo Finance 提供，每4小时通过 GitHub Actions 自动更新，仅供参考，不构成投资建议。
+      美股价格为 USD，沪深指数为 CNY，港股为 HKD。
+      代表团成员名单以最新媒体报道为准。
+    </p>
+  </div>
+
+</div><!-- /page-content -->
+
+<script src="assets/script.js"></script>
+</body>
+</html>

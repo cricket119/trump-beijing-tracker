@@ -1,0 +1,53 @@
+name: 更新新闻与市场数据
+
+on:
+  schedule:
+    # 每4小时抓取一次 (UTC 0/4/8/12/16/20 点)
+    - cron: '0 0,4,8,12,16,20 * * *'
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: '手动触发原因'
+        required: false
+        default: '手动更新'
+
+jobs:
+  fetch-data:
+    name: 抓取数据并提交
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout 仓库
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
+
+      - name: 配置 Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 执行数据抓取
+        run: python scripts/fetch_data.py
+
+      - name: 检测数据变化
+        id: diff
+        run: |
+          git diff --quiet data/ || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: 提交并推送更新
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          COUNT=$(git diff --staged --name-only | wc -l | tr -d ' ')
+          git commit -m "data: 自动更新 $(date -u '+%Y-%m-%d %H:%M UTC') [skip ci]"
+          git push
