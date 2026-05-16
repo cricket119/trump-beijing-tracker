@@ -117,16 +117,21 @@ function buildFilters(articles) {
 
 function newsCardHtml(art) {
   const cat = CATEGORY_LABEL[art.source_category] || art.source_category;
+  // Show Chinese translation as main title when available; original EN as subtitle
+  const mainTitle  = art.title_zh || art.title;
+  const subTitle   = art.title_zh ? art.title : '';
   return `
   <article class="news-card" style="border-left-color:${escHtml(art.source_color)}">
     <div class="card-meta">
       <span class="source-badge" style="background:${escHtml(art.source_color)}">${escHtml(art.source)}</span>
       <span class="card-time" title="${escHtml(fmtTime(art.published))}">${timeAgo(art.published)}</span>
       <span class="card-category">${escHtml(cat)}</span>
+      ${art.title_zh ? '<span class="translated-badge">中译</span>' : ''}
     </div>
     <div class="card-title">
-      <a href="${escHtml(art.link)}" target="_blank" rel="noopener">${escHtml(art.title)}</a>
+      <a href="${escHtml(art.link)}" target="_blank" rel="noopener">${escHtml(mainTitle)}</a>
     </div>
+    ${subTitle ? `<div class="card-original-title">${escHtml(subTitle)}</div>` : ''}
     ${art.summary ? `<p class="card-summary">${escHtml(art.summary)}</p>` : ''}
   </article>`;
 }

@@ -35,6 +35,10 @@ RSS_SOURCES = [
     {'name': 'CNBC',           'url': 'https://www.cnbc.com/id/100727362/device/rss/rss.html',    'lang': 'en', 'color': '#005594', 'category': 'business'},
     {'name': 'WSJ',            'url': 'https://feeds.a.dj.com/rss/RSSWorldNews.xml',              'lang': 'en', 'color': '#333333', 'category': 'business'},
     {'name': 'Nikkei Asia',    'url': 'https://asia.nikkei.com/rss/feed/nar',                     'lang': 'en', 'color': '#E60012', 'category': 'asia'},
+    # ── 新增中文信息源 ──────────────────────────────────────────────────────────────
+    {'name': '明报',           'url': 'https://news.mingpao.com/rss/pns/s00001.xml',              'lang': 'zh', 'color': '#006400', 'category': 'chinese'},
+    {'name': '凤凰资讯',       'url': 'https://rss.ifeng.com/news_mainland.xml',                  'lang': 'zh', 'color': '#FF6600', 'category': 'chinese'},
+    {'name': '财新网',         'url': 'https://www.caixin.com/rss/caixinenglish.xml',             'lang': 'zh', 'color': '#005BAC', 'category': 'chinese'},
 ]
 
 # Companies in Trump's delegation – adjust as confirmed reports emerge
@@ -133,6 +137,41 @@ def fetch_all_news() -> list:
     all_articles.sort(key=lambda x: x['published'], reverse=True)
     return all_articles[:300]
 
+# ==================== TRANSLATION ====================
+
+def translate_to_zh(text: str) -> str:
+    """Translate English title to Simplified Chinese via MyMemory free API (no key needed)."""
+    try:
+        r = requests.get(
+            'https://api.mymemory.translated.net/get',
+            params={'q': text[:400], 'langpair': 'en|zh-CN', 'de': 'tracker@github.com'},
+            timeout=10,
+        )
+        data = r.json()
+        if data.get('responseStatus') == 200:
+            translated = data['responseData']['translatedText']
+            # MyMemory sometimes returns the original when it fails
+            if translated and translated.lower() != text.lower():
+                return translated
+    except Exception as e:
+        print(f"  [WARN] translate: {e}")
+    return ''
+
+def translate_top_articles(articles: list, n: int = 10) -> list:
+    """Add title_zh field to the first n English articles."""
+    count = 0
+    for art in articles:
+        if count >= n:
+            break
+        if art.get('source_lang') == 'en':
+            print(f"  Translating: {art['title'][:50]}...")
+            zh = translate_to_zh(art['title'])
+            if zh:
+                art['title_zh'] = zh
+            count += 1
+            time.sleep(0.8)  # respect rate limit
+    return articles
+
 # ==================== STOCK FETCHING ====================
 
 def fetch_quote(symbol: str) -> dict | None:
@@ -182,6 +221,10 @@ def main():
 
     print('=== Fetching News ===')
     articles = fetch_all_news()
+
+    print('=== Translating top-10 English titles ===')
+    articles = translate_top_articles(articles, n=10)
+
     with open(os.path.join(DATA_DIR, 'news.json'), 'w', encoding='utf-8') as f:
         json.dump({'last_updated': now, 'total': len(articles), 'articles': articles},
                   f, ensure_ascii=False, indent=2)
