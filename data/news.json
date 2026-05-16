@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-16T02:10:06.672724+00:00",
-  "total": 56,
+  "last_updated": "2026-05-16T06:14:53.953175+00:00",
+  "total": 54,
   "articles": [
     {
       "id": "5d5dad35682b",
       "title": "Anthropic urges tough chip controls as Nvidia CEO joins Trump in China",
       "summary": "",
       "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/anthropic-urges-tough-chip-controls-as-nvidia-ceo-joins-trump-in-china",
-      "published": "2026-05-16T02:10:25.282316+00:00",
+      "published": "2026-05-16T06:15:11.404845+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "Boeing faces long haul in China as Trump touts expected sale of 200 jets",
       "summary": "",
       "link": "https://asia.nikkei.com/business/aerospace-defense-industries/boeing-faces-long-haul-in-china-as-trump-touts-expected-sale-of-200-jets",
-      "published": "2026-05-16T02:10:25.282119+00:00",
+      "published": "2026-05-16T06:15:11.404642+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -31,7 +31,7 @@
       "title": "Trump says he gave Xi 'no commitment' on Taiwan at summit",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-says-he-gave-xi-no-commitment-on-taiwan-at-summit",
-      "published": "2026-05-16T02:10:25.282096+00:00",
+      "published": "2026-05-16T06:15:11.404620+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -43,7 +43,7 @@
       "title": "Trump-Xi summit more symbol than substance, political experts say",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-more-symbol-than-substance-political-experts-say",
-      "published": "2026-05-16T02:10:25.281948+00:00",
+      "published": "2026-05-16T06:15:11.404467+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -55,7 +55,7 @@
       "title": "US stocks fall after Trump-Xi summit leaves investors 'underwhelmed'",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/us-stocks-fall-after-trump-xi-summit-leaves-investors-underwhelmed",
-      "published": "2026-05-16T02:10:25.281923+00:00",
+      "published": "2026-05-16T06:15:11.404444+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -67,12 +67,60 @@
       "title": "Trump-Xi summit: How the US president's China visit unfolded",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-how-the-us-president-s-china-visit-unfolded",
-      "published": "2026-05-16T02:10:25.281823+00:00",
+      "published": "2026-05-16T06:15:11.404353+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "特朗普-习近平峰会：美国总统的中国访问如何展开"
+    },
+    {
+      "id": "a70a838d3847",
+      "title": "Taiwan arms sale in focus as Trump insists he gave no ground to Xi",
+      "summary": "",
+      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/taiwan-arms-sale-in-focus-as-trump-insists-he-gave-no-ground-to-xi",
+      "published": "2026-05-16T06:15:11.404301+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "台湾军售成为焦点，因为特朗普坚称他没有给习近平任何让步"
+    },
+    {
+      "id": "cc117112497a",
+      "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+      "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
+      "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-16T05:53:41+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普警告台湾不要在与中国习近平举行峰会数小时后宣布独立"
+    },
+    {
+      "id": "fb0658ef839a",
+      "title": "Trump undecided on Taiwan arms sale after summit with Xi",
+      "summary": "US president raises doubts about $14bn weapons package for Taipei after two days of meetings in China",
+      "link": "https://www.ft.com/content/66933e51-e06d-475c-aed2-f808f9443dea",
+      "published": "2026-05-16T03:20:29+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普与习近平会晤后未决定台湾军售"
+    },
+    {
+      "id": "c01ef0b41bf2",
+      "title": "Trump ‘not optimistic’ on Jimmy Lai’s release after raising case with Xi",
+      "summary": "US President Donald Trump has said he is not optimistic about the release of former Hong Kong media boss Jimmy Lai Chee-ying, who was sentenced to 20 years for violating the national security law, after raising the issue with Chinese counterpart Xi Jinping during his visit to Beijing.\n“[Xi] said Jimmy Lai is a tough one for him to do; he went through a lot, right or wrong, they went through a lot,” Trump told reporters on Air Force One during his return flight to the United States.\nWhen asked...",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3353789/trump-not-optimistic-jimmy-lais-release-after-raising-case-xi?utm_source=rss_feed",
+      "published": "2026-05-16T02:38:14+00:00",
+      "source": "SCMP",
+      "source_color": "#003580",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "特朗普在与习近平提起诉讼后对Jimmy Lai的释放“不乐观”"
     },
     {
       "id": "5b89ab65b31a",
@@ -83,8 +131,7 @@
       "source": "Financial Times",
       "source_color": "#C7A000",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "由于特朗普的中国峰会协议令人失望，波音股价下跌"
+      "source_category": "business"
     },
     {
       "id": "ae54e095589d",
@@ -95,8 +142,7 @@
       "source": "BBC",
       "source_color": "#BB1919",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普和习近平结束了“非常成功”的谈判，但很少有交易得到确认"
+      "source_category": "international"
     },
     {
       "id": "47057ddbc80b",
@@ -107,8 +153,7 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普和波音宣布中国将购买200架飞机"
+      "source_category": "international"
     },
     {
       "id": "ce857c8ebc72",
@@ -118,18 +163,6 @@
       "published": "2026-05-15T21:41:01+00:00",
       "source": "NYT",
       "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "“例如，普京” ：习近平如何利用私人花园漫步来吸引特朗普"
-    },
-    {
-      "id": "cc117112497a",
-      "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-      "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
-      "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-15T21:28:25+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
       "source_lang": "en",
       "source_category": "international"
     },
@@ -200,17 +233,6 @@
       "source_category": "international"
     },
     {
-      "id": "fb0658ef839a",
-      "title": "Trump undecided on Taiwan arms sale after summit with Xi",
-      "summary": "US president raises doubts about $14bn weapons package for Taipei after two days of meetings in China",
-      "link": "https://www.ft.com/content/66933e51-e06d-475c-aed2-f808f9443dea",
-      "published": "2026-05-15T19:50:00+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business"
-    },
-    {
       "id": "53f2d8cfab36",
       "title": "Is the US dialling down its support for Taiwan?",
       "summary": "Donald Trump does not commit to arms sale during China visit.",
@@ -266,17 +288,6 @@
       "source_category": "international"
     },
     {
-      "id": "3bf74edeb9a4",
-      "title": "Xi, Trump and the Thucydides trap",
-      "summary": "A summit of low expectations did at least restore some stability",
-      "link": "https://www.ft.com/content/09e3a61b-505d-4685-a2fe-99a446f0a865",
-      "published": "2026-05-15T17:29:32+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business"
-    },
-    {
       "id": "378c7b08299d",
       "title": "Republicans Waited to Challenge Trump on the Iran War. Now It May Be Too Late.",
       "summary": "Having deferred to the president for months, G.O.P. lawmakers missed crucial milestones to try to limit his war powers. That has tied their hands in seeking parameters and exit criteria.",
@@ -308,17 +319,6 @@
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international"
-    },
-    {
-      "id": "19d958834f6a",
-      "title": "What did Trump achieve in talks with China’s Xi?",
-      "summary": "US president returns from Beijing after summit that yielded no big deals but brought hope of more stable ties",
-      "link": "https://www.ft.com/content/7ae6a01d-df8d-4148-8424-27272e63939d",
-      "published": "2026-05-15T14:12:29+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business"
     },
     {
       "id": "9acdeabdf284",
@@ -431,17 +431,6 @@
       "source_category": "business"
     },
     {
-      "id": "209946f0ad1c",
-      "title": "Trump’s and Xi’s Body Language at the Summit Mirrored Their Styles",
-      "summary": "Although at odds over issues like trade and Taiwan, the U.S. and Chinese leaders met in Beijing with a show of friendly gestures.",
-      "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-body-language.html",
-      "published": "2026-05-15T06:53:22+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
       "id": "3628c887acee",
       "title": "China Starting to Fulfill ‘Promises,’ U.S. Trade Representative Says",
       "summary": "As President Trump and China’s leader, Xi Jinping, meet, the United States said China has promised to expand its purchases of farm goods and airplanes.",
@@ -504,17 +493,6 @@
       "published": "2026-05-15T01:52:07+00:00",
       "source": "CNBC",
       "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
-    },
-    {
-      "id": "5707ceb0a611",
-      "title": "Oil Rises as Trump Departs China With Limited Progress on Hormuz",
-      "summary": "Oil climbed as US President Donald Trump left a meeting with Chinese counterpart Xi Jinping without any meaningful progress on increasing energy flows through the Strait of Hormuz, reigniting concerns that disruptions to global supplies will deepen.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-14/latest-oil-market-news-and-analysis-for-may-15",
-      "published": "2026-05-14T22:07:41+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
       "source_lang": "en",
       "source_category": "business"
     },
