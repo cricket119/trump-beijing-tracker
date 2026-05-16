@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T06:14:53.953175+00:00",
+  "last_updated": "2026-05-16T09:20:18.123177+00:00",
   "total": 54,
   "articles": [
     {
@@ -7,7 +7,7 @@
       "title": "Anthropic urges tough chip controls as Nvidia CEO joins Trump in China",
       "summary": "",
       "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/anthropic-urges-tough-chip-controls-as-nvidia-ceo-joins-trump-in-china",
-      "published": "2026-05-16T06:15:11.404845+00:00",
+      "published": "2026-05-16T09:20:33.510249+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "Boeing faces long haul in China as Trump touts expected sale of 200 jets",
       "summary": "",
       "link": "https://asia.nikkei.com/business/aerospace-defense-industries/boeing-faces-long-haul-in-china-as-trump-touts-expected-sale-of-200-jets",
-      "published": "2026-05-16T06:15:11.404642+00:00",
+      "published": "2026-05-16T09:20:33.510093+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -31,7 +31,7 @@
       "title": "Trump says he gave Xi 'no commitment' on Taiwan at summit",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-says-he-gave-xi-no-commitment-on-taiwan-at-summit",
-      "published": "2026-05-16T06:15:11.404620+00:00",
+      "published": "2026-05-16T09:20:33.510076+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -43,7 +43,7 @@
       "title": "Trump-Xi summit more symbol than substance, political experts say",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-more-symbol-than-substance-political-experts-say",
-      "published": "2026-05-16T06:15:11.404467+00:00",
+      "published": "2026-05-16T09:20:33.509946+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -55,7 +55,7 @@
       "title": "US stocks fall after Trump-Xi summit leaves investors 'underwhelmed'",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/us-stocks-fall-after-trump-xi-summit-leaves-investors-underwhelmed",
-      "published": "2026-05-16T06:15:11.404444+00:00",
+      "published": "2026-05-16T09:20:33.509928+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -67,7 +67,7 @@
       "title": "Trump-Xi summit: How the US president's China visit unfolded",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-how-the-us-president-s-china-visit-unfolded",
-      "published": "2026-05-16T06:15:11.404353+00:00",
+      "published": "2026-05-16T09:20:33.509857+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -79,12 +79,59 @@
       "title": "Taiwan arms sale in focus as Trump insists he gave no ground to Xi",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/taiwan-arms-sale-in-focus-as-trump-insists-he-gave-no-ground-to-xi",
-      "published": "2026-05-16T06:15:11.404301+00:00",
+      "published": "2026-05-16T09:20:33.509814+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "台湾军售成为焦点，因为特朗普坚称他没有给习近平任何让步"
+    },
+    {
+      "id": "c94cc495f058",
+      "title": "Rubio, Once a China Hawk, Strikes Softer Tone to Align With Trump",
+      "summary": "As a senator, Marco Rubio even hinted at the need for regime change in China. Now he talks about cooperation.",
+      "link": "https://www.nytimes.com/2026/05/16/us/politics/rubio-china-trump-trip.html",
+      "published": "2026-05-16T09:01:50+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "曾经是中国鹰的卢比奥以更柔和的语气与特朗普保持一致"
+    },
+    {
+      "id": "3b3211c9bc65",
+      "title": "Trump Turns Taiwan Arms Sales Into Bargaining Chip With China",
+      "summary": "The president said a potential arms deal for Taiwan was a “very good negotiating chip” in talks with Beijing. His words raise questions about the steadfastness of U.S. support.",
+      "link": "https://www.nytimes.com/2026/05/16/world/asia/trump-taiwan-arms-bargaining-chip-china.html",
+      "published": "2026-05-16T08:39:31+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普将台湾军售变成与中国讨价还价的筹码"
+    },
+    {
+      "id": "b3df9569c004",
+      "title": "Russia’s Putin to visit China following Trump’s trip",
+      "summary": "Putin and Chinese President Xi Jinping plan to further strengthen the comprehensive partnership, the Kremlin says.",
+      "link": "https://www.aljazeera.com/news/2026/5/16/russias-putin-to-visit-china-following-trumps-trip?traffic_source=rss",
+      "published": "2026-05-16T08:38:46+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普访华后，俄罗斯总统普京将访问中国"
+    },
+    {
+      "id": "0cbce50b8e03",
+      "title": "Why Taiwan became the defining issue in the Trump-Xi talks",
+      "summary": "U.S. President Donald Trump had said arms sales to Taiwan would be on the agenda for his talks with Chinese President Xi Jinping which ended Friday.",
+      "link": "https://www.cnbc.com/2026/05/16/trumps-meeting-with-chinas-xi-steers-the-us-away-from-taiwan-again.html",
+      "published": "2026-05-16T08:26:02+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business"
     },
     {
       "id": "cc117112497a",
@@ -95,8 +142,7 @@
       "source": "BBC",
       "source_color": "#BB1919",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普警告台湾不要在与中国习近平举行峰会数小时后宣布独立"
+      "source_category": "international"
     },
     {
       "id": "fb0658ef839a",
@@ -107,8 +153,7 @@
       "source": "Financial Times",
       "source_color": "#C7A000",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普与习近平会晤后未决定台湾军售"
+      "source_category": "business"
     },
     {
       "id": "c01ef0b41bf2",
@@ -119,8 +164,7 @@
       "source": "SCMP",
       "source_color": "#003580",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "特朗普在与习近平提起诉讼后对Jimmy Lai的释放“不乐观”"
+      "source_category": "asia"
     },
     {
       "id": "5b89ab65b31a",
@@ -266,28 +310,6 @@
       "source_category": "international"
     },
     {
-      "id": "fa78862e85d2",
-      "title": "Trump says China to buy 200 Boeing planes, much lower than expected",
-      "summary": "Neither the Chinese government nor Boeing issued statements confirming the purchase agreement.",
-      "link": "https://www.aljazeera.com/economy/2026/5/15/trump-says-china-to-buy-200-boeing-planes-much-lower-than-expected?traffic_source=rss",
-      "published": "2026-05-15T18:12:41+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
-      "id": "2df34d202a5a",
-      "title": "Trump departs China touting deals, but little clarity on Iran or Taiwan",
-      "summary": "Trump tells reporters he is still deciding fate of new Taiwan weapons package, says not \"asking for any favors\" on Iran.",
-      "link": "https://www.aljazeera.com/news/2026/5/15/trump-departs-china-touting-deals-but-little-clarity-on-iran-or-taiwan?traffic_source=rss",
-      "published": "2026-05-15T17:46:06+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
       "id": "378c7b08299d",
       "title": "Republicans Waited to Challenge Trump on the Iran War. Now It May Be Too Late.",
       "summary": "Having deferred to the president for months, G.O.P. lawmakers missed crucial milestones to try to limit his war powers. That has tied their hands in seeking parameters and exit criteria.",
@@ -376,6 +398,17 @@
       "source_category": "business"
     },
     {
+      "id": "aa04fde11aff",
+      "title": "Trump says he will soon make a decision about sanctions on Chinese companies buying Iranian oil",
+      "summary": "U.S. President Donald Trump said Friday that he will make a decision over the next few days about lifting sanctions on Chinese oil companies that buy Iranion oil.",
+      "link": "https://www.cnbc.com/2026/05/15/trump-china-sanctions-iranian-oil.html",
+      "published": "2026-05-15T12:43:26+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business"
+    },
+    {
       "id": "465902dc8a5a",
       "title": "Nvidia’s Future in China Remains Unclear After Trump-Xi Summit",
       "summary": "The standoff comes as Chinese firms increasingly turn to domestic chipmakers like Huawei, in a drive to reduce China’s dependence on Western technologies.",
@@ -431,17 +464,6 @@
       "source_category": "business"
     },
     {
-      "id": "3628c887acee",
-      "title": "China Starting to Fulfill ‘Promises,’ U.S. Trade Representative Says",
-      "summary": "As President Trump and China’s leader, Xi Jinping, meet, the United States said China has promised to expand its purchases of farm goods and airplanes.",
-      "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-china-us-trade.html",
-      "published": "2026-05-15T06:51:47+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
       "id": "f1340422fe08",
       "title": "Trump leaves China after talks dominated by trade, oil and Taiwan",
       "summary": "U.S. President Donald Trump traveled to China this week for two days of meetings with Chinese President Xi Jinping, after a year of heightened trade tensions.",
@@ -473,28 +495,6 @@
       "source_color": "#003580",
       "source_lang": "en",
       "source_category": "asia"
-    },
-    {
-      "id": "3a462c05e90a",
-      "title": "What is Zhongnanhai, the Secretive Beijing Compound Where Trump Met Xi?",
-      "summary": "China’s leader, Xi Jinping, was meeting with President Trump on Friday at Zhongnanhai, a heavily guarded Beijing compound where top Chinese officials live and work.",
-      "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-summit-china-beijing-zhongnanhai.html",
-      "published": "2026-05-15T04:07:02+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
-      "id": "fad4978e7128",
-      "title": "China will order 200 Boeing jets, Trump tells Fox News",
-      "summary": "President Donald Trump told Fox News that China has agreed to buy 200 Boeing jets, according to a clip that aired Thursday.",
-      "link": "https://www.cnbc.com/2026/05/14/china-boeing-order-airplanes-737-max-trump-says.html",
-      "published": "2026-05-15T01:52:07+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
     },
     {
       "id": "81654d5f18de",
