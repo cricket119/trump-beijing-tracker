@@ -1,25 +1,13 @@
 {
-  "last_updated": "2026-05-16T12:55:45.908258+00:00",
-  "total": 52,
+  "last_updated": "2026-05-16T16:43:57.224878+00:00",
+  "total": 51,
   "articles": [
-    {
-      "id": "5d5dad35682b",
-      "title": "Anthropic urges tough chip controls as Nvidia CEO joins Trump in China",
-      "summary": "",
-      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/anthropic-urges-tough-chip-controls-as-nvidia-ceo-joins-trump-in-china",
-      "published": "2026-05-16T12:55:59.259303+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "英伟达首席执行官在中国加入特朗普之际， Anthropic敦促严格控制芯片"
-    },
     {
       "id": "c3a751f6e421",
       "title": "Boeing faces long haul in China as Trump touts expected sale of 200 jets",
       "summary": "",
       "link": "https://asia.nikkei.com/business/aerospace-defense-industries/boeing-faces-long-haul-in-china-as-trump-touts-expected-sale-of-200-jets",
-      "published": "2026-05-16T12:55:59.259094+00:00",
+      "published": "2026-05-16T16:44:10.922602+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -31,7 +19,7 @@
       "title": "Trump says he gave Xi 'no commitment' on Taiwan at summit",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-says-he-gave-xi-no-commitment-on-taiwan-at-summit",
-      "published": "2026-05-16T12:55:59.259071+00:00",
+      "published": "2026-05-16T16:44:10.922579+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -43,7 +31,7 @@
       "title": "Trump-Xi summit more symbol than substance, political experts say",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-more-symbol-than-substance-political-experts-say",
-      "published": "2026-05-16T12:55:59.258911+00:00",
+      "published": "2026-05-16T16:44:10.922421+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -55,7 +43,7 @@
       "title": "US stocks fall after Trump-Xi summit leaves investors 'underwhelmed'",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/us-stocks-fall-after-trump-xi-summit-leaves-investors-underwhelmed",
-      "published": "2026-05-16T12:55:59.258887+00:00",
+      "published": "2026-05-16T16:44:10.922397+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -67,7 +55,7 @@
       "title": "Trump-Xi summit: How the US president's China visit unfolded",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-how-the-us-president-s-china-visit-unfolded",
-      "published": "2026-05-16T12:55:59.258791+00:00",
+      "published": "2026-05-16T16:44:10.922302+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -79,7 +67,7 @@
       "title": "Taiwan arms sale in focus as Trump insists he gave no ground to Xi",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/taiwan-arms-sale-in-focus-as-trump-insists-he-gave-no-ground-to-xi",
-      "published": "2026-05-16T12:55:59.258739+00:00",
+      "published": "2026-05-16T16:44:10.922262+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -87,16 +75,63 @@
       "title_zh": "台湾军售成为焦点，因为特朗普坚称他没有给习近平任何让步"
     },
     {
-      "id": "3b3211c9bc65",
-      "title": "Trump Turns Taiwan Arms Sales Into Bargaining Chip With China",
-      "summary": "The president said a potential arms deal for Taiwan was a “very good negotiating chip” in talks with Beijing. His words raise questions about the steadfastness of U.S. support.",
+      "id": "d5c5f551c3ea",
+      "title": "China says Xi and Trump agreed to spur trade by lowering some tariffs",
+      "summary": "",
+      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/china-says-xi-and-trump-agreed-to-spur-trade-by-lowering-some-tariffs",
+      "published": "2026-05-16T16:44:10.922193+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "中国称习近平和特朗普同意通过降低一些关税来刺激贸易"
+    },
+    {
+      "id": "ff529e287d05",
+      "title": "Returning from China, Trump is Ambiguous Over Taiwan",
+      "summary": "President Donald Trump said he made no commitment to Chinese President Xi Jinping over Taiwan, and would make a decision soon over a planned $14 billion arms deal with the island. Bloomberg White House Correspondent Courtney Subramanian and Reporter Michelle Kaske joined Christina Ruffini and David Gura this morning on Bloomberg This Weekend to discuss the summit’s deals, sticking points and unfinished business. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-16/returning-from-china-trump-is-ambiguous-over-taiwan-video",
+      "published": "2026-05-16T15:40:40+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "从中国回来，特朗普对台湾的态度模棱两可"
+    },
+    {
+      "id": "a6c6e8c1621b",
+      "title": "Trump Uses Taiwan Arms Sales as Bargaining Chip With China, in a Risky Move",
+      "summary": "The president said a potential arms deal for Taiwan was a “very good negotiating chip” in talks with Beijing. His words raise questions about the reliability of U.S. support.",
       "link": "https://www.nytimes.com/2026/05/16/world/asia/trump-taiwan-arms-bargaining-chip-china.html",
-      "published": "2026-05-16T12:04:45+00:00",
+      "published": "2026-05-16T15:11:25+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "特朗普将台湾军售变成与中国讨价还价的筹码"
+      "title_zh": "特朗普冒险利用台湾军售作为与中国讨价还价的筹码"
+    },
+    {
+      "id": "c94cc495f058",
+      "title": "Rubio, Once a China Hawk, Strikes Softer Tone to Align With Trump",
+      "summary": "As a senator, Marco Rubio even hinted at the need for regime change in China. Now he talks about cooperation.",
+      "link": "https://www.nytimes.com/2026/05/16/us/politics/rubio-china-trump-trip.html",
+      "published": "2026-05-16T13:51:48+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "曾经是中国鹰的卢比奥以更柔和的语气与特朗普保持一致"
+    },
+    {
+      "id": "8e0d5d598e09",
+      "title": "Tech Chiefs Accompany Trump on China Trip",
+      "summary": "President Trump arrived in Beijing for a high-stakes summit with Xi Jinping aimed at stabilizing US-China ties against the backdrop of the Iran war and the race to control and contain AI. Tech CEOs including Jensen Huang and Elon Musk tagged along, sending Nvidia, Tesla and Chinese AI-related stocks higher. And while the US president may want to focus on trade, Beijing’s role in the Middle East and Taiwan arms sales, Xi has a stronger hand than he did at their first summit. Co-Host of Bloomberg Tech Caroline Hyde joined Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-16/tech-chiefs-accompany-trump-on-china-trip-video",
+      "published": "2026-05-16T12:57:57+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business"
     },
     {
       "id": "2d3fea2310c8",
@@ -107,8 +142,7 @@
       "source": "Bloomberg",
       "source_color": "#1976D2",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "Ray Dalio谈论中国， Whitney Tilson谈论Mamdani与Griffin的争斗"
+      "source_category": "business"
     },
     {
       "id": "e5f27b541ae0",
@@ -119,8 +153,7 @@
       "source": "Bloomberg",
       "source_color": "#1976D2",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普称中国之行是“历史性时刻”"
+      "source_category": "business"
     },
     {
       "id": "8b4afe955c6d",
@@ -139,17 +172,6 @@
       "summary": "The Russian leader will go to Beijing on Tuesday for talks with President Xi Jinping. The Kremlin said he had watched President Trump’s visit closely.",
       "link": "https://www.nytimes.com/2026/05/16/world/europe/putin-china-visit-trump.html",
       "published": "2026-05-16T11:23:43+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
-      "id": "c94cc495f058",
-      "title": "Rubio, Once a China Hawk, Strikes Softer Tone to Align With Trump",
-      "summary": "As a senator, Marco Rubio even hinted at the need for regime change in China. Now he talks about cooperation.",
-      "link": "https://www.nytimes.com/2026/05/16/us/politics/rubio-china-trump-trip.html",
-      "published": "2026-05-16T10:38:09+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
@@ -220,28 +242,6 @@
       "source_color": "#003580",
       "source_lang": "en",
       "source_category": "asia"
-    },
-    {
-      "id": "ae54e095589d",
-      "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
-      "summary": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
-      "link": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-15T21:50:14+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
-      "id": "47057ddbc80b",
-      "title": "Trump and Boeing Announce China Will Purchase 200 Planes",
-      "summary": "The deal, which Beijing has not commented on, would be a major win for Boeing, which has lost ground to Airbus in one of the world’s largest aviation markets.",
-      "link": "https://www.nytimes.com/2026/05/15/world/asia/trump-boeing-order-china.html",
-      "published": "2026-05-15T21:48:39+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
     },
     {
       "id": "ce857c8ebc72",
@@ -513,17 +513,6 @@
       "summary": "Market watchers are betting that the Trump-Xi summit could extend trade truce and lift Chinese equities.",
       "link": "https://www.cnbc.com/2026/05/14/trump-xi-meeting-china-stocks-ai-rally.html",
       "published": "2026-05-14T07:44:10+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
-    },
-    {
-      "id": "339060bd6860",
-      "title": "Inside India newsletter: Trump-Xi meeting could test India’s positioning as China counterweight",
-      "summary": "For more than two decades, consecutive U.S. administrations have seen India as a counterbalance to China's growing influence in the Indo-Pacific.",
-      "link": "https://www.cnbc.com/2026/05/14/inside-india-trump-xi-meeting-us-china-indo-pacific.html",
-      "published": "2026-05-14T00:25:10+00:00",
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
