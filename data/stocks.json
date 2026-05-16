@@ -1,5 +1,228 @@
 {
-  "last_updated": "2026-05-15T00:00:00Z",
-  "stocks": [],
-  "indices": []
+  "last_updated": "2026-05-16T01:52:29.078415+00:00",
+  "stocks": [
+    {
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "person": "Elon Musk",
+      "role": "CEO & Special Adviser",
+      "price": 422.24,
+      "prev_close": 428.35,
+      "change": -6.11,
+      "change_pct": -1.43,
+      "currency": "USD",
+      "market_state": "UNKNOWN"
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple",
+      "person": "Tim Cook",
+      "role": "CEO",
+      "price": 300.23,
+      "prev_close": 293.32,
+      "change": 6.91,
+      "change_pct": 2.36,
+      "currency": "USD",
+      "market_state": "UNKNOWN"
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase",
+      "person": "Jamie Dimon",
+      "role": "CEO",
+      "price": 297.81,
+      "prev_close": 302.1,
+      "change": -4.29,
+      "change_pct": -1.42,
+      "currency": "USD",
+      "market_state": "UNKNOWN"
+    },
+    {
+      "symbol": "BLK",
+      "name": "BlackRock",
+      "person": "Larry Fink",
+      "role": "CEO",
+      "price": 1081.9,
+      "prev_close": 1084.83,
+      "change": -2.93,
+      "change_pct": -0.27,
+      "currency": "USD",
+      "market_state": "UNKNOWN"
+    },
+    {
+      "symbol": "GS",
+      "name": "Goldman Sachs",
+      "person": "David Solomon",
+      "role": "CEO",
+      "price": 948.47,
+      "prev_close": 936.48,
+      "change": 11.99,
+      "change_pct": 1.28,
+      "currency": "USD",
+      "market_state": "UNKNOWN"
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "person": "Jensen Huang",
+      "role": "CEO",
+      "price": 225.32,
+      "prev_close": 215.2,
+      "change": 10.12,
+      "change_pct": 4.7,
+      "currency": "USD",
+      "market_state": "UNKNOWN"
+    },
+    {
+      "symbol": "META",
+      "name": "Meta",
+      "person": "Mark Zuckerberg",
+      "role": "CEO",
+      "price": 614.23,
+      "prev_close": 609.63,
+      "change": 4.6,
+      "change_pct": 0.75,
+      "currency": "USD",
+      "market_state": "UNKNOWN"
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "person": "Cristiano Amon",
+      "role": "CEO",
+      "price": 201.49,
+      "prev_close": 219.09,
+      "change": -17.6,
+      "change_pct": -8.03,
+      "currency": "USD",
+      "market_state": "UNKNOWN"
+    },
+    {
+      "symbol": "BA",
+      "name": "Boeing",
+      "person": "Kelly Ortberg",
+      "role": "CEO",
+      "price": 220.49,
+      "prev_close": 237.36,
+      "change": -16.87,
+      "change_pct": -7.11,
+      "currency": "USD",
+      "market_state": "UNKNOWN"
+    },
+    {
+      "symbol": "XOM",
+      "name": "ExxonMobil",
+      "person": "Darren Woods",
+      "role": "CEO",
+      "price": 157.92,
+      "prev_close": 144.57,
+      "change": 13.35,
+      "change_pct": 9.23,
+      "currency": "USD",
+      "market_state": "UNKNOWN"
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "person": "Andy Jassy",
+      "role": "CEO",
+      "price": 264.14,
+      "prev_close": 272.68,
+      "change": -8.54,
+      "change_pct": -3.13,
+      "currency": "USD",
+      "market_state": "UNKNOWN"
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "person": "Satya Nadella",
+      "role": "CEO",
+      "price": 421.92,
+      "prev_close": 415.12,
+      "change": 6.8,
+      "change_pct": 1.64,
+      "currency": "USD",
+      "market_state": "UNKNOWN"
+    }
+  ],
+  "indices": [
+    {
+      "symbol": "^GSPC",
+      "name": "S&P 500",
+      "region": "US",
+      "price": 7408.5,
+      "prev_close": 7398.93,
+      "change": 9.57,
+      "change_pct": 0.13,
+      "currency": "USD",
+      "market_state": "UNKNOWN"
+    },
+    {
+      "symbol": "^DJI",
+      "name": "Dow Jones",
+      "region": "US",
+      "price": 49526.17,
+      "prev_close": 49609.16,
+      "change": -82.99,
+      "change_pct": -0.17,
+      "currency": "USD",
+      "market_state": "UNKNOWN"
+    },
+    {
+      "symbol": "^IXIC",
+      "name": "Nasdaq",
+      "region": "US",
+      "price": 26225.145,
+      "prev_close": 26247.08,
+      "change": -21.935,
+      "change_pct": -0.08,
+      "currency": "USD",
+      "market_state": "UNKNOWN"
+    },
+    {
+      "symbol": "000001.SS",
+      "name": "上证综指",
+      "region": "CN",
+      "price": 4135.389,
+      "prev_close": 4225.021,
+      "change": -89.632,
+      "change_pct": -2.12,
+      "currency": "CNY",
+      "market_state": "UNKNOWN"
+    },
+    {
+      "symbol": "000300.SS",
+      "name": "沪深300",
+      "region": "CN",
+      "price": 4859.593,
+      "prev_close": 4951.84,
+      "change": -92.247,
+      "change_pct": -1.86,
+      "currency": "CNY",
+      "market_state": "UNKNOWN"
+    },
+    {
+      "symbol": "^HSI",
+      "name": "恒生指数",
+      "region": "HK",
+      "price": 25962.73,
+      "prev_close": 26393.71,
+      "change": -430.98,
+      "change_pct": -1.63,
+      "currency": "HKD",
+      "market_state": "UNKNOWN"
+    },
+    {
+      "symbol": "CNY=X",
+      "name": "USD/CNY",
+      "region": "FX",
+      "price": 6.8087,
+      "prev_close": 6.8005,
+      "change": 0.0082,
+      "change_pct": 0.12,
+      "currency": "CNY",
+      "market_state": "UNKNOWN"
+    }
+  ]
 }
