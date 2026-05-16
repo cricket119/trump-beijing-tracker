@@ -1,72 +1,78 @@
 {
-  "last_updated": "2026-05-16T01:52:29.078415+00:00",
-  "total": 52,
+  "last_updated": "2026-05-16T02:10:06.672724+00:00",
+  "total": 56,
   "articles": [
     {
       "id": "5d5dad35682b",
       "title": "Anthropic urges tough chip controls as Nvidia CEO joins Trump in China",
       "summary": "",
       "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/anthropic-urges-tough-chip-controls-as-nvidia-ceo-joins-trump-in-china",
-      "published": "2026-05-16T01:52:42.360888+00:00",
+      "published": "2026-05-16T02:10:25.282316+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "asia"
+      "source_category": "asia",
+      "title_zh": "英伟达首席执行官在中国加入特朗普之际， Anthropic敦促严格控制芯片"
     },
     {
       "id": "c3a751f6e421",
       "title": "Boeing faces long haul in China as Trump touts expected sale of 200 jets",
       "summary": "",
       "link": "https://asia.nikkei.com/business/aerospace-defense-industries/boeing-faces-long-haul-in-china-as-trump-touts-expected-sale-of-200-jets",
-      "published": "2026-05-16T01:52:42.360641+00:00",
+      "published": "2026-05-16T02:10:25.282119+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "asia"
+      "source_category": "asia",
+      "title_zh": "波音在中国面临长途跋涉，因为特朗普宣称预计将出售200架喷气式飞机"
     },
     {
       "id": "aa3a7358e635",
       "title": "Trump says he gave Xi 'no commitment' on Taiwan at summit",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-says-he-gave-xi-no-commitment-on-taiwan-at-summit",
-      "published": "2026-05-16T01:52:42.360617+00:00",
+      "published": "2026-05-16T02:10:25.282096+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "asia"
+      "source_category": "asia",
+      "title_zh": "特朗普表示，他在峰会上对台湾问题“没有承诺”"
     },
     {
       "id": "1081c04f1fb8",
       "title": "Trump-Xi summit more symbol than substance, political experts say",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-more-symbol-than-substance-political-experts-say",
-      "published": "2026-05-16T01:52:42.360456+00:00",
+      "published": "2026-05-16T02:10:25.281948+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "asia"
+      "source_category": "asia",
+      "title_zh": "政治专家表示，特朗普-习近平峰会更多的是象征而不是实质"
     },
     {
       "id": "1f54faa8c739",
       "title": "US stocks fall after Trump-Xi summit leaves investors 'underwhelmed'",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/us-stocks-fall-after-trump-xi-summit-leaves-investors-underwhelmed",
-      "published": "2026-05-16T01:52:42.360429+00:00",
+      "published": "2026-05-16T02:10:25.281923+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "asia"
+      "source_category": "asia",
+      "title_zh": "特朗普-习近平峰会让投资者“不知所措”后美国股市下跌"
     },
     {
       "id": "c8b9348d7000",
       "title": "Trump-Xi summit: How the US president's China visit unfolded",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-how-the-us-president-s-china-visit-unfolded",
-      "published": "2026-05-16T01:52:42.360319+00:00",
+      "published": "2026-05-16T02:10:25.281823+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "asia"
+      "source_category": "asia",
+      "title_zh": "特朗普-习近平峰会：美国总统的中国访问如何展开"
     },
     {
       "id": "5b89ab65b31a",
@@ -77,7 +83,8 @@
       "source": "Financial Times",
       "source_color": "#C7A000",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "由于特朗普的中国峰会协议令人失望，波音股价下跌"
     },
     {
       "id": "ae54e095589d",
@@ -88,7 +95,8 @@
       "source": "BBC",
       "source_color": "#BB1919",
       "source_lang": "en",
-      "source_category": "international"
+      "source_category": "international",
+      "title_zh": "特朗普和习近平结束了“非常成功”的谈判，但很少有交易得到确认"
     },
     {
       "id": "47057ddbc80b",
@@ -99,7 +107,8 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international"
+      "source_category": "international",
+      "title_zh": "特朗普和波音宣布中国将购买200架飞机"
     },
     {
       "id": "ce857c8ebc72",
@@ -110,7 +119,8 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international"
+      "source_category": "international",
+      "title_zh": "“例如，普京” ：习近平如何利用私人花园漫步来吸引特朗普"
     },
     {
       "id": "cc117112497a",
@@ -144,6 +154,17 @@
       "source_color": "#009B77",
       "source_lang": "en",
       "source_category": "international"
+    },
+    {
+      "id": "099ad60d711f",
+      "title": "中美設貿易投資理事會 習今秋訪美 對等降稅框架下擴雙向貿易 特：華購200架波音",
+      "summary": "【明報專訊】美國總統特朗普昨日上午與中國國家主席習近平在中南海茶敘和午飯後，下午2時30分乘總統專機「空軍一號」離開北京。外交部長王毅宣布，習近平將應邀今秋訪美，中美亦同意成立貿易和投資理事會，推動擴大雙向貿易。美方表示雙方在經貿多領域取得進展，特朗普更多次強調中方將訂購200架波音飛機，中方就此尚未確認。",
+      "link": "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260516/s00001/1778868042772/%e4%b8%ad%e7%be%8e%e8%a8%ad%e8%b2%bf%e6%98%93%e6%8a%95%e8%b3%87%e7%90%86%e4%ba%8b%e6%9c%83-%e7%bf%92%e4%bb%8a%e7%a7%8b%e8%a8%aa%e7%be%8e-%e5%b0%8d%e7%ad%89%e9%99%8d%e7%a8%85%e6%a1%86%e6%9e%b6%e4%b8%8b%e6%93%b4%e9%9b%99%e5%90%91%e8%b2%bf%e6%98%93-%e7%89%b9-%e8%8f%af%e8%b3%bc200%e6%9e%b6%e6%b3%a2%e9%9f%b3",
+      "published": "2026-05-15T20:30:00+00:00",
+      "source": "明报",
+      "source_color": "#006400",
+      "source_lang": "zh",
+      "source_category": "chinese"
     },
     {
       "id": "9eb007061d9e",
@@ -498,6 +519,28 @@
       "source_category": "business"
     },
     {
+      "id": "81654d5f18de",
+      "title": "中美新定位：建設性戰略穩定關係 習：合作為主競爭有度 特朗普邀9月訪美",
+      "summary": "【明報專訊】相隔9年再次訪華的美國總統特朗普昨天與國家主席習近平在北京人民大會堂會談，歷時2小時15分鐘。會晤談及伊朗、台灣問題，白宮表示雙方認為霍爾木茲海峽必須保持開放，中方則強調維護台海和平穩定是中美「最大公約數」。習近平表示，雙方贊同將構建「中美建設性戰略穩定關係」作為兩國關係新定位，強調「競爭有度」。特朗普昨公開表示邀請習近平9月24日訪美，他今天將再與習近平茶敘及共晉工作午餐，之後離開北京。",
+      "link": "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260515/s00001/1778780954784/%e4%b8%ad%e7%be%8e%e6%96%b0%e5%ae%9a%e4%bd%8d-%e5%bb%ba%e8%a8%ad%e6%80%a7%e6%88%b0%e7%95%a5%e7%a9%a9%e5%ae%9a%e9%97%9c%e4%bf%82-%e7%bf%92-%e5%90%88%e4%bd%9c%e7%82%ba%e4%b8%bb%e7%ab%b6%e7%88%ad%e6%9c%89%e5%ba%a6-%e7%89%b9%e6%9c%97%e6%99%ae%e9%82%809%e6%9c%88%e8%a8%aa%e7%be%8e",
+      "published": "2026-05-14T20:30:00+00:00",
+      "source": "明报",
+      "source_color": "#006400",
+      "source_lang": "zh",
+      "source_category": "chinese"
+    },
+    {
+      "id": "c388d1785d52",
+      "title": "習與魯比奧握手3秒",
+      "summary": "【明報專訊】曾被北京兩次制裁的美國國務卿魯比奧首度訪華，成為焦點。現場影片顯示，特朗普在歡迎式向習近平介紹隨行官員，輪到魯比奧時，他與習握手約3秒（圖），並點頭致意。",
+      "link": "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260515/s00001/1778780955363/%e7%bf%92%e8%88%87%e9%ad%af%e6%af%94%e5%a5%a7%e6%8f%a1%e6%89%8b3%e7%a7%92",
+      "published": "2026-05-14T20:30:00+00:00",
+      "source": "明报",
+      "source_color": "#006400",
+      "source_lang": "zh",
+      "source_category": "chinese"
+    },
+    {
       "id": "1c7a17ebfddb",
       "title": "Xi tells Musk, Tim Cook and other CEOs on Trump's trip: China will 'open wider'",
       "summary": "Tesla and Space X boss Elon Musk, Nvidia's CEO Jensen Huang and Apple CEO Tim Cook were part of Trump's delegation.",
@@ -529,6 +572,17 @@
       "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business"
+    },
+    {
+      "id": "442b40bb23e3",
+      "title": "習特今會晤 韓正接機規格高 特朗普：貿易首要議題 將促華對美企「開放」",
+      "summary": "【明報專訊】全球矚目的中美領導人會晤今早登場。美國總統特朗普乘搭「空軍一號」專機昨晚抵達北京，國家副主席韓正在機場迎接，接機規格高過9年前。隨行人員包括美國國務卿魯比奧、國防部長海格塞斯，以及英偉達行政總裁黃仁勳等17名美國商界領袖，第一夫人梅拉尼婭未隨行。特朗普行前預告會晤將「有很多好事發生」，並將敦促中國國家主席習近平對美國企業「開放」，同時預告習近平年底前訪美。這是中美關係經歷長期波動後，9年來美國元首首度對中國國事訪問。",
+      "link": "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260514/s00001/1778694651936/%e7%bf%92%e7%89%b9%e4%bb%8a%e6%9c%83%e6%99%a4-%e9%9f%93%e6%ad%a3%e6%8e%a5%e6%a9%9f%e8%a6%8f%e6%a0%bc%e9%ab%98-%e7%89%b9%e6%9c%97%e6%99%ae-%e8%b2%bf%e6%98%93%e9%a6%96%e8%a6%81%e8%ad%b0%e9%a1%8c-%e5%b0%87%e4%bf%83%e8%8f%af%e5%b0%8d%e7%be%8e%e4%bc%81%e3%80%8c%e9%96%8b%e6%94%be%e3%80%8d",
+      "published": "2026-05-13T20:30:00+00:00",
+      "source": "明报",
+      "source_color": "#006400",
+      "source_lang": "zh",
+      "source_category": "chinese"
     },
     {
       "id": "50b1bc26ab32",
