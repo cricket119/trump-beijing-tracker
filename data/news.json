@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T16:43:57.224878+00:00",
+  "last_updated": "2026-05-16T20:37:32.990869+00:00",
   "total": 51,
   "articles": [
     {
@@ -7,7 +7,7 @@
       "title": "Boeing faces long haul in China as Trump touts expected sale of 200 jets",
       "summary": "",
       "link": "https://asia.nikkei.com/business/aerospace-defense-industries/boeing-faces-long-haul-in-china-as-trump-touts-expected-sale-of-200-jets",
-      "published": "2026-05-16T16:44:10.922602+00:00",
+      "published": "2026-05-16T20:37:46.496340+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "Trump says he gave Xi 'no commitment' on Taiwan at summit",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-says-he-gave-xi-no-commitment-on-taiwan-at-summit",
-      "published": "2026-05-16T16:44:10.922579+00:00",
+      "published": "2026-05-16T20:37:46.496317+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -31,7 +31,7 @@
       "title": "Trump-Xi summit more symbol than substance, political experts say",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-more-symbol-than-substance-political-experts-say",
-      "published": "2026-05-16T16:44:10.922421+00:00",
+      "published": "2026-05-16T20:37:46.496148+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -43,7 +43,7 @@
       "title": "US stocks fall after Trump-Xi summit leaves investors 'underwhelmed'",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/us-stocks-fall-after-trump-xi-summit-leaves-investors-underwhelmed",
-      "published": "2026-05-16T16:44:10.922397+00:00",
+      "published": "2026-05-16T20:37:46.496126+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -55,7 +55,7 @@
       "title": "Trump-Xi summit: How the US president's China visit unfolded",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-how-the-us-president-s-china-visit-unfolded",
-      "published": "2026-05-16T16:44:10.922302+00:00",
+      "published": "2026-05-16T20:37:46.496035+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -67,7 +67,7 @@
       "title": "Taiwan arms sale in focus as Trump insists he gave no ground to Xi",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/taiwan-arms-sale-in-focus-as-trump-insists-he-gave-no-ground-to-xi",
-      "published": "2026-05-16T16:44:10.922262+00:00",
+      "published": "2026-05-16T20:37:46.495997+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -79,12 +79,48 @@
       "title": "China says Xi and Trump agreed to spur trade by lowering some tariffs",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/china-says-xi-and-trump-agreed-to-spur-trade-by-lowering-some-tariffs",
-      "published": "2026-05-16T16:44:10.922193+00:00",
+      "published": "2026-05-16T20:37:46.495934+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "中国称习近平和特朗普同意通过降低一些关税来刺激贸易"
+    },
+    {
+      "id": "7c5e948c4fc7",
+      "title": "In response to Trump, Taiwan says it is ‘sovereign and independent’",
+      "summary": "Taiwan says it will maintain status quo and deepen ties with the US after Trump meets with Chinas Xi Jinping.",
+      "link": "https://www.aljazeera.com/news/2026/5/16/in-response-to-trump-taiwan-says-it-is-sovereign-and-independent?traffic_source=rss",
+      "published": "2026-05-16T19:44:47+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "作为对特朗普的回应，台湾称其为“主权和独立”"
+    },
+    {
+      "id": "852071b5a92b",
+      "title": "Taiwan insists it is independent after Trump warning",
+      "summary": "Fresh from his summit in Beijing, the US president warned against a formal declaration of independence by the island.",
+      "link": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-16T17:01:53+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "台湾坚称在特朗普发出警告后是独立的"
+    },
+    {
+      "id": "bc42e72d8440",
+      "title": "Trump Calls Xi a ‘Friend.’ But He Left China Without Any Breakthroughs.",
+      "summary": "The lack of concrete agreements with Beijing shows the risks of President Trump’s personality-driven foreign policy, which rests on the belief that he can defend U.S. interests through charm and force of will.",
+      "link": "https://www.nytimes.com/2026/05/16/world/europe/trump-xi-china-summit.html",
+      "published": "2026-05-16T17:01:10+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普称习近平为“朋友”。“但他没有任何突破就离开了中国。"
     },
     {
       "id": "ff529e287d05",
@@ -95,8 +131,7 @@
       "source": "Bloomberg",
       "source_color": "#1976D2",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "从中国回来，特朗普对台湾的态度模棱两可"
+      "source_category": "business"
     },
     {
       "id": "a6c6e8c1621b",
@@ -107,8 +142,7 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普冒险利用台湾军售作为与中国讨价还价的筹码"
+      "source_category": "international"
     },
     {
       "id": "c94cc495f058",
@@ -119,8 +153,7 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "曾经是中国鹰的卢比奥以更柔和的语气与特朗普保持一致"
+      "source_category": "international"
     },
     {
       "id": "8e0d5d598e09",
@@ -189,17 +222,6 @@
       "source_category": "business"
     },
     {
-      "id": "b3df9569c004",
-      "title": "Russia’s Putin to visit China following Trump’s trip",
-      "summary": "Putin and Chinese President Xi Jinping plan to further strengthen the comprehensive partnership, the Kremlin says.",
-      "link": "https://www.aljazeera.com/news/2026/5/16/russias-putin-to-visit-china-following-trumps-trip?traffic_source=rss",
-      "published": "2026-05-16T08:38:46+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
       "id": "0cbce50b8e03",
       "title": "Why Taiwan became the defining issue in the Trump-Xi talks",
       "summary": "U.S. President Donald Trump had said arms sales to Taiwan would be on the agenda for his talks with Chinese President Xi Jinping which ended Friday.",
@@ -209,17 +231,6 @@
       "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business"
-    },
-    {
-      "id": "cc117112497a",
-      "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-      "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
-      "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-16T05:53:41+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
-      "source_lang": "en",
-      "source_category": "international"
     },
     {
       "id": "fb0658ef839a",
@@ -249,17 +260,6 @@
       "summary": "Watch an exchange between the two men in which the Chinese leader sought to signal exclusivity and name-dropped Russia’s president.",
       "link": "https://www.nytimes.com/2026/05/15/world/asia/china-xi-trump-summit-garden-putin.html",
       "published": "2026-05-15T21:41:01+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
-      "id": "56992ecae7a3",
-      "title": "Trump Touts ‘Fantastic Trade Deals’ With China, but Details Are Scarce",
-      "summary": "The president left Beijing following a summit with China, during which the two countries sought to stabilize their economic and political relations.",
-      "link": "https://www.nytimes.com/2026/05/15/business/economy/trump-china-deals.html",
-      "published": "2026-05-15T21:24:12+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
