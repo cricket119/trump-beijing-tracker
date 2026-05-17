@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-17T12:53:26.828592+00:00",
-  "total": 42,
+  "last_updated": "2026-05-17T16:43:38.199922+00:00",
+  "total": 41,
   "articles": [
     {
       "id": "c3a751f6e421",
       "title": "Boeing faces long haul in China as Trump touts expected sale of 200 jets",
       "summary": "",
       "link": "https://asia.nikkei.com/business/aerospace-defense-industries/boeing-faces-long-haul-in-china-as-trump-touts-expected-sale-of-200-jets",
-      "published": "2026-05-17T12:53:39.837569+00:00",
+      "published": "2026-05-17T16:43:53.346540+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "Trump says he gave Xi 'no commitment' on Taiwan at summit",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-says-he-gave-xi-no-commitment-on-taiwan-at-summit",
-      "published": "2026-05-17T12:53:39.837545+00:00",
+      "published": "2026-05-17T16:43:53.346523+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -31,7 +31,7 @@
       "title": "Trump-Xi summit more symbol than substance, political experts say",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-more-symbol-than-substance-political-experts-say",
-      "published": "2026-05-17T12:53:39.837386+00:00",
+      "published": "2026-05-17T16:43:53.346405+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -43,7 +43,7 @@
       "title": "US stocks fall after Trump-Xi summit leaves investors 'underwhelmed'",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/us-stocks-fall-after-trump-xi-summit-leaves-investors-underwhelmed",
-      "published": "2026-05-17T12:53:39.837361+00:00",
+      "published": "2026-05-17T16:43:53.346388+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -55,7 +55,7 @@
       "title": "Trump-Xi summit: How the US president's China visit unfolded",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-how-the-us-president-s-china-visit-unfolded",
-      "published": "2026-05-17T12:53:39.837260+00:00",
+      "published": "2026-05-17T16:43:53.346318+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -67,7 +67,7 @@
       "title": "Taiwan arms sale in focus as Trump insists he gave no ground to Xi",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/taiwan-arms-sale-in-focus-as-trump-insists-he-gave-no-ground-to-xi",
-      "published": "2026-05-17T12:53:39.837200+00:00",
+      "published": "2026-05-17T16:43:53.346289+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -79,12 +79,36 @@
       "title": "China says Xi and Trump agreed to spur trade by lowering some tariffs",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/china-says-xi-and-trump-agreed-to-spur-trade-by-lowering-some-tariffs",
-      "published": "2026-05-17T12:53:39.837136+00:00",
+      "published": "2026-05-17T16:43:53.346237+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "中国称习近平和特朗普同意通过降低一些关税来刺激贸易"
+    },
+    {
+      "id": "0b64c5f8ea84",
+      "title": "NVIDIA Earnings Anticipated Amid Supply Constraints and China Uncertainty",
+      "summary": "US President Donald Trump said he discussed guardrails on artificial intelligence with Chinese leader Xi Jinping, while adding that Nvidia Corp.’s H200 chips also came up during a two-day summit in Beijing. Meanwhile, investors will eagerly be awaiting earnings results from chip giant Nvidia, the world’s largest company by market capitalization, for signs of how much momentum the artificial intelligence rally has left in it after a bout of jitters. Bloomberg Tech co-host Ed Ludlow joined Christina Ruffini and David Gura this morning on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-17/nvidia-earnings-anticipated-on-wednesday-video",
+      "published": "2026-05-17T14:48:40+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "在供应紧张和中国不确定的情况下，英伟达预计盈利"
+    },
+    {
+      "id": "0fa4ce770729",
+      "title": "China rain-lashed as Trump departs",
+      "summary": "Flash floods and evacuations in central and eastern areas",
+      "link": "https://www.ft.com/content/b2cce8ea-32c6-44f3-b814-7c039d3a500d",
+      "published": "2026-05-17T14:32:16+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "随着特朗普的离开，中国的雨水鞭打"
     },
     {
       "id": "1ca17ccddf8e",
@@ -101,26 +125,24 @@
     {
       "id": "bc8ffc94fe2a",
       "title": "Hong Kong’s Paul Chan is heading to Europe. So what’s on the itinerary?",
-      "summary": "Financial Secretary Paul Chan Mo-po will seek to explain Hong Kong’s efforts to combat terrorism funding and work to attract more capital and business to the city during a five-day Europe trip, with the minister noting that stabilising geopolitics will strengthen foreign ties and the economic environment.\nThe finance chief’s coming trip was announced on Sunday, and follows an easing of tensions after US President Donald Trump visited mainland China and the reveal that Russian President Vladimir...",
+      "summary": "Financial Secretary Paul Chan Mo-po will seek to explain Hong Kong’s efforts to combat terrorism funding and work to attract more capital and business to the city during a five-day Europe trip, with the minister noting that stabilising geopolitics will strengthen foreign ties and the economic environment.\nThe finance chief’s coming trip was announced on Sunday, and follows an easing of tensions after US President Donald Trump visited mainland China and news that Russian President Vladimir Putin...",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353864/hong-kongs-paul-chan-heading-europe-so-whats-itinerary?utm_source=rss_feed",
       "published": "2026-05-17T07:08:08+00:00",
       "source": "SCMP",
       "source_color": "#003580",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "香港的陈保罗（ Paul Chan ）正前往欧洲。行程表上有什么？"
+      "source_category": "asia"
     },
     {
-      "id": "90b8823f6bd8",
-      "title": "Hong Kong draws HK$26 billion from over 310 firms this year, InvestHK head says",
+      "id": "fc49dd03b910",
+      "title": "How can Hong Kong seize opportunities as US-China relations stabilise?",
       "summary": "More than 310 enterprises from mainland China and abroad have established or expanded operations in Hong Kong so far in 2026, bringing in more than HK$26 billion (US$3.3 billion) in capital in their first year of operation, according to the government agency tasked with attracting foreign investment.\nCasting a positive light on stabilising Sino-US relations following the Xi-Trump summit, InvestHK director general Alpha Lau Hai-suen said on Sunday that Hong Kong had to proactively adapt to the...",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353861/hong-kong-draws-over-310-firms-and-hk26-billion-capital-investhk-head-says?utm_source=rss_feed",
       "published": "2026-05-17T06:38:23+00:00",
       "source": "SCMP",
       "source_color": "#003580",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "InvestHK负责人表示，香港今年从310多家公司获得260亿港元（ $ ）"
+      "source_category": "asia"
     },
     {
       "id": "852071b5a92b",
@@ -145,17 +167,6 @@
       "source_category": "international"
     },
     {
-      "id": "ff529e287d05",
-      "title": "Returning from China, Trump is Ambiguous Over Taiwan",
-      "summary": "President Donald Trump said he made no commitment to Chinese President Xi Jinping over Taiwan, and would make a decision soon over a planned $14 billion arms deal with the island. Bloomberg White House Correspondent Courtney Subramanian and Reporter Michelle Kaske joined Christina Ruffini and David Gura this morning on Bloomberg This Weekend to discuss the summit’s deals, sticking points and unfinished business. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-16/returning-from-china-trump-is-ambiguous-over-taiwan-video",
-      "published": "2026-05-16T15:40:40+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business"
-    },
-    {
       "id": "a6c6e8c1621b",
       "title": "Trump Uses Taiwan Arms Sales as Bargaining Chip With China, in a Risky Move",
       "summary": "The president said a potential arms deal for Taiwan was a “very good negotiating chip” in talks with Beijing. His words raise questions about the reliability of U.S. support.",
@@ -176,17 +187,6 @@
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international"
-    },
-    {
-      "id": "8e0d5d598e09",
-      "title": "Tech Chiefs Accompany Trump on China Trip",
-      "summary": "President Trump arrived in Beijing for a high-stakes summit with Xi Jinping aimed at stabilizing US-China ties against the backdrop of the Iran war and the race to control and contain AI. Tech CEOs including Jensen Huang and Elon Musk tagged along, sending Nvidia, Tesla and Chinese AI-related stocks higher. And while the US president may want to focus on trade, Beijing’s role in the Middle East and Taiwan arms sales, Xi has a stronger hand than he did at their first summit. Co-Host of Bloomberg Tech Caroline Hyde joined Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-16/tech-chiefs-accompany-trump-on-china-trip-video",
-      "published": "2026-05-16T12:57:57+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business"
     },
     {
       "id": "8b4afe955c6d",
@@ -326,17 +326,6 @@
       "summary": "Having deferred to the president for months, G.O.P. lawmakers missed crucial milestones to try to limit his war powers. That has tied their hands in seeking parameters and exit criteria.",
       "link": "https://www.nytimes.com/2026/05/15/us/politics/iran-war-powers-congress.html",
       "published": "2026-05-15T16:07:18+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
-      "id": "420fdb1e95fe",
-      "title": "Spotlight on China Adds to Some Chinese Americans’ Fears",
-      "summary": "The Trump-Xi summit emphasized stability. But China’s recruitment of foreign agents has fueled suspicion of Chinese Americans.",
-      "link": "https://www.nytimes.com/2026/05/15/us/politics/trump-xi-chinese-americans-foreign-agents-discrimination.html",
-      "published": "2026-05-15T14:43:33+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
