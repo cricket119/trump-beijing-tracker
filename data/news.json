@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-17T06:38:55.534770+00:00",
-  "total": 49,
+  "last_updated": "2026-05-17T09:26:43.107435+00:00",
+  "total": 45,
   "articles": [
     {
       "id": "c3a751f6e421",
       "title": "Boeing faces long haul in China as Trump touts expected sale of 200 jets",
       "summary": "",
       "link": "https://asia.nikkei.com/business/aerospace-defense-industries/boeing-faces-long-haul-in-china-as-trump-touts-expected-sale-of-200-jets",
-      "published": "2026-05-17T06:39:07.348125+00:00",
+      "published": "2026-05-17T09:26:55.931291+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "Trump says he gave Xi 'no commitment' on Taiwan at summit",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-says-he-gave-xi-no-commitment-on-taiwan-at-summit",
-      "published": "2026-05-17T06:39:07.348101+00:00",
+      "published": "2026-05-17T09:26:55.931267+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -31,7 +31,7 @@
       "title": "Trump-Xi summit more symbol than substance, political experts say",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-more-symbol-than-substance-political-experts-say",
-      "published": "2026-05-17T06:39:07.347939+00:00",
+      "published": "2026-05-17T09:26:55.931091+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -43,7 +43,7 @@
       "title": "US stocks fall after Trump-Xi summit leaves investors 'underwhelmed'",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/us-stocks-fall-after-trump-xi-summit-leaves-investors-underwhelmed",
-      "published": "2026-05-17T06:39:07.347912+00:00",
+      "published": "2026-05-17T09:26:55.931068+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -55,7 +55,7 @@
       "title": "Trump-Xi summit: How the US president's China visit unfolded",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-how-the-us-president-s-china-visit-unfolded",
-      "published": "2026-05-17T06:39:07.347796+00:00",
+      "published": "2026-05-17T09:26:55.930977+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -67,7 +67,7 @@
       "title": "Taiwan arms sale in focus as Trump insists he gave no ground to Xi",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/taiwan-arms-sale-in-focus-as-trump-insists-he-gave-no-ground-to-xi",
-      "published": "2026-05-17T06:39:07.347757+00:00",
+      "published": "2026-05-17T09:26:55.930938+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -79,7 +79,7 @@
       "title": "China says Xi and Trump agreed to spur trade by lowering some tariffs",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/china-says-xi-and-trump-agreed-to-spur-trade-by-lowering-some-tariffs",
-      "published": "2026-05-17T06:39:07.347690+00:00",
+      "published": "2026-05-17T09:26:55.930875+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -87,28 +87,28 @@
       "title_zh": "中国称习近平和特朗普同意通过降低一些关税来刺激贸易"
     },
     {
-      "id": "ee8937ce87f1",
-      "title": "Hong Kong draws over 310 firms and HK$26 billion in capital, InvestHK head says",
-      "summary": "More than 310 enterprises from mainland China or abroad have established or expanded operations in Hong Kong by early May, bringing in more than HK$26 billion (US$3.3 billion) in capital in the first year of operation, according to the government agency tasked with attracting foreign investment.\nCasting a positive light on stabilising Sino-US relations following the Xi-Trump summit, InvestHK director general Alpha Lau Hai-suen said Hong Kong must proactively adapt to the changing international...",
+      "id": "bc8ffc94fe2a",
+      "title": "Hong Kong’s Paul Chan is heading to Europe. So what’s on the itinerary?",
+      "summary": "Financial Secretary Paul Chan Mo-po will seek to explain Hong Kong’s efforts to combat terrorism funding and work to attract more capital and business to the city during a five-day Europe trip, noting that stabilising geopolitics will strengthen foreign ties and the economic environment.\nThe finance chief’s coming trip was announced on Sunday, and follows an easing of tensions after United States President Donald Trump visited mainland China and the reveal that Russian President Vladimir Putin...",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353864/hong-kongs-paul-chan-heading-europe-so-whats-itinerary?utm_source=rss_feed",
+      "published": "2026-05-17T07:08:08+00:00",
+      "source": "SCMP",
+      "source_color": "#003580",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "香港的陈保罗（ Paul Chan ）正前往欧洲。行程表上有什么？"
+    },
+    {
+      "id": "90b8823f6bd8",
+      "title": "Hong Kong draws HK$26 billion from over 310 firms this year, InvestHK head says",
+      "summary": "More than 310 enterprises from mainland China and abroad have established or expanded operations in Hong Kong by early May, bringing in more than HK$26 billion (US$3.3 billion) in capital in the first year of operation, according to the government agency tasked with attracting foreign investment.\nCasting a positive light on stabilising Sino-US relations following the Xi-Trump summit, InvestHK director general Alpha Lau Hai-suen said Hong Kong must proactively adapt to the changing international...",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353861/hong-kong-draws-over-310-firms-and-hk26-billion-capital-investhk-head-says?utm_source=rss_feed",
       "published": "2026-05-17T06:38:23+00:00",
       "source": "SCMP",
       "source_color": "#003580",
       "source_lang": "en",
       "source_category": "asia",
-      "title_zh": "InvestHK负责人表示，香港吸引了超过310家公司和260亿港元的资本"
-    },
-    {
-      "id": "7c5e948c4fc7",
-      "title": "In response to Trump, Taiwan says it is ‘sovereign and independent’",
-      "summary": "Taiwan says it will maintain status quo and deepen ties with the US after Trump meets with Chinas Xi Jinping.",
-      "link": "https://www.aljazeera.com/news/2026/5/16/in-response-to-trump-taiwan-says-it-is-sovereign-and-independent?traffic_source=rss",
-      "published": "2026-05-16T19:44:47+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "作为对特朗普的回应，台湾称其为“主权和独立”"
+      "title_zh": "InvestHK负责人表示，香港今年从310多家公司获得260亿港元（ $ ）"
     },
     {
       "id": "852071b5a92b",
@@ -365,28 +365,6 @@
       "source_category": "international"
     },
     {
-      "id": "9acdeabdf284",
-      "title": "Xi Pitches His Vision for Avoiding Conflict With the U.S.",
-      "summary": "Having fought the Trump administration to a draw, China’s Xi Jinping is proposing “constructive strategic stability,” aimed at drawing lines he thinks the U.S. should not cross.",
-      "link": "https://www.nytimes.com/2026/05/15/world/asia/xi-trump-superpower-thucydides-stability.html",
-      "published": "2026-05-15T14:05:58+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
-      "id": "f9f18a8ab680",
-      "title": "From Air Force One, Trump writes of ballrooms, a statue and TikTok.",
-      "summary": "In social media posts after the summit in Beijing, President Trump boasted about the ongoing construction of his ballroom and his TikTok reach.",
-      "link": "https://www.nytimes.com/live/2026/05/14/world/trump-xi-summit-beijing/from-air-force-one-trump-writes-of-ballrooms-a-statue-and-tiktok",
-      "published": "2026-05-15T13:49:35+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
       "id": "53619e737679",
       "title": "Watch: What did we learn from Trump's visit to China?",
       "summary": "President Trump has concluded a two-day visit to Beijing at a high-stakes summit with Chinese leader Xi Jinping.",
@@ -394,17 +372,6 @@
       "published": "2026-05-15T13:25:23+00:00",
       "source": "BBC",
       "source_color": "#BB1919",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
-      "id": "47cc69e985ef",
-      "title": "Despite Tensions, China Greets Trump With Pomp and Pageantry",
-      "summary": "There was no major breakthrough in Beijing, but China pulled out all the stops for President Trump, with extravagant ceremonies and a state banquet.",
-      "link": "https://www.nytimes.com/2026/05/15/world/asia/trump-xi-china-meeting-beijing-reception.html",
-      "published": "2026-05-15T13:18:39+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international"
     },
@@ -462,17 +429,6 @@
       "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business"
-    },
-    {
-      "id": "62d32581e13f",
-      "title": "China hosts Trump at Temple of Heaven; Hong Kong sushi parasite video: SCMP’s 7 highlights",
-      "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing.\n1. The message China wants to send by hosting Trump at Temple of Heaven\nIn Chinese diplomacy, historic venues are rarely just backdrops, and are often interpreted as rich in symbolism, carrying messages about history and bilateral...",
-      "link": "https://www.scmp.com/news/china/article/3353625/china-hosts-trump-temple-heaven-hong-kong-sushi-parasite-video-scmps-7-highlights?utm_source=rss_feed",
-      "published": "2026-05-15T04:12:06+00:00",
-      "source": "SCMP",
-      "source_color": "#003580",
-      "source_lang": "en",
-      "source_category": "asia"
     },
     {
       "id": "81654d5f18de",
