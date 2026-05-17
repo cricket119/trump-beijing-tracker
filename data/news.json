@@ -1,83 +1,102 @@
 {
-  "last_updated": "2026-05-17T01:56:57.826473+00:00",
-  "total": 50,
+  "last_updated": "2026-05-17T06:38:55.534770+00:00",
+  "total": 49,
   "articles": [
     {
       "id": "c3a751f6e421",
       "title": "Boeing faces long haul in China as Trump touts expected sale of 200 jets",
       "summary": "",
       "link": "https://asia.nikkei.com/business/aerospace-defense-industries/boeing-faces-long-haul-in-china-as-trump-touts-expected-sale-of-200-jets",
-      "published": "2026-05-17T01:57:10.594140+00:00",
+      "published": "2026-05-17T06:39:07.348125+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "asia"
+      "source_category": "asia",
+      "title_zh": "波音在中国面临长途跋涉，因为特朗普宣称预计将出售200架喷气式飞机"
     },
     {
       "id": "aa3a7358e635",
       "title": "Trump says he gave Xi 'no commitment' on Taiwan at summit",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-says-he-gave-xi-no-commitment-on-taiwan-at-summit",
-      "published": "2026-05-17T01:57:10.594118+00:00",
+      "published": "2026-05-17T06:39:07.348101+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "asia"
+      "source_category": "asia",
+      "title_zh": "特朗普表示，他在峰会上对台湾问题“没有承诺”"
     },
     {
       "id": "1081c04f1fb8",
       "title": "Trump-Xi summit more symbol than substance, political experts say",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-more-symbol-than-substance-political-experts-say",
-      "published": "2026-05-17T01:57:10.593966+00:00",
+      "published": "2026-05-17T06:39:07.347939+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "asia"
+      "source_category": "asia",
+      "title_zh": "政治专家表示，特朗普-习近平峰会更多的是象征而不是实质"
     },
     {
       "id": "1f54faa8c739",
       "title": "US stocks fall after Trump-Xi summit leaves investors 'underwhelmed'",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/us-stocks-fall-after-trump-xi-summit-leaves-investors-underwhelmed",
-      "published": "2026-05-17T01:57:10.593945+00:00",
+      "published": "2026-05-17T06:39:07.347912+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "asia"
+      "source_category": "asia",
+      "title_zh": "特朗普-习近平峰会让投资者“不知所措”后美国股市下跌"
     },
     {
       "id": "c8b9348d7000",
       "title": "Trump-Xi summit: How the US president's China visit unfolded",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-how-the-us-president-s-china-visit-unfolded",
-      "published": "2026-05-17T01:57:10.593856+00:00",
+      "published": "2026-05-17T06:39:07.347796+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "asia"
+      "source_category": "asia",
+      "title_zh": "特朗普-习近平峰会：美国总统的中国访问如何展开"
     },
     {
       "id": "a70a838d3847",
       "title": "Taiwan arms sale in focus as Trump insists he gave no ground to Xi",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/taiwan-arms-sale-in-focus-as-trump-insists-he-gave-no-ground-to-xi",
-      "published": "2026-05-17T01:57:10.593800+00:00",
+      "published": "2026-05-17T06:39:07.347757+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "asia"
+      "source_category": "asia",
+      "title_zh": "台湾军售成为焦点，因为特朗普坚称他没有给习近平任何让步"
     },
     {
       "id": "d5c5f551c3ea",
       "title": "China says Xi and Trump agreed to spur trade by lowering some tariffs",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/china-says-xi-and-trump-agreed-to-spur-trade-by-lowering-some-tariffs",
-      "published": "2026-05-17T01:57:10.593735+00:00",
+      "published": "2026-05-17T06:39:07.347690+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "asia"
+      "source_category": "asia",
+      "title_zh": "中国称习近平和特朗普同意通过降低一些关税来刺激贸易"
+    },
+    {
+      "id": "ee8937ce87f1",
+      "title": "Hong Kong draws over 310 firms and HK$26 billion in capital, InvestHK head says",
+      "summary": "More than 310 enterprises from mainland China or abroad have established or expanded operations in Hong Kong by early May, bringing in more than HK$26 billion (US$3.3 billion) in capital in the first year of operation, according to the government agency tasked with attracting foreign investment.\nCasting a positive light on stabilising Sino-US relations following the Xi-Trump summit, InvestHK director general Alpha Lau Hai-suen said Hong Kong must proactively adapt to the changing international...",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353861/hong-kong-draws-over-310-firms-and-hk26-billion-capital-investhk-head-says?utm_source=rss_feed",
+      "published": "2026-05-17T06:38:23+00:00",
+      "source": "SCMP",
+      "source_color": "#003580",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "InvestHK负责人表示，香港吸引了超过310家公司和260亿港元的资本"
     },
     {
       "id": "7c5e948c4fc7",
@@ -88,7 +107,8 @@
       "source": "Al Jazeera",
       "source_color": "#009B77",
       "source_lang": "en",
-      "source_category": "international"
+      "source_category": "international",
+      "title_zh": "作为对特朗普的回应，台湾称其为“主权和独立”"
     },
     {
       "id": "852071b5a92b",
@@ -99,7 +119,8 @@
       "source": "BBC",
       "source_color": "#BB1919",
       "source_lang": "en",
-      "source_category": "international"
+      "source_category": "international",
+      "title_zh": "台湾坚称在特朗普发出警告后是独立的"
     },
     {
       "id": "bc42e72d8440",
@@ -223,17 +244,6 @@
       "source_category": "business"
     },
     {
-      "id": "fb0658ef839a",
-      "title": "Trump undecided on Taiwan arms sale after summit with Xi",
-      "summary": "US president raises doubts about $14bn weapons package for Taipei after two days of meetings in China",
-      "link": "https://www.ft.com/content/66933e51-e06d-475c-aed2-f808f9443dea",
-      "published": "2026-05-16T03:20:29+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business"
-    },
-    {
       "id": "c01ef0b41bf2",
       "title": "Trump ‘not optimistic’ on Jimmy Lai’s release after raising case with Xi",
       "summary": "US President Donald Trump has said he is not optimistic about the release of former Hong Kong media boss Jimmy Lai Chee-ying, who was jailed for 20 years for violating the national security law, after raising the issue with Chinese counterpart Xi Jinping during their summit in Beijing.\n“[Xi] said Jimmy Lai is a tough one for him to do; he went through a lot, right or wrong, they went through a lot,” Trump told reporters on Air Force One during his return flight to the United States.\nWhen asked...",
@@ -245,15 +255,15 @@
       "source_category": "asia"
     },
     {
-      "id": "ce857c8ebc72",
-      "title": "‘For Example, Putin’: How Xi Used a Private Garden Walk to Charm Trump",
-      "summary": "Watch an exchange between the two men in which the Chinese leader sought to signal exclusivity and name-dropped Russia’s president.",
-      "link": "https://www.nytimes.com/2026/05/15/world/asia/china-xi-trump-summit-garden-putin.html",
-      "published": "2026-05-15T21:41:01+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
+      "id": "3d8797beb391",
+      "title": "Trump says China and Taiwan should 'both cool it'",
+      "summary": "President Donald Trump spoke about Taiwan after a two-day visit to China, where he said he discussed Iran, and trade deals with Chinese President Xi Jingping.",
+      "link": "https://www.cnbc.com/2026/05/15/trump-china-xi-taiwan.html",
+      "published": "2026-05-15T23:52:43+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "international"
+      "source_category": "business"
     },
     {
       "id": "099ad60d711f",
@@ -309,6 +319,17 @@
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international"
+    },
+    {
+      "id": "667afcf6895e",
+      "title": "Trump says Xi offered help on Iran — but how far is Beijing willing to go?",
+      "summary": "Trump said in an interview that Xi told him he \"would like to be of help\" in efforts to resolve the conflict in the Middle East.",
+      "link": "https://www.cnbc.com/2026/05/15/trump-xi-us-china-iran-war-deal.html",
+      "published": "2026-05-15T17:14:38+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business"
     },
     {
       "id": "378c7b08299d",
@@ -415,28 +436,6 @@
       "summary": "The two-day meeting wrapped up Friday, setting the tone for further U.S.-China talks this year.",
       "link": "https://www.cnbc.com/2026/05/15/trump-xi-summit-the-3-big-takeaways-from-historic-meeting-in-beijing.html",
       "published": "2026-05-15T11:48:38+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
-    },
-    {
-      "id": "8da68ac911f9",
-      "title": "What to Know About Day 2 of Trump and Xi’s Beijing Summit",
-      "summary": "President Trump and China’s leader, Xi Jinping, emphasized stability but announced no major breakthroughs on points of contention like trade, Taiwan and the war in Iran.",
-      "link": "https://www.nytimes.com/2026/05/15/world/asia/trump-china-xi-meeting-what-happened.html",
-      "published": "2026-05-15T10:20:08+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
-      "id": "eb91740500da",
-      "title": "CNBC Daily Open: Trump’s China trip ends, but uncertainty remains",
-      "summary": "U.S. President Donald Trump wraps his trip to China, while political uncertainty grows in the U.K.",
-      "link": "https://www.cnbc.com/2026/05/15/cnbc-daily-open-trumps-china-trip-ends-but-uncertainty-remains.html",
-      "published": "2026-05-15T06:55:37+00:00",
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
