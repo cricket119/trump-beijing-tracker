@@ -1,90 +1,83 @@
 {
-  "last_updated": "2026-05-16T20:37:32.990869+00:00",
-  "total": 51,
+  "last_updated": "2026-05-17T01:56:57.826473+00:00",
+  "total": 50,
   "articles": [
     {
       "id": "c3a751f6e421",
       "title": "Boeing faces long haul in China as Trump touts expected sale of 200 jets",
       "summary": "",
       "link": "https://asia.nikkei.com/business/aerospace-defense-industries/boeing-faces-long-haul-in-china-as-trump-touts-expected-sale-of-200-jets",
-      "published": "2026-05-16T20:37:46.496340+00:00",
+      "published": "2026-05-17T01:57:10.594140+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "波音在中国面临长途跋涉，因为特朗普宣称预计将出售200架喷气式飞机"
+      "source_category": "asia"
     },
     {
       "id": "aa3a7358e635",
       "title": "Trump says he gave Xi 'no commitment' on Taiwan at summit",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-says-he-gave-xi-no-commitment-on-taiwan-at-summit",
-      "published": "2026-05-16T20:37:46.496317+00:00",
+      "published": "2026-05-17T01:57:10.594118+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "特朗普表示，他在峰会上对台湾问题“没有承诺”"
+      "source_category": "asia"
     },
     {
       "id": "1081c04f1fb8",
       "title": "Trump-Xi summit more symbol than substance, political experts say",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-more-symbol-than-substance-political-experts-say",
-      "published": "2026-05-16T20:37:46.496148+00:00",
+      "published": "2026-05-17T01:57:10.593966+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "政治专家表示，特朗普-习近平峰会更多的是象征而不是实质"
+      "source_category": "asia"
     },
     {
       "id": "1f54faa8c739",
       "title": "US stocks fall after Trump-Xi summit leaves investors 'underwhelmed'",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/us-stocks-fall-after-trump-xi-summit-leaves-investors-underwhelmed",
-      "published": "2026-05-16T20:37:46.496126+00:00",
+      "published": "2026-05-17T01:57:10.593945+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "特朗普-习近平峰会让投资者“不知所措”后美国股市下跌"
+      "source_category": "asia"
     },
     {
       "id": "c8b9348d7000",
       "title": "Trump-Xi summit: How the US president's China visit unfolded",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-how-the-us-president-s-china-visit-unfolded",
-      "published": "2026-05-16T20:37:46.496035+00:00",
+      "published": "2026-05-17T01:57:10.593856+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "特朗普-习近平峰会：美国总统的中国访问如何展开"
+      "source_category": "asia"
     },
     {
       "id": "a70a838d3847",
       "title": "Taiwan arms sale in focus as Trump insists he gave no ground to Xi",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/taiwan-arms-sale-in-focus-as-trump-insists-he-gave-no-ground-to-xi",
-      "published": "2026-05-16T20:37:46.495997+00:00",
+      "published": "2026-05-17T01:57:10.593800+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "台湾军售成为焦点，因为特朗普坚称他没有给习近平任何让步"
+      "source_category": "asia"
     },
     {
       "id": "d5c5f551c3ea",
       "title": "China says Xi and Trump agreed to spur trade by lowering some tariffs",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/china-says-xi-and-trump-agreed-to-spur-trade-by-lowering-some-tariffs",
-      "published": "2026-05-16T20:37:46.495934+00:00",
+      "published": "2026-05-17T01:57:10.593735+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "中国称习近平和特朗普同意通过降低一些关税来刺激贸易"
+      "source_category": "asia"
     },
     {
       "id": "7c5e948c4fc7",
@@ -95,8 +88,7 @@
       "source": "Al Jazeera",
       "source_color": "#009B77",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "作为对特朗普的回应，台湾称其为“主权和独立”"
+      "source_category": "international"
     },
     {
       "id": "852071b5a92b",
@@ -107,8 +99,7 @@
       "source": "BBC",
       "source_color": "#BB1919",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "台湾坚称在特朗普发出警告后是独立的"
+      "source_category": "international"
     },
     {
       "id": "bc42e72d8440",
@@ -119,8 +110,7 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普称习近平为“朋友”。“但他没有任何突破就离开了中国。"
+      "source_category": "international"
     },
     {
       "id": "ff529e287d05",
@@ -517,17 +507,6 @@
       "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business"
-    },
-    {
-      "id": "442b40bb23e3",
-      "title": "習特今會晤 韓正接機規格高 特朗普：貿易首要議題 將促華對美企「開放」",
-      "summary": "【明報專訊】全球矚目的中美領導人會晤今早登場。美國總統特朗普乘搭「空軍一號」專機昨晚抵達北京，國家副主席韓正在機場迎接，接機規格高過9年前。隨行人員包括美國國務卿魯比奧、國防部長海格塞斯，以及英偉達行政總裁黃仁勳等17名美國商界領袖，第一夫人梅拉尼婭未隨行。特朗普行前預告會晤將「有很多好事發生」，並將敦促中國國家主席習近平對美國企業「開放」，同時預告習近平年底前訪美。這是中美關係經歷長期波動後，9年來美國元首首度對中國國事訪問。",
-      "link": "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260514/s00001/1778694651936/%e7%bf%92%e7%89%b9%e4%bb%8a%e6%9c%83%e6%99%a4-%e9%9f%93%e6%ad%a3%e6%8e%a5%e6%a9%9f%e8%a6%8f%e6%a0%bc%e9%ab%98-%e7%89%b9%e6%9c%97%e6%99%ae-%e8%b2%bf%e6%98%93%e9%a6%96%e8%a6%81%e8%ad%b0%e9%a1%8c-%e5%b0%87%e4%bf%83%e8%8f%af%e5%b0%8d%e7%be%8e%e4%bc%81%e3%80%8c%e9%96%8b%e6%94%be%e3%80%8d",
-      "published": "2026-05-13T20:30:00+00:00",
-      "source": "明报",
-      "source_color": "#006400",
-      "source_lang": "zh",
-      "source_category": "chinese"
     },
     {
       "id": "50b1bc26ab32",
