@@ -1,37 +1,13 @@
 {
-  "last_updated": "2026-05-18T02:08:36.740072+00:00",
-  "total": 36,
+  "last_updated": "2026-05-18T07:53:55.392185+00:00",
+  "total": 29,
   "articles": [
-    {
-      "id": "1081c04f1fb8",
-      "title": "Trump-Xi summit more symbol than substance, political experts say",
-      "summary": "",
-      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-more-symbol-than-substance-political-experts-say",
-      "published": "2026-05-18T02:08:49.733837+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "政治专家表示，特朗普-习近平峰会更多的是象征而不是实质"
-    },
-    {
-      "id": "1f54faa8c739",
-      "title": "US stocks fall after Trump-Xi summit leaves investors 'underwhelmed'",
-      "summary": "",
-      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/us-stocks-fall-after-trump-xi-summit-leaves-investors-underwhelmed",
-      "published": "2026-05-18T02:08:49.733814+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "特朗普-习近平峰会让投资者“不知所措”后美国股市下跌"
-    },
     {
       "id": "c8b9348d7000",
       "title": "Trump-Xi summit: How the US president's China visit unfolded",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-how-the-us-president-s-china-visit-unfolded",
-      "published": "2026-05-18T02:08:49.733724+00:00",
+      "published": "2026-05-18T07:54:08.680821+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -43,7 +19,7 @@
       "title": "Taiwan arms sale in focus as Trump insists he gave no ground to Xi",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/taiwan-arms-sale-in-focus-as-trump-insists-he-gave-no-ground-to-xi",
-      "published": "2026-05-18T02:08:49.733686+00:00",
+      "published": "2026-05-18T07:54:08.680785+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -55,12 +31,48 @@
       "title": "China says Xi and Trump agreed to spur trade by lowering some tariffs",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/china-says-xi-and-trump-agreed-to-spur-trade-by-lowering-some-tariffs",
-      "published": "2026-05-18T02:08:49.733624+00:00",
+      "published": "2026-05-18T07:54:08.680724+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "中国称习近平和特朗普同意通过降低一些关税来刺激贸易"
+    },
+    {
+      "id": "6ca592e7ae84",
+      "title": "White House touts deals on soybeans and rare earths after Trump-Xi summit, while China talks up tariff cuts",
+      "summary": "The meeting between U.S. President Donald Trump and Chinese President Xi Jinping last week yielded new pacts, though the sides have provided differing details.",
+      "link": "https://www.cnbc.com/2026/05/18/us-china-announce-deals-after-trump-xi-summit.html",
+      "published": "2026-05-18T04:58:00+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "白宫在特朗普-习近平峰会后吹捧大豆和稀土交易，而中国则在谈判削减关税"
+    },
+    {
+      "id": "0ebdfc4311e8",
+      "title": "Taiwan will not provoke conflict nor give up sovereignty, says president",
+      "summary": "Lai Ching-te made his first direct response to Trump and Xi's meeting where they discussed Taiwan independence.",
+      "link": "https://www.bbc.com/news/articles/c7591gq10qko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-18T03:08:13+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "台湾不会挑起冲突，也不会放弃主权，总统说"
+    },
+    {
+      "id": "730b0197aa41",
+      "title": "US says China to buy billions in agricultural goods after Trump-Xi talks",
+      "summary": "China will buy at least $17bn worth of US agricultural goods annually, the White House says.",
+      "link": "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks?traffic_source=rss",
+      "published": "2026-05-18T02:43:12+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "美国称中国将在特朗普-习近平会谈后购买数十亿美元的农产品"
     },
     {
       "id": "ebe75997fbf7",
@@ -75,54 +87,6 @@
       "title_zh": "CNBC每日公开：普京前往北京，特朗普在伊朗冲突中面临艰苦的马拉松"
     },
     {
-      "id": "a0c8231d1096",
-      "title": "White House says Trump and Xi agreed on ‘board of trade’ at summit",
-      "summary": "US and China signed off on measures to promote ‘stability’ in the midst of their economic stand-off",
-      "link": "https://www.ft.com/content/aed42b42-0ca2-4104-848a-c8bca33fd837",
-      "published": "2026-05-17T21:02:16+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "白宫称特朗普和习近平在峰会上就“贸易委员会”达成一致"
-    },
-    {
-      "id": "569759bc26d3",
-      "title": "Canadian FM: Is the US still a reliable ally?",
-      "summary": "Anita Anand discusses Donald Trump, NATO, Israel, China and Canada’s international role.",
-      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/17/canadian-fm-is-the-us-still-a-reliable-ally?traffic_source=rss",
-      "published": "2026-05-17T16:30:00+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "加拿大调频：美国仍然是可靠的盟友吗？"
-    },
-    {
-      "id": "0b64c5f8ea84",
-      "title": "NVIDIA Earnings Anticipated Amid Supply Constraints and China Uncertainty",
-      "summary": "US President Donald Trump said he discussed guardrails on artificial intelligence with Chinese leader Xi Jinping, while adding that Nvidia Corp.’s H200 chips also came up during a two-day summit in Beijing. Meanwhile, investors will eagerly be awaiting earnings results from chip giant Nvidia, the world’s largest company by market capitalization, for signs of how much momentum the artificial intelligence rally has left in it after a bout of jitters. Bloomberg Tech co-host Ed Ludlow joined Christina Ruffini and David Gura this morning on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-17/nvidia-earnings-anticipated-on-wednesday-video",
-      "published": "2026-05-17T14:48:40+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "在供应紧张和中国不确定的情况下，英伟达预计盈利"
-    },
-    {
-      "id": "0fa4ce770729",
-      "title": "China rain-lashed as Trump departs",
-      "summary": "Flash floods and evacuations in central and eastern areas",
-      "link": "https://www.ft.com/content/b2cce8ea-32c6-44f3-b814-7c039d3a500d",
-      "published": "2026-05-17T14:32:16+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "随着特朗普的离开，中国的雨水鞭打"
-    },
-    {
       "id": "bc8ffc94fe2a",
       "title": "Hong Kong’s Paul Chan is heading to Europe. So what’s on the itinerary?",
       "summary": "Financial Secretary Paul Chan Mo-po will seek to explain Hong Kong’s efforts to combat terrorism funding and work to attract more capital and business to the city during a five-day Europe trip, with the minister noting that stabilising geopolitics will strengthen foreign ties and the economic environment.\nThe finance chief’s coming trip was announced on Sunday, and follows an easing of tensions after US President Donald Trump visited mainland China and news that Russian President Vladimir Putin...",
@@ -131,7 +95,8 @@
       "source": "SCMP",
       "source_color": "#003580",
       "source_lang": "en",
-      "source_category": "asia"
+      "source_category": "asia",
+      "title_zh": "香港的陈保罗（ Paul Chan ）正前往欧洲。行程表上有什么？"
     },
     {
       "id": "fc49dd03b910",
@@ -142,7 +107,8 @@
       "source": "SCMP",
       "source_color": "#003580",
       "source_lang": "en",
-      "source_category": "asia"
+      "source_category": "asia",
+      "title_zh": "随着美中关系的稳定，香港如何抓住机遇？"
     },
     {
       "id": "852071b5a92b",
@@ -153,7 +119,8 @@
       "source": "BBC",
       "source_color": "#BB1919",
       "source_lang": "en",
-      "source_category": "international"
+      "source_category": "international",
+      "title_zh": "台湾坚称在特朗普发出警告后是独立的"
     },
     {
       "id": "bc42e72d8440",
@@ -266,17 +233,6 @@
       "source_category": "chinese"
     },
     {
-      "id": "14f77be3dd5a",
-      "title": "Oil prices jump after Trump says he is losing patience with Iran",
-      "summary": "Oil prices rose Friday on news that China has agreed to purchase oil from America.",
-      "link": "https://www.cnbc.com/2026/05/15/oil-prices-china-us-iran-strait-of-hormuz-middle-east.html",
-      "published": "2026-05-15T19:03:36+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
-    },
-    {
       "id": "3d4332c4e1d3",
       "title": "Back From China, Trump Faces Decision on Whether to Resume Strikes on Iran",
       "summary": "Top aides have drafted battle plans as peace negotiations have stalled.",
@@ -321,44 +277,11 @@
       "source_category": "international"
     },
     {
-      "id": "2bf883b555df",
-      "title": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access",
-      "summary": "China President Xi welcomed deeper commercial engagement from the U.S., but uncertainty still hangs over American access to rare earths and chip sales.",
-      "link": "https://www.cnbc.com/2026/05/15/the-tech-download-trump-xi-talks-chips-rare-earths.html",
-      "published": "2026-05-15T13:01:12+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
-    },
-    {
-      "id": "aa04fde11aff",
-      "title": "Trump says he will soon make a decision about sanctions on Chinese companies buying Iranian oil",
-      "summary": "U.S. President Donald Trump said Friday that he will make a decision over the next few days about lifting sanctions on Chinese oil companies that buy Iranion oil.",
-      "link": "https://www.cnbc.com/2026/05/15/trump-china-sanctions-iranian-oil.html",
-      "published": "2026-05-15T12:43:26+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
-    },
-    {
       "id": "14e591c590de",
       "title": "Trump-Xi summit: The 3 big takeaways from historic meeting in Beijing",
       "summary": "The two-day meeting wrapped up Friday, setting the tone for further U.S.-China talks this year.",
       "link": "https://www.cnbc.com/2026/05/15/trump-xi-summit-the-3-big-takeaways-from-historic-meeting-in-beijing.html",
       "published": "2026-05-15T11:48:38+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
-    },
-    {
-      "id": "f1340422fe08",
-      "title": "Trump leaves China after talks dominated by trade, oil and Taiwan",
-      "summary": "U.S. President Donald Trump traveled to China this week for two days of meetings with Chinese President Xi Jinping, after a year of heightened trade tensions.",
-      "link": "https://www.cnbc.com/2026/05/15/trump-wraps-up-two-day-china-trip-invites-xi-for-a-september-visit.html",
-      "published": "2026-05-15T06:46:57+00:00",
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
