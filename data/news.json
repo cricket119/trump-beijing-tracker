@@ -1,42 +1,30 @@
 {
-  "last_updated": "2026-05-18T14:52:16.523804+00:00",
-  "total": 25,
+  "last_updated": "2026-05-18T17:51:23.535015+00:00",
+  "total": 19,
   "articles": [
-    {
-      "id": "c8b9348d7000",
-      "title": "Trump-Xi summit: How the US president's China visit unfolded",
-      "summary": "",
-      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-how-the-us-president-s-china-visit-unfolded",
-      "published": "2026-05-18T14:52:30.348458+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "特朗普-习近平峰会：美国总统的中国访问如何展开"
-    },
-    {
-      "id": "a70a838d3847",
-      "title": "Taiwan arms sale in focus as Trump insists he gave no ground to Xi",
-      "summary": "",
-      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/taiwan-arms-sale-in-focus-as-trump-insists-he-gave-no-ground-to-xi",
-      "published": "2026-05-18T14:52:30.348420+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "台湾军售成为焦点，因为特朗普坚称他没有给习近平任何让步"
-    },
     {
       "id": "d5c5f551c3ea",
       "title": "China says Xi and Trump agreed to spur trade by lowering some tariffs",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/china-says-xi-and-trump-agreed-to-spur-trade-by-lowering-some-tariffs",
-      "published": "2026-05-18T14:52:30.348355+00:00",
+      "published": "2026-05-18T17:51:36.354654+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "中国称习近平和特朗普同意通过降低一些关税来刺激贸易"
+    },
+    {
+      "id": "f5fe17688308",
+      "title": "Nvidia earnings call drama: Will Jensen Huang talk 'Trump' and China chips after Xi summit?",
+      "summary": "Both Nvidia's earnings and its commentary on its financial report are expected to be big tests for U.S. equities.",
+      "link": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html",
+      "published": "2026-05-18T17:18:54+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "英伟达财报电话剧：黄延森在习近平峰会后会谈“特朗普”和中国筹码吗？"
     },
     {
       "id": "197db8d057ff",
@@ -99,18 +87,6 @@
       "title_zh": "台湾不会挑起冲突，也不会放弃主权，总统说"
     },
     {
-      "id": "ebe75997fbf7",
-      "title": "CNBC Daily Open: Trump faces grueling marathon in Iran conflict as Putin heads to Beijing",
-      "summary": "Days after Air Force One departed Beijing, Russian President Vladimir Putin is set to visit the Chinese capital for talks with Chinese President Xi Jinping.",
-      "link": "https://www.cnbc.com/2026/05/18/cnbc-daily-open-trump-iran-conflict-putin-china.html",
-      "published": "2026-05-18T01:27:06+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "CNBC每日公开：普京前往北京，特朗普在伊朗冲突中面临艰苦的马拉松"
-    },
-    {
       "id": "bc8ffc94fe2a",
       "title": "Hong Kong’s Paul Chan is heading to Europe. So what’s on the itinerary?",
       "summary": "Financial Secretary Paul Chan Mo-po will seek to explain Hong Kong’s efforts to combat terrorism funding and work to attract more capital and business to the city during a five-day Europe trip, with the minister noting that stabilising geopolitics will strengthen foreign ties and the economic environment.\nThe finance chief’s coming trip was announced on Sunday, and follows an easing of tensions after US President Donald Trump visited mainland China and news that Russian President Vladimir Putin...",
@@ -131,7 +107,8 @@
       "source": "SCMP",
       "source_color": "#003580",
       "source_lang": "en",
-      "source_category": "asia"
+      "source_category": "asia",
+      "title_zh": "随着美中关系的稳定，香港如何抓住机遇？"
     },
     {
       "id": "852071b5a92b",
@@ -142,7 +119,8 @@
       "source": "BBC",
       "source_color": "#BB1919",
       "source_lang": "en",
-      "source_category": "international"
+      "source_category": "international",
+      "title_zh": "台湾坚称在特朗普发出警告后是独立的"
     },
     {
       "id": "bc42e72d8440",
@@ -178,28 +156,6 @@
       "source_category": "international"
     },
     {
-      "id": "bdff8fe9e025",
-      "title": "Russia's Putin to meet China's Xi in Beijing from May 19-20, Beijing and Moscow say",
-      "summary": "Putin's trip follows shortly after U.S. President Donald Trump's visit to Beijing.",
-      "link": "https://www.cnbc.com/2026/05/16/russias-putin-to-meet-chinas-xi-in-beijing-from-may-19-20.html",
-      "published": "2026-05-16T09:26:49+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
-    },
-    {
-      "id": "0cbce50b8e03",
-      "title": "Why Taiwan became the defining issue in the Trump-Xi talks",
-      "summary": "U.S. President Donald Trump had said arms sales to Taiwan would be on the agenda for his talks with Chinese President Xi Jinping which ended Friday.",
-      "link": "https://www.cnbc.com/2026/05/16/trumps-meeting-with-chinas-xi-steers-the-us-away-from-taiwan-again.html",
-      "published": "2026-05-16T08:26:02+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
-    },
-    {
       "id": "099ad60d711f",
       "title": "中美設貿易投資理事會 習今秋訪美 對等降稅框架下擴雙向貿易 特：華購200架波音",
       "summary": "【明報專訊】美國總統特朗普昨日上午與中國國家主席習近平在中南海茶敘和午飯後，下午2時30分乘總統專機「空軍一號」離開北京。外交部長王毅宣布，習近平將應邀今秋訪美，中美亦同意成立貿易和投資理事會，推動擴大雙向貿易。美方表示雙方在經貿多領域取得進展，特朗普更多次強調中方將訂購200架波音飛機，中方就此尚未確認。",
@@ -211,17 +167,6 @@
       "source_category": "chinese"
     },
     {
-      "id": "667afcf6895e",
-      "title": "Trump says Xi offered help on Iran — but how far is Beijing willing to go?",
-      "summary": "Trump said in an interview that Xi told him he \"would like to be of help\" in efforts to resolve the conflict in the Middle East.",
-      "link": "https://www.cnbc.com/2026/05/15/trump-xi-us-china-iran-war-deal.html",
-      "published": "2026-05-15T17:14:38+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
-    },
-    {
       "id": "53619e737679",
       "title": "Watch: What did we learn from Trump's visit to China?",
       "summary": "President Trump has concluded a two-day visit to Beijing at a high-stakes summit with Chinese leader Xi Jinping.",
@@ -231,17 +176,6 @@
       "source_color": "#BB1919",
       "source_lang": "en",
       "source_category": "international"
-    },
-    {
-      "id": "14e591c590de",
-      "title": "Trump-Xi summit: The 3 big takeaways from historic meeting in Beijing",
-      "summary": "The two-day meeting wrapped up Friday, setting the tone for further U.S.-China talks this year.",
-      "link": "https://www.cnbc.com/2026/05/15/trump-xi-summit-the-3-big-takeaways-from-historic-meeting-in-beijing.html",
-      "published": "2026-05-15T11:48:38+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
     },
     {
       "id": "50b1bc26ab32",
