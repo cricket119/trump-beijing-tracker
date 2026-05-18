@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-05-18T17:51:23.535015+00:00",
-  "total": 19,
+  "last_updated": "2026-05-18T21:01:14.767271+00:00",
+  "total": 17,
   "articles": [
     {
-      "id": "d5c5f551c3ea",
-      "title": "China says Xi and Trump agreed to spur trade by lowering some tariffs",
-      "summary": "",
-      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/china-says-xi-and-trump-agreed-to-spur-trade-by-lowering-some-tariffs",
-      "published": "2026-05-18T17:51:36.354654+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
+      "id": "5b9044f361d3",
+      "title": "Oil prices stay in the green even after Trump calls off planned Tuesday attack on Iran",
+      "summary": "A senior U.S. official told Axios that Iran's latest proposal is not a meaningful improvement and is insufficient for a deal.",
+      "link": "https://www.cnbc.com/2026/05/18/oil-today-brent-wti-iran-trump-hormuz-iea-supply-crude-.html",
+      "published": "2026-05-18T20:15:09+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "中国称习近平和特朗普同意通过降低一些关税来刺激贸易"
+      "source_category": "business",
+      "title_zh": "即使在特朗普取消周二对伊朗的计划袭击后，油价仍保持在绿色水平"
     },
     {
       "id": "f5fe17688308",
@@ -134,17 +134,6 @@
       "source_category": "international"
     },
     {
-      "id": "c94cc495f058",
-      "title": "Rubio, Once a China Hawk, Strikes Softer Tone to Align With Trump",
-      "summary": "As a senator, Marco Rubio even hinted at the need for regime change in China. Now he talks about cooperation.",
-      "link": "https://www.nytimes.com/2026/05/16/us/politics/rubio-china-trump-trip.html",
-      "published": "2026-05-16T13:51:48+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
       "id": "a6602e5a3364",
       "title": "China Will Host Putin, Days After Trump’s Visit",
       "summary": "The Russian leader will go to Beijing on Tuesday for talks with President Xi Jinping. The Kremlin said he had watched President Trump’s visit closely.",
@@ -154,17 +143,6 @@
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international"
-    },
-    {
-      "id": "099ad60d711f",
-      "title": "中美設貿易投資理事會 習今秋訪美 對等降稅框架下擴雙向貿易 特：華購200架波音",
-      "summary": "【明報專訊】美國總統特朗普昨日上午與中國國家主席習近平在中南海茶敘和午飯後，下午2時30分乘總統專機「空軍一號」離開北京。外交部長王毅宣布，習近平將應邀今秋訪美，中美亦同意成立貿易和投資理事會，推動擴大雙向貿易。美方表示雙方在經貿多領域取得進展，特朗普更多次強調中方將訂購200架波音飛機，中方就此尚未確認。",
-      "link": "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260516/s00001/1778868042772/%e4%b8%ad%e7%be%8e%e8%a8%ad%e8%b2%bf%e6%98%93%e6%8a%95%e8%b3%87%e7%90%86%e4%ba%8b%e6%9c%83-%e7%bf%92%e4%bb%8a%e7%a7%8b%e8%a8%aa%e7%be%8e-%e5%b0%8d%e7%ad%89%e9%99%8d%e7%a8%85%e6%a1%86%e6%9e%b6%e4%b8%8b%e6%93%b4%e9%9b%99%e5%90%91%e8%b2%bf%e6%98%93-%e7%89%b9-%e8%8f%af%e8%b3%bc200%e6%9e%b6%e6%b3%a2%e9%9f%b3",
-      "published": "2026-05-15T20:30:00+00:00",
-      "source": "明报",
-      "source_color": "#006400",
-      "source_lang": "zh",
-      "source_category": "chinese"
     },
     {
       "id": "53619e737679",
