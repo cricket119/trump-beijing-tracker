@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-18T07:53:55.392185+00:00",
-  "total": 29,
+  "last_updated": "2026-05-18T11:36:36.730262+00:00",
+  "total": 27,
   "articles": [
     {
       "id": "c8b9348d7000",
       "title": "Trump-Xi summit: How the US president's China visit unfolded",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-how-the-us-president-s-china-visit-unfolded",
-      "published": "2026-05-18T07:54:08.680821+00:00",
+      "published": "2026-05-18T11:36:49.460581+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "Taiwan arms sale in focus as Trump insists he gave no ground to Xi",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/taiwan-arms-sale-in-focus-as-trump-insists-he-gave-no-ground-to-xi",
-      "published": "2026-05-18T07:54:08.680785+00:00",
+      "published": "2026-05-18T11:36:49.460546+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -31,12 +31,36 @@
       "title": "China says Xi and Trump agreed to spur trade by lowering some tariffs",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/china-says-xi-and-trump-agreed-to-spur-trade-by-lowering-some-tariffs",
-      "published": "2026-05-18T07:54:08.680724+00:00",
+      "published": "2026-05-18T11:36:49.460485+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "中国称习近平和特朗普同意通过降低一些关税来刺激贸易"
+    },
+    {
+      "id": "fa1a5809a58f",
+      "title": "Stocks, Bonds Decline as Brent Hits $110 | Bloomberg Brief 5/18/2026",
+      "summary": "A global bond selloff eases while stocks decline amid rising oil prices. President Trump expresses frustration with Iran, saying \"the clock is ticking\" on making a deal. The White House says China has agreed to buy at least $17 billion of US agricultural products and establish boards of trade and investment after the summit between President Trump and President Xi. Sharon Bell of Goldman Sachs discusses the equity market as investors look ahead to Nvidia's earnings report later in the week. Jude Blanchette of the RAND China Research Center analyzes the outcomes of the Trump-Xi summit. (Source:",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-18/bloomberg-brief-5-18-2026-video",
+      "published": "2026-05-18T11:07:51+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "随着布伦特原油触及110 $ ，股票、债券下跌|彭博社简报2026年5月18日"
+    },
+    {
+      "id": "83aa1abd948e",
+      "title": "US Tells Iran ‘Clock Is Ticking’, Stocks Fall as Brent Hits $110 | The Opening Trade 5/18/2026",
+      "summary": "US President Donald Trump expressed frustration with Iran and told it the “clock is ticking,” hours after drones targeted a nuclear power plant in the United Arab Emirates.\n\nTehran “better get moving, FAST, or there won’t be anything left of them,” Trump said on Truth Social on Sunday. These were his most belligerent comments regarding the Iran war, which remains in a fragile ceasefire, since he returned to the US from China on Friday.\n\nStocks fell as the stalemate between the US and Iran kept driving oil prices higher, while bonds found some stability after last week’s global selloff.\n\nThe Op",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-18/the-opening-trade-5-18-2026-video",
+      "published": "2026-05-18T10:26:46+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "美国告诉伊朗“时钟正在滴答作响” ，布伦特原油触及110 $股价下跌|开盘交易2026年5月18日"
     },
     {
       "id": "6ca592e7ae84",
@@ -107,8 +131,7 @@
       "source": "SCMP",
       "source_color": "#003580",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "随着美中关系的稳定，香港如何抓住机遇？"
+      "source_category": "asia"
     },
     {
       "id": "852071b5a92b",
@@ -119,8 +142,7 @@
       "source": "BBC",
       "source_color": "#BB1919",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "台湾坚称在特朗普发出警告后是独立的"
+      "source_category": "international"
     },
     {
       "id": "bc42e72d8440",
@@ -200,28 +222,6 @@
       "source_category": "business"
     },
     {
-      "id": "c01ef0b41bf2",
-      "title": "Trump ‘not optimistic’ on Jimmy Lai’s release after raising case with Xi",
-      "summary": "US President Donald Trump has said he is not optimistic about the release of former Hong Kong media boss Jimmy Lai Chee-ying, who was jailed for 20 years for violating the national security law, after raising the issue with Chinese counterpart Xi Jinping during their summit in Beijing.\n“[Xi] said Jimmy Lai is a tough one for him to do; he went through a lot, right or wrong, they went through a lot,” Trump told reporters on Air Force One during his return flight to the United States.\nWhen asked...",
-      "link": "https://www.scmp.com/news/hong-kong/politics/article/3353789/trump-not-optimistic-jimmy-lais-release-after-raising-case-xi?utm_source=rss_feed",
-      "published": "2026-05-16T02:38:14+00:00",
-      "source": "SCMP",
-      "source_color": "#003580",
-      "source_lang": "en",
-      "source_category": "asia"
-    },
-    {
-      "id": "3d8797beb391",
-      "title": "Trump says China and Taiwan should 'both cool it'",
-      "summary": "President Donald Trump spoke about Taiwan after a two-day visit to China, where he said he discussed Iran, and trade deals with Chinese President Xi Jingping.",
-      "link": "https://www.cnbc.com/2026/05/15/trump-china-xi-taiwan.html",
-      "published": "2026-05-15T23:52:43+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
-    },
-    {
       "id": "099ad60d711f",
       "title": "中美設貿易投資理事會 習今秋訪美 對等降稅框架下擴雙向貿易 特：華購200架波音",
       "summary": "【明報專訊】美國總統特朗普昨日上午與中國國家主席習近平在中南海茶敘和午飯後，下午2時30分乘總統專機「空軍一號」離開北京。外交部長王毅宣布，習近平將應邀今秋訪美，中美亦同意成立貿易和投資理事會，推動擴大雙向貿易。美方表示雙方在經貿多領域取得進展，特朗普更多次強調中方將訂購200架波音飛機，中方就此尚未確認。",
@@ -233,17 +233,6 @@
       "source_category": "chinese"
     },
     {
-      "id": "3d4332c4e1d3",
-      "title": "Back From China, Trump Faces Decision on Whether to Resume Strikes on Iran",
-      "summary": "Top aides have drafted battle plans as peace negotiations have stalled.",
-      "link": "https://www.nytimes.com/2026/05/15/us/politics/trump-iran.html",
-      "published": "2026-05-15T18:27:54+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
       "id": "667afcf6895e",
       "title": "Trump says Xi offered help on Iran — but how far is Beijing willing to go?",
       "summary": "Trump said in an interview that Xi told him he \"would like to be of help\" in efforts to resolve the conflict in the Middle East.",
@@ -253,17 +242,6 @@
       "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business"
-    },
-    {
-      "id": "378c7b08299d",
-      "title": "Republicans Waited to Challenge Trump on the Iran War. Now It May Be Too Late.",
-      "summary": "Having deferred to the president for months, G.O.P. lawmakers missed crucial milestones to try to limit his war powers. That has tied their hands in seeking parameters and exit criteria.",
-      "link": "https://www.nytimes.com/2026/05/15/us/politics/iran-war-powers-congress.html",
-      "published": "2026-05-15T16:07:18+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
     },
     {
       "id": "53619e737679",
