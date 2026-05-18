@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-17T20:38:44.869335+00:00",
-  "total": 39,
+  "last_updated": "2026-05-18T02:08:36.740072+00:00",
+  "total": 36,
   "articles": [
     {
       "id": "1081c04f1fb8",
       "title": "Trump-Xi summit more symbol than substance, political experts say",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-more-symbol-than-substance-political-experts-say",
-      "published": "2026-05-17T20:38:59.601650+00:00",
+      "published": "2026-05-18T02:08:49.733837+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "US stocks fall after Trump-Xi summit leaves investors 'underwhelmed'",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/us-stocks-fall-after-trump-xi-summit-leaves-investors-underwhelmed",
-      "published": "2026-05-17T20:38:59.601628+00:00",
+      "published": "2026-05-18T02:08:49.733814+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -31,7 +31,7 @@
       "title": "Trump-Xi summit: How the US president's China visit unfolded",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-how-the-us-president-s-china-visit-unfolded",
-      "published": "2026-05-17T20:38:59.601543+00:00",
+      "published": "2026-05-18T02:08:49.733724+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -43,7 +43,7 @@
       "title": "Taiwan arms sale in focus as Trump insists he gave no ground to Xi",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/taiwan-arms-sale-in-focus-as-trump-insists-he-gave-no-ground-to-xi",
-      "published": "2026-05-17T20:38:59.601507+00:00",
+      "published": "2026-05-18T02:08:49.733686+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -55,12 +55,36 @@
       "title": "China says Xi and Trump agreed to spur trade by lowering some tariffs",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/china-says-xi-and-trump-agreed-to-spur-trade-by-lowering-some-tariffs",
-      "published": "2026-05-17T20:38:59.601444+00:00",
+      "published": "2026-05-18T02:08:49.733624+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "中国称习近平和特朗普同意通过降低一些关税来刺激贸易"
+    },
+    {
+      "id": "ebe75997fbf7",
+      "title": "CNBC Daily Open: Trump faces grueling marathon in Iran conflict as Putin heads to Beijing",
+      "summary": "Days after Air Force One departed Beijing, Russian President Vladimir Putin is set to visit the Chinese capital for talks with Chinese President Xi Jinping.",
+      "link": "https://www.cnbc.com/2026/05/18/cnbc-daily-open-trump-iran-conflict-putin-china.html",
+      "published": "2026-05-18T01:27:06+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "CNBC每日公开：普京前往北京，特朗普在伊朗冲突中面临艰苦的马拉松"
+    },
+    {
+      "id": "a0c8231d1096",
+      "title": "White House says Trump and Xi agreed on ‘board of trade’ at summit",
+      "summary": "US and China signed off on measures to promote ‘stability’ in the midst of their economic stand-off",
+      "link": "https://www.ft.com/content/aed42b42-0ca2-4104-848a-c8bca33fd837",
+      "published": "2026-05-17T21:02:16+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "白宫称特朗普和习近平在峰会上就“贸易委员会”达成一致"
     },
     {
       "id": "569759bc26d3",
@@ -99,18 +123,6 @@
       "title_zh": "随着特朗普的离开，中国的雨水鞭打"
     },
     {
-      "id": "1ca17ccddf8e",
-      "title": "Rep. Lawler: I Support Continuing to Arm Taiwan",
-      "summary": "Rep. Mike Lawler (R-NY) joined Christina Ruffini and David Gura this morning on Bloomberg This Weekend for a wide-ranging discussion, including President Trump's impending decision to approve a $14 billion US arms sale to Taiwan, which could unleash a bipartisan backlash in Washington or face Beijing's wrath if the deal is approved. Xi Jinping warned that Taiwan could lead to \"clashes\" between the US and China, calling it a \"highly dangerous situation\" for the world's biggest economies. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-17/rep-lawler-i-support-continuing-to-arm-taiwan-video",
-      "published": "2026-05-17T12:14:13+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "众议员劳勒：我支持继续武装台湾"
-    },
-    {
       "id": "bc8ffc94fe2a",
       "title": "Hong Kong’s Paul Chan is heading to Europe. So what’s on the itinerary?",
       "summary": "Financial Secretary Paul Chan Mo-po will seek to explain Hong Kong’s efforts to combat terrorism funding and work to attract more capital and business to the city during a five-day Europe trip, with the minister noting that stabilising geopolitics will strengthen foreign ties and the economic environment.\nThe finance chief’s coming trip was announced on Sunday, and follows an easing of tensions after US President Donald Trump visited mainland China and news that Russian President Vladimir Putin...",
@@ -119,8 +131,7 @@
       "source": "SCMP",
       "source_color": "#003580",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "香港的陈保罗（ Paul Chan ）正前往欧洲。行程表上有什么？"
+      "source_category": "asia"
     },
     {
       "id": "fc49dd03b910",
@@ -255,28 +266,6 @@
       "source_category": "chinese"
     },
     {
-      "id": "3ab32512f5db",
-      "title": "Trump’s ‘Learning Curve’ on China Ends With Conciliation at Summit",
-      "summary": "The president has shifted the foundations of American policy toward China, throwing aside the adversarial approach of recent years.",
-      "link": "https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html",
-      "published": "2026-05-15T19:59:29+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
-      "id": "fad294dfe1df",
-      "title": "What China critics in Maga movement make of Trump's Beijing trip",
-      "summary": "Trump’s softer approach towards China is one that experts say will likely trickle down to the wider MAGA base.",
-      "link": "https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-15T19:52:54+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
       "id": "14f77be3dd5a",
       "title": "Oil prices jump after Trump says he is losing patience with Iran",
       "summary": "Oil prices rose Friday on news that China has agreed to purchase oil from America.",
@@ -374,28 +363,6 @@
       "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business"
-    },
-    {
-      "id": "81654d5f18de",
-      "title": "中美新定位：建設性戰略穩定關係 習：合作為主競爭有度 特朗普邀9月訪美",
-      "summary": "【明報專訊】相隔9年再次訪華的美國總統特朗普昨天與國家主席習近平在北京人民大會堂會談，歷時2小時15分鐘。會晤談及伊朗、台灣問題，白宮表示雙方認為霍爾木茲海峽必須保持開放，中方則強調維護台海和平穩定是中美「最大公約數」。習近平表示，雙方贊同將構建「中美建設性戰略穩定關係」作為兩國關係新定位，強調「競爭有度」。特朗普昨公開表示邀請習近平9月24日訪美，他今天將再與習近平茶敘及共晉工作午餐，之後離開北京。",
-      "link": "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260515/s00001/1778780954784/%e4%b8%ad%e7%be%8e%e6%96%b0%e5%ae%9a%e4%bd%8d-%e5%bb%ba%e8%a8%ad%e6%80%a7%e6%88%b0%e7%95%a5%e7%a9%a9%e5%ae%9a%e9%97%9c%e4%bf%82-%e7%bf%92-%e5%90%88%e4%bd%9c%e7%82%ba%e4%b8%bb%e7%ab%b6%e7%88%ad%e6%9c%89%e5%ba%a6-%e7%89%b9%e6%9c%97%e6%99%ae%e9%82%809%e6%9c%88%e8%a8%aa%e7%be%8e",
-      "published": "2026-05-14T20:30:00+00:00",
-      "source": "明报",
-      "source_color": "#006400",
-      "source_lang": "zh",
-      "source_category": "chinese"
-    },
-    {
-      "id": "c388d1785d52",
-      "title": "習與魯比奧握手3秒",
-      "summary": "【明報專訊】曾被北京兩次制裁的美國國務卿魯比奧首度訪華，成為焦點。現場影片顯示，特朗普在歡迎式向習近平介紹隨行官員，輪到魯比奧時，他與習握手約3秒（圖），並點頭致意。",
-      "link": "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260515/s00001/1778780955363/%e7%bf%92%e8%88%87%e9%ad%af%e6%af%94%e5%a5%a7%e6%8f%a1%e6%89%8b3%e7%a7%92",
-      "published": "2026-05-14T20:30:00+00:00",
-      "source": "明报",
-      "source_color": "#006400",
-      "source_lang": "zh",
-      "source_category": "chinese"
     },
     {
       "id": "50b1bc26ab32",
