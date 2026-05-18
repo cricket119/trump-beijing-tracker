@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-18T11:36:36.730262+00:00",
-  "total": 27,
+  "last_updated": "2026-05-18T14:52:16.523804+00:00",
+  "total": 25,
   "articles": [
     {
       "id": "c8b9348d7000",
       "title": "Trump-Xi summit: How the US president's China visit unfolded",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-how-the-us-president-s-china-visit-unfolded",
-      "published": "2026-05-18T11:36:49.460581+00:00",
+      "published": "2026-05-18T14:52:30.348458+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "Taiwan arms sale in focus as Trump insists he gave no ground to Xi",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/taiwan-arms-sale-in-focus-as-trump-insists-he-gave-no-ground-to-xi",
-      "published": "2026-05-18T11:36:49.460546+00:00",
+      "published": "2026-05-18T14:52:30.348420+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -31,7 +31,7 @@
       "title": "China says Xi and Trump agreed to spur trade by lowering some tariffs",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/china-says-xi-and-trump-agreed-to-spur-trade-by-lowering-some-tariffs",
-      "published": "2026-05-18T11:36:49.460485+00:00",
+      "published": "2026-05-18T14:52:30.348355+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -39,28 +39,40 @@
       "title_zh": "中国称习近平和特朗普同意通过降低一些关税来刺激贸易"
     },
     {
-      "id": "fa1a5809a58f",
-      "title": "Stocks, Bonds Decline as Brent Hits $110 | Bloomberg Brief 5/18/2026",
-      "summary": "A global bond selloff eases while stocks decline amid rising oil prices. President Trump expresses frustration with Iran, saying \"the clock is ticking\" on making a deal. The White House says China has agreed to buy at least $17 billion of US agricultural products and establish boards of trade and investment after the summit between President Trump and President Xi. Sharon Bell of Goldman Sachs discusses the equity market as investors look ahead to Nvidia's earnings report later in the week. Jude Blanchette of the RAND China Research Center analyzes the outcomes of the Trump-Xi summit. (Source:",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-18/bloomberg-brief-5-18-2026-video",
-      "published": "2026-05-18T11:07:51+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
+      "id": "197db8d057ff",
+      "title": "Trump’s Taiwan Gambit is Already a Gift to China",
+      "summary": "President Trump’s open willingness to hold up a $14 billion Taiwan arms package is a win for Beijing. Now China could be weighing how to keep the weapons on ice for as long as it can.",
+      "link": "https://www.nytimes.com/2026/05/18/world/asia/trump-taiwan-china-weapons.html",
+      "published": "2026-05-18T12:11:49+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "随着布伦特原油触及110 $ ，股票、债券下跌|彭博社简报2026年5月18日"
+      "source_category": "international",
+      "title_zh": "特朗普的台湾策略已经是给中国的礼物"
     },
     {
-      "id": "83aa1abd948e",
-      "title": "US Tells Iran ‘Clock Is Ticking’, Stocks Fall as Brent Hits $110 | The Opening Trade 5/18/2026",
-      "summary": "US President Donald Trump expressed frustration with Iran and told it the “clock is ticking,” hours after drones targeted a nuclear power plant in the United Arab Emirates.\n\nTehran “better get moving, FAST, or there won’t be anything left of them,” Trump said on Truth Social on Sunday. These were his most belligerent comments regarding the Iran war, which remains in a fragile ceasefire, since he returned to the US from China on Friday.\n\nStocks fell as the stalemate between the US and Iran kept driving oil prices higher, while bonds found some stability after last week’s global selloff.\n\nThe Op",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-18/the-opening-trade-5-18-2026-video",
-      "published": "2026-05-18T10:26:46+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
+      "id": "3cc9af5dda0b",
+      "title": "A peaceable Trump-Xi meeting may set up follies for the future",
+      "summary": "The system of managed trade towards which the US and China seem to be moving is unlikely to work well",
+      "link": "https://www.ft.com/content/92d0f0ca-285f-4309-806b-e09d1a9362a5",
+      "published": "2026-05-18T11:31:01+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "美国告诉伊朗“时钟正在滴答作响” ，布伦特原油触及110 $股价下跌|开盘交易2026年5月18日"
+      "title_zh": "和平的特朗普-习近平会议可能会为未来设定愚蠢"
+    },
+    {
+      "id": "5146f09f49ba",
+      "title": "Trump and Xi will not determine Taiwan’s fate",
+      "summary": "China assumes that the island would be helpless without American support — that is a dangerous mistake",
+      "link": "https://www.ft.com/content/d072db90-5167-420b-a9b2-11e84c7c5c77",
+      "published": "2026-05-18T11:23:59+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普和习近平不会决定台湾的命运"
     },
     {
       "id": "6ca592e7ae84",
@@ -85,18 +97,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "台湾不会挑起冲突，也不会放弃主权，总统说"
-    },
-    {
-      "id": "730b0197aa41",
-      "title": "US says China to buy billions in agricultural goods after Trump-Xi talks",
-      "summary": "China will buy at least $17bn worth of US agricultural goods annually, the White House says.",
-      "link": "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks?traffic_source=rss",
-      "published": "2026-05-18T02:43:12+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "美国称中国将在特朗普-习近平会谈后购买数十亿美元的农产品"
     },
     {
       "id": "ebe75997fbf7",
@@ -156,17 +156,6 @@
       "source_category": "international"
     },
     {
-      "id": "a6c6e8c1621b",
-      "title": "Trump Uses Taiwan Arms Sales as Bargaining Chip With China, in a Risky Move",
-      "summary": "The president said a potential arms deal for Taiwan was a “very good negotiating chip” in talks with Beijing. His words raise questions about the reliability of U.S. support.",
-      "link": "https://www.nytimes.com/2026/05/16/world/asia/trump-taiwan-arms-bargaining-chip-china.html",
-      "published": "2026-05-16T15:11:25+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
       "id": "c94cc495f058",
       "title": "Rubio, Once a China Hawk, Strikes Softer Tone to Align With Trump",
       "summary": "As a senator, Marco Rubio even hinted at the need for regime change in China. Now he talks about cooperation.",
@@ -176,17 +165,6 @@
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international"
-    },
-    {
-      "id": "8b4afe955c6d",
-      "title": "A state banquet, selfies with Musk and Huang's noodle run: The spectacle of Trump's Beijing visit",
-      "summary": "The visit was full of friendly overtures, orchestrated pageantry, business dealmaking, and headline-grabbing sideshows.",
-      "link": "https://www.cnbc.com/2026/05/16/a-state-banquet-selfies-and-a-noodle-run-trumps-beijing-visit.html",
-      "published": "2026-05-16T11:36:25+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
     },
     {
       "id": "a6602e5a3364",
