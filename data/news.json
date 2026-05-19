@@ -1,18 +1,66 @@
 {
-  "last_updated": "2026-05-18T21:01:14.767271+00:00",
+  "last_updated": "2026-05-19T02:07:46.821691+00:00",
   "total": 17,
   "articles": [
     {
-      "id": "5b9044f361d3",
-      "title": "Oil prices stay in the green even after Trump calls off planned Tuesday attack on Iran",
-      "summary": "A senior U.S. official told Axios that Iran's latest proposal is not a meaningful improvement and is insufficient for a deal.",
-      "link": "https://www.cnbc.com/2026/05/18/oil-today-brent-wti-iran-trump-hormuz-iea-supply-crude-.html",
-      "published": "2026-05-18T20:15:09+00:00",
+      "id": "a29f38c2bfa0",
+      "title": "CNBC Daily Open: Bonds sell-off, markets dip, oil worries loom — and Trump postpones Iran attack",
+      "summary": "Asia markets were mixed ahead of the highly anticipated Trump-Xi talks.",
+      "link": "https://www.cnbc.com/2026/05/19/trump-iran-attack-bonds-stocks-putin-xi-oil-energy.html",
+      "published": "2026-05-19T01:55:30+00:00",
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "即使在特朗普取消周二对伊朗的计划袭击后，油价仍保持在绿色水平"
+      "title_zh": "CNBC每日公开赛：债券抛售，市场下跌，石油担忧迫在眉睫—特朗普推迟对伊朗的袭击"
+    },
+    {
+      "id": "f5e519cc2d8b",
+      "title": "Putin heads to Beijing days after Trump in test of China's balancing act",
+      "summary": "Beijing walks into the summit with the stronger hand while Moscow seeks reassurance that China has not drifted toward Washington after Trump's visit.",
+      "link": "https://www.cnbc.com/2026/05/19/putin-russia-visit-china-beijing-trump-summit-ukraine-war-energy-shock-.html",
+      "published": "2026-05-19T01:27:24+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "普京在特朗普考验中国平衡行为的几天后前往北京"
+    },
+    {
+      "id": "4968c37a462f",
+      "title": "CNBC's The China Connection newsletter: Three major shifts from the Trump-Xi meeting",
+      "summary": "The U.S. and Chinese readouts agree on one phrase: constructive strategic stability.",
+      "link": "https://www.cnbc.com/2026/05/18/three-major-shifts-from-the-trump-xi-meeting.html",
+      "published": "2026-05-18T23:00:01+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "CNBC的The China Connection时事通讯：特朗普-习近平会晤的三大转变"
+    },
+    {
+      "id": "933800f06106",
+      "title": "Trump told Taiwan not to 'go independent' - but does it want to?",
+      "summary": "Taiwan independence is the reddest of red lines for China, which claims the island as its own.",
+      "link": "https://www.bbc.com/news/articles/clyp9mk3mrgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-18T22:29:16+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普告诉台湾不要“独立” -但它想这样做吗？"
+    },
+    {
+      "id": "4e3323efb527",
+      "title": "Nvidia’s CEO Sees China Opening Market to AI Chips From US",
+      "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang, speaking days after he joined President Donald Trump’s summit in China, said he expects Chinese authorities to eventually allow the import of artificial intelligence chips from the US.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-18/nvidia-s-ceo-says-china-will-open-its-market-to-ai-chips-from-us",
+      "published": "2026-05-18T19:25:18+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "英伟达首席执行官认为中国将向美国开放人工智能芯片市场"
     },
     {
       "id": "f5fe17688308",
@@ -37,42 +85,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "特朗普的台湾策略已经是给中国的礼物"
-    },
-    {
-      "id": "3cc9af5dda0b",
-      "title": "A peaceable Trump-Xi meeting may set up follies for the future",
-      "summary": "The system of managed trade towards which the US and China seem to be moving is unlikely to work well",
-      "link": "https://www.ft.com/content/92d0f0ca-285f-4309-806b-e09d1a9362a5",
-      "published": "2026-05-18T11:31:01+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "和平的特朗普-习近平会议可能会为未来设定愚蠢"
-    },
-    {
-      "id": "5146f09f49ba",
-      "title": "Trump and Xi will not determine Taiwan’s fate",
-      "summary": "China assumes that the island would be helpless without American support — that is a dangerous mistake",
-      "link": "https://www.ft.com/content/d072db90-5167-420b-a9b2-11e84c7c5c77",
-      "published": "2026-05-18T11:23:59+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普和习近平不会决定台湾的命运"
-    },
-    {
-      "id": "6ca592e7ae84",
-      "title": "White House touts deals on soybeans and rare earths after Trump-Xi summit, while China talks up tariff cuts",
-      "summary": "The meeting between U.S. President Donald Trump and Chinese President Xi Jinping last week yielded new pacts, though the sides have provided differing details.",
-      "link": "https://www.cnbc.com/2026/05/18/us-china-announce-deals-after-trump-xi-summit.html",
-      "published": "2026-05-18T04:58:00+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "白宫在特朗普-习近平峰会后吹捧大豆和稀土交易，而中国则在谈判削减关税"
     },
     {
       "id": "0ebdfc4311e8",
@@ -119,8 +131,7 @@
       "source": "BBC",
       "source_color": "#BB1919",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "台湾坚称在特朗普发出警告后是独立的"
+      "source_category": "international"
     },
     {
       "id": "bc42e72d8440",
@@ -128,17 +139,6 @@
       "summary": "The lack of concrete agreements with Beijing shows the risks of President Trump’s personality-driven foreign policy, which rests on the belief that he can defend U.S. interests through charm and force of will.",
       "link": "https://www.nytimes.com/2026/05/16/world/europe/trump-xi-china-summit.html",
       "published": "2026-05-16T17:01:10+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
-      "id": "a6602e5a3364",
-      "title": "China Will Host Putin, Days After Trump’s Visit",
-      "summary": "The Russian leader will go to Beijing on Tuesday for talks with President Xi Jinping. The Kremlin said he had watched President Trump’s visit closely.",
-      "link": "https://www.nytimes.com/2026/05/16/world/europe/putin-china-visit-trump.html",
-      "published": "2026-05-16T11:23:44+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
