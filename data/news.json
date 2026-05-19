@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T07:35:24.687061+00:00",
+  "last_updated": "2026-05-19T10:52:54.601790+00:00",
   "total": 16,
   "articles": [
     {
@@ -7,7 +7,7 @@
       "title": "Xi and Putin to reaffirm ties and talk energy in Beijing after Trump visit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/xi-and-putin-to-reaffirm-ties-and-talk-energy-in-beijing-after-trump-visit",
-      "published": "2026-05-19T07:35:38.308933+00:00",
+      "published": "2026-05-19T10:53:06.874058+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,12 +19,24 @@
       "title": "Taiwan's Lai marks midpoint of term as Trump and China worries loom",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-s-lai-marks-midpoint-of-term-as-trump-and-china-worries-loom",
-      "published": "2026-05-19T07:35:38.308859+00:00",
+      "published": "2026-05-19T10:53:06.873986+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "随着特朗普和中国的担忧迫在眉睫，台湾的LAI标志着任期的中点"
+    },
+    {
+      "id": "16e274a3a6a9",
+      "title": "‘China holds the cards’: Why Putin’s visit to Beijing after Trump matters",
+      "summary": "Scant progress in US-China talks bolsters Putin, while for China, hosting back-to-back visits is a diplomatic flex.",
+      "link": "https://www.aljazeera.com/features/2026/5/19/neutral-superpower-china-why-putin-visit-to-beijing-after-trump-matters?traffic_source=rss",
+      "published": "2026-05-19T09:15:24+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "“中国拿着牌” ：为什么普京在特朗普之后访问北京很重要"
     },
     {
       "id": "ce9589607690",
@@ -85,18 +97,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "CNBC的The China Connection时事通讯：特朗普-习近平会晤的三大转变"
-    },
-    {
-      "id": "f5fe17688308",
-      "title": "Nvidia earnings call drama: Will Jensen Huang talk 'Trump' and China chips after Xi summit?",
-      "summary": "Both Nvidia's earnings and its commentary on its financial report are expected to be big tests for U.S. equities.",
-      "link": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html",
-      "published": "2026-05-18T17:18:54+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "英伟达财报电话剧：黄延森在习近平峰会后会谈“特朗普”和中国筹码吗？"
     },
     {
       "id": "197db8d057ff",
