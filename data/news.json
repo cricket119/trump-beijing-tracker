@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-19T10:52:54.601790+00:00",
-  "total": 16,
+  "last_updated": "2026-05-19T14:33:04.894923+00:00",
+  "total": 15,
   "articles": [
     {
       "id": "8befde711bff",
       "title": "Xi and Putin to reaffirm ties and talk energy in Beijing after Trump visit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/xi-and-putin-to-reaffirm-ties-and-talk-energy-in-beijing-after-trump-visit",
-      "published": "2026-05-19T10:53:06.874058+00:00",
+      "published": "2026-05-19T14:33:18.923391+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,12 +19,36 @@
       "title": "Taiwan's Lai marks midpoint of term as Trump and China worries loom",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-s-lai-marks-midpoint-of-term-as-trump-and-china-worries-loom",
-      "published": "2026-05-19T10:53:06.873986+00:00",
+      "published": "2026-05-19T14:33:18.923324+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "随着特朗普和中国的担忧迫在眉睫，台湾的LAI标志着任期的中点"
+    },
+    {
+      "id": "b4b4722e526f",
+      "title": "China-Russia relations are as strong as ever thanks to Trump",
+      "summary": "The US president failed to ‘un-unite’ the two powers because he has repeated the same mistakes his predecessors made.",
+      "link": "https://www.aljazeera.com/opinions/2026/5/19/china-russia-relations-are-as-strong-as-ever-thanks-to-trump?traffic_source=rss",
+      "published": "2026-05-19T12:51:24+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "得益于特朗普，中俄关系一如既往强劲"
+    },
+    {
+      "id": "aae55529176a",
+      "title": "Xi Jinping seeks to strengthen ties with Putin during China visit",
+      "summary": "China’s Xi Jinping is hosting Russian President Vladimir Putin, just days after welcoming Donald Trump to Beijing.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/xi-jinping-seeks-to-strengthen-ties-with-putin-during-china-visit?traffic_source=rss",
+      "published": "2026-05-19T12:14:53+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "习近平在中国访问期间寻求加强与普京的关系"
     },
     {
       "id": "16e274a3a6a9",
@@ -106,41 +130,6 @@
       "published": "2026-05-18T12:11:49+00:00",
       "source": "NYT",
       "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普的台湾策略已经是给中国的礼物"
-    },
-    {
-      "id": "bc8ffc94fe2a",
-      "title": "Hong Kong’s Paul Chan is heading to Europe. So what’s on the itinerary?",
-      "summary": "Financial Secretary Paul Chan Mo-po will seek to explain Hong Kong’s efforts to combat terrorism funding and work to attract more capital and business to the city during a five-day Europe trip, with the minister noting that stabilising geopolitics will strengthen foreign ties and the economic environment.\nThe finance chief’s coming trip was announced on Sunday, and follows an easing of tensions after US President Donald Trump visited mainland China and news that Russian President Vladimir Putin...",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353864/hong-kongs-paul-chan-heading-europe-so-whats-itinerary?utm_source=rss_feed",
-      "published": "2026-05-17T07:08:08+00:00",
-      "source": "SCMP",
-      "source_color": "#003580",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "香港的陈保罗（ Paul Chan ）正前往欧洲。行程表上有什么？"
-    },
-    {
-      "id": "fc49dd03b910",
-      "title": "How can Hong Kong seize opportunities as US-China relations stabilise?",
-      "summary": "More than 310 enterprises from mainland China and abroad have established or expanded operations in Hong Kong so far in 2026, bringing in more than HK$26 billion (US$3.3 billion) in capital in their first year of operation, according to the government agency tasked with attracting foreign investment.\nCasting a positive light on stabilising Sino-US relations following the Xi-Trump summit, InvestHK director general Alpha Lau Hai-suen said on Sunday that Hong Kong had to proactively adapt to the...",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353861/hong-kong-draws-over-310-firms-and-hk26-billion-capital-investhk-head-says?utm_source=rss_feed",
-      "published": "2026-05-17T06:38:23+00:00",
-      "source": "SCMP",
-      "source_color": "#003580",
-      "source_lang": "en",
-      "source_category": "asia"
-    },
-    {
-      "id": "53619e737679",
-      "title": "Watch: What did we learn from Trump's visit to China?",
-      "summary": "President Trump has concluded a two-day visit to Beijing at a high-stakes summit with Chinese leader Xi Jinping.",
-      "link": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-15T13:25:23+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
       "source_lang": "en",
       "source_category": "international"
     },
