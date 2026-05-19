@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-05-19T02:07:46.821691+00:00",
-  "total": 17,
+  "last_updated": "2026-05-19T07:35:24.687061+00:00",
+  "total": 16,
   "articles": [
+    {
+      "id": "8befde711bff",
+      "title": "Xi and Putin to reaffirm ties and talk energy in Beijing after Trump visit",
+      "summary": "",
+      "link": "https://asia.nikkei.com/politics/international-relations/xi-and-putin-to-reaffirm-ties-and-talk-energy-in-beijing-after-trump-visit",
+      "published": "2026-05-19T07:35:38.308933+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "习近平和普京在特朗普访问后重申在北京的关系和谈话精力"
+    },
+    {
+      "id": "62d0ffded113",
+      "title": "Taiwan's Lai marks midpoint of term as Trump and China worries loom",
+      "summary": "",
+      "link": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-s-lai-marks-midpoint-of-term-as-trump-and-china-worries-loom",
+      "published": "2026-05-19T07:35:38.308859+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "随着特朗普和中国的担忧迫在眉睫，台湾的LAI标志着任期的中点"
+    },
+    {
+      "id": "ce9589607690",
+      "title": "Hong Kong set to benefit as Xi-Trump summit signals ‘more stability’, John Lee says",
+      "summary": "Hong Kong’s economy and trade with the United States will benefit from greater stability and certainty brought by the summit between Chinese President Xi Jinping and his US counterpart Donald Trump, the city’s leader has said.\n“Hong Kong is an externally oriented economy, susceptible to the influence of the main market,” Chief Executive John Lee Ka-chiu said on Tuesday. “More certainty and stability in the market will greatly reduce the impact of external turbulence on Hong Kong.”\nLast week’s...",
+      "link": "https://www.scmp.com/news/hong-kong/politics/article/3354047/hong-kong-set-benefit-xi-trump-summit-signals-more-stability-john-lee-says?utm_source=rss_feed",
+      "published": "2026-05-19T04:23:40+00:00",
+      "source": "SCMP",
+      "source_color": "#003580",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "约翰·李说，随着习特朗普峰会标志着“更加稳定” ，香港将从中受益"
+    },
+    {
+      "id": "933800f06106",
+      "title": "Trump told Taiwan not to 'go independent' - but does it want to?",
+      "summary": "Taiwan independence is the reddest of red lines for China, which claims the island as its own.",
+      "link": "https://www.bbc.com/news/articles/clyp9mk3mrgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-19T02:41:57+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普告诉台湾不要“独立” -但它想这样做吗？"
+    },
     {
       "id": "a29f38c2bfa0",
       "title": "CNBC Daily Open: Bonds sell-off, markets dip, oil worries loom — and Trump postpones Iran attack",
@@ -39,30 +87,6 @@
       "title_zh": "CNBC的The China Connection时事通讯：特朗普-习近平会晤的三大转变"
     },
     {
-      "id": "933800f06106",
-      "title": "Trump told Taiwan not to 'go independent' - but does it want to?",
-      "summary": "Taiwan independence is the reddest of red lines for China, which claims the island as its own.",
-      "link": "https://www.bbc.com/news/articles/clyp9mk3mrgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-18T22:29:16+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普告诉台湾不要“独立” -但它想这样做吗？"
-    },
-    {
-      "id": "4e3323efb527",
-      "title": "Nvidia’s CEO Sees China Opening Market to AI Chips From US",
-      "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang, speaking days after he joined President Donald Trump’s summit in China, said he expects Chinese authorities to eventually allow the import of artificial intelligence chips from the US.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-18/nvidia-s-ceo-says-china-will-open-its-market-to-ai-chips-from-us",
-      "published": "2026-05-18T19:25:18+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "英伟达首席执行官认为中国将向美国开放人工智能芯片市场"
-    },
-    {
       "id": "f5fe17688308",
       "title": "Nvidia earnings call drama: Will Jensen Huang talk 'Trump' and China chips after Xi summit?",
       "summary": "Both Nvidia's earnings and its commentary on its financial report are expected to be big tests for U.S. equities.",
@@ -87,18 +111,6 @@
       "title_zh": "特朗普的台湾策略已经是给中国的礼物"
     },
     {
-      "id": "0ebdfc4311e8",
-      "title": "Taiwan will not provoke conflict nor give up sovereignty, says president",
-      "summary": "Lai Ching-te made his first direct response to Trump and Xi's meeting where they discussed Taiwan independence.",
-      "link": "https://www.bbc.com/news/articles/c7591gq10qko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-18T03:08:13+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "台湾不会挑起冲突，也不会放弃主权，总统说"
-    },
-    {
       "id": "bc8ffc94fe2a",
       "title": "Hong Kong’s Paul Chan is heading to Europe. So what’s on the itinerary?",
       "summary": "Financial Secretary Paul Chan Mo-po will seek to explain Hong Kong’s efforts to combat terrorism funding and work to attract more capital and business to the city during a five-day Europe trip, with the minister noting that stabilising geopolitics will strengthen foreign ties and the economic environment.\nThe finance chief’s coming trip was announced on Sunday, and follows an easing of tensions after US President Donald Trump visited mainland China and news that Russian President Vladimir Putin...",
@@ -119,30 +131,7 @@
       "source": "SCMP",
       "source_color": "#003580",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "随着美中关系的稳定，香港如何抓住机遇？"
-    },
-    {
-      "id": "852071b5a92b",
-      "title": "Taiwan insists it is independent after Trump warning",
-      "summary": "Fresh from his summit in Beijing, the US president warned against a formal declaration of independence by the island.",
-      "link": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-16T17:01:53+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
-      "id": "bc42e72d8440",
-      "title": "Trump Calls Xi a ‘Friend.’ But He Left China Without Any Breakthroughs.",
-      "summary": "The lack of concrete agreements with Beijing shows the risks of President Trump’s personality-driven foreign policy, which rests on the belief that he can defend U.S. interests through charm and force of will.",
-      "link": "https://www.nytimes.com/2026/05/16/world/europe/trump-xi-china-summit.html",
-      "published": "2026-05-16T17:01:10+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
+      "source_category": "asia"
     },
     {
       "id": "53619e737679",
