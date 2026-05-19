@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-19T14:33:04.894923+00:00",
-  "total": 15,
+  "last_updated": "2026-05-19T17:56:12.536882+00:00",
+  "total": 18,
   "articles": [
     {
       "id": "8befde711bff",
       "title": "Xi and Putin to reaffirm ties and talk energy in Beijing after Trump visit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/xi-and-putin-to-reaffirm-ties-and-talk-energy-in-beijing-after-trump-visit",
-      "published": "2026-05-19T14:33:18.923391+00:00",
+      "published": "2026-05-19T17:56:30.968522+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,12 +19,72 @@
       "title": "Taiwan's Lai marks midpoint of term as Trump and China worries loom",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-s-lai-marks-midpoint-of-term-as-trump-and-china-worries-loom",
-      "published": "2026-05-19T14:33:18.923324+00:00",
+      "published": "2026-05-19T17:56:30.968452+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "随着特朗普和中国的担忧迫在眉睫，台湾的LAI标志着任期的中点"
+    },
+    {
+      "id": "a6cd26b2cb3c",
+      "title": "Trump claims Xi will not arm Iran as strike threat looms",
+      "summary": "US president warns Tehran has ‘two or three days’ to reach a deal and reopen the Strait of Hormuz",
+      "link": "https://www.ft.com/content/95b98e06-3a04-4cfa-9722-f8bd27a5109b",
+      "published": "2026-05-19T17:35:01+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普声称习近平不会武装伊朗，因为罢工威胁迫在眉睫"
+    },
+    {
+      "id": "7f2ad3da6547",
+      "title": "Trump says Xi assured him China would not send weapons to Iran",
+      "summary": "US president also says he could again strike Iran if progress on ceasefire is not made within days.",
+      "link": "https://www.aljazeera.com/news/2026/5/19/trump-says-xi-assured-him-china-would-not-send-weapons-to-iran?traffic_source=rss",
+      "published": "2026-05-19T16:53:42+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普称习近平向他保证中国不会向伊朗运送武器"
+    },
+    {
+      "id": "d7baac2ef7aa",
+      "title": "As a Weakened Putin Follows Trump to Beijing, Iran War Offers an Opening",
+      "summary": "With the upheaval in the Persian Gulf disrupting oil and gas supplies, Russia is looking to deepen its energy ties to China.",
+      "link": "https://www.nytimes.com/2026/05/19/world/europe/putin-china-state-visit.html",
+      "published": "2026-05-19T16:47:50+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "随着被削弱的普京跟随特朗普来到北京，伊朗战争提供了一个开放"
+    },
+    {
+      "id": "317993e2b392",
+      "title": "Putin and Xi to discuss huge gas project at China summit",
+      "summary": "Talks on Power of Siberia 2 pipeline come just days after Donald Trump’s visit to Beijing",
+      "link": "https://www.ft.com/content/7612a618-fbaf-4e3e-8e55-0cf5cc88d132",
+      "published": "2026-05-19T15:56:57+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "普京和习近平将在中国峰会上讨论大型天然气项目"
+    },
+    {
+      "id": "60e7bba81281",
+      "title": "Xi told Trump that Putin might ‘regret’ invasion of Ukraine",
+      "summary": "US president also suggested they should co-operate with Russian leader against the International Criminal Court",
+      "link": "https://www.ft.com/content/567c57b0-6346-43e6-9d14-840a793b4d1d",
+      "published": "2026-05-19T15:30:37+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "习近平告诉特朗普，普京可能会“后悔”入侵乌克兰"
     },
     {
       "id": "b4b4722e526f",
@@ -37,30 +97,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "得益于特朗普，中俄关系一如既往强劲"
-    },
-    {
-      "id": "aae55529176a",
-      "title": "Xi Jinping seeks to strengthen ties with Putin during China visit",
-      "summary": "China’s Xi Jinping is hosting Russian President Vladimir Putin, just days after welcoming Donald Trump to Beijing.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/xi-jinping-seeks-to-strengthen-ties-with-putin-during-china-visit?traffic_source=rss",
-      "published": "2026-05-19T12:14:53+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "习近平在中国访问期间寻求加强与普京的关系"
-    },
-    {
-      "id": "16e274a3a6a9",
-      "title": "‘China holds the cards’: Why Putin’s visit to Beijing after Trump matters",
-      "summary": "Scant progress in US-China talks bolsters Putin, while for China, hosting back-to-back visits is a diplomatic flex.",
-      "link": "https://www.aljazeera.com/features/2026/5/19/neutral-superpower-china-why-putin-visit-to-beijing-after-trump-matters?traffic_source=rss",
-      "published": "2026-05-19T09:15:24+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "“中国拿着牌” ：为什么普京在特朗普之后访问北京很重要"
     },
     {
       "id": "ce9589607690",
@@ -95,8 +131,7 @@
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "CNBC每日公开赛：债券抛售，市场下跌，石油担忧迫在眉睫—特朗普推迟对伊朗的袭击"
+      "source_category": "business"
     },
     {
       "id": "f5e519cc2d8b",
@@ -107,8 +142,7 @@
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "普京在特朗普考验中国平衡行为的几天后前往北京"
+      "source_category": "business"
     },
     {
       "id": "4968c37a462f",
@@ -119,8 +153,7 @@
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "CNBC的The China Connection时事通讯：特朗普-习近平会晤的三大转变"
+      "source_category": "business"
     },
     {
       "id": "197db8d057ff",
