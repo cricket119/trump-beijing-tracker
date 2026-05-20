@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-20T07:34:15.716696+00:00",
-  "total": 19,
+  "last_updated": "2026-05-20T10:41:04.492245+00:00",
+  "total": 16,
   "articles": [
     {
       "id": "8befde711bff",
       "title": "Xi and Putin to reaffirm ties and talk energy in Beijing after Trump visit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/xi-and-putin-to-reaffirm-ties-and-talk-energy-in-beijing-after-trump-visit",
-      "published": "2026-05-20T07:34:29.188122+00:00",
+      "published": "2026-05-20T10:41:17.335617+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "US reveals case against Chinese shipping container 'cartel' after Trump-Xi summit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/us-reveals-case-against-chinese-shipping-container-cartel-after-trump-xi-summit",
-      "published": "2026-05-20T07:34:29.187979+00:00",
+      "published": "2026-05-20T10:41:17.335469+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -27,16 +27,40 @@
       "title_zh": "美国在特朗普-习近平峰会后披露针对中国集装箱“卡特尔”的案件"
     },
     {
-      "id": "507f6f5ab077",
-      "title": "Hosting Putin after Trump, Xi calls for more 'reasonable global governance'",
+      "id": "b15f65edeaa6",
+      "title": "Xi and Putin back shared 'multipolar' vision in Beijing after Trump visit",
       "summary": "",
-      "link": "https://asia.nikkei.com/politics/international-relations/hosting-putin-after-trump-xi-calls-for-more-reasonable-global-governance",
-      "published": "2026-05-20T07:34:29.187837+00:00",
+      "link": "https://asia.nikkei.com/politics/international-relations/xi-and-putin-back-shared-multipolar-vision-in-beijing-after-trump-visit",
+      "published": "2026-05-20T10:41:17.335267+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
-      "title_zh": "习近平在特朗普之后接待普京，呼吁加强“合理的全球治理”"
+      "title_zh": "习近平和普京在特朗普访问后在北京分享了“多极”愿景"
+    },
+    {
+      "id": "dd997703eca9",
+      "title": "Days After Hosting Trump, Xi Deepens Ties With Putin",
+      "summary": "Meeting President Vladimir V. Putin of Russia in Beijing, China’s leader called for a halt to fighting in the Middle East and took a veiled swipe at the United States.",
+      "link": "https://www.nytimes.com/2026/05/20/world/asia/china-putin-trump-russia-xi.html",
+      "published": "2026-05-20T08:42:58+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "接待特朗普几天后，习近平加深了与普京的关系"
+    },
+    {
+      "id": "7e042728102d",
+      "title": "Chinese supertankers exit Hormuz as Trump, Vance talk up Iran deal",
+      "summary": "Oil prices ease amid the latest comments from the White House, but experts warn they will stay high even after any deal.",
+      "link": "https://www.aljazeera.com/news/2026/5/20/chinese-supertankers-exit-hormuz-as-trump-vance-talk-up-iran-deal?traffic_source=rss",
+      "published": "2026-05-20T07:47:55+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "中国超级油轮作为特朗普退出霍尔木兹，万斯谈论伊朗交易"
     },
     {
       "id": "eff2f8754de3",
@@ -51,16 +75,16 @@
       "title_zh": "中国确认将购买200架波音飞机"
     },
     {
-      "id": "b1a9cc2eabcb",
-      "title": "China’s Xi warns of ‘law of the jungle’ in Putin meeting",
-      "summary": "Russian and Chinese leaders meet days after Donald Trump’s Beijing summit",
+      "id": "32e4d99d7e76",
+      "title": "China’s Xi warns of ‘law of the jungle’ at Putin summit",
+      "summary": "Russian and Chinese leaders promote energy and technology co-operation days after Donald Trump’s Beijing visit",
       "link": "https://www.ft.com/content/abe198be-ddfb-41fa-902c-6d80b13bcece",
       "published": "2026-05-20T05:52:45+00:00",
       "source": "Financial Times",
       "source_color": "#C7A000",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "中国的习近平在普京会议上警告“丛林法则”"
+      "title_zh": "中国习近平在普京峰会上警告“丛林法则”"
     },
     {
       "id": "396f5292715c",
@@ -73,18 +97,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "中国确认订购200架波音飞机，称航空是美国合作的关键领域"
-    },
-    {
-      "id": "01d748b970fb",
-      "title": "Wheat Drops on Lack of Chinese Confirmation of Grain Purchases",
-      "summary": "US wheat futures led grains lower as sentiment soured due to a lack of confirmation from China on the Trump administration’s announcement of billions of dollars in agricultural purchases.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-20/wheat-drops-on-lack-of-chinese-confirmation-of-grain-purchases",
-      "published": "2026-05-20T04:03:08+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "小麦掉落是因为缺乏中国人对谷物采购的确认"
     },
     {
       "id": "e69c89e8466f",
@@ -111,29 +123,6 @@
       "title_zh": "香港市场飙升，地缘政治驱使法国投资者“害怕错过”"
     },
     {
-      "id": "26114dc258d7",
-      "title": "Iran war live: Tehran warns US of ‘surprises’; Xi, Putin meet in Beijing",
-      "summary": "Warning comes after Trump threatened military action against Iran and gave it two to three days to strike a deal.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/5/20/iran-war-live-tehran-warns-of-many-more-surprises-if-conflict-resumes?traffic_source=rss",
-      "published": "2026-05-20T00:00:00+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "伊朗战争现场：德黑兰警告美国“惊喜”;习近平，普京在北京会晤"
-    },
-    {
-      "id": "0c4569922e7b",
-      "title": "Putin meets Xi: Why Russia and China need each other",
-      "summary": "Vladimir Putin’s arrival was announced just a day after United States President Donald Trump left Beijing.",
-      "link": "https://www.aljazeera.com/news/2026/5/19/putin-meets-xi-why-russia-and-china-need-each-other?traffic_source=rss",
-      "published": "2026-05-19T23:07:30+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
       "id": "d7baac2ef7aa",
       "title": "As a Weakened Putin Follows Trump to Beijing, Iran War Offers an Opening",
       "summary": "With the upheaval in the Persian Gulf disrupting oil and gas supplies, Russia is looking to deepen its energy ties to China.",
@@ -154,28 +143,6 @@
       "source_color": "#003580",
       "source_lang": "en",
       "source_category": "asia"
-    },
-    {
-      "id": "933800f06106",
-      "title": "Trump told Taiwan not to 'go independent' - but does it want to?",
-      "summary": "Taiwan independence is the reddest of red lines for China, which claims the island as its own.",
-      "link": "https://www.bbc.com/news/articles/clyp9mk3mrgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-19T02:41:57+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
-      "id": "197db8d057ff",
-      "title": "Trump’s Taiwan Gambit is Already a Gift to China",
-      "summary": "President Trump’s open willingness to hold up a $14 billion Taiwan arms package is a win for Beijing. Now China could be weighing how to keep the weapons on ice for as long as it can.",
-      "link": "https://www.nytimes.com/2026/05/18/world/asia/trump-taiwan-china-weapons.html",
-      "published": "2026-05-18T12:11:49+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
     },
     {
       "id": "50b1bc26ab32",
