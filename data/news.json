@@ -1,25 +1,13 @@
 {
-  "last_updated": "2026-05-20T02:06:16.469293+00:00",
-  "total": 17,
+  "last_updated": "2026-05-20T07:34:15.716696+00:00",
+  "total": 19,
   "articles": [
-    {
-      "id": "62d0ffded113",
-      "title": "Taiwan's Lai marks midpoint of term as Trump and China worries loom",
-      "summary": "",
-      "link": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-s-lai-marks-midpoint-of-term-as-trump-and-china-worries-loom",
-      "published": "2026-05-20T02:06:30.108160+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "随着特朗普和中国的担忧迫在眉睫，台湾的LAI标志着任期的中点"
-    },
     {
       "id": "8befde711bff",
       "title": "Xi and Putin to reaffirm ties and talk energy in Beijing after Trump visit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/xi-and-putin-to-reaffirm-ties-and-talk-energy-in-beijing-after-trump-visit",
-      "published": "2026-05-20T02:06:30.107893+00:00",
+      "published": "2026-05-20T07:34:29.188122+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -31,7 +19,7 @@
       "title": "US reveals case against Chinese shipping container 'cartel' after Trump-Xi summit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/us-reveals-case-against-chinese-shipping-container-cartel-after-trump-xi-summit",
-      "published": "2026-05-20T02:06:30.107741+00:00",
+      "published": "2026-05-20T07:34:29.187979+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -39,16 +27,100 @@
       "title_zh": "美国在特朗普-习近平峰会后披露针对中国集装箱“卡特尔”的案件"
     },
     {
-      "id": "ba172aa70b0f",
-      "title": "Putin to meet Xi for key China summit",
-      "summary": "Russian president arrives in Beijing days after Chinese leader hosted Donald Trump",
+      "id": "507f6f5ab077",
+      "title": "Hosting Putin after Trump, Xi calls for more 'reasonable global governance'",
+      "summary": "",
+      "link": "https://asia.nikkei.com/politics/international-relations/hosting-putin-after-trump-xi-calls-for-more-reasonable-global-governance",
+      "published": "2026-05-20T07:34:29.187837+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "习近平在特朗普之后接待普京，呼吁加强“合理的全球治理”"
+    },
+    {
+      "id": "eff2f8754de3",
+      "title": "China Confirms It Will Buy 200 Boeing Planes",
+      "summary": "The deal, which President Trump announced after last week’s summit, represents the largest single sale of the American company’s aircraft to Beijing in nearly a decade.",
+      "link": "https://www.nytimes.com/2026/05/20/business/china-boeing-planes-summit.html",
+      "published": "2026-05-20T06:54:22+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "中国确认将购买200架波音飞机"
+    },
+    {
+      "id": "b1a9cc2eabcb",
+      "title": "China’s Xi warns of ‘law of the jungle’ in Putin meeting",
+      "summary": "Russian and Chinese leaders meet days after Donald Trump’s Beijing summit",
       "link": "https://www.ft.com/content/abe198be-ddfb-41fa-902c-6d80b13bcece",
-      "published": "2026-05-20T01:48:58+00:00",
+      "published": "2026-05-20T05:52:45+00:00",
       "source": "Financial Times",
       "source_color": "#C7A000",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "普京会见习近平出席重要的中国峰会"
+      "title_zh": "中国的习近平在普京会议上警告“丛林法则”"
+    },
+    {
+      "id": "396f5292715c",
+      "title": "China confirms order for 200 Boeing planes, calls aviation key area for U.S. cooperation",
+      "summary": "China has agreed to buy 200 Boeing jets, its first major order in nearly a decade, U.S. President Donald Trump said last week.",
+      "link": "https://www.cnbc.com/2026/05/20/china-confirms-200-boeing-aircraft-order.html",
+      "published": "2026-05-20T05:22:20+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "中国确认订购200架波音飞机，称航空是美国合作的关键领域"
+    },
+    {
+      "id": "01d748b970fb",
+      "title": "Wheat Drops on Lack of Chinese Confirmation of Grain Purchases",
+      "summary": "US wheat futures led grains lower as sentiment soured due to a lack of confirmation from China on the Trump administration’s announcement of billions of dollars in agricultural purchases.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-20/wheat-drops-on-lack-of-chinese-confirmation-of-grain-purchases",
+      "published": "2026-05-20T04:03:08+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "小麦掉落是因为缺乏中国人对谷物采购的确认"
+    },
+    {
+      "id": "e69c89e8466f",
+      "title": "China’s Xi Jinping, Russian President Vladimir Putin hold talks in Beijing",
+      "summary": "Xi and Putin hold talks just days after US President Donald Trump made an official visit to China.",
+      "link": "https://www.aljazeera.com/news/2026/5/20/chinas-xi-jinping-and-russian-president-vladimir-putin-meet-in-beijing?traffic_source=rss",
+      "published": "2026-05-20T03:34:08+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "中国国家主席习近平与俄罗斯总统普京在北京举行会谈"
+    },
+    {
+      "id": "fdc0a63033db",
+      "title": "Hong Kong market surge, geopolitics drive ‘fear of missing out’ among French investors",
+      "summary": "French investors are warming to Hong Kong again, the city’s finance chief has said, citing a “marked difference” in perceptions since his last visit to Paris two years ago.\nThe shift is driven by Hong Kong’s strong market performance and an improved geopolitical situation, especially following US President Donald Trump’s recent visit to Beijing, Financial Secretary Paul Chan Mo-po told the South China Morning Post on the sidelines of a Paris ministerial conference on terrorism financing.\n“Two...",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3354163/hong-kong-market-surge-geopolitics-drive-fear-missing-out-among-french-investors?utm_source=rss_feed",
+      "published": "2026-05-20T02:37:35+00:00",
+      "source": "SCMP",
+      "source_color": "#003580",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "香港市场飙升，地缘政治驱使法国投资者“害怕错过”"
+    },
+    {
+      "id": "26114dc258d7",
+      "title": "Iran war live: Tehran warns US of ‘surprises’; Xi, Putin meet in Beijing",
+      "summary": "Warning comes after Trump threatened military action against Iran and gave it two to three days to strike a deal.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/20/iran-war-live-tehran-warns-of-many-more-surprises-if-conflict-resumes?traffic_source=rss",
+      "published": "2026-05-20T00:00:00+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "伊朗战争现场：德黑兰警告美国“惊喜”;习近平，普京在北京会晤"
     },
     {
       "id": "0c4569922e7b",
@@ -59,32 +131,7 @@
       "source": "Al Jazeera",
       "source_color": "#009B77",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "普京会见习近平：为什么俄罗斯和中国需要彼此"
-    },
-    {
-      "id": "2c7867c4ad36",
-      "title": "FirstFT: Trump claims Xi promised not to send weapons to Tehran",
-      "summary": "Also in today’s newsletter: Google unveils new version of AI model and Japan and South Korea agree to deepen energy co-operation",
-      "link": "https://www.ft.com/content/e4e6c218-b951-4b84-8645-86de5ebbfa3b",
-      "published": "2026-05-19T21:35:58+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "FirstFT ：特朗普声称习近平承诺不向德黑兰运送武器"
-    },
-    {
-      "id": "c5577ac2d718",
-      "title": "Trump and sons granted ‘forever’ immunity from existing tax audits",
-      "summary": "Justice department deal comes day after government set up $1.8bn fund to pay president’s allies hit by alleged ‘lawfare’",
-      "link": "https://www.ft.com/content/57334fae-a475-4ab0-a202-8df3766927e4",
-      "published": "2026-05-19T21:21:38+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普及其儿子获得“永远”免受现有税务审计的豁免权"
+      "source_category": "international"
     },
     {
       "id": "d7baac2ef7aa",
@@ -95,20 +142,7 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "随着被削弱的普京跟随特朗普来到北京，伊朗战争提供了一个开放"
-    },
-    {
-      "id": "a6cd26b2cb3c",
-      "title": "Trump claims Xi will not arm Iran as strike threat looms",
-      "summary": "US president warns Tehran has ‘two or three days’ to reach a deal and reopen the Strait of Hormuz",
-      "link": "https://www.ft.com/content/95b98e06-3a04-4cfa-9722-f8bd27a5109b",
-      "published": "2026-05-19T17:35:01+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普声称习近平不会武装伊朗，因为罢工威胁迫在眉睫"
+      "source_category": "international"
     },
     {
       "id": "ce9589607690",
@@ -119,8 +153,7 @@
       "source": "SCMP",
       "source_color": "#003580",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "约翰·李说，随着习特朗普峰会标志着“更加稳定” ，香港将从中受益"
+      "source_category": "asia"
     },
     {
       "id": "933800f06106",
@@ -132,17 +165,6 @@
       "source_color": "#BB1919",
       "source_lang": "en",
       "source_category": "international"
-    },
-    {
-      "id": "f5e519cc2d8b",
-      "title": "Putin heads to Beijing days after Trump in test of China's balancing act",
-      "summary": "Beijing walks into the summit with the stronger hand while Moscow seeks reassurance that China has not drifted toward Washington after Trump's visit.",
-      "link": "https://www.cnbc.com/2026/05/19/putin-russia-visit-china-beijing-trump-summit-ukraine-war-energy-shock-.html",
-      "published": "2026-05-19T01:27:24+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
     },
     {
       "id": "197db8d057ff",
