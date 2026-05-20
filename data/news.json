@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T21:10:46.787214+00:00",
+  "last_updated": "2026-05-20T02:06:16.469293+00:00",
   "total": 17,
   "articles": [
     {
@@ -7,7 +7,7 @@
       "title": "Taiwan's Lai marks midpoint of term as Trump and China worries loom",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-s-lai-marks-midpoint-of-term-as-trump-and-china-worries-loom",
-      "published": "2026-05-19T21:10:59.864988+00:00",
+      "published": "2026-05-20T02:06:30.108160+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,12 +19,72 @@
       "title": "Xi and Putin to reaffirm ties and talk energy in Beijing after Trump visit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/xi-and-putin-to-reaffirm-ties-and-talk-energy-in-beijing-after-trump-visit",
-      "published": "2026-05-19T21:10:59.864703+00:00",
+      "published": "2026-05-20T02:06:30.107893+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "习近平和普京在特朗普访问后重申在北京的关系和谈话精力"
+    },
+    {
+      "id": "c0b5fe306189",
+      "title": "US reveals case against Chinese shipping container 'cartel' after Trump-Xi summit",
+      "summary": "",
+      "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/us-reveals-case-against-chinese-shipping-container-cartel-after-trump-xi-summit",
+      "published": "2026-05-20T02:06:30.107741+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "美国在特朗普-习近平峰会后披露针对中国集装箱“卡特尔”的案件"
+    },
+    {
+      "id": "ba172aa70b0f",
+      "title": "Putin to meet Xi for key China summit",
+      "summary": "Russian president arrives in Beijing days after Chinese leader hosted Donald Trump",
+      "link": "https://www.ft.com/content/abe198be-ddfb-41fa-902c-6d80b13bcece",
+      "published": "2026-05-20T01:48:58+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "普京会见习近平出席重要的中国峰会"
+    },
+    {
+      "id": "0c4569922e7b",
+      "title": "Putin meets Xi: Why Russia and China need each other",
+      "summary": "Vladimir Putin’s arrival was announced just a day after United States President Donald Trump left Beijing.",
+      "link": "https://www.aljazeera.com/news/2026/5/19/putin-meets-xi-why-russia-and-china-need-each-other?traffic_source=rss",
+      "published": "2026-05-19T23:07:30+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "普京会见习近平：为什么俄罗斯和中国需要彼此"
+    },
+    {
+      "id": "2c7867c4ad36",
+      "title": "FirstFT: Trump claims Xi promised not to send weapons to Tehran",
+      "summary": "Also in today’s newsletter: Google unveils new version of AI model and Japan and South Korea agree to deepen energy co-operation",
+      "link": "https://www.ft.com/content/e4e6c218-b951-4b84-8645-86de5ebbfa3b",
+      "published": "2026-05-19T21:35:58+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "FirstFT ：特朗普声称习近平承诺不向德黑兰运送武器"
+    },
+    {
+      "id": "c5577ac2d718",
+      "title": "Trump and sons granted ‘forever’ immunity from existing tax audits",
+      "summary": "Justice department deal comes day after government set up $1.8bn fund to pay president’s allies hit by alleged ‘lawfare’",
+      "link": "https://www.ft.com/content/57334fae-a475-4ab0-a202-8df3766927e4",
+      "published": "2026-05-19T21:21:38+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普及其儿子获得“永远”免受现有税务审计的豁免权"
     },
     {
       "id": "d7baac2ef7aa",
@@ -51,42 +111,6 @@
       "title_zh": "特朗普声称习近平不会武装伊朗，因为罢工威胁迫在眉睫"
     },
     {
-      "id": "7f2ad3da6547",
-      "title": "Trump says Xi assured him China would not send weapons to Iran",
-      "summary": "US president also says he could again strike Iran if progress on ceasefire is not made within days.",
-      "link": "https://www.aljazeera.com/news/2026/5/19/trump-says-xi-assured-him-china-would-not-send-weapons-to-iran?traffic_source=rss",
-      "published": "2026-05-19T16:53:42+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普称习近平向他保证中国不会向伊朗运送武器"
-    },
-    {
-      "id": "317993e2b392",
-      "title": "Putin and Xi to discuss huge gas project at China summit",
-      "summary": "Talks on Power of Siberia 2 pipeline come just days after Donald Trump’s visit to Beijing",
-      "link": "https://www.ft.com/content/7612a618-fbaf-4e3e-8e55-0cf5cc88d132",
-      "published": "2026-05-19T15:56:57+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "普京和习近平将在中国峰会上讨论大型天然气项目"
-    },
-    {
-      "id": "60e7bba81281",
-      "title": "Xi told Trump that Putin might ‘regret’ invasion of Ukraine",
-      "summary": "US president also suggested they should co-operate with Russian leader against the International Criminal Court",
-      "link": "https://www.ft.com/content/567c57b0-6346-43e6-9d14-840a793b4d1d",
-      "published": "2026-05-19T15:30:37+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "习近平告诉特朗普，普京可能会“后悔”入侵乌克兰"
-    },
-    {
       "id": "ce9589607690",
       "title": "Hong Kong set to benefit as Xi-Trump summit signals ‘more stability’, John Lee says",
       "summary": "Hong Kong’s economy and trade with the United States will benefit from greater stability and certainty brought by the summit between Chinese President Xi Jinping and his US counterpart Donald Trump, the city’s leader has said.\n“Hong Kong is an externally oriented economy, susceptible to the influence of the main market,” Chief Executive John Lee Ka-chiu said on Tuesday. “More certainty and stability in the market will greatly reduce the impact of external turbulence on Hong Kong.”\nLast week’s...",
@@ -107,20 +131,7 @@
       "source": "BBC",
       "source_color": "#BB1919",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普告诉台湾不要“独立” -但它想这样做吗？"
-    },
-    {
-      "id": "a29f38c2bfa0",
-      "title": "CNBC Daily Open: Bonds sell-off, markets dip, oil worries loom — and Trump postpones Iran attack",
-      "summary": "Asia markets were mixed ahead of the highly anticipated Trump-Xi talks.",
-      "link": "https://www.cnbc.com/2026/05/19/trump-iran-attack-bonds-stocks-putin-xi-oil-energy.html",
-      "published": "2026-05-19T01:55:30+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "CNBC每日公开赛：债券抛售，市场下跌，石油担忧迫在眉睫—特朗普推迟对伊朗的袭击"
+      "source_category": "international"
     },
     {
       "id": "f5e519cc2d8b",
@@ -128,17 +139,6 @@
       "summary": "Beijing walks into the summit with the stronger hand while Moscow seeks reassurance that China has not drifted toward Washington after Trump's visit.",
       "link": "https://www.cnbc.com/2026/05/19/putin-russia-visit-china-beijing-trump-summit-ukraine-war-energy-shock-.html",
       "published": "2026-05-19T01:27:24+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
-    },
-    {
-      "id": "4968c37a462f",
-      "title": "CNBC's The China Connection newsletter: Three major shifts from the Trump-Xi meeting",
-      "summary": "The U.S. and Chinese readouts agree on one phrase: constructive strategic stability.",
-      "link": "https://www.cnbc.com/2026/05/18/three-major-shifts-from-the-trump-xi-meeting.html",
-      "published": "2026-05-18T23:00:01+00:00",
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
