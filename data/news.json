@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-20T18:09:29.526106+00:00",
-  "total": 15,
+  "last_updated": "2026-05-20T21:31:25.694019+00:00",
+  "total": 18,
   "articles": [
     {
       "id": "8befde711bff",
       "title": "Xi and Putin to reaffirm ties and talk energy in Beijing after Trump visit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/xi-and-putin-to-reaffirm-ties-and-talk-energy-in-beijing-after-trump-visit",
-      "published": "2026-05-20T18:09:43.944597+00:00",
+      "published": "2026-05-20T21:31:38.853076+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "US reveals case against Chinese shipping container 'cartel' after Trump-Xi summit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/us-reveals-case-against-chinese-shipping-container-cartel-after-trump-xi-summit",
-      "published": "2026-05-20T18:09:43.944450+00:00",
+      "published": "2026-05-20T21:31:38.852939+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -31,12 +31,48 @@
       "title": "Xi and Putin back shared 'multipolar' vision in Beijing after Trump visit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/xi-and-putin-back-shared-multipolar-vision-in-beijing-after-trump-visit",
-      "published": "2026-05-20T18:09:43.944253+00:00",
+      "published": "2026-05-20T21:31:38.852762+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "习近平和普京在特朗普访问后在北京分享了“多极”愿景"
+    },
+    {
+      "id": "b32fd0632d1b",
+      "title": "Analysis: US leaves no paper trail of Xi-Trump exchanges on Taiwan",
+      "summary": "",
+      "link": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-us-leaves-no-paper-trail-of-xi-trump-exchanges-on-taiwan",
+      "published": "2026-05-20T21:31:38.852587+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "分析：美国在台湾没有留下习特交流的文件痕迹"
+    },
+    {
+      "id": "a480d4140df0",
+      "title": "What’s the significance of the Russian president’s visit to China?",
+      "summary": "Xi Jinping hosts Vladimir Putin a week after Donald Trump was in Beijing.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/5/20/whats-the-significance-of-the-russian-presidents-visit-to-china?traffic_source=rss",
+      "published": "2026-05-20T19:29:17+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "俄罗斯总统访华的意义何在？"
+    },
+    {
+      "id": "b0ba8d2a5f0a",
+      "title": "China and Russia unite after Trump’s Beijing visit",
+      "summary": "Just days after Donald Trump’s visit to Beijing, Vladimir Putin arrived in China for a summit with Xi Jinping.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/20/china-and-russia-unite-after-trumps-beijing-visit?traffic_source=rss",
+      "published": "2026-05-20T19:25:15+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普访华后中俄团结一致"
     },
     {
       "id": "635fa40c7fa1",
@@ -95,8 +131,7 @@
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "中国确认订购200架波音飞机，称航空是美国合作的关键领域"
+      "source_category": "business"
     },
     {
       "id": "fdc0a63033db",
@@ -107,8 +142,7 @@
       "source": "SCMP",
       "source_color": "#003580",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "香港市场飙升，地缘政治驱使法国投资者“害怕错过”"
+      "source_category": "asia"
     },
     {
       "id": "d7baac2ef7aa",
@@ -119,8 +153,7 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "随着被削弱的普京跟随特朗普来到北京，伊朗战争提供了一个开放"
+      "source_category": "international"
     },
     {
       "id": "ce9589607690",
