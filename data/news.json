@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-20T14:32:29.687718+00:00",
-  "total": 17,
+  "last_updated": "2026-05-20T18:09:29.526106+00:00",
+  "total": 15,
   "articles": [
     {
       "id": "8befde711bff",
       "title": "Xi and Putin to reaffirm ties and talk energy in Beijing after Trump visit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/xi-and-putin-to-reaffirm-ties-and-talk-energy-in-beijing-after-trump-visit",
-      "published": "2026-05-20T14:32:41.993375+00:00",
+      "published": "2026-05-20T18:09:43.944597+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "US reveals case against Chinese shipping container 'cartel' after Trump-Xi summit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/us-reveals-case-against-chinese-shipping-container-cartel-after-trump-xi-summit",
-      "published": "2026-05-20T14:32:41.993231+00:00",
+      "published": "2026-05-20T18:09:43.944450+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -31,12 +31,24 @@
       "title": "Xi and Putin back shared 'multipolar' vision in Beijing after Trump visit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/xi-and-putin-back-shared-multipolar-vision-in-beijing-after-trump-visit",
-      "published": "2026-05-20T14:32:41.993027+00:00",
+      "published": "2026-05-20T18:09:43.944253+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "习近平和普京在特朗普访问后在北京分享了“多极”愿景"
+    },
+    {
+      "id": "635fa40c7fa1",
+      "title": "Days After Hosting Trump, Xi Serves Up Tea and Smiles to Putin",
+      "summary": "During a state visit, the Chinese and Russian leaders cast themselves as a stabilizing force in a world thrown into tumult by Washington.",
+      "link": "https://www.nytimes.com/2026/05/20/world/asia/china-putin-trump-russia-xi.html",
+      "published": "2026-05-20T16:50:18+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "接待特朗普几天后，习近平为普京送茶并微笑"
     },
     {
       "id": "7baaf0d4aa3e",
@@ -49,30 +61,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "在特朗普的中国之行中，台湾是前沿和中心—但没有参加习近平与普京的会晤"
-    },
-    {
-      "id": "dd997703eca9",
-      "title": "Days After Hosting Trump, Xi Deepens Ties With Putin",
-      "summary": "China’s leader Xi Jinping called for a halt to fighting in the Middle East, ignored Russia’s war in Ukraine and took a veiled swipe at the United States.",
-      "link": "https://www.nytimes.com/2026/05/20/world/asia/china-putin-trump-russia-xi.html",
-      "published": "2026-05-20T12:17:59+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "接待特朗普几天后，习近平加深了与普京的关系"
-    },
-    {
-      "id": "346c0126bbb3",
-      "title": "Why is China's Xi Hosting Russia's Putin After Trump Visit? | The Pulse 5/20",
-      "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops.\n\nToday's guests:\nBhanu Baweja, UBS Investment Bank, Chief Strategist; Pierre Wunsch, National Bank of Belgium, Governor; Sebastian Mallaby, Council on Foreign Relations, Senior Fellow; Jed Laskowitz, JPMorgan Asset Management, Private Markets and Customized Solutions Global Head.  (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-20/the-pulse-5-20-2026-video",
-      "published": "2026-05-20T11:56:40+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普访华后，中国习近平为何接待俄罗斯普京？ | The Pulse 5/20"
     },
     {
       "id": "2be69bb0ae61",
@@ -111,18 +99,6 @@
       "title_zh": "中国确认订购200架波音飞机，称航空是美国合作的关键领域"
     },
     {
-      "id": "aad40d0eb2cd",
-      "title": "Wheat Swings on Lack of Chinese Confirmation of Grain Purchases",
-      "summary": "Wheat futures in Chicago swung between gains and losses as traders assessed the lack of confirmation from China on the Trump administration’s announcement of billions of dollars in agricultural purchases.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-20/wheat-drops-on-lack-of-chinese-confirmation-of-grain-purchases",
-      "published": "2026-05-20T04:03:08+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "缺乏中国人对谷物采购的确认导致小麦摆动"
-    },
-    {
       "id": "fdc0a63033db",
       "title": "Hong Kong market surge, geopolitics drive ‘fear of missing out’ among French investors",
       "summary": "French investors are warming to Hong Kong again, the city’s finance chief has said, citing a “marked difference” in perceptions since his last visit to Paris two years ago.\nThe shift was driven by Hong Kong’s strong market performance and an improved geopolitical situation, especially following US President Donald Trump’s recent visit to Beijing, Financial Secretary Paul Chan Mo-po told the South China Morning Post on the sidelines of a Paris ministerial conference on terrorism financing.\n“Two...",
@@ -131,7 +107,8 @@
       "source": "SCMP",
       "source_color": "#003580",
       "source_lang": "en",
-      "source_category": "asia"
+      "source_category": "asia",
+      "title_zh": "香港市场飙升，地缘政治驱使法国投资者“害怕错过”"
     },
     {
       "id": "d7baac2ef7aa",
@@ -142,7 +119,8 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international"
+      "source_category": "international",
+      "title_zh": "随着被削弱的普京跟随特朗普来到北京，伊朗战争提供了一个开放"
     },
     {
       "id": "ce9589607690",
