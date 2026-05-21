@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T10:57:49.063517+00:00",
+  "last_updated": "2026-05-21T14:37:16.452737+00:00",
   "total": 13,
   "articles": [
     {
@@ -7,7 +7,7 @@
       "title": "Xi and Putin back shared 'multipolar' vision in Beijing after Trump visit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/xi-and-putin-back-shared-multipolar-vision-in-beijing-after-trump-visit",
-      "published": "2026-05-21T10:58:01.519497+00:00",
+      "published": "2026-05-21T14:37:29.660180+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "Analysis: US leaves no paper trail of Xi-Trump exchanges on Taiwan",
       "summary": "",
       "link": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-us-leaves-no-paper-trail-of-xi-trump-exchanges-on-taiwan",
-      "published": "2026-05-21T10:58:01.519332+00:00",
+      "published": "2026-05-21T14:37:29.660028+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -31,7 +31,7 @@
       "title": "China chides US after Trump says he will talk to Taiwan's Lai",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/china-chides-us-after-trump-says-he-will-talk-to-taiwan-s-lai",
-      "published": "2026-05-21T10:58:01.518966+00:00",
+      "published": "2026-05-21T14:37:29.659708+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -43,7 +43,7 @@
       "title": "Trump Again Says He Will Talk to Taiwan’s Leader, Risking China’s Anger",
       "summary": "President Lai Ching-te of Taiwan said he would be happy to speak with President Trump, a move that would defy U.S. diplomatic protocol and infuriate China.",
       "link": "https://www.nytimes.com/2026/05/21/world/asia/trump-taiwan-president-call-weapons-sale-china.html",
-      "published": "2026-05-21T10:36:32+00:00",
+      "published": "2026-05-21T14:07:20+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
@@ -51,16 +51,28 @@
       "title_zh": "特朗普再次表示他将与台湾领导人会谈，冒着中国愤怒的风险"
     },
     {
-      "id": "987b5cc549f7",
-      "title": "Taiwan’s President Lai says he would be happy to speak with Donald Trump",
-      "summary": "US and Taiwan leaders have not spoken since Washington shifted diplomatic recognition from Taipei to Beijing in 1979.",
-      "link": "https://www.aljazeera.com/news/2026/5/21/taiwans-president-lai-says-he-would-be-happy-to-speak-with-donald-trump?traffic_source=rss",
-      "published": "2026-05-21T07:41:05+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
+      "id": "05ea9b6a82d7",
+      "title": "Trump says he will speak to Taiwan's president in break from protocol",
+      "summary": "It comes as the US weighs whether to proceed with a $14bn arms sales to Taiwan, which China claims as its own.",
+      "link": "https://www.bbc.com/news/articles/c78qv3w4xzqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-21T13:01:32+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "台湾总统赖说，他很乐意与唐纳德·特朗普交谈"
+      "title_zh": "特朗普表示，他将在中断协议时与台湾总统交谈"
+    },
+    {
+      "id": "ef372cb9dcc6",
+      "title": "Beijing holds up proposed visit by Pentagon’s top policy official",
+      "summary": "Also in today’s newsletter, how will Donald Trump deploy his $1.8bn ‘slush fund’?",
+      "link": "https://www.ft.com/content/3ca18f04-a2d7-47a8-a1f7-47a9f26eba5e",
+      "published": "2026-05-21T13:00:06+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "北京阻挠五角大楼最高政策官员提议的访问"
     },
     {
       "id": "635fa40c7fa1",
@@ -73,18 +85,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "接待特朗普几天后，习近平为普京送茶并微笑"
-    },
-    {
-      "id": "2be69bb0ae61",
-      "title": "Xi basks in spotlight as he hosts Putin days after Trump",
-      "summary": "Two presidential visits days apart is how Xi Jinping wants the world to see him: talking to everyone, tied to no-one.",
-      "link": "https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-20T11:42:44+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "习近平在特朗普执政几天后接待普京，沐浴在聚光灯下"
     },
     {
       "id": "eff2f8754de3",
