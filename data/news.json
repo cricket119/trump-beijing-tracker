@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T17:49:59.021939+00:00",
+  "last_updated": "2026-05-21T21:21:07.790525+00:00",
   "total": 12,
   "articles": [
     {
@@ -7,7 +7,7 @@
       "title": "Analysis: US leaves no paper trail of Xi-Trump exchanges on Taiwan",
       "summary": "",
       "link": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-us-leaves-no-paper-trail-of-xi-trump-exchanges-on-taiwan",
-      "published": "2026-05-21T17:50:12.830110+00:00",
+      "published": "2026-05-21T21:21:21.548092+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "China chides US after Trump says he will talk to Taiwan's Lai",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/china-chides-us-after-trump-says-he-will-talk-to-taiwan-s-lai",
-      "published": "2026-05-21T17:50:12.829772+00:00",
+      "published": "2026-05-21T21:21:21.547736+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -27,11 +27,23 @@
       "title_zh": "在特朗普表示将与台湾的Lai会谈后，中国指责我们"
     },
     {
+      "id": "f018e20c30e0",
+      "title": "Trump abruptly postpones AI order after White House infighting",
+      "summary": "President refuses to approve order hours before planned signing due to fears US innovators will lose out to China",
+      "link": "https://www.ft.com/content/14213cb0-8d11-4118-bac0-12a403696185",
+      "published": "2026-05-21T18:45:38+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普在白宫内斗后突然推迟人工智能秩序"
+    },
+    {
       "id": "e551311d1306",
       "title": "Trump Again Says He Will Talk to Taiwan’s Leader, Risking China’s Anger",
       "summary": "President Lai Ching-te of Taiwan said he would be happy to speak with President Trump, a move that would defy U.S. diplomatic protocol and infuriate China.",
       "link": "https://www.nytimes.com/2026/05/21/world/asia/trump-taiwan-president-call-weapons-sale-china.html",
-      "published": "2026-05-21T15:36:19+00:00",
+      "published": "2026-05-21T15:36:20+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
@@ -49,18 +61,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "特朗普表示，他将在中断协议时与台湾总统交谈"
-    },
-    {
-      "id": "ef372cb9dcc6",
-      "title": "Beijing holds up proposed visit by Pentagon’s top policy official",
-      "summary": "Also in today’s newsletter, how will Donald Trump deploy his $1.8bn ‘slush fund’?",
-      "link": "https://www.ft.com/content/3ca18f04-a2d7-47a8-a1f7-47a9f26eba5e",
-      "published": "2026-05-21T13:00:06+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "北京阻挠五角大楼最高政策官员提议的访问"
     },
     {
       "id": "635fa40c7fa1",
