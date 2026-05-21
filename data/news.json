@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T07:40:41.220678+00:00",
+  "last_updated": "2026-05-21T10:57:49.063517+00:00",
   "total": 13,
   "articles": [
     {
@@ -7,7 +7,7 @@
       "title": "Xi and Putin back shared 'multipolar' vision in Beijing after Trump visit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/xi-and-putin-back-shared-multipolar-vision-in-beijing-after-trump-visit",
-      "published": "2026-05-21T07:40:54.543979+00:00",
+      "published": "2026-05-21T10:58:01.519497+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "Analysis: US leaves no paper trail of Xi-Trump exchanges on Taiwan",
       "summary": "",
       "link": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-us-leaves-no-paper-trail-of-xi-trump-exchanges-on-taiwan",
-      "published": "2026-05-21T07:40:54.543819+00:00",
+      "published": "2026-05-21T10:58:01.519332+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -27,16 +27,40 @@
       "title_zh": "分析：美国在台湾没有留下习特交流的文件痕迹"
     },
     {
-      "id": "a480d4140df0",
-      "title": "What’s the significance of the Russian president’s visit to China?",
-      "summary": "Xi Jinping hosts Vladimir Putin a week after Donald Trump was in Beijing.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/5/20/whats-the-significance-of-the-russian-presidents-visit-to-china?traffic_source=rss",
-      "published": "2026-05-20T19:29:17+00:00",
+      "id": "1a59d0d5bc57",
+      "title": "China chides US after Trump says he will talk to Taiwan's Lai",
+      "summary": "",
+      "link": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/china-chides-us-after-trump-says-he-will-talk-to-taiwan-s-lai",
+      "published": "2026-05-21T10:58:01.518966+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "在特朗普表示将与台湾的Lai会谈后，中国指责我们"
+    },
+    {
+      "id": "e551311d1306",
+      "title": "Trump Again Says He Will Talk to Taiwan’s Leader, Risking China’s Anger",
+      "summary": "President Lai Ching-te of Taiwan said he would be happy to speak with President Trump, a move that would defy U.S. diplomatic protocol and infuriate China.",
+      "link": "https://www.nytimes.com/2026/05/21/world/asia/trump-taiwan-president-call-weapons-sale-china.html",
+      "published": "2026-05-21T10:36:32+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普再次表示他将与台湾领导人会谈，冒着中国愤怒的风险"
+    },
+    {
+      "id": "987b5cc549f7",
+      "title": "Taiwan’s President Lai says he would be happy to speak with Donald Trump",
+      "summary": "US and Taiwan leaders have not spoken since Washington shifted diplomatic recognition from Taipei to Beijing in 1979.",
+      "link": "https://www.aljazeera.com/news/2026/5/21/taiwans-president-lai-says-he-would-be-happy-to-speak-with-donald-trump?traffic_source=rss",
+      "published": "2026-05-21T07:41:05+00:00",
       "source": "Al Jazeera",
       "source_color": "#009B77",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "俄罗斯总统访华的意义何在？"
+      "title_zh": "台湾总统赖说，他很乐意与唐纳德·特朗普交谈"
     },
     {
       "id": "635fa40c7fa1",
@@ -85,30 +109,6 @@
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "香港市场飙升，地缘政治驱使法国投资者“害怕错过”"
-    },
-    {
-      "id": "d7baac2ef7aa",
-      "title": "As a Weakened Putin Follows Trump to Beijing, Iran War Offers an Opening",
-      "summary": "With the upheaval in the Persian Gulf disrupting oil and gas supplies, Russia is looking to deepen its energy ties to China.",
-      "link": "https://www.nytimes.com/2026/05/19/world/europe/putin-china-state-visit.html",
-      "published": "2026-05-19T18:04:31+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "随着被削弱的普京跟随特朗普来到北京，伊朗战争提供了一个开放"
-    },
-    {
-      "id": "ce9589607690",
-      "title": "Hong Kong set to benefit as Xi-Trump summit signals ‘more stability’, John Lee says",
-      "summary": "Hong Kong’s economy and trade with the United States will benefit from greater stability and certainty brought by the summit between Chinese President Xi Jinping and his US counterpart Donald Trump, the city’s leader has said.\n“Hong Kong is an externally oriented economy, susceptible to the influence of the main market,” Chief Executive John Lee Ka-chiu said on Tuesday. “More certainty and stability in the market will greatly reduce the impact of external turbulence on Hong Kong.”\nLast week’s...",
-      "link": "https://www.scmp.com/news/hong-kong/politics/article/3354047/hong-kong-set-benefit-xi-trump-summit-signals-more-stability-john-lee-says?utm_source=rss_feed",
-      "published": "2026-05-19T04:23:40+00:00",
-      "source": "SCMP",
-      "source_color": "#003580",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "约翰·李说，随着习特朗普峰会标志着“更加稳定” ，香港将从中受益"
     },
     {
       "id": "50b1bc26ab32",
