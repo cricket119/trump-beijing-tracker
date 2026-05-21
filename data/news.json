@@ -1,25 +1,13 @@
 {
-  "last_updated": "2026-05-21T02:05:35.064274+00:00",
-  "total": 17,
+  "last_updated": "2026-05-21T07:40:41.220678+00:00",
+  "total": 13,
   "articles": [
-    {
-      "id": "c0b5fe306189",
-      "title": "US reveals case against Chinese shipping container 'cartel' after Trump-Xi summit",
-      "summary": "",
-      "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/us-reveals-case-against-chinese-shipping-container-cartel-after-trump-xi-summit",
-      "published": "2026-05-21T02:05:47.719140+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "美国在特朗普-习近平峰会后披露针对中国集装箱“卡特尔”的案件"
-    },
     {
       "id": "b15f65edeaa6",
       "title": "Xi and Putin back shared 'multipolar' vision in Beijing after Trump visit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/xi-and-putin-back-shared-multipolar-vision-in-beijing-after-trump-visit",
-      "published": "2026-05-21T02:05:47.719016+00:00",
+      "published": "2026-05-21T07:40:54.543979+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -31,36 +19,12 @@
       "title": "Analysis: US leaves no paper trail of Xi-Trump exchanges on Taiwan",
       "summary": "",
       "link": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-us-leaves-no-paper-trail-of-xi-trump-exchanges-on-taiwan",
-      "published": "2026-05-21T02:05:47.718885+00:00",
+      "published": "2026-05-21T07:40:54.543819+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "分析：美国在台湾没有留下习特交流的文件痕迹"
-    },
-    {
-      "id": "7baaf0d4aa3e",
-      "title": "Taiwan was front and center during Trump's China trip — but absent from Xi’s meeting with Putin",
-      "summary": "The meetings between China's Xi Jinping and his U.S. and Russian counterparts came just days apart, but there was a stark contrast in tone and content.",
-      "link": "https://www.cnbc.com/2026/05/20/taiwan-was-central-in-xis-meeting-with-trump-but-not-with-putin.html",
-      "published": "2026-05-21T01:25:35+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "在特朗普的中国之行中，台湾是前沿和中心—但没有参加习近平与普京的会晤"
-    },
-    {
-      "id": "627bb3f20b5c",
-      "title": "Pentagon official’s Beijing visit in doubt over $14bn US arms package for Taiwan",
-      "summary": "Chinese government delays greenlight for talks with Elbridge Colby to pressure Trump over new weapons package",
-      "link": "https://www.ft.com/content/aecf40c9-fb61-4958-ae6b-14a471cad680",
-      "published": "2026-05-20T23:12:29+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "五角大楼官员对美国对台湾140亿美元一揽子武器计划的北京访问存有疑问"
     },
     {
       "id": "a480d4140df0",
@@ -73,18 +37,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "俄罗斯总统访华的意义何在？"
-    },
-    {
-      "id": "b0ba8d2a5f0a",
-      "title": "China and Russia unite after Trump’s Beijing visit",
-      "summary": "Just days after Donald Trump’s visit to Beijing, Vladimir Putin arrived in China for a summit with Xi Jinping.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/20/china-and-russia-unite-after-trumps-beijing-visit?traffic_source=rss",
-      "published": "2026-05-20T19:25:15+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普访华后中俄团结一致"
     },
     {
       "id": "635fa40c7fa1",
@@ -131,7 +83,8 @@
       "source": "SCMP",
       "source_color": "#003580",
       "source_lang": "en",
-      "source_category": "asia"
+      "source_category": "asia",
+      "title_zh": "香港市场飙升，地缘政治驱使法国投资者“害怕错过”"
     },
     {
       "id": "d7baac2ef7aa",
@@ -142,7 +95,8 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international"
+      "source_category": "international",
+      "title_zh": "随着被削弱的普京跟随特朗普来到北京，伊朗战争提供了一个开放"
     },
     {
       "id": "ce9589607690",
@@ -153,7 +107,8 @@
       "source": "SCMP",
       "source_color": "#003580",
       "source_lang": "en",
-      "source_category": "asia"
+      "source_category": "asia",
+      "title_zh": "约翰·李说，随着习特朗普峰会标志着“更加稳定” ，香港将从中受益"
     },
     {
       "id": "50b1bc26ab32",
@@ -164,7 +119,8 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official"
+      "source_category": "chinese_official",
+      "title_zh": "在习近平通话后，中国强调台湾是“核心利益的核心” ； “依靠美国独立”的幻想空间只会进一步缩小：专家"
     },
     {
       "id": "2c9f49adac2e",
