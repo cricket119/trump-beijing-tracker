@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T02:07:45.950578+00:00",
+  "last_updated": "2026-05-22T07:35:08.757477+00:00",
   "total": 8,
   "articles": [
     {
@@ -7,7 +7,7 @@
       "title": "China chides US after Trump says he will talk to Taiwan's Lai",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/china-chides-us-after-trump-says-he-will-talk-to-taiwan-s-lai",
-      "published": "2026-05-22T02:08:00.096940+00:00",
+      "published": "2026-05-22T07:35:23.005555+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -15,16 +15,28 @@
       "title_zh": "在特朗普表示将与台湾的Lai会谈后，中国指责我们"
     },
     {
-      "id": "f018e20c30e0",
-      "title": "Trump abruptly postpones AI order after White House infighting",
-      "summary": "President refuses to approve order hours before planned signing due to fears US innovators will lose out to China",
-      "link": "https://www.ft.com/content/14213cb0-8d11-4118-bac0-12a403696185",
-      "published": "2026-05-21T18:45:38+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
+      "id": "44cb3e306f0a",
+      "title": "Leaders Xi, Putin meet over tea; rare earth find in northeast China: SCMP’s 7 highlights",
+      "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing.\n1. Substance for Putin, ‘face’ for Trump as China, Russia deepen strategic alliance\nDays after US President Donald Trump’s visit framed around managing risks, Chinese President Xi Jinping and Russian President Vladimir Putin reached a...",
+      "link": "https://www.scmp.com/news/china/article/3354444/leaders-xi-putin-meet-over-tea-rare-earth-find-northeast-china-scmps-7-highlights?utm_source=rss_feed",
+      "published": "2026-05-22T04:34:12+00:00",
+      "source": "SCMP",
+      "source_color": "#003580",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普在白宫内斗后突然推迟人工智能秩序"
+      "source_category": "asia",
+      "title_zh": "领导人习近平，普京会晤茶叶;在中国东北发现稀土：南华早报的7大亮点"
+    },
+    {
+      "id": "ce037de9d7cf",
+      "title": "In Jab at Trump, Mexico Targets Foreign Election Meddling",
+      "summary": "Mexico is moving to add protections from “foreign interference” in elections. The rules seem aimed at Washington, but they raised concerns about Mexico’s democracy.",
+      "link": "https://www.nytimes.com/2026/05/21/world/americas/mexico-election-interference-trump.html",
+      "published": "2026-05-22T02:23:49+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "在特朗普的抨击中，墨西哥瞄准外国选举干预"
     },
     {
       "id": "e551311d1306",
@@ -37,18 +49,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "特朗普再次表示他将与台湾领导人会谈，冒着中国愤怒的风险"
-    },
-    {
-      "id": "fdc0a63033db",
-      "title": "Hong Kong market surge, geopolitics drive ‘fear of missing out’ among French investors",
-      "summary": "French investors are warming to Hong Kong again, the city’s finance chief has said, citing a “marked difference” in perceptions since his last visit to Paris two years ago.\nThe shift was driven by Hong Kong’s strong market performance and an improved geopolitical situation, especially following US President Donald Trump’s recent visit to Beijing, Financial Secretary Paul Chan Mo-po told the South China Morning Post on the sidelines of a Paris ministerial conference on terrorism financing.\n“Two...",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3354163/hong-kong-market-surge-geopolitics-drive-fear-missing-out-among-french-investors?utm_source=rss_feed",
-      "published": "2026-05-20T02:37:35+00:00",
-      "source": "SCMP",
-      "source_color": "#003580",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "香港市场飙升，地缘政治驱使法国投资者“害怕错过”"
     },
     {
       "id": "50b1bc26ab32",
