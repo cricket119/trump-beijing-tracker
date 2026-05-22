@@ -1,25 +1,13 @@
 {
-  "last_updated": "2026-05-21T21:21:07.790525+00:00",
-  "total": 12,
+  "last_updated": "2026-05-22T02:07:45.950578+00:00",
+  "total": 8,
   "articles": [
-    {
-      "id": "b32fd0632d1b",
-      "title": "Analysis: US leaves no paper trail of Xi-Trump exchanges on Taiwan",
-      "summary": "",
-      "link": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-us-leaves-no-paper-trail-of-xi-trump-exchanges-on-taiwan",
-      "published": "2026-05-21T21:21:21.548092+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "分析：美国在台湾没有留下习特交流的文件痕迹"
-    },
     {
       "id": "1a59d0d5bc57",
       "title": "China chides US after Trump says he will talk to Taiwan's Lai",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/china-chides-us-after-trump-says-he-will-talk-to-taiwan-s-lai",
-      "published": "2026-05-21T21:21:21.547736+00:00",
+      "published": "2026-05-22T02:08:00.096940+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -49,42 +37,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "特朗普再次表示他将与台湾领导人会谈，冒着中国愤怒的风险"
-    },
-    {
-      "id": "05ea9b6a82d7",
-      "title": "Trump says he will speak to Taiwan's president in break from protocol",
-      "summary": "It comes as the US weighs whether to proceed with a $14bn arms sales to Taiwan, which China claims as its own.",
-      "link": "https://www.bbc.com/news/articles/c78qv3w4xzqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-21T13:01:32+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普表示，他将在中断协议时与台湾总统交谈"
-    },
-    {
-      "id": "635fa40c7fa1",
-      "title": "Days After Hosting Trump, Xi Serves Up Tea and Smiles to Putin",
-      "summary": "During a state visit, the Chinese and Russian leaders cast themselves as a stabilizing force in a world thrown into tumult by Washington.",
-      "link": "https://www.nytimes.com/2026/05/20/world/asia/china-putin-trump-russia-xi.html",
-      "published": "2026-05-20T16:50:18+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "接待特朗普几天后，习近平为普京送茶并微笑"
-    },
-    {
-      "id": "eff2f8754de3",
-      "title": "China Confirms It Will Buy 200 Boeing Planes",
-      "summary": "Beijing’s acknowledgment on Wednesday that tariffs were discussed in talks with President Trump signals it was prepared to push back if the U.S. revives duties.",
-      "link": "https://www.nytimes.com/2026/05/20/business/china-boeing-planes-summit.html",
-      "published": "2026-05-20T10:51:47+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "中国确认将购买200架波音飞机"
     },
     {
       "id": "fdc0a63033db",
@@ -131,7 +83,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
     },
     {
       "id": "b279b93e7dae",
@@ -142,7 +95,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
     }
   ]
 }
