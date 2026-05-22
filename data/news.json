@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-05-22T10:41:03.463555+00:00",
-  "total": 8,
+  "last_updated": "2026-05-22T14:13:10.686653+00:00",
+  "total": 9,
   "articles": [
     {
       "id": "1a59d0d5bc57",
       "title": "China chides US after Trump says he will talk to Taiwan's Lai",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/china-chides-us-after-trump-says-he-will-talk-to-taiwan-s-lai",
-      "published": "2026-05-22T10:41:18.479732+00:00",
+      "published": "2026-05-22T14:13:24.507077+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "在特朗普表示将与台湾的Lai会谈后，中国指责我们"
+    },
+    {
+      "id": "5350a6c54c82",
+      "title": "U.S. pushes its AI in China and Asia after Trump-Xi meeting",
+      "summary": "Integrating American AI in Asia is high on the agenda for the U.S., according to a senior official for APEC and economic policy.",
+      "link": "https://www.cnbc.com/2026/05/22/us-china-ai-apec-asia.html",
+      "published": "2026-05-22T11:45:23+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "美国在特朗普-习近平会晤后推动其在中国和亚洲的人工智能"
     },
     {
       "id": "44cb3e306f0a",
