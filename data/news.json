@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-05-23T06:27:42.592546+00:00",
-  "total": 8,
+  "last_updated": "2026-05-23T09:42:49.440620+00:00",
+  "total": 9,
   "articles": [
+    {
+      "id": "0ebaa5bab291",
+      "title": "Trump’s Pursuit of a Partnership With China Raises Concerns in India",
+      "summary": "Secretary of State Marco Rubio has a “gargantuan task” during his visit to Delhi: defuse tensions over President Trump’s anti-India aggression and overtures to China.",
+      "link": "https://www.nytimes.com/2026/05/23/us/politics/trump-rubio-india-china.html",
+      "published": "2026-05-23T09:01:52+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普寻求与中国建立伙伴关系引发印度担忧"
+    },
     {
       "id": "5350a6c54c82",
       "title": "U.S. pushes its AI in China and Asia after Trump-Xi meeting",
