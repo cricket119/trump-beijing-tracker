@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-05-24T16:50:32.125912+00:00",
+  "last_updated": "2026-05-24T20:41:39.628187+00:00",
   "total": 10,
   "articles": [
+    {
+      "id": "c9cd7fa5a049",
+      "title": "Xi railed against Japan’s ‘remilitarisation’ at Trump summit",
+      "summary": "Chinese president became heated when criticising US ally for its increased defence spending",
+      "link": "https://www.ft.com/content/70e922b3-c423-40f2-9c9d-1c64a38e026b",
+      "published": "2026-05-24T18:21:12+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "习近平在特朗普峰会上抨击日本的“再军事化”"
+    },
     {
       "id": "0ebaa5bab291",
       "title": "Trump’s Pursuit of a Partnership With China Raises Concerns in India",
@@ -13,18 +25,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "特朗普寻求与中国建立伙伴关系引发印度担忧"
-    },
-    {
-      "id": "c9cd7fa5a049",
-      "title": "Xi railed against Japan’s ‘remilitarisation’ at Trump summit",
-      "summary": "Chinese president became heated when criticising US ally for its increased defence spending",
-      "link": "https://www.ft.com/content/70e922b3-c423-40f2-9c9d-1c64a38e026b",
-      "published": "2026-05-24T15:06:45+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "习近平在特朗普峰会上抨击日本的“再军事化”"
     },
     {
       "id": "c5128f34494c",
