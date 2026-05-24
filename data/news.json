@@ -1,18 +1,42 @@
 {
-  "last_updated": "2026-05-24T12:57:02.148202+00:00",
-  "total": 8,
+  "last_updated": "2026-05-24T16:50:32.125912+00:00",
+  "total": 10,
   "articles": [
     {
       "id": "0ebaa5bab291",
       "title": "Trump’s Pursuit of a Partnership With China Raises Concerns in India",
       "summary": "Secretary of State Marco Rubio has a “gargantuan task” during his visit to Delhi: defuse tensions over President Trump’s anti-India aggression and overtures to China.",
       "link": "https://www.nytimes.com/2026/05/23/us/politics/trump-rubio-india-china.html",
-      "published": "2026-05-23T14:01:33+00:00",
+      "published": "2026-05-24T16:27:49+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "特朗普寻求与中国建立伙伴关系引发印度担忧"
+    },
+    {
+      "id": "c9cd7fa5a049",
+      "title": "Xi railed against Japan’s ‘remilitarisation’ at Trump summit",
+      "summary": "Chinese president became heated when criticising US ally for its increased defence spending",
+      "link": "https://www.ft.com/content/70e922b3-c423-40f2-9c9d-1c64a38e026b",
+      "published": "2026-05-24T15:06:45+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "习近平在特朗普峰会上抨击日本的“再军事化”"
+    },
+    {
+      "id": "c5128f34494c",
+      "title": "Trump Mulls Arms Sale to Taiwan, Will Speak to President",
+      "summary": "President Donald Trump indicated he would speak directly with Taiwanese President Lai Ching-te after pausing a $14 billion sale of arms to the country in a move that would risk disrupting newly stabilized ties between the US and China. Ambassador Alexander Yui, Taiwan's representative to the U.S. joined David Gura, Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-24/trump-mulls-arms-sale-to-taiwan-will-speak-to-president-video",
+      "published": "2026-05-24T15:00:10+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普考虑向台湾出售武器，将与总统交谈"
     },
     {
       "id": "009c422850c5",
