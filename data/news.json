@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-25T02:12:29.556444+00:00",
-  "total": 13,
+  "last_updated": "2026-05-25T08:11:00.617315+00:00",
+  "total": 9,
   "articles": [
     {
       "id": "75e03752923d",
@@ -27,18 +27,6 @@
       "title_zh": "古巴感谢中国在人道主义状况恶化的情况下运送大米"
     },
     {
-      "id": "f1709e7f7e96",
-      "title": "FirstFT: Xi Jinping lambasted Japan’s ‘remilitarisation’ at Donald Trump summit",
-      "summary": "Also in today’s newsletter: Trump says US will not rush deal with Iran, and Russia pounds Ukraine with hypersonic ‘Oreshnik’ missile",
-      "link": "https://www.ft.com/content/66776a35-908c-4242-9468-19bf7feaa474",
-      "published": "2026-05-24T21:27:35+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "FirstFT ：习近平在唐纳德特朗普峰会上抨击日本的“重新军事化”"
-    },
-    {
       "id": "c9cd7fa5a049",
       "title": "Xi railed against Japan’s ‘remilitarisation’ at Trump summit",
       "summary": "Chinese president became heated when criticising US ally for its increased defence spending",
@@ -63,18 +51,6 @@
       "title_zh": "特朗普寻求与中国建立伙伴关系引发印度担忧"
     },
     {
-      "id": "c5128f34494c",
-      "title": "Trump Mulls Arms Sale to Taiwan, Will Speak to President",
-      "summary": "President Donald Trump indicated he would speak directly with Taiwanese President Lai Ching-te after pausing a $14 billion sale of arms to the country in a move that would risk disrupting newly stabilized ties between the US and China. Ambassador Alexander Yui, Taiwan's representative to the U.S. joined David Gura, Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-24/trump-mulls-arms-sale-to-taiwan-will-speak-to-president-video",
-      "published": "2026-05-24T15:00:10+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普考虑向台湾出售武器，将与总统交谈"
-    },
-    {
       "id": "009c422850c5",
       "title": "Three signs from APEC that the U.S. and China remain far apart on trade",
       "summary": "U.S. and Chinese officials have met and spoken publicly about differing priorities since the Trump-Xi summit concluded in Beijing last week.",
@@ -85,30 +61,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "来自亚太经合组织的三个迹象表明，美国和中国在贸易方面仍然存在很大分歧"
-    },
-    {
-      "id": "5350a6c54c82",
-      "title": "U.S. pushes its AI in China and Asia after Trump-Xi meeting",
-      "summary": "Integrating American AI in Asia is high on the agenda for the U.S., according to a senior official for APEC and economic policy.",
-      "link": "https://www.cnbc.com/2026/05/22/us-china-ai-apec-asia.html",
-      "published": "2026-05-22T11:45:23+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "美国在特朗普-习近平会晤后推动其在中国和亚洲的人工智能"
-    },
-    {
-      "id": "44cb3e306f0a",
-      "title": "Leaders Xi, Putin meet over tea; rare earth find in northeast China: SCMP’s 7 highlights",
-      "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing.\n1. Substance for Putin, ‘face’ for Trump as China, Russia deepen strategic alliance\nDays after US President Donald Trump’s visit framed around managing risks, Chinese President Xi Jinping and Russian President Vladimir Putin reached a...",
-      "link": "https://www.scmp.com/news/china/article/3354444/leaders-xi-putin-meet-over-tea-rare-earth-find-northeast-china-scmps-7-highlights?utm_source=rss_feed",
-      "published": "2026-05-22T04:34:12+00:00",
-      "source": "SCMP",
-      "source_color": "#003580",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "领导人习近平，普京会晤茶叶;在中国东北发现稀土：南华早报的7大亮点"
     },
     {
       "id": "50b1bc26ab32",
@@ -131,7 +83,8 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official"
+      "source_category": "chinese_official",
+      "title_zh": "特朗普声称印度将购买委内瑞拉石油，欢迎中国的投资;中国专家注意到言论“单方面” ，没有得到印度方面的确认"
     },
     {
       "id": "28925d7651b5",
@@ -142,7 +95,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
     },
     {
       "id": "b279b93e7dae",
@@ -153,7 +107,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
     }
   ]
 }
