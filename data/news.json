@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-05-24T20:41:39.628187+00:00",
-  "total": 10,
+  "last_updated": "2026-05-25T02:12:29.556444+00:00",
+  "total": 13,
   "articles": [
+    {
+      "id": "75e03752923d",
+      "title": "Hong Kong can empower commuters by embracing e-bikes",
+      "summary": "In the global shift towards carbon-neutral mobility, a striking role reversal is taking shape on the pavements of the world’s most populous cities. While geopolitical analysts focus on the high-altitude rhetoric of the Xi-Trump summit in Beijing, a more profound urban reality is unfolding at eye level.\nBroadcasting live from a teeming Beijing intersection, Fox News anchor Bret Baier recently captured this fascinating counter-narrative. Away from the grandeur of diplomacy, a small revolution is...",
+      "link": "https://www.scmp.com/opinion/china-opinion/article/3354183/hong-kong-can-empower-commuters-embracing-e-bikes?utm_source=rss_feed",
+      "published": "2026-05-25T01:30:06+00:00",
+      "source": "SCMP",
+      "source_color": "#003580",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "香港可以通过拥抱电动自行车为通勤者赋能"
+    },
+    {
+      "id": "dd36bf1f16c9",
+      "title": "Cuba thanks China for rice shipment amid worsening humanitarian conditions",
+      "summary": "The Caribbean island has faced a fuel blockade that has cut off essential supplies, as Trump seeks regime change.",
+      "link": "https://www.aljazeera.com/news/2026/5/24/cuba-thanks-china-for-rice-shipment-amid-worsening-humanitarian-conditions?traffic_source=rss",
+      "published": "2026-05-24T21:53:15+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "古巴感谢中国在人道主义状况恶化的情况下运送大米"
+    },
+    {
+      "id": "f1709e7f7e96",
+      "title": "FirstFT: Xi Jinping lambasted Japan’s ‘remilitarisation’ at Donald Trump summit",
+      "summary": "Also in today’s newsletter: Trump says US will not rush deal with Iran, and Russia pounds Ukraine with hypersonic ‘Oreshnik’ missile",
+      "link": "https://www.ft.com/content/66776a35-908c-4242-9468-19bf7feaa474",
+      "published": "2026-05-24T21:27:35+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "FirstFT ：习近平在唐纳德特朗普峰会上抨击日本的“重新军事化”"
+    },
     {
       "id": "c9cd7fa5a049",
       "title": "Xi railed against Japan’s ‘remilitarisation’ at Trump summit",
@@ -95,8 +131,7 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official",
-      "title_zh": "特朗普声称印度将购买委内瑞拉石油，欢迎中国的投资;中国专家注意到言论“单方面” ，没有得到印度方面的确认"
+      "source_category": "chinese_official"
     },
     {
       "id": "28925d7651b5",
@@ -107,8 +142,7 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
+      "source_category": "business"
     },
     {
       "id": "b279b93e7dae",
@@ -119,8 +153,7 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
+      "source_category": "business"
     }
   ]
 }
