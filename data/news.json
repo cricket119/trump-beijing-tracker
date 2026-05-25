@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-25T08:11:00.617315+00:00",
-  "total": 9,
+  "last_updated": "2026-05-25T14:31:15.467646+00:00",
+  "total": 6,
   "articles": [
     {
       "id": "75e03752923d",
@@ -13,42 +13,6 @@
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "香港可以通过拥抱电动自行车为通勤者赋能"
-    },
-    {
-      "id": "dd36bf1f16c9",
-      "title": "Cuba thanks China for rice shipment amid worsening humanitarian conditions",
-      "summary": "The Caribbean island has faced a fuel blockade that has cut off essential supplies, as Trump seeks regime change.",
-      "link": "https://www.aljazeera.com/news/2026/5/24/cuba-thanks-china-for-rice-shipment-amid-worsening-humanitarian-conditions?traffic_source=rss",
-      "published": "2026-05-24T21:53:15+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "古巴感谢中国在人道主义状况恶化的情况下运送大米"
-    },
-    {
-      "id": "c9cd7fa5a049",
-      "title": "Xi railed against Japan’s ‘remilitarisation’ at Trump summit",
-      "summary": "Chinese president became heated when criticising US ally for its increased defence spending",
-      "link": "https://www.ft.com/content/70e922b3-c423-40f2-9c9d-1c64a38e026b",
-      "published": "2026-05-24T18:21:12+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "习近平在特朗普峰会上抨击日本的“再军事化”"
-    },
-    {
-      "id": "0ebaa5bab291",
-      "title": "Trump’s Pursuit of a Partnership With China Raises Concerns in India",
-      "summary": "Secretary of State Marco Rubio has a “gargantuan task” during his visit to Delhi: defuse tensions over President Trump’s anti-India aggression and overtures to China.",
-      "link": "https://www.nytimes.com/2026/05/23/us/politics/trump-rubio-india-china.html",
-      "published": "2026-05-24T16:27:49+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普寻求与中国建立伙伴关系引发印度担忧"
     },
     {
       "id": "009c422850c5",
