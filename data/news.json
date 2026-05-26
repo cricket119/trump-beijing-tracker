@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T20:56:15.298608+00:00",
+  "last_updated": "2026-05-26T02:03:08.458565+00:00",
   "total": 6,
   "articles": [
     {
@@ -11,8 +11,7 @@
       "source": "SCMP",
       "source_color": "#003580",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "香港可以通过拥抱电动自行车为通勤者赋能"
+      "source_category": "asia"
     },
     {
       "id": "009c422850c5",
@@ -23,8 +22,7 @@
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "来自亚太经合组织的三个迹象表明，美国和中国在贸易方面仍然存在很大分歧"
+      "source_category": "business"
     },
     {
       "id": "50b1bc26ab32",
@@ -35,8 +33,7 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official",
-      "title_zh": "在习近平通话后，中国强调台湾是“核心利益的核心” ； “依靠美国独立”的幻想空间只会进一步缩小：专家"
+      "source_category": "chinese_official"
     },
     {
       "id": "2c9f49adac2e",
@@ -47,8 +44,7 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official",
-      "title_zh": "特朗普声称印度将购买委内瑞拉石油，欢迎中国的投资;中国专家注意到言论“单方面” ，没有得到印度方面的确认"
+      "source_category": "chinese_official"
     },
     {
       "id": "28925d7651b5",
@@ -59,8 +55,7 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
+      "source_category": "business"
     },
     {
       "id": "b279b93e7dae",
@@ -71,8 +66,7 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
+      "source_category": "business"
     }
   ]
 }
