@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-05-26T18:15:25.771710+00:00",
-  "total": 5,
+  "last_updated": "2026-05-26T21:27:00.963607+00:00",
+  "total": 7,
   "articles": [
+    {
+      "id": "e4375459883a",
+      "title": "The absence of disaster was a form of progress in Trump's Beijing visit",
+      "summary": "",
+      "link": "https://asia.nikkei.com/opinion/the-absence-of-disaster-was-a-form-of-progress-in-trump-s-beijing-visit",
+      "published": "2026-05-26T21:27:14.537689+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "没有灾难是特朗普北京访问取得进展的一种形式"
+    },
+    {
+      "id": "612761721cec",
+      "title": "Trump officials split over Pope Leo’s AI warning as Vatican feud enters new front",
+      "summary": "Pope Leo XIV’s AI warning shows split among Trump officials as the White House resists new guardrails, upping stakes with Catholic voters and Silicon Valley allies.",
+      "link": "https://www.cnbc.com/2026/05/26/pope-leo-xiv-ai-warning-trump-jd-vance-doug-burgum-anthropic-iran.html",
+      "published": "2026-05-26T21:18:58+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "随着梵蒂冈的不和进入新的战线，特朗普官员对教皇利奥的人工智能警告存在分歧"
+    },
     {
       "id": "75e03752923d",
       "title": "Hong Kong can empower commuters by embracing e-bikes",
