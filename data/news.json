@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-05-26T07:35:03.811640+00:00",
-  "total": 7,
+  "last_updated": "2026-05-26T14:37:22.869784+00:00",
+  "total": 5,
   "articles": [
-    {
-      "id": "d16dfff7cf87",
-      "title": "As Trump woos China, the Quad grouping drifts towards irrelevance",
-      "summary": "As Washington shifts military focus away from Asia, analysts say the Quad is struggling to define its purpose.",
-      "link": "https://www.aljazeera.com/news/2026/5/26/as-trump-woos-china-the-quad-alliance-drifts-toward-irrelevance?traffic_source=rss",
-      "published": "2026-05-26T07:27:03+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "随着特朗普对中国的关注， Quad集团逐渐变得无关紧要"
-    },
     {
       "id": "75e03752923d",
       "title": "Hong Kong can empower commuters by embracing e-bikes",
@@ -25,18 +13,6 @@
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "香港可以通过拥抱电动自行车为通勤者赋能"
-    },
-    {
-      "id": "009c422850c5",
-      "title": "Three signs from APEC that the U.S. and China remain far apart on trade",
-      "summary": "U.S. and Chinese officials have met and spoken publicly about differing priorities since the Trump-Xi summit concluded in Beijing last week.",
-      "link": "https://www.cnbc.com/2026/05/23/three-signs-from-apec-that-the-us-china-remain-far-apart-on-trade.html",
-      "published": "2026-05-23T11:19:52+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "来自亚太经合组织的三个迹象表明，美国和中国在贸易方面仍然存在很大分歧"
     },
     {
       "id": "50b1bc26ab32",
