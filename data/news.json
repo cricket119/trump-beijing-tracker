@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-05-28T11:28:08.935265+00:00",
-  "total": 5,
+  "last_updated": "2026-05-28T15:24:08.280460+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "88154de4430c",
+      "title": "Gold Erases Losses After Report of US-Iran Truce Deal",
+      "summary": "Gold erased losses after Axios reported that the US and Iran are on the verge of a deal to extend the ceasefire, pending final approval from US President Donald Trump.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-28/gold-erases-losses-after-report-of-us-iran-truce-deal",
+      "published": "2026-05-28T14:31:30+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "黄金在美伊停火协议报告后抹去损失"
+    },
     {
       "id": "cc9747e475f7",
       "title": "Trump is pushing Canada and Mexico towards China",
@@ -11,7 +23,8 @@
       "source": "Financial Times",
       "source_color": "#C7A000",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "特朗普正在将加拿大和墨西哥推向中国"
     },
     {
       "id": "50b1bc26ab32",
@@ -22,7 +35,8 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official"
+      "source_category": "chinese_official",
+      "title_zh": "在习近平通话后，中国强调台湾是“核心利益的核心” ； “依靠美国独立”的幻想空间只会进一步缩小：专家"
     },
     {
       "id": "2c9f49adac2e",
@@ -33,7 +47,8 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official"
+      "source_category": "chinese_official",
+      "title_zh": "特朗普声称印度将购买委内瑞拉石油，欢迎中国的投资;中国专家注意到言论“单方面” ，没有得到印度方面的确认"
     },
     {
       "id": "28925d7651b5",
@@ -44,7 +59,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
     },
     {
       "id": "b279b93e7dae",
@@ -55,7 +71,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
     }
   ]
 }
