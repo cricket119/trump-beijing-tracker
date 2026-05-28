@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-05-28T18:29:03.405516+00:00",
-  "total": 6,
+  "last_updated": "2026-05-28T21:49:33.038241+00:00",
+  "total": 5,
   "articles": [
-    {
-      "id": "a8eb76845c57",
-      "title": "Gold Advances as Report of US-Iran Deal Eases Higher Rates Bets",
-      "summary": "Gold edged higher after Axios reported that Iran and the US have reached a deal to extend a truce and work toward an agreement to end the war, pending final approval from US President Donald Trump.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-28/gold-erases-losses-after-report-of-us-iran-truce-deal",
-      "published": "2026-05-28T14:31:30+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "随着美国-伊朗交易的报告缓解了更高的利率押注，黄金上涨"
-    },
     {
       "id": "cc9747e475f7",
       "title": "Trump is pushing Canada and Mexico towards China",
