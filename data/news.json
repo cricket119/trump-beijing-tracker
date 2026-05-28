@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-27T21:44:49.247625+00:00",
-  "total": 7,
+  "last_updated": "2026-05-28T01:54:25.107394+00:00",
+  "total": 6,
   "articles": [
     {
       "id": "e4375459883a",
       "title": "The absence of disaster was a form of progress in Trump's Beijing visit",
       "summary": "",
       "link": "https://asia.nikkei.com/opinion/the-absence-of-disaster-was-a-form-of-progress-in-trump-s-beijing-visit",
-      "published": "2026-05-27T21:45:02.636615+00:00",
+      "published": "2026-05-28T01:54:39.119534+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -25,18 +25,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "美国支持的稀土竞争对手因涉嫌技术盗窃而发生冲突"
-    },
-    {
-      "id": "612761721cec",
-      "title": "Trump officials split over Pope Leo’s AI warning as Vatican feud enters new front",
-      "summary": "Pope Leo XIV’s AI warning shows split among Trump officials as the White House resists new guardrails, upping stakes with Catholic voters and Silicon Valley allies.",
-      "link": "https://www.cnbc.com/2026/05/26/pope-leo-xiv-ai-warning-trump-jd-vance-doug-burgum-anthropic-iran.html",
-      "published": "2026-05-26T21:18:58+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "随着梵蒂冈的不和进入新的战线，特朗普官员对教皇利奥的人工智能警告存在分歧"
     },
     {
       "id": "50b1bc26ab32",
