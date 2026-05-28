@@ -1,18 +1,17 @@
 {
-  "last_updated": "2026-05-28T07:46:07.458583+00:00",
+  "last_updated": "2026-05-28T11:28:08.935265+00:00",
   "total": 5,
   "articles": [
     {
-      "id": "e4375459883a",
-      "title": "The absence of disaster was a form of progress in Trump's Beijing visit",
-      "summary": "",
-      "link": "https://asia.nikkei.com/opinion/the-absence-of-disaster-was-a-form-of-progress-in-trump-s-beijing-visit",
-      "published": "2026-05-28T07:46:20.056175+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
+      "id": "cc9747e475f7",
+      "title": "Trump is pushing Canada and Mexico towards China",
+      "summary": "The renegotiation of the USMCA deal is peripheral to the green tech revolution in world trade",
+      "link": "https://www.ft.com/content/5cdd89c6-9259-4c92-a9d7-d01930d5cd37",
+      "published": "2026-05-28T11:00:04+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "没有灾难是特朗普北京访问取得进展的一种形式"
+      "source_category": "business"
     },
     {
       "id": "50b1bc26ab32",
@@ -23,8 +22,7 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official",
-      "title_zh": "在习近平通话后，中国强调台湾是“核心利益的核心” ； “依靠美国独立”的幻想空间只会进一步缩小：专家"
+      "source_category": "chinese_official"
     },
     {
       "id": "2c9f49adac2e",
@@ -35,8 +33,7 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official",
-      "title_zh": "特朗普声称印度将购买委内瑞拉石油，欢迎中国的投资;中国专家注意到言论“单方面” ，没有得到印度方面的确认"
+      "source_category": "chinese_official"
     },
     {
       "id": "28925d7651b5",
@@ -47,8 +44,7 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
+      "source_category": "business"
     },
     {
       "id": "b279b93e7dae",
@@ -59,8 +55,7 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
+      "source_category": "business"
     }
   ]
 }
