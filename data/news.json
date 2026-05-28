@@ -1,30 +1,18 @@
 {
-  "last_updated": "2026-05-28T01:54:25.107394+00:00",
-  "total": 6,
+  "last_updated": "2026-05-28T07:46:07.458583+00:00",
+  "total": 5,
   "articles": [
     {
       "id": "e4375459883a",
       "title": "The absence of disaster was a form of progress in Trump's Beijing visit",
       "summary": "",
       "link": "https://asia.nikkei.com/opinion/the-absence-of-disaster-was-a-form-of-progress-in-trump-s-beijing-visit",
-      "published": "2026-05-28T01:54:39.119534+00:00",
+      "published": "2026-05-28T07:46:20.056175+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "没有灾难是特朗普北京访问取得进展的一种形式"
-    },
-    {
-      "id": "f57eb048d375",
-      "title": "US-backed rare earth rivals clash over alleged technology theft",
-      "summary": "Legal battle erupts between mining companies supported by Trump administration to break dependence on China",
-      "link": "https://www.ft.com/content/f50d27ea-9307-4ff2-8ee1-aca0bf72d068",
-      "published": "2026-05-27T18:02:47+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "美国支持的稀土竞争对手因涉嫌技术盗窃而发生冲突"
     },
     {
       "id": "50b1bc26ab32",
