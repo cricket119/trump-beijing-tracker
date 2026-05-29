@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-05-29T02:02:50.736492+00:00",
-  "total": 4,
+  "last_updated": "2026-05-29T07:45:15.596607+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "65f6c865494c",
+      "title": "How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’",
+      "summary": "Pakistan finds itself in a diplomatic sweet spot, wooed by Trump and China. Indian missteps are to blame, say analysts",
+      "link": "https://www.aljazeera.com/news/2026/5/29/how-indian-pm-modis-efforts-to-isolate-pakistan-backfired?traffic_source=rss",
+      "published": "2026-05-29T07:22:06+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "印度总理莫迪孤立巴基斯坦的努力如何“适得其反”"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
