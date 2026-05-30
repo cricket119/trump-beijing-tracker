@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-05-30T06:39:25.186973+00:00",
-  "total": 4,
+  "last_updated": "2026-05-30T09:49:57.545770+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "38495df25736",
+      "title": "Iran war: What is happening on day 92 as Trump weighs Iran deal",
+      "summary": "Trump weighs next steps on Iran deal as Tehran insists negotiations are continuing and no final agreement exists.",
+      "link": "https://www.aljazeera.com/news/2026/5/30/iran-war-what-is-happening-on-day-92-as-trump-weighs-iran-deal?traffic_source=rss",
+      "published": "2026-05-30T07:30:15+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "伊朗战争：在特朗普权衡伊朗协议的第92天发生了什么"
+    },
+    {
+      "id": "db280ccb2d38",
+      "title": "U.S. support for Taiwan reaffirmed by members of Congress even after Trump called arms sales a 'negotiating chip' with China",
+      "summary": "President Donald Trump has referred to $14 billion in arms sales to the island, which has been approved by Congress, as a \"negotiating chip\" with China.",
+      "link": "https://www.cnbc.com/2026/05/30/us-support-taiwan-reaffirmed-members-congress.html",
+      "published": "2026-05-30T07:10:44+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "即使在特朗普称武器销售是与中国的“谈判筹码”之后，国会议员也重申了美国对台湾的支持"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
