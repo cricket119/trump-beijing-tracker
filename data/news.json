@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-05-30T09:49:57.545770+00:00",
-  "total": 6,
+  "last_updated": "2026-05-30T13:00:30.260710+00:00",
+  "total": 8,
   "articles": [
+    {
+      "id": "8315837b2902",
+      "title": "Hegseth Praises Asian Allies, Takes Swipe at NATO",
+      "summary": "US Defense Secretary Pete Hegseth praised defense allies in Asia and hailed newly stable ties with China, while taking swipes at longstanding security partners in Europe. Bloomberg's Singapore Editor-At-Large Haslinda Amin joined Christina Ruffini and David Gura on Bloomberg This Weekend to discuss the comments Hegseth made Saturday at an Asia security forum in Singapore, which are the latest sign of the Trump administration shifting attention toward the Indo-Pacific while expressing antagonism toward Europe and the NATO alliance. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-30/hegseth-praises-asian-allies-takes-swipe-at-nato-video",
+      "published": "2026-05-30T12:24:56+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "黑格塞斯称赞亚洲盟友，抨击北约"
+    },
+    {
+      "id": "534adb8c65f5",
+      "title": "Rubio says Trump envoy Barrack to step down from Syria post",
+      "summary": "Trump envoy Tom Barrack to exit formal Syria post but retain key role managing US policy in Syria and Iraq.",
+      "link": "https://www.aljazeera.com/news/2026/5/30/rubio-says-trump-envoy-barrack-to-step-down-from-syria-post?traffic_source=rss",
+      "published": "2026-05-30T10:34:54+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "卢比奥表示，特朗普特使巴拉克将从叙利亚岗位上下台"
+    },
     {
       "id": "38495df25736",
       "title": "Iran war: What is happening on day 92 as Trump weighs Iran deal",
