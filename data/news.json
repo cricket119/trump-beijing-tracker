@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-05-31T13:10:22.472003+00:00",
+  "last_updated": "2026-05-31T16:54:35.400318+00:00",
   "total": 7,
   "articles": [
+    {
+      "id": "cef25d90d99f",
+      "title": "No Breakthrough in Iran Talks as Red Lines Remain Firm",
+      "summary": "New information has emerged regarding President Trump's recent meeting in the Situation Room, where he requested several edits to a deal negotiated between his envoys and the Iranian regime. Bloomberg News White House Correspondent Jeff Mason and Bloomberg's UAE bureau chief Dana Khraiche joined David Gura and Christina Ruffini on Bloomberg This Weekend to analyze the complexity of the ongoing negotiations. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-31/no-breakthrough-in-iran-talks-as-red-lines-remain-firm-video",
+      "published": "2026-05-31T15:11:41+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "由于红线仍然坚定，伊朗谈判没有突破"
+    },
     {
       "id": "c4815113a76f",
       "title": "Joby Demonstrated its Air Taxi in Manhattan, but You Can’t Fly in It Yet",
@@ -13,18 +25,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "Joby在曼哈顿展示了空中出租车，但您还不能乘坐"
-    },
-    {
-      "id": "301cf7ba9250",
-      "title": "Hegseth Reaffirms US Commitment to Pacific Allies",
-      "summary": "US Defense Secretary Pete Hegseth praised defense allies in Asia and hailed newly stable ties with China, while taking swipes at longstanding security partners in Europe. Bloomberg News Global Defense Editor Gerry Doyle joined Christina Ruffini and David Gura on Bloomberg This Weekend to discuss the comments Hegseth made Saturday at an Asia security forum in Singapore, which are the latest sign of the Trump administration shifting attention toward the Indo-Pacific while expressing antagonism toward Europe and the NATO alliance. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-30/hegseth-reaffirms-us-commitment-to-pacific-allies-video",
-      "published": "2026-05-30T13:39:16+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "Hegseth重申美国对太平洋盟友的承诺"
     },
     {
       "id": "db280ccb2d38",
