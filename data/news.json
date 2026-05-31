@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-05-31T07:37:24.291182+00:00",
-  "total": 7,
+  "last_updated": "2026-05-31T10:06:45.901638+00:00",
+  "total": 8,
   "articles": [
+    {
+      "id": "c4815113a76f",
+      "title": "Joby Demonstrated its Air Taxi in Manhattan, but You Can’t Fly in It Yet",
+      "summary": "Aviation start-ups and the Trump administration want to replace helicopters with electric aircraft, but the new vehicles still have to pass arduous tests before the public can use them.",
+      "link": "https://www.nytimes.com/2026/05/31/business/air-taxis-joby-helicopters.html",
+      "published": "2026-05-31T09:00:05+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "Joby在曼哈顿展示了空中出租车，但您还不能乘坐"
+    },
     {
       "id": "301cf7ba9250",
       "title": "Hegseth Reaffirms US Commitment to Pacific Allies",
