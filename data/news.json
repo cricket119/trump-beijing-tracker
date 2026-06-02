@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-06-02T15:56:13.924616+00:00",
-  "total": 5,
+  "last_updated": "2026-06-02T19:36:56.231398+00:00",
+  "total": 6,
   "articles": [
     {
       "id": "0fee6823d665",
       "title": "Japan and Philippines Trump-proof efforts to check China's ambitions",
       "summary": "",
       "link": "https://asia.nikkei.com/opinion/japan-and-philippines-trump-proof-efforts-to-check-china-s-ambitions",
-      "published": "2026-06-02T15:56:26.513757+00:00",
+      "published": "2026-06-02T19:37:10.698943+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "日本和菲律宾遏制中国野心的特朗普式努力"
+    },
+    {
+      "id": "3cd0666541f2",
+      "title": "Seven states sue US for paying $1bn to make Total exit wind power",
+      "summary": "New York leads lawsuit challenging Trump administration’s effort to make French company reinvest in fossil fuels",
+      "link": "https://www.ft.com/content/d4f25b34-ce45-4321-a4ee-cb5879f7a57a",
+      "published": "2026-06-02T18:23:57+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "七个州起诉美国支付10 $十亿使总退出风力发电"
     },
     {
       "id": "50b1bc26ab32",
