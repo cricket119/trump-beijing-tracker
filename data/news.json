@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-06-04T02:35:15.916718+00:00",
-  "total": 5,
+  "last_updated": "2026-06-04T08:11:20.057200+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "fb196b94215f",
+      "title": "Trump should push back on Xi's narrative on Japan",
+      "summary": "",
+      "link": "https://asia.nikkei.com/opinion/trump-should-push-back-on-xi-s-narrative-on-japan",
+      "published": "2026-06-04T08:11:35.163505+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "特朗普应该推翻习近平对日本的叙述"
+    },
     {
       "id": "5e7a13fa6c06",
       "title": "Trump Endorses Abelardo De La Espriella, Right-Wing Presidential Candidate in Colombia",
