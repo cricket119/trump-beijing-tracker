@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-06-05T02:10:09.308355+00:00",
-  "total": 6,
+  "last_updated": "2026-06-05T07:58:32.446815+00:00",
+  "total": 7,
   "articles": [
     {
       "id": "fb196b94215f",
       "title": "Trump should push back on Xi's narrative on Japan",
       "summary": "",
       "link": "https://asia.nikkei.com/opinion/trump-should-push-back-on-xi-s-narrative-on-japan",
-      "published": "2026-06-05T02:10:26.564150+00:00",
+      "published": "2026-06-05T07:58:51.501033+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "特朗普应该推翻习近平对日本的叙述"
+    },
+    {
+      "id": "9af0588141d5",
+      "title": "Trump urged Xi to help end Ukraine war; China’s tech sanctions list: SCMP’s 7 highlights",
+      "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing.\n1. Trump ‘personally called for China’s help’ to end Ukraine war in summit with Xi\nUS President Donald Trump personally urged President Xi Jinping to help end the Ukraine war, seeking to leverage Beijing’s influence over Moscow to...",
+      "link": "https://www.scmp.com/news/china/article/3356025/trump-urged-xi-help-end-ukraine-war-chinas-tech-sanctions-list-scmps-7-highlights?utm_source=rss_feed",
+      "published": "2026-06-05T04:34:05+00:00",
+      "source": "SCMP",
+      "source_color": "#003580",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "特朗普敦促习近平帮助结束乌克兰战争；中国的科技制裁名单：南华早报的7大亮点"
     },
     {
       "id": "ecabd7557836",
