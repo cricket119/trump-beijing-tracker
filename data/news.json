@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-06-07T13:17:46.388963+00:00",
-  "total": 5,
+  "last_updated": "2026-06-07T17:03:44.189824+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "76761e5e8952",
+      "title": "GE Sees Potential For More China Deals After Trump-Xi Meeting",
+      "summary": "GE Aerospace remains optimistic that it can secure more aircraft-engine orders from China after President Donald Trump and his Chinese counterpart Xi Jinping met in Beijing last month and manufacturing partner Boeing Co. came home an initial batch of commitments.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-07/ge-sees-potential-more-china-deals-after-may-s-trump-xi-meeting",
+      "published": "2026-06-07T13:57:25+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "通用电气在特朗普-习近平会晤后看到更多中国交易的潜力"
+    },
     {
       "id": "9af0588141d5",
       "title": "Trump urged Xi to help end Ukraine war; China’s tech sanctions list: SCMP’s 7 highlights",
