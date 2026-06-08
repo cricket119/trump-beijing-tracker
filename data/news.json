@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-06-08T15:24:29.885277+00:00",
-  "total": 8,
+  "last_updated": "2026-06-08T18:17:21.418518+00:00",
+  "total": 6,
   "articles": [
-    {
-      "id": "da2bb31c5f4a",
-      "title": "GE Aerospace CEO Is Optimistic for More China Deals",
-      "summary": "In an interview at the IATA annual meeting in Rio de Janeiro, GE Aerospace CEO Larry Culp remained optimistic that GE could secure more aircraft-engine orders from China following a meeting between President Donald Trump and his Chinese counterpart Xi Jinping in Beijing the previous month, after which their manufacturing partner, Boeing Co. secured an initial batch of commitments. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-08/ge-aerospace-ceo-is-optimistic-for-more-china-deals-video",
-      "published": "2026-06-08T15:15:14+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "GE航空航天首席执行官对更多中国交易持乐观态度"
-    },
     {
       "id": "625f220377f9",
       "title": "One Is the Pope, the Other an Atheist. They Both Oppose Trump.",
@@ -37,18 +25,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "加拿大向特朗普提出“北美堡垒”贸易宣传"
-    },
-    {
-      "id": "3b0710899783",
-      "title": "GE Sees Potential For More China Deals After Summit",
-      "summary": "GE Aerospace remains optimistic that it can secure more aircraft-engine orders from China after President Donald Trump and his Chinese counterpart Xi Jinping met in Beijing last month and manufacturing partner Boeing Co. came home an initial batch of commitments.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-07/ge-sees-potential-more-china-deals-after-may-s-trump-xi-meeting",
-      "published": "2026-06-07T13:57:25+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "通用电气在峰会后看到更多中国交易的潜力"
     },
     {
       "id": "50b1bc26ab32",
