@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-06-08T02:33:24.876930+00:00",
-  "total": 4,
+  "last_updated": "2026-06-08T08:43:51.412273+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "625f220377f9",
+      "title": "One Is the Pope, the Other an Atheist. They Both Oppose Trump.",
+      "summary": "Pope Leo XIV and Prime Minister Pedro Sánchez of Spain, who meet on Monday, have recently clashed with President Trump. Their motivations, however, may be different.",
+      "link": "https://www.nytimes.com/2026/06/08/world/europe/pope-leo-sanchez-trump.html",
+      "published": "2026-06-08T04:01:06+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "一个是教皇，另一个是无神论者。他们都反对特朗普。"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
