@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-09T07:36:26.077988+00:00",
-  "total": 7,
+  "last_updated": "2026-06-09T10:50:57.632013+00:00",
+  "total": 6,
   "articles": [
     {
       "id": "625f220377f9",
       "title": "One Is the Pope, the Other an Atheist. They Both Oppose Trump.",
       "summary": "Pope Leo XIV and Prime Minister Pedro Sánchez of Spain, who met on Monday, have recently clashed with President Trump. Their motivations, however, may be different.",
       "link": "https://www.nytimes.com/2026/06/08/world/europe/pope-leo-sanchez-trump.html",
-      "published": "2026-06-09T06:42:47+00:00",
+      "published": "2026-06-09T09:39:00+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
@@ -19,24 +19,12 @@
       "title": "Pentagon expands list of China military-linked firms to include Alibaba, Baidu in fresh blow to diplomatic thaw",
       "summary": "The Pentagon briefly posted a similar expanded list in February, then withdrew it without explanation before Trump's China trip.",
       "link": "https://www.cnbc.com/2026/06/09/alibaba-baidu-byd-named-on-pentagons-china-military-list-.html",
-      "published": "2026-06-09T04:16:24+00:00",
+      "published": "2026-06-09T08:22:14+00:00",
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "五角大楼扩大了与中国军方有关的公司名单，将阿里巴巴、百度包括在内，对外交解冻造成新的打击"
-    },
-    {
-      "id": "1e65eb03067f",
-      "title": "Will Trump abandon Taiwan?",
-      "summary": "The threat from China is rising — and the US president is keeping one of the world’s most dangerous flashpoints in suspense",
-      "link": "https://www.ft.com/content/393548bc-3302-47f1-a40f-4526fba8a755",
-      "published": "2026-06-09T04:00:16+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普会放弃台湾吗？"
     },
     {
       "id": "50b1bc26ab32",
