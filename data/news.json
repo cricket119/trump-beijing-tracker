@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-06-08T21:42:15.103924+00:00",
-  "total": 6,
+  "last_updated": "2026-06-09T01:57:56.040482+00:00",
+  "total": 7,
   "articles": [
+    {
+      "id": "df6f83c03735",
+      "title": "Pentagon expands list of China military-linked firms to include Alibaba, Baidu in fresh blow to diplomatic thaw",
+      "summary": "The Pentagon briefly posted a similar expanded list in February, then withdrew it without explanation before Trump's China trip.",
+      "link": "https://www.cnbc.com/2026/06/09/alibaba-baidu-byd-named-on-pentagons-china-military-list-.html",
+      "published": "2026-06-09T01:53:45+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "五角大楼扩大了与中国军方有关的公司名单，将阿里巴巴、百度包括在内，对外交解冻造成新的打击"
+    },
     {
       "id": "625f220377f9",
       "title": "One Is the Pope, the Other an Atheist. They Both Oppose Trump.",
@@ -15,16 +27,16 @@
       "title_zh": "一个是教皇，另一个是无神论者。他们都反对特朗普。"
     },
     {
-      "id": "87fe4f82bc1f",
-      "title": "Canada courts Trump with ‘Fortress North America’ trade pitch",
-      "summary": "‘Fortress North America’ is Ottawa’s response to being cut out of negotiations on new pact with US and Mexico",
-      "link": "https://www.ft.com/content/f59a4a99-6eef-4b42-b3eb-a70136d9e887",
-      "published": "2026-06-08T10:00:05+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
+      "id": "e6c55cd83947",
+      "title": "Rare-Earth Developer Aclara Seeks US Backing for Chile Mine",
+      "summary": "The company seeking to build Chile’s first rare-earth mine is in talks with US International Development Finance Corporation as the Trump administration moves to loosen China’s grip on critical minerals.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-08/rare-earth-developer-aclara-seeks-us-backing-for-chilean-project",
+      "published": "2026-06-08T18:38:27+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "加拿大向特朗普提出“北美堡垒”贸易宣传"
+      "title_zh": "稀土开发商Aclara寻求美国对智利矿山的支持"
     },
     {
       "id": "50b1bc26ab32",
