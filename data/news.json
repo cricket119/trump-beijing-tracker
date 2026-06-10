@@ -1,17 +1,30 @@
 {
-  "last_updated": "2026-06-10T18:23:17.907332+00:00",
-  "total": 6,
+  "last_updated": "2026-06-10T21:50:24.562866+00:00",
+  "total": 7,
   "articles": [
     {
-      "id": "a314022ef45a",
-      "title": "Trump Says He May Not Renew Canada-Mexico Trade Deal",
-      "summary": "The president’s comments come at a crucial moment in talks between the three countries over the renewal of their free-trade agreement.",
+      "id": "54c50801dfc5",
+      "title": "Trump Says He’s ‘Not Looking to Renew’ Canada-Mexico Trade Deal",
+      "summary": "The president’s comments come at a crucial moment in talks among the three countries over the renewal of their free-trade agreement.",
       "link": "https://www.nytimes.com/2026/06/10/world/canada/trump-canada-mexico-trade-deal-usmca.html",
-      "published": "2026-06-10T17:53:12+00:00",
+      "published": "2026-06-10T21:45:36+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international"
+      "source_category": "international",
+      "title_zh": "特朗普表示他“不希望续签”加拿大-墨西哥贸易协议"
+    },
+    {
+      "id": "a108a83ea5b2",
+      "title": "Trump suggests he may not renew trade deal with Mexico and Canada",
+      "summary": "‘We don’t need anything that they have,’ US president says of 2020 trilateral agreement",
+      "link": "https://www.ft.com/content/e55a6ab9-d5dd-4a9f-bcb5-9bc0d23e08fb",
+      "published": "2026-06-10T18:42:48+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普暗示他可能不会与墨西哥和加拿大续签贸易协议"
     },
     {
       "id": "68e652194638",
@@ -22,7 +35,8 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international"
+      "source_category": "international",
+      "title_zh": "特朗普对中国的尖锐反击：拥抱中国作为同伴力量"
     },
     {
       "id": "50b1bc26ab32",
@@ -33,7 +47,8 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official"
+      "source_category": "chinese_official",
+      "title_zh": "在习近平通话后，中国强调台湾是“核心利益的核心” ； “依靠美国独立”的幻想空间只会进一步缩小：专家"
     },
     {
       "id": "2c9f49adac2e",
@@ -44,7 +59,8 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official"
+      "source_category": "chinese_official",
+      "title_zh": "特朗普声称印度将购买委内瑞拉石油，欢迎中国的投资;中国专家注意到言论“单方面” ，没有得到印度方面的确认"
     },
     {
       "id": "28925d7651b5",
@@ -55,7 +71,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
     },
     {
       "id": "b279b93e7dae",
@@ -66,7 +83,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
     }
   ]
 }
