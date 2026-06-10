@@ -1,7 +1,18 @@
 {
-  "last_updated": "2026-06-10T14:50:01.992401+00:00",
-  "total": 5,
+  "last_updated": "2026-06-10T18:23:17.907332+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "a314022ef45a",
+      "title": "Trump Says He May Not Renew Canada-Mexico Trade Deal",
+      "summary": "The president’s comments come at a crucial moment in talks between the three countries over the renewal of their free-trade agreement.",
+      "link": "https://www.nytimes.com/2026/06/10/world/canada/trump-canada-mexico-trade-deal-usmca.html",
+      "published": "2026-06-10T17:53:12+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international"
+    },
     {
       "id": "68e652194638",
       "title": "Trump’s Sharp Turn on China: Embracing It as a Peer Power",
@@ -11,8 +22,7 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普对中国的尖锐反击：拥抱中国作为同伴力量"
+      "source_category": "international"
     },
     {
       "id": "50b1bc26ab32",
@@ -23,8 +33,7 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official",
-      "title_zh": "在习近平通话后，中国强调台湾是“核心利益的核心” ； “依靠美国独立”的幻想空间只会进一步缩小：专家"
+      "source_category": "chinese_official"
     },
     {
       "id": "2c9f49adac2e",
@@ -35,8 +44,7 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official",
-      "title_zh": "特朗普声称印度将购买委内瑞拉石油，欢迎中国的投资;中国专家注意到言论“单方面” ，没有得到印度方面的确认"
+      "source_category": "chinese_official"
     },
     {
       "id": "28925d7651b5",
@@ -47,8 +55,7 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
+      "source_category": "business"
     },
     {
       "id": "b279b93e7dae",
@@ -59,8 +66,7 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
+      "source_category": "business"
     }
   ]
 }
