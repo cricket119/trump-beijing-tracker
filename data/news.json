@@ -1,13 +1,25 @@
 {
-  "last_updated": "2026-06-09T21:28:57.650815+00:00",
-  "total": 5,
+  "last_updated": "2026-06-10T02:10:22.733085+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "68e652194638",
+      "title": "Trump’s Sharp Turn on China: Embracing It as a Peer Power",
+      "summary": "President Trump’s warming with Xi Jinping of China, a leader he admires, has ignited anxieties in Washington and across Asia.",
+      "link": "https://www.nytimes.com/2026/06/09/us/politics/trump-china-taiwan.html",
+      "published": "2026-06-10T02:00:07+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普对中国的尖锐反击：拥抱中国作为同伴力量"
+    },
     {
       "id": "df6f83c03735",
       "title": "Pentagon expands list of China military-linked firms to include Alibaba, Baidu in fresh blow to diplomatic thaw",
       "summary": "The Pentagon briefly posted a similar expanded list in February, then withdrew it without explanation before Trump's China trip.",
       "link": "https://www.cnbc.com/2026/06/09/alibaba-baidu-byd-named-on-pentagons-china-military-list-.html",
-      "published": "2026-06-09T08:22:14+00:00",
+      "published": "2026-06-10T00:47:42+00:00",
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
