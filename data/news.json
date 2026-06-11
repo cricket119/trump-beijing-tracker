@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-06-11T02:33:35.454519+00:00",
-  "total": 8,
+  "last_updated": "2026-06-11T08:26:48.221219+00:00",
+  "total": 6,
   "articles": [
-    {
-      "id": "0ab10372e83f",
-      "title": "Trump’s Iran war has propelled China’s cleantech industry",
-      "summary": "Disruption to global energy supplies sparks surge in demand for alternatives",
-      "link": "https://www.ft.com/content/12d0d1e4-d08c-4014-8a8a-b4b4f7044fcf",
-      "published": "2026-06-11T00:35:43+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普的伊朗战争推动了中国的清洁技术产业"
-    },
     {
       "id": "54c50801dfc5",
       "title": "Trump Says He’s ‘Not Looking to Renew’ Canada-Mexico Trade Deal",
@@ -25,18 +13,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "特朗普表示他“不希望续签”加拿大-墨西哥贸易协议"
-    },
-    {
-      "id": "a108a83ea5b2",
-      "title": "Trump suggests he may not renew trade deal with Mexico and Canada",
-      "summary": "‘We don’t need anything that they have,’ US president says of 2020 trilateral agreement",
-      "link": "https://www.ft.com/content/e55a6ab9-d5dd-4a9f-bcb5-9bc0d23e08fb",
-      "published": "2026-06-10T18:42:48+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普暗示他可能不会与墨西哥和加拿大续签贸易协议"
     },
     {
       "id": "68e652194638",
