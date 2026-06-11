@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-06-10T21:50:24.562866+00:00",
-  "total": 7,
+  "last_updated": "2026-06-11T02:33:35.454519+00:00",
+  "total": 8,
   "articles": [
+    {
+      "id": "0ab10372e83f",
+      "title": "Trump’s Iran war has propelled China’s cleantech industry",
+      "summary": "Disruption to global energy supplies sparks surge in demand for alternatives",
+      "link": "https://www.ft.com/content/12d0d1e4-d08c-4014-8a8a-b4b4f7044fcf",
+      "published": "2026-06-11T00:35:43+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普的伊朗战争推动了中国的清洁技术产业"
+    },
     {
       "id": "54c50801dfc5",
       "title": "Trump Says He’s ‘Not Looking to Renew’ Canada-Mexico Trade Deal",
