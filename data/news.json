@@ -1,18 +1,42 @@
 {
-  "last_updated": "2026-06-12T02:28:09.090621+00:00",
-  "total": 3,
+  "last_updated": "2026-06-12T08:15:17.935208+00:00",
+  "total": 5,
   "articles": [
     {
-      "id": "b779791ecf29",
-      "title": "FirstFT: SpaceX raises $75bn in world’s biggest IPO",
-      "summary": "Also in today’s newsletter: Trump says US close to deal with Iran, and China cancels high-level meetings with EU",
-      "link": "https://www.ft.com/content/8ac92c9d-f165-4203-b925-5bfc75725800",
-      "published": "2026-06-11T21:55:59+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
+      "id": "947973c1e82e",
+      "title": "China Has Arrested U.S. Scholar Who Studies Myanmar Politics",
+      "summary": "The arrest of U Min Zin, a graduate student at U.C. Berkeley and founder of a research group in Myanmar, took place soon after President Trump met with Xi Jinping in China.",
+      "link": "https://www.nytimes.com/2026/06/11/us/politics/china-arrests-us-scholar.html",
+      "published": "2026-06-12T04:10:33+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "FirstFT ： SpaceX在全球最大的IPO中筹集了750亿美元$"
+      "source_category": "international",
+      "title_zh": "中国逮捕了研究缅甸政治的美国学者"
+    },
+    {
+      "id": "50b1bc26ab32",
+      "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
+      "summary": "",
+      "link": "https://www.globaltimes.cn/page/202602/1354899.shtml",
+      "published": "2026-02-06T00:00:00+00:00",
+      "source": "Global Times",
+      "source_color": "#CC0000",
+      "source_lang": "en",
+      "source_category": "chinese_official",
+      "title_zh": "在习近平通话后，中国强调台湾是“核心利益的核心” ； “依靠美国独立”的幻想空间只会进一步缩小：专家"
+    },
+    {
+      "id": "2c9f49adac2e",
+      "title": "Trump claims India will buy Venezuelan oil, welcomes China's investment; Chinese expert notices remarks 'unilateral,' no confirmation from Indian side",
+      "summary": "",
+      "link": "https://www.globaltimes.cn/page/202602/1354617.shtml",
+      "published": "2026-02-02T00:00:00+00:00",
+      "source": "Global Times",
+      "source_color": "#CC0000",
+      "source_lang": "en",
+      "source_category": "chinese_official",
+      "title_zh": "特朗普声称印度将购买委内瑞拉石油，欢迎中国的投资;中国专家注意到言论“单方面” ，没有得到印度方面的确认"
     },
     {
       "id": "28925d7651b5",
