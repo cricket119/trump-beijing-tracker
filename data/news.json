@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-06-12T17:57:42.984196+00:00",
-  "total": 5,
+  "last_updated": "2026-06-12T21:26:01.932211+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "973829299346",
+      "title": "Canada Has Its Elbows Up and Arms Wide Open at the World Cup",
+      "summary": "Facing President Trump’s threats, many Canadians have taken a defensive stance to their neighbor. But now Canada is playing co-host with the United States and Mexico, and welcoming the world.",
+      "link": "https://www.nytimes.com/2026/06/12/world/canada/2026-world-cup-canada-bosnia-toronto.html",
+      "published": "2026-06-12T20:06:17+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "加拿大在世界杯上抬起手肘，张开双臂"
+    },
     {
       "id": "154a22f9005d",
       "title": "China Arrests U.S. Scholar on Spying Charge",
