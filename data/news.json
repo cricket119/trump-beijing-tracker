@@ -1,30 +1,30 @@
 {
-  "last_updated": "2026-06-12T21:26:01.932211+00:00",
+  "last_updated": "2026-06-13T02:09:14.241082+00:00",
   "total": 6,
   "articles": [
-    {
-      "id": "973829299346",
-      "title": "Canada Has Its Elbows Up and Arms Wide Open at the World Cup",
-      "summary": "Facing President Trump’s threats, many Canadians have taken a defensive stance to their neighbor. But now Canada is playing co-host with the United States and Mexico, and welcoming the world.",
-      "link": "https://www.nytimes.com/2026/06/12/world/canada/2026-world-cup-canada-bosnia-toronto.html",
-      "published": "2026-06-12T20:06:17+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "加拿大在世界杯上抬起手肘，张开双臂"
-    },
     {
       "id": "154a22f9005d",
       "title": "China Arrests U.S. Scholar on Spying Charge",
       "summary": "The arrest of U Min Zin, who did graduate studies at U.C. Berkeley and directs a research group on Myanmar, took place soon after President Trump met with Xi Jinping in China.",
       "link": "https://www.nytimes.com/2026/06/11/us/politics/china-arrests-us-scholar.html",
-      "published": "2026-06-12T12:46:07+00:00",
+      "published": "2026-06-12T23:59:14+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "中国以间谍罪逮捕美国学者"
+    },
+    {
+      "id": "973829299346",
+      "title": "Canada Has Its Elbows Up and Arms Wide Open at the World Cup",
+      "summary": "Facing President Trump’s threats, many Canadians have taken a defensive stance to their neighbor. But now Canada is playing co-host with the United States and Mexico, and welcoming the world.",
+      "link": "https://www.nytimes.com/2026/06/12/world/canada/2026-world-cup-canada-bosnia-toronto.html",
+      "published": "2026-06-12T22:34:19+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "加拿大在世界杯上抬起手肘，张开双臂"
     },
     {
       "id": "50b1bc26ab32",
