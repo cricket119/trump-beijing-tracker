@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-15T02:37:12.171485+00:00",
-  "total": 7,
+  "last_updated": "2026-06-15T09:50:38.737732+00:00",
+  "total": 5,
   "articles": [
     {
       "id": "f881b89f1af4",
@@ -13,30 +13,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "特朗普声称根据与伊朗的协议，海峡将“永久免费”"
-    },
-    {
-      "id": "4d4018bdc361",
-      "title": "FirstFT: Trump says US-Iran deal reached to reopen Strait of Hormuz and extend ceasefire",
-      "summary": "Also in today’s newsletter: China preps digital payments system and Swiss voters reject proposal to cap population at 10mn",
-      "link": "https://www.ft.com/content/423e2773-96ab-45d1-94b7-e61d360c282e",
-      "published": "2026-06-14T22:07:43+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "FirstFT ：特朗普称美伊达成协议重开霍尔木兹海峡并延长停火"
-    },
-    {
-      "id": "973829299346",
-      "title": "Canada Has Its Elbows Up and Arms Wide Open at the World Cup",
-      "summary": "Facing President Trump’s threats, many Canadians have taken a defensive stance to their neighbor. But now Canada is playing co-host with the United States and Mexico, and welcoming the world.",
-      "link": "https://www.nytimes.com/2026/06/12/world/canada/2026-world-cup-canada-bosnia-toronto.html",
-      "published": "2026-06-12T22:34:19+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "加拿大在世界杯上抬起手肘，张开双臂"
     },
     {
       "id": "50b1bc26ab32",
