@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-06-14T20:58:19.677994+00:00",
-  "total": 5,
+  "last_updated": "2026-06-15T02:37:12.171485+00:00",
+  "total": 7,
   "articles": [
+    {
+      "id": "f881b89f1af4",
+      "title": "Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran",
+      "summary": "In a call to The New York Times, President Trump praised Russia’s and China’s leaders and described Israel’s prime minister as “a very difficult guy.”",
+      "link": "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html",
+      "published": "2026-06-15T01:41:17+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普声称根据与伊朗的协议，海峡将“永久免费”"
+    },
+    {
+      "id": "4d4018bdc361",
+      "title": "FirstFT: Trump says US-Iran deal reached to reopen Strait of Hormuz and extend ceasefire",
+      "summary": "Also in today’s newsletter: China preps digital payments system and Swiss voters reject proposal to cap population at 10mn",
+      "link": "https://www.ft.com/content/423e2773-96ab-45d1-94b7-e61d360c282e",
+      "published": "2026-06-14T22:07:43+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "FirstFT ：特朗普称美伊达成协议重开霍尔木兹海峡并延长停火"
+    },
     {
       "id": "973829299346",
       "title": "Canada Has Its Elbows Up and Arms Wide Open at the World Cup",
