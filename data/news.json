@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-06-15T16:53:01.807367+00:00",
-  "total": 5,
+  "last_updated": "2026-06-15T22:09:06.917431+00:00",
+  "total": 7,
   "articles": [
+    {
+      "id": "a4e59b2331af",
+      "title": "US Oil Reserve Hits 43-Year Low as Trump Tries to Limit Iran Fallout",
+      "summary": "Bob McNally, president of Rapidan Energy Group, said that countries across the world are going to up their demand for oil to fill strategic reserves depleted by conflict in Iran and the closure of the Strait of Hormuz. McNally said that demand in Asian countries like China will be higher than before, because of the crude 'crash diet' the region was on without access to oil supply chains.  (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-15/us-oil-reserve-hits-43-year-low-amid-iran-fallout-video",
+      "published": "2026-06-15T18:59:11+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普试图限制伊朗辐射，美国石油储备触及43年低点"
+    },
+    {
+      "id": "e5c94feac800",
+      "title": "The least bad exit from Trump’s war of choice",
+      "summary": "To ensure deal succeeds, the US president must contain Israel’s prime minister",
+      "link": "https://www.ft.com/content/9f006f90-beff-4df8-a501-701cbb854032",
+      "published": "2026-06-15T17:41:00+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普首选战争中最不糟糕的退出"
+    },
     {
       "id": "f881b89f1af4",
       "title": "Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran",
