@@ -1,31 +1,7 @@
 {
-  "last_updated": "2026-06-16T02:39:30.151654+00:00",
-  "total": 6,
+  "last_updated": "2026-06-16T09:15:08.519630+00:00",
+  "total": 4,
   "articles": [
-    {
-      "id": "e5c94feac800",
-      "title": "The least bad exit from Trump’s war of choice",
-      "summary": "To ensure deal succeeds, the US president must contain Israel’s prime minister",
-      "link": "https://www.ft.com/content/9f006f90-beff-4df8-a501-701cbb854032",
-      "published": "2026-06-15T17:41:00+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普首选战争中最不糟糕的退出"
-    },
-    {
-      "id": "f881b89f1af4",
-      "title": "Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran",
-      "summary": "In a call to The New York Times, President Trump praised Russia’s and China’s leaders and described Israel’s prime minister as “a very difficult guy.”",
-      "link": "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html",
-      "published": "2026-06-15T12:32:07+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普声称根据与伊朗的协议，海峡将“永久免费”"
-    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
