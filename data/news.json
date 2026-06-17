@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-06-17T08:52:40.739204+00:00",
-  "total": 5,
+  "last_updated": "2026-06-17T14:47:47.269254+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "9526e7b7ecc0",
+      "title": "UniQure Shares Soar After FDA Reversal on Its Huntington’s Therapy",
+      "summary": "UniQure NV shares soared after the company announced it will be able to seek US approval for its Huntington’s disease gene therapy before conducting a new study, a dramatic reversal that shows the Trump administration is relaxing its previous hard-line stance on drug reviews.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-17/uniqure-resolves-huntington-s-dispute-will-file-for-us-approval",
+      "published": "2026-06-17T11:27:15+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "UniQure在FDA逆转其亨廷顿舞蹈症疗法后股价飙升"
+    },
     {
       "id": "a092cd32f2e8",
       "title": "Trump’s History at G7 Summits: Strained Ties and Early Exits",
