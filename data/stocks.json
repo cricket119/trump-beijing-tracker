@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T02:36:41.231886+00:00",
+  "last_updated": "2026-06-17T08:52:40.739204+00:00",
   "stocks": [
     {
       "symbol": "TSLA",
@@ -148,6 +148,17 @@
   ],
   "indices": [
     {
+      "symbol": "^GSPC",
+      "name": "S&P 500",
+      "region": "US",
+      "price": 7511.35,
+      "prev_close": 7386.65,
+      "change": 124.7,
+      "change_pct": 1.69,
+      "currency": "USD",
+      "market_state": "UNKNOWN"
+    },
+    {
       "symbol": "^DJI",
       "name": "Dow Jones",
       "region": "US",
@@ -173,10 +184,10 @@
       "symbol": "000001.SS",
       "name": "上证综指",
       "region": "CN",
-      "price": 4093.3958,
+      "price": 4108.076,
       "prev_close": 3987.015,
-      "change": 106.3808,
-      "change_pct": 2.67,
+      "change": 121.061,
+      "change_pct": 3.04,
       "currency": "CNY",
       "market_state": "UNKNOWN"
     },
@@ -184,10 +195,10 @@
       "symbol": "000300.SS",
       "name": "沪深300",
       "region": "CN",
-      "price": 4903.002,
+      "price": 4931.386,
       "prev_close": 4722.41,
-      "change": 180.592,
-      "change_pct": 3.82,
+      "change": 208.976,
+      "change_pct": 4.43,
       "currency": "CNY",
       "market_state": "UNKNOWN"
     },
@@ -195,10 +206,10 @@
       "symbol": "^HSI",
       "name": "恒生指数",
       "region": "HK",
-      "price": 24436.71,
+      "price": 24312.16,
       "prev_close": 24407.96,
-      "change": 28.75,
-      "change_pct": 0.12,
+      "change": -95.8,
+      "change_pct": -0.39,
       "currency": "HKD",
       "market_state": "UNKNOWN"
     },
