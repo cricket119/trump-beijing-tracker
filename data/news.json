@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-19T14:39:19.925199+00:00",
-  "total": 6,
+  "last_updated": "2026-06-19T17:46:20.705285+00:00",
+  "total": 5,
   "articles": [
     {
       "id": "a155f6052194",
@@ -13,18 +13,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "特朗普声称伊朗的交易是“无条件投降” ，说他的权力“没有限制” ： Axios"
-    },
-    {
-      "id": "4b38bffd49ed",
-      "title": "Taiwan’s President Says He Trusts Trump to Approve Arms Sales",
-      "summary": "President Lai Ching-te made the hopeful remarks after Mr. Trump suggested that he could use a proposed $14 billion arms package for Taiwan as leverage with Beijing.",
-      "link": "https://www.nytimes.com/2026/06/18/world/asia/taiwan-trump-china-arms-weapons.html",
-      "published": "2026-06-18T08:21:08+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "台湾总统表示相信特朗普会批准军售"
     },
     {
       "id": "50b1bc26ab32",
