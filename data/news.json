@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-06-20T07:41:02.938135+00:00",
-  "total": 5,
+  "last_updated": "2026-06-20T10:24:46.092451+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "60d6cbec2031",
+      "title": "Trump Called Iván Cepeda a ‘Radical Left Marxist.’ Can He Be Colombia’s President?",
+      "summary": "Iván Cepeda was caught off guard by a right-wing outsider and anti-leftist anger. He tells The Times he is not giving up.",
+      "link": "https://www.nytimes.com/2026/06/20/world/americas/ivan-cepeda-colombia-president-election.html",
+      "published": "2026-06-20T09:00:33+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普称伊万·塞佩达为“激进的左翼马克思主义者”。“他能成为哥伦比亚的总统吗？"
+    },
     {
       "id": "a155f6052194",
       "title": "Trump claims Iran deal is 'unconditional surrender,' says his power has 'no limits': Axios",
