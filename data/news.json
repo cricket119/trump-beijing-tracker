@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-06-22T09:37:37.660070+00:00",
-  "total": 4,
+  "last_updated": "2026-06-22T16:25:20.804349+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "09b9ced2e977",
+      "title": "China Tightens Rare-Earth Grip on U.S. Firms, Threatening Trade Clash",
+      "summary": "The move targets two U.S. manufacturers at the center of the Trump administration’s effort to rebuild the domestic supply chain for critical magnets.",
+      "link": "https://www.nytimes.com/2026/06/22/business/china-rare-earths.html",
+      "published": "2026-06-22T13:34:00+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "中国收紧对美国公司的稀土控制，威胁贸易冲突"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
