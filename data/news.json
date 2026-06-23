@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-23T14:23:14.722912+00:00",
-  "total": 6,
+  "last_updated": "2026-06-23T17:47:11.413340+00:00",
+  "total": 5,
   "articles": [
     {
       "id": "d7dfa83a153b",
@@ -13,18 +13,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "中国和美国，世界偶然的气候拯救者"
-    },
-    {
-      "id": "09b9ced2e977",
-      "title": "China Tightens Rare-Earth Grip on U.S. Firms, Threatening Trade Clash",
-      "summary": "The move targets two U.S. manufacturers at the center of the Trump administration’s effort to rebuild the domestic supply chain for critical magnets.",
-      "link": "https://www.nytimes.com/2026/06/22/business/china-rare-earths.html",
-      "published": "2026-06-22T13:34:01+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "中国收紧对美国公司的稀土控制，威胁贸易冲突"
     },
     {
       "id": "50b1bc26ab32",
