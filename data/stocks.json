@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T02:06:59.678355+00:00",
+  "last_updated": "2026-06-24T07:31:02.413295+00:00",
   "stocks": [
     {
       "symbol": "TSLA",
@@ -184,10 +184,10 @@
       "symbol": "000001.SS",
       "name": "上证综指",
       "region": "CN",
-      "price": 4102.302,
+      "price": 4110.813,
       "prev_close": 4108.076,
-      "change": -5.774,
-      "change_pct": -0.14,
+      "change": 2.737,
+      "change_pct": 0.07,
       "currency": "CNY",
       "market_state": "UNKNOWN"
     },
@@ -195,10 +195,10 @@
       "symbol": "000300.SS",
       "name": "沪深300",
       "region": "CN",
-      "price": 4927.492,
+      "price": 4943.02,
       "prev_close": 4931.39,
-      "change": -3.898,
-      "change_pct": -0.08,
+      "change": 11.63,
+      "change_pct": 0.24,
       "currency": "CNY",
       "market_state": "UNKNOWN"
     },
@@ -206,10 +206,10 @@
       "symbol": "^HSI",
       "name": "恒生指数",
       "region": "HK",
-      "price": 23469.42,
+      "price": 23427.24,
       "prev_close": 24493.95,
-      "change": -1024.53,
-      "change_pct": -4.18,
+      "change": -1066.71,
+      "change_pct": -4.35,
       "currency": "HKD",
       "market_state": "UNKNOWN"
     },
@@ -217,10 +217,10 @@
       "symbol": "CNY=X",
       "name": "USD/CNY",
       "region": "FX",
-      "price": 6.789,
+      "price": 6.8032,
       "prev_close": 6.7572,
-      "change": 0.0318,
-      "change_pct": 0.47,
+      "change": 0.046,
+      "change_pct": 0.68,
       "currency": "CNY",
       "market_state": "UNKNOWN"
     }
