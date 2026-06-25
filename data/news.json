@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-06-25T07:32:22.497593+00:00",
-  "total": 5,
+  "last_updated": "2026-06-25T10:32:40.138582+00:00",
+  "total": 4,
   "articles": [
-    {
-      "id": "e15dd221aa7a",
-      "title": "Nvidia's Huang calls black market data centers made of smuggled parts a 'dead end'",
-      "summary": "Washington regulators and the Trump administration are increasingly wary of China getting ahold of advanced AI software and hardware.",
-      "link": "https://www.cnbc.com/2026/06/24/nvidia-huang-data-center-smuggled-chips.html",
-      "published": "2026-06-24T18:22:40+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "Nvidia的Huang称由走私零件组成的黑市数据中心是“死胡同”"
-    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
