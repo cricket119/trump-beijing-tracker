@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-06-26T02:08:34.634111+00:00",
-  "total": 4,
+  "last_updated": "2026-06-26T07:41:12.979570+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "cc201a277664",
+      "title": "Trump's Iran oil sanction waiver set to squeeze China's teapot refiners",
+      "summary": "",
+      "link": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/trump-s-iran-oil-sanction-waiver-set-to-squeeze-china-s-teapot-refiners",
+      "published": "2026-06-26T07:41:27.124206+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "特朗普的伊朗石油制裁豁免将挤压中国的茶壶炼油厂"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
