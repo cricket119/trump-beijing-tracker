@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-06-27T02:03:45.672855+00:00",
-  "total": 5,
+  "last_updated": "2026-06-27T06:45:25.727202+00:00",
+  "total": 6,
   "articles": [
     {
       "id": "cc201a277664",
       "title": "Trump's Iran oil sanction waiver set to squeeze China's teapot refiners",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/trump-s-iran-oil-sanction-waiver-set-to-squeeze-china-s-teapot-refiners",
-      "published": "2026-06-27T02:03:58.355657+00:00",
+      "published": "2026-06-27T06:45:38.180853+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "特朗普的伊朗石油制裁豁免将挤压中国的茶壶炼油厂"
+    },
+    {
+      "id": "36fc23a53b8b",
+      "title": "Apple seeks to buy memory chips from blacklisted Chinese company",
+      "summary": "iPhone maker wants Trump administration to sign off on purchases to ease pressure from rising semiconductor prices",
+      "link": "https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb",
+      "published": "2026-06-27T02:17:50+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "苹果寻求从中国黑名单公司购买内存芯片"
     },
     {
       "id": "50b1bc26ab32",
