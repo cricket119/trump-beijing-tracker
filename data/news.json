@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-06-27T06:45:25.727202+00:00",
-  "total": 6,
+  "last_updated": "2026-06-27T09:55:04.802834+00:00",
+  "total": 7,
   "articles": [
     {
       "id": "cc201a277664",
       "title": "Trump's Iran oil sanction waiver set to squeeze China's teapot refiners",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/trump-s-iran-oil-sanction-waiver-set-to-squeeze-china-s-teapot-refiners",
-      "published": "2026-06-27T06:45:38.180853+00:00",
+      "published": "2026-06-27T09:55:17.415743+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "特朗普的伊朗石油制裁豁免将挤压中国的茶壶炼油厂"
+    },
+    {
+      "id": "ed3cfa9a1eb5",
+      "title": "Mexican Officials Have Become Informants for the Trump Administration",
+      "summary": "President Claudia Sheinbaum of Mexico has pushed back against U.S. investigations into Mexican politicians. Now some politicians want to cooperate.",
+      "link": "https://www.nytimes.com/2026/06/27/world/americas/mexican-officials-us-informants.html",
+      "published": "2026-06-27T09:01:57+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "墨西哥官员已成为特朗普政府的告密者"
     },
     {
       "id": "36fc23a53b8b",
