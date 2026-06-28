@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-06-28T07:42:30.251229+00:00",
-  "total": 7,
+  "last_updated": "2026-06-28T10:19:01.906754+00:00",
+  "total": 8,
   "articles": [
     {
       "id": "cc201a277664",
       "title": "Trump's Iran oil sanction waiver set to squeeze China's teapot refiners",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/trump-s-iran-oil-sanction-waiver-set-to-squeeze-china-s-teapot-refiners",
-      "published": "2026-06-28T07:42:43.762258+00:00",
+      "published": "2026-06-28T10:19:15.166597+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "特朗普的伊朗石油制裁豁免将挤压中国的茶壶炼油厂"
+    },
+    {
+      "id": "9180a29cd712",
+      "title": "Kazakhstan’s Leader Deepens U.S. Ties, Saying Trump Was ‘Sent by Heaven’",
+      "summary": "The Central Asian nation is aggressively courting President Trump’s Washington to counterbalance its powerful neighbors, Russia and China.",
+      "link": "https://www.nytimes.com/2026/06/28/world/asia/kazakhstan-trump.html",
+      "published": "2026-06-28T09:39:19+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "哈萨克斯坦领导人加深美国关系，称特朗普是“天派来的”"
     },
     {
       "id": "ed3cfa9a1eb5",
