@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-06-28T13:11:30.995858+00:00",
-  "total": 7,
+  "last_updated": "2026-06-28T16:56:33.815335+00:00",
+  "total": 8,
   "articles": [
     {
       "id": "cc201a277664",
       "title": "Trump's Iran oil sanction waiver set to squeeze China's teapot refiners",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/trump-s-iran-oil-sanction-waiver-set-to-squeeze-china-s-teapot-refiners",
-      "published": "2026-06-28T13:11:44.805206+00:00",
+      "published": "2026-06-28T16:56:47.224835+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "特朗普的伊朗石油制裁豁免将挤压中国的茶壶炼油厂"
+    },
+    {
+      "id": "d9b6b83b1770",
+      "title": "Can USMCA Survive Trump’s Second Term?",
+      "summary": "As Canada, Mexico, and the United States begin reviewing the USMCA trade pact, former diplomats and trade negotiators say the stakes extend far beyond tariffs. Former Canadian Ambassador Kirsten Hillman, former Mexican Ambassador Gerónimo Gutiérrez, and former US trade counsel Kelly Ann Shaw argue that the agreement now underpins everything from supply chains and agriculture to intellectual property and investment. While disagreements remain over autos, China, and industrial policy, all three say the bigger question is whether North America can strengthen its economic integration while adaptin",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-28/can-usmca-survive-trump-s-second-term-video",
+      "published": "2026-06-28T14:04:03+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "USMCA能否在特朗普的第二个任期中幸存下来？"
     },
     {
       "id": "9180a29cd712",
