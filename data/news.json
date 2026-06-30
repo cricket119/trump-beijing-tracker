@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-06-30T10:47:18.629114+00:00",
-  "total": 4,
+  "last_updated": "2026-06-30T13:52:31.353487+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "eb174ae26a32",
+      "title": "Argentina’s Beef Export Boom to US Leaves Locals Paying More for Steak",
+      "summary": "Ranchers on the Pampas answer Trump’s call and turn away from China, but the trend doesn’t bode well for Milei as he heads into an election.",
+      "link": "https://www.bloomberg.com/news/features/2026-06-30/beef-prices-argentina-exports-more-to-us-as-locals-eat-less-red-meat",
+      "published": "2026-06-30T12:00:15+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "阿根廷向美国出口牛肉热潮让当地人为牛排支付更多费用"
+    },
+    {
+      "id": "3d95d511e548",
+      "title": "White House AI crackdown opens door for Chinese model makers to close gap",
+      "summary": "The Trump administration's crackdown on Anthropic's leading artificial intelligence models is looking like a gift to China.",
+      "link": "https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html",
+      "published": "2026-06-30T12:00:01+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "白宫的人工智能镇压为中国模型制造商打开了缩小差距的大门"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
