@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-06-30T21:21:37.245961+00:00",
-  "total": 5,
+  "last_updated": "2026-07-01T02:13:22.987023+00:00",
+  "total": 7,
   "articles": [
+    {
+      "id": "5d195bb40ced",
+      "title": "FirstFT: ‘Unprecedented’ plane crash raises questions about Beijing’s security",
+      "summary": "Also in today’s newsletter: an interview with Nato chief Mark Rutte, and US Supreme Court rejects Trump’s bid to end birthright citizenship",
+      "link": "https://www.ft.com/content/3d892d31-e4ee-43b8-87dc-64ee3575d046",
+      "published": "2026-06-30T21:56:43+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "FirstFT ： “史无前例”的飞机失事引发了对北京安全的质疑"
+    },
+    {
+      "id": "3c98960756fb",
+      "title": "World Bank to phase out China lending",
+      "summary": "Decision from global development institution follows years of pressure from the Trump administration",
+      "link": "https://www.ft.com/content/32b664e1-d2d2-4292-b0b3-0056808acf26",
+      "published": "2026-06-30T20:47:12+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "世界银行将逐步淘汰中国贷款"
+    },
     {
       "id": "22901b382d83",
       "title": "Trump administration's AI crackdown opens door for China to close gap",
