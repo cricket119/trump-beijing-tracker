@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-07-01T14:04:16.210840+00:00",
-  "total": 4,
+  "last_updated": "2026-07-01T17:45:27.732513+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "8cefae8afaaa",
+      "title": "U.S. won’t renew USMCA, opening door for negotiations with Canada and Mexico",
+      "summary": "President Donald Trump's \"primary\" issue with USMCA centers on America's trade deficits with Canada and Mexico, a senior administration official said.",
+      "link": "https://www.cnbc.com/2026/07/01/trump-usmca-canada-mexico-trade-treaty.html",
+      "published": "2026-07-01T17:42:52+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "美国不会续签USMCA ，为与加拿大和墨西哥的谈判打开了大门"
+    },
+    {
+      "id": "fb75f3a32e08",
+      "title": "US voters support Trump trade deal with Canada and Mexico, survey finds",
+      "summary": "New poll finds bipartisan backing for USMCA even as president seeks to renegotiate its terms",
+      "link": "https://www.ft.com/content/2c7b4dc8-1b1c-49f4-b51a-0dee0c1d216a",
+      "published": "2026-07-01T16:32:19+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "调查发现，美国选民支持特朗普与加拿大和墨西哥的贸易协议"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
@@ -11,7 +35,8 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official"
+      "source_category": "chinese_official",
+      "title_zh": "在习近平通话后，中国强调台湾是“核心利益的核心” ； “依靠美国独立”的幻想空间只会进一步缩小：专家"
     },
     {
       "id": "2c9f49adac2e",
@@ -22,7 +47,8 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official"
+      "source_category": "chinese_official",
+      "title_zh": "特朗普声称印度将购买委内瑞拉石油，欢迎中国的投资;中国专家注意到言论“单方面” ，没有得到印度方面的确认"
     },
     {
       "id": "28925d7651b5",
@@ -33,7 +59,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
     },
     {
       "id": "b279b93e7dae",
@@ -44,7 +71,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
     }
   ]
 }
