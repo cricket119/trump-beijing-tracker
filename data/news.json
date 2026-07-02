@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-02T13:26:42.069935+00:00",
+  "last_updated": "2026-07-02T17:24:38.638795+00:00",
   "total": 7,
   "articles": [
+    {
+      "id": "ccddf61387b7",
+      "title": "Why has Trump refused to renew the USMCA, and what will that mean?",
+      "summary": "Trade ambassador says US will not approve trilateral agreement with Canada and Mexico in its current form.",
+      "link": "https://www.aljazeera.com/news/2026/7/2/why-has-trump-refused-to-renew-the-usmca-and-what-will-that-mean?traffic_source=rss",
+      "published": "2026-07-02T13:09:59+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "为什么特朗普拒绝续签USMCA ，这意味着什么？"
+    },
     {
       "id": "e38b4560c524",
       "title": "Inside Donald Trump’s new financial disclosures",
@@ -13,18 +25,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "唐纳德·特朗普的新财务披露内幕"
-    },
-    {
-      "id": "da8e9e21207a",
-      "title": "Tech Stocks Fall Ahead of US Payrolls; Apple, OpenAI Bid with Government | Bloomberg Brief 7/2/2026",
-      "summary": "Technology stocks fall ahead of the US June payrolls report. The yen strengthens sharply against the dollar as traders stay alert for a potential intervention from the Japanese government. Apple is said to have appealed to the Trump administration in an effort to buy Chinese-made memory chips from firms on Pentagon's blacklist. OpenAI is reportedly having discussions about giving the US government a 5% stake in the company. Veronica Clark of Citi looks ahead to the June jobs report. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-07-02/bloomberg-brief-7-2-2026-video",
-      "published": "2026-07-02T11:17:04+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "科技股跌破美国就业岗位；苹果、OpenAI与政府竞标|彭博社简报2026年7月2日"
     },
     {
       "id": "8cefae8afaaa",
