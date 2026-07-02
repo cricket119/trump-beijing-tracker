@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-07-02T17:24:38.638795+00:00",
-  "total": 7,
+  "last_updated": "2026-07-02T20:52:20.666322+00:00",
+  "total": 6,
   "articles": [
     {
-      "id": "ccddf61387b7",
-      "title": "Why has Trump refused to renew the USMCA, and what will that mean?",
-      "summary": "Trade ambassador says US will not approve trilateral agreement with Canada and Mexico in its current form.",
-      "link": "https://www.aljazeera.com/news/2026/7/2/why-has-trump-refused-to-renew-the-usmca-and-what-will-that-mean?traffic_source=rss",
-      "published": "2026-07-02T13:09:59+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
+      "id": "13b938eefbb6",
+      "title": "Need To Make Sure The US Is The Leader in AI, Not China Says Rep. Smith",
+      "summary": "Missouri Representative Jason Smith, a Republican, joined Balance of Power to discuss the year anniversary of the One Big Beautiful Bill as well as the recent news from OpenAI. When asked about the USMCA Rep. Smith said the Trump administration is saying it wants a better trading relationship through its decision not to renew its trade pact with Canada and Mexico. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-02/need-to-make-sure-the-us-is-the-leader-in-ai-rep-smith-video",
+      "published": "2026-07-02T18:28:37+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "为什么特朗普拒绝续签USMCA ，这意味着什么？"
+      "source_category": "business",
+      "title_zh": "众议员史密斯表示，需要确保美国是人工智能的领导者，而不是中国"
     },
     {
       "id": "e38b4560c524",
@@ -25,18 +25,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "唐纳德·特朗普的新财务披露内幕"
-    },
-    {
-      "id": "8cefae8afaaa",
-      "title": "U.S. won’t renew USMCA, opening door for negotiations with Canada and Mexico",
-      "summary": "President Donald Trump's \"primary\" issue with USMCA centers on America's trade deficits with Canada and Mexico, a senior administration official said.",
-      "link": "https://www.cnbc.com/2026/07/01/trump-usmca-canada-mexico-trade-treaty.html",
-      "published": "2026-07-01T18:55:47+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "美国不会续签USMCA ，为与加拿大和墨西哥的谈判打开了大门"
     },
     {
       "id": "50b1bc26ab32",
