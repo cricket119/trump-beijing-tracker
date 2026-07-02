@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-01T21:15:39.458750+00:00",
-  "total": 7,
+  "last_updated": "2026-07-02T02:05:55.729235+00:00",
+  "total": 8,
   "articles": [
+    {
+      "id": "4cb3a9cc0aeb",
+      "title": "CNBC Daily Open: Trump’s 'best' trade deal gets another look",
+      "summary": "The U.S. has not renewed the United States-Mexico-Canada Agreement, an agreement that President Donald Trump once called \"the best agreement we've ever made.",
+      "link": "https://www.cnbc.com/2026/07/02/cnbc-daily-open-trump-usmca-meta-fed-south-korea.html",
+      "published": "2026-07-02T01:48:46+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "CNBC每日公开赛：特朗普的“最佳”贸易协议再次亮相"
+    },
     {
       "id": "8cefae8afaaa",
       "title": "U.S. won’t renew USMCA, opening door for negotiations with Canada and Mexico",
