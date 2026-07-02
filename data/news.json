@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-07-02T02:05:55.729235+00:00",
-  "total": 8,
+  "last_updated": "2026-07-02T06:58:58.575396+00:00",
+  "total": 6,
   "articles": [
     {
-      "id": "4cb3a9cc0aeb",
-      "title": "CNBC Daily Open: Trump’s 'best' trade deal gets another look",
-      "summary": "The U.S. has not renewed the United States-Mexico-Canada Agreement, an agreement that President Donald Trump once called \"the best agreement we've ever made.",
-      "link": "https://www.cnbc.com/2026/07/02/cnbc-daily-open-trump-usmca-meta-fed-south-korea.html",
-      "published": "2026-07-02T01:48:46+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
+      "id": "5470fbec1b23",
+      "title": "Lawyer takes Trump to task over unchecked presidential powers",
+      "summary": "Constitutional lawyer Bruce Fein says the US was founded on the principle that governments exist to protect rights.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/lawyer-takes-trump-to-task-over-unchecked-presidential-powers?traffic_source=rss",
+      "published": "2026-07-02T03:16:38+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "CNBC每日公开赛：特朗普的“最佳”贸易协议再次亮相"
+      "source_category": "international",
+      "title_zh": "律师将特朗普指责为不受约束的总统权力"
     },
     {
       "id": "8cefae8afaaa",
@@ -25,30 +25,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "美国不会续签USMCA ，为与加拿大和墨西哥的谈判打开了大门"
-    },
-    {
-      "id": "3c98960756fb",
-      "title": "World Bank to phase out China lending",
-      "summary": "Decision from global development institution follows years of pressure from the Trump administration",
-      "link": "https://www.ft.com/content/32b664e1-d2d2-4292-b0b3-0056808acf26",
-      "published": "2026-07-01T18:42:26+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "世界银行将逐步淘汰中国贷款"
-    },
-    {
-      "id": "414bf98599ef",
-      "title": "US opts not to renew Trump’s trade deal with Mexico and Canada",
-      "summary": "Washington will instead hold annual reviews on terms of commerce with its biggest trading partners",
-      "link": "https://www.ft.com/content/2c7b4dc8-1b1c-49f4-b51a-0dee0c1d216a",
-      "published": "2026-07-01T18:29:29+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "美国选择不续签特朗普与墨西哥和加拿大的贸易协议"
     },
     {
       "id": "50b1bc26ab32",
