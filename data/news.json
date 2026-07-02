@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-07-02T10:26:46.282264+00:00",
-  "total": 6,
+  "last_updated": "2026-07-02T13:26:42.069935+00:00",
+  "total": 7,
   "articles": [
     {
-      "id": "5470fbec1b23",
-      "title": "Lawyer takes Trump to task over unchecked presidential powers",
-      "summary": "Constitutional lawyer Bruce Fein says the US was founded on the principle that governments exist to protect rights.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/lawyer-takes-trump-to-task-over-unchecked-presidential-powers?traffic_source=rss",
-      "published": "2026-07-02T03:16:38+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
+      "id": "e38b4560c524",
+      "title": "Inside Donald Trump’s new financial disclosures",
+      "summary": "Also in today’s newsletter, US opts not to renew trade deal with Mexico and Canada",
+      "link": "https://www.ft.com/content/0caeeae7-8bac-4b57-a13f-a457a61cf5fe",
+      "published": "2026-07-02T13:00:03+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "律师将特朗普指责为不受约束的总统权力"
+      "source_category": "business",
+      "title_zh": "唐纳德·特朗普的新财务披露内幕"
+    },
+    {
+      "id": "da8e9e21207a",
+      "title": "Tech Stocks Fall Ahead of US Payrolls; Apple, OpenAI Bid with Government | Bloomberg Brief 7/2/2026",
+      "summary": "Technology stocks fall ahead of the US June payrolls report. The yen strengthens sharply against the dollar as traders stay alert for a potential intervention from the Japanese government. Apple is said to have appealed to the Trump administration in an effort to buy Chinese-made memory chips from firms on Pentagon's blacklist. OpenAI is reportedly having discussions about giving the US government a 5% stake in the company. Veronica Clark of Citi looks ahead to the June jobs report. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-02/bloomberg-brief-7-2-2026-video",
+      "published": "2026-07-02T11:17:04+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "科技股跌破美国就业岗位；苹果、OpenAI与政府竞标|彭博社简报2026年7月2日"
     },
     {
       "id": "8cefae8afaaa",
