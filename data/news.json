@@ -1,31 +1,7 @@
 {
-  "last_updated": "2026-07-02T20:52:20.666322+00:00",
-  "total": 6,
+  "last_updated": "2026-07-03T01:49:40.837129+00:00",
+  "total": 4,
   "articles": [
-    {
-      "id": "13b938eefbb6",
-      "title": "Need To Make Sure The US Is The Leader in AI, Not China Says Rep. Smith",
-      "summary": "Missouri Representative Jason Smith, a Republican, joined Balance of Power to discuss the year anniversary of the One Big Beautiful Bill as well as the recent news from OpenAI. When asked about the USMCA Rep. Smith said the Trump administration is saying it wants a better trading relationship through its decision not to renew its trade pact with Canada and Mexico. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-07-02/need-to-make-sure-the-us-is-the-leader-in-ai-rep-smith-video",
-      "published": "2026-07-02T18:28:37+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "众议员史密斯表示，需要确保美国是人工智能的领导者，而不是中国"
-    },
-    {
-      "id": "e38b4560c524",
-      "title": "Inside Donald Trump’s new financial disclosures",
-      "summary": "Also in today’s newsletter, US opts not to renew trade deal with Mexico and Canada",
-      "link": "https://www.ft.com/content/0caeeae7-8bac-4b57-a13f-a457a61cf5fe",
-      "published": "2026-07-02T13:00:03+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "唐纳德·特朗普的新财务披露内幕"
-    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
