@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-04T06:38:48.638899+00:00",
-  "total": 4,
+  "last_updated": "2026-07-04T09:58:11.575355+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "6a44bc65f6c0",
+      "title": "Trump’s Travel Crackdown Has a Winner: Mexican Tourism",
+      "summary": "While critics question just how much the World Cup will benefit tourism long term, Mexican officials believe it can help boost the country to fifth most visited in the world.",
+      "link": "https://www.nytimes.com/2026/07/04/world/americas/world-cup-mexico-tourism-trump.html",
+      "published": "2026-07-04T09:00:07+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普的旅行镇压有赢家：墨西哥旅游业"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
