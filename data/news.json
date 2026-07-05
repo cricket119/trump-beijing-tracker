@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-05T13:04:19.277915+00:00",
-  "total": 7,
+  "last_updated": "2026-07-05T16:53:01.614271+00:00",
+  "total": 8,
   "articles": [
+    {
+      "id": "fd0f94d9975d",
+      "title": "China releases Christian pastor after Trump appeal",
+      "summary": "US president raised case of Protestant church founder Ezra Jin during meeting with Xi Jinping in May",
+      "link": "https://www.ft.com/content/3775709b-1d55-4f0c-9148-2fa6d05bb9ad",
+      "published": "2026-07-05T15:38:08+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "在特朗普上诉后，中国释放了基督教牧师"
+    },
     {
       "id": "81dc012c0166",
       "title": "China Frees Pastor Detained in Crackdown on Religion After Trump’s Urging",
