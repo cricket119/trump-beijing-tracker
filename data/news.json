@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-05T01:55:12.039548+00:00",
-  "total": 5,
+  "last_updated": "2026-07-05T06:58:34.392706+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "fd102b806f61",
+      "title": "Chinese underground church figure Jin Mingri freed from prison",
+      "summary": "The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-05T05:58:21+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "中国地下教会人物金明日获释出狱"
+    },
     {
       "id": "6a44bc65f6c0",
       "title": "Trump’s Travel Crackdown Has a Winner: Mexican Tourism",
