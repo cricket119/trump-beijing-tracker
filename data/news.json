@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-05T20:44:47.176449+00:00",
+  "last_updated": "2026-07-06T02:02:19.160128+00:00",
   "total": 8,
   "articles": [
+    {
+      "id": "9dc09546ebf0",
+      "title": "FirstFT: China releases Christian pastor after Trump raised his case with Xi",
+      "summary": "Also in today’s newsletter: Wall Street banks recover in China and Ukrainian drone strikes spur Russian fuel crisis",
+      "link": "https://www.ft.com/content/d653e868-086c-4b15-a140-23081ac562a2",
+      "published": "2026-07-05T21:19:32+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "FirstFT ：特朗普向习近平提起诉讼后，中国释放了基督教牧师"
+    },
     {
       "id": "fd0f94d9975d",
       "title": "China releases Christian pastor after Trump appeal",
@@ -25,18 +37,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "在特朗普的敦促下，中国释放了因镇压宗教而被拘留的牧师"
-    },
-    {
-      "id": "fd102b806f61",
-      "title": "Chinese underground church figure Jin Mingri freed from prison",
-      "summary": "The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-07-05T05:58:21+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "中国地下教会人物金明日获释出狱"
     },
     {
       "id": "6a44bc65f6c0",
