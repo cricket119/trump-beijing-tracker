@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-06T08:08:40.502548+00:00",
-  "total": 5,
+  "last_updated": "2026-07-06T14:54:27.173523+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "5516cf434948",
+      "title": "FirstFT: US voters say Trump’s Iran war not worth the cost — FT poll",
+      "summary": "Also in today’s newsletter: China launches a ballistic missile into the Pacific Ocean and England defeat World Cup co-hosts Mexico",
+      "link": "https://www.ft.com/content/d653e868-086c-4b15-a140-23081ac562a2",
+      "published": "2026-07-06T10:27:49+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "FirstFT ：美国选民认为特朗普的伊朗战争不值得付出代价—英国《金融时报》民意调查"
+    },
     {
       "id": "81dc012c0166",
       "title": "China Frees Pastor Detained in Crackdown on Religion After Trump’s Urging",
