@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-08T06:20:32.222651+00:00",
-  "total": 4,
+  "last_updated": "2026-07-08T10:05:16.453721+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "df754cb13a3c",
+      "title": "China Cites Trump Remarks in Rare Criticism of US Taiwan Envoy",
+      "summary": "China took the rare step of publicly criticizing the top US diplomat in Taiwan, invoking select remarks by President Donald Trump to argue that the envoy’s actions are destabilizing relations.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-08/china-cites-trump-s-remarks-in-rare-attack-on-us-taiwan-envoy",
+      "published": "2026-07-08T08:56:43+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "中国援引特朗普罕见批评美国台湾特使的言论"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
