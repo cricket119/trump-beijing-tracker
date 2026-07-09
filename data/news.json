@@ -1,7 +1,18 @@
 {
-  "last_updated": "2026-07-09T10:49:00.512042+00:00",
-  "total": 4,
+  "last_updated": "2026-07-09T14:27:22.008700+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "8cea09dcda27",
+      "title": "Legado de Fujimori desafía ofensiva anti-China de Trump en Perú",
+      "summary": "Keiko Fujimori podría ser el tipo de líder que Donald Trump desea en América Latina. Pero los profundos vínculos de Perú con China muestran lo difícil que será para Washington revertir los avances de Pekín en la región. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-09/legado-de-fujimori-desafia-ofensiva-anti-china-de-trump-en-peru",
+      "published": "2026-07-09T12:52:19+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
