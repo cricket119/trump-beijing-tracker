@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T07:27:12.241621+00:00",
+  "last_updated": "2026-07-09T10:49:00.512042+00:00",
   "stocks": [
     {
       "symbol": "TSLA",
@@ -206,10 +206,10 @@
       "symbol": "^HSI",
       "name": "恒生指数",
       "region": "HK",
-      "price": 24037.71,
+      "price": 24030.18,
       "prev_close": 23055.03,
-      "change": 982.68,
-      "change_pct": 4.26,
+      "change": 975.15,
+      "change_pct": 4.23,
       "currency": "HKD",
       "market_state": "UNKNOWN"
     },
