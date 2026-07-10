@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-07-09T21:10:38.904991+00:00",
-  "total": 4,
+  "last_updated": "2026-07-10T01:48:14.063013+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "9308fdaa9ced",
+      "title": "New Mexico accuses US Justice Department of impeding Epstein investigation",
+      "summary": "State Attorney General Raul Torrez accused the Trump administration of withholding records, harming his investigation.",
+      "link": "https://www.aljazeera.com/news/2026/7/9/new-mexico-accuses-us-justice-department-of-impeding-epstein-investigation?traffic_source=rss",
+      "published": "2026-07-09T23:25:48+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "新墨西哥州指责美国司法部阻碍爱泼斯坦的调查"
+    },
+    {
+      "id": "25ec5130e2bc",
+      "title": "Trump’s climate jibes at China and EU just make him look out of date",
+      "summary": "US President Donald Trump’s negative portrayal of China’s achievements in renewable energy began at a White House meeting with oil executives on January 9 and was amplified at the World Economic Forum later that month.\nThe story he told was shaped more by domestic politics than fact – a narrative that has lingered through subsequent debates over China’s alleged clean-energy “overcapacity”.\nWhile such rhetoric might rally support in the American Midwest, it does not withstand scrutiny. Trump’s...",
+      "link": "https://www.scmp.com/opinion/world-opinion/article/3359838/trumps-climate-jibes-china-and-eu-just-make-him-look-out-date?utm_source=rss_feed",
+      "published": "2026-07-09T21:30:07+00:00",
+      "source": "SCMP",
+      "source_color": "#003580",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "特朗普对中国和欧盟的气候嘲讽使他看起来过时了"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
