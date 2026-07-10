@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-10T01:48:14.063013+00:00",
-  "total": 6,
+  "last_updated": "2026-07-10T07:25:25.794693+00:00",
+  "total": 7,
   "articles": [
+    {
+      "id": "8b622f368b41",
+      "title": "China sets July 4 precedent with US; Cathay plane triggers Nato alert: SCMP’s 7 highlights",
+      "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing.\n1. China’s Xi Jinping sets new precedent with July 4 message for Trump and US\nIn a departure from convention, Chinese leader Xi Jinping sent a congratulatory message to the United States on Independence Day. Beijing does not usually...",
+      "link": "https://www.scmp.com/news/china/article/3360050/china-sets-july-4-precedent-us-cathay-plane-triggers-nato-alert-scmps-7-highlights?utm_source=rss_feed",
+      "published": "2026-07-10T04:15:05+00:00",
+      "source": "SCMP",
+      "source_color": "#003580",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "中国7月4日与美国开创先例；国泰飞机引发北约警报：南华早报的7大亮点"
+    },
     {
       "id": "9308fdaa9ced",
       "title": "New Mexico accuses US Justice Department of impeding Epstein investigation",
