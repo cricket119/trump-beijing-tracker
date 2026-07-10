@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T07:25:25.794693+00:00",
+  "last_updated": "2026-07-10T10:42:49.561878+00:00",
   "stocks": [
     {
       "symbol": "TSLA",
@@ -206,10 +206,10 @@
       "symbol": "^HSI",
       "name": "恒生指数",
       "region": "HK",
-      "price": 24240.97,
+      "price": 24175.12,
       "prev_close": 23350.03,
-      "change": 890.94,
-      "change_pct": 3.82,
+      "change": 825.09,
+      "change_pct": 3.53,
       "currency": "HKD",
       "market_state": "UNKNOWN"
     },
@@ -217,10 +217,10 @@
       "symbol": "CNY=X",
       "name": "USD/CNY",
       "region": "FX",
-      "price": 6.7785,
+      "price": 6.7637,
       "prev_close": 6.7886,
-      "change": -0.0101,
-      "change_pct": -0.15,
+      "change": -0.0249,
+      "change_pct": -0.37,
       "currency": "CNY",
       "market_state": "UNKNOWN"
     }
