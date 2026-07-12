@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-12T06:25:01.547024+00:00",
-  "total": 7,
+  "last_updated": "2026-07-12T09:41:15.579651+00:00",
+  "total": 8,
   "articles": [
+    {
+      "id": "72cf8a3f6eca",
+      "title": "Trump Sought an Iran War Exit. Putin Pushed On in Ukraine. Now Both Are Stuck.",
+      "summary": "The Iran and Ukraine wars underline the common limits of military force in achieving political ends, but also the differences between a dug-in Russian president and a vacillating American one.",
+      "link": "https://www.nytimes.com/2026/07/12/world/europe/trump-putin-war-iran-ukraine.html",
+      "published": "2026-07-12T09:01:28+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普寻求伊朗战争退出。普京在乌克兰挺身而出。现在两者都卡住了。"
+    },
     {
       "id": "18ae1bac1d08",
       "title": "Patriot Supply Strains Shape Ukraine Aid",
