@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-12T12:52:37.391772+00:00",
-  "total": 7,
+  "last_updated": "2026-07-12T16:43:27.052388+00:00",
+  "total": 8,
   "articles": [
+    {
+      "id": "a022a9dfc63c",
+      "title": "Meet the Cubans stuck in Mexico under Donald Trump’s deportation campaign",
+      "summary": "Cuba has often refused to accept deportations from the US. Where does that leave Cuban deportees under Trump?",
+      "link": "https://www.aljazeera.com/features/longform/2026/7/12/meet-the-cubans-stuck-in-mexico-under-donald-trumps-deportation-campaign?traffic_source=rss",
+      "published": "2026-07-12T15:38:03+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "在唐纳德·特朗普（ Donald Trump ）的驱逐运动下，与被困在墨西哥的古巴人"
+    },
     {
       "id": "72cf8a3f6eca",
       "title": "Trump Sought an Iran War Exit. Putin Pushed On in Ukraine. Now Both Are Stuck.",
