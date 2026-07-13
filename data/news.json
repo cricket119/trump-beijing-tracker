@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-13T10:48:14.813656+00:00",
-  "total": 5,
+  "last_updated": "2026-07-13T14:00:29.200726+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "4288bdca158d",
+      "title": "Trump’s plan for Europe is falling apart",
+      "summary": "The US president has a genius for alienating existing and potential allies",
+      "link": "https://www.ft.com/content/23041bb7-4647-4efe-b790-b763d270fb72",
+      "published": "2026-07-13T11:30:55+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普的欧洲计划正在崩溃"
+    },
     {
       "id": "72cf8a3f6eca",
       "title": "Trump Sought an Iran War Exit. Putin Pushed On in Ukraine. Now Both Are Stuck.",
