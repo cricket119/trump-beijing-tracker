@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-12T20:34:12.089118+00:00",
-  "total": 9,
+  "last_updated": "2026-07-13T01:29:43.150128+00:00",
+  "total": 6,
   "articles": [
     {
       "id": "95e9c99c3cb7",
@@ -15,18 +15,6 @@
       "title_zh": "斯坦顿警告霍尔木兹关闭损害经济"
     },
     {
-      "id": "a022a9dfc63c",
-      "title": "Meet the Cubans stuck in Mexico under Donald Trump’s deportation campaign",
-      "summary": "Cuba has often refused to accept deportations from the US. Where does that leave Cuban deportees under Trump?",
-      "link": "https://www.aljazeera.com/features/longform/2026/7/12/meet-the-cubans-stuck-in-mexico-under-donald-trumps-deportation-campaign?traffic_source=rss",
-      "published": "2026-07-12T15:38:03+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "在唐纳德·特朗普（ Donald Trump ）的驱逐运动下，与被困在墨西哥的古巴人"
-    },
-    {
       "id": "72cf8a3f6eca",
       "title": "Trump Sought an Iran War Exit. Putin Pushed On in Ukraine. Now Both Are Stuck.",
       "summary": "The Iran and Ukraine wars underline the common limits of military force in achieving political ends, but also the differences between a dug-in Russian president and a vacillating American one.",
@@ -37,30 +25,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "特朗普寻求伊朗战争退出。普京在乌克兰挺身而出。现在两者都卡住了。"
-    },
-    {
-      "id": "18ae1bac1d08",
-      "title": "Patriot Supply Strains Shape Ukraine Aid",
-      "summary": "Axios defense reporter Colin Demarest says President Donald Trump's proposal to let Ukraine produce Patriot interceptors faces significant manufacturing, licensing and technology hurdles, making it unlikely to address Kyiv's immediate air defense needs. He says shortages of advanced interceptors continue to raise broader questions about defense industrial capacity, while Ukraine's rapid innovation in drones is reshaping how allies think about modern warfare. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-07-11/patriot-supply-strains-shape-ukraine-aid-video",
-      "published": "2026-07-11T16:58:19+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "爱国者供应紧张塑造乌克兰援助"
-    },
-    {
-      "id": "8b622f368b41",
-      "title": "China sets July 4 precedent with US; Cathay plane triggers Nato alert: SCMP’s 7 highlights",
-      "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing.\n1. China’s Xi Jinping sets new precedent with July 4 message for Trump and US\nIn a departure from convention, Chinese leader Xi Jinping sent a congratulatory message to the United States on Independence Day. Beijing does not usually...",
-      "link": "https://www.scmp.com/news/china/article/3360050/china-sets-july-4-precedent-us-cathay-plane-triggers-nato-alert-scmps-7-highlights?utm_source=rss_feed",
-      "published": "2026-07-10T04:15:05+00:00",
-      "source": "SCMP",
-      "source_color": "#003580",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "中国7月4日与美国开创先例；国泰飞机引发北约警报：南华早报的7大亮点"
     },
     {
       "id": "50b1bc26ab32",
