@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-13T17:47:19.917627+00:00",
-  "total": 5,
+  "last_updated": "2026-07-13T20:47:17.614292+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "520fc618b799",
+      "title": "Trump Reimposes Naval Blockade, as U.S. and Iran Escalate Strikes",
+      "summary": "After several days of attacks, Tehran and Washington have effectively reverted to the state of open conflict that existed before the United States and Iran agreed to a cease-fire in June.",
+      "link": "https://www.nytimes.com/2026/07/13/world/middleeast/trump-iran-naval-blockade-strikes.html",
+      "published": "2026-07-13T20:39:43+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "随着美国和伊朗罢工升级，特朗普重新实施海上封锁"
+    },
     {
       "id": "72cf8a3f6eca",
       "title": "Trump Sought an Iran War Exit. Putin Pushed On in Ukraine. Now Both Are Stuck.",
