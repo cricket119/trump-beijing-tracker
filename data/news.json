@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-14T09:44:21.513781+00:00",
-  "total": 5,
+  "last_updated": "2026-07-14T13:03:23.398836+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "29b8ad20ab2c",
+      "title": "China Urges Normal Hormuz Passage as Trump Reinstates Blockade",
+      "summary": "China called for restoring normal passage through the Strait of Hormuz as soon as possible after President Donald Trump reinstated the US blockade of Iranian ships transiting through the vital waterway.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-14/china-urges-normal-hormuz-passage-as-trump-reinstates-blockade",
+      "published": "2026-07-14T10:43:00+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "随着特朗普恢复封锁，中国敦促正常的霍尔木兹通道"
+    },
     {
       "id": "520fc618b799",
       "title": "Trump Reimposes Naval Blockade, as U.S. and Iran Escalate Strikes",
