@@ -1,30 +1,18 @@
 {
-  "last_updated": "2026-07-15T06:05:46.907898+00:00",
-  "total": 6,
+  "last_updated": "2026-07-15T09:48:11.257733+00:00",
+  "total": 5,
   "articles": [
     {
-      "id": "4f9966ebf458",
-      "title": "FirstFT: Ukraine to buy Chinese drone parts with EU funds",
-      "summary": "Also in today’s newsletter: Trump’s return to war with Iran and BYD signals wider European expansion",
-      "link": "https://www.ft.com/content/6470bbd1-ec3b-44c7-a767-405b99d0b342",
-      "published": "2026-07-15T04:32:14+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "FirstFT ：乌克兰将用欧盟资金购买中国无人机零部件"
-    },
-    {
-      "id": "520fc618b799",
-      "title": "Trump Reimposes Naval Blockade, as U.S. and Iran Escalate Strikes",
-      "summary": "After several days of attacks, Tehran and Washington have effectively reverted to the state of open conflict that existed before the United States and Iran agreed to a cease-fire in June.",
-      "link": "https://www.nytimes.com/2026/07/13/world/middleeast/trump-iran-naval-blockade-strikes.html",
-      "published": "2026-07-13T22:11:17+00:00",
+      "id": "150aa85890d7",
+      "title": "U.S. Presses China to Free American Seismologist Accused of Spying",
+      "summary": "President Trump has urged Xi Jinping to release the scientist, Youlin Chen, the man’s family says. Dr. Chen studied the detection of North Korean nuclear tests.",
+      "link": "https://www.nytimes.com/2026/07/15/world/asia/china-seismologist-north-korea-nuclear.html",
+      "published": "2026-07-15T08:59:22+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "随着美国和伊朗罢工升级，特朗普重新实施海上封锁"
+      "title_zh": "美国敦促中国释放被指控从事间谍活动的美国地震学家"
     },
     {
       "id": "50b1bc26ab32",
