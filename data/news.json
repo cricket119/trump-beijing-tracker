@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-07-15T17:03:17.361612+00:00",
-  "total": 5,
+  "last_updated": "2026-07-15T20:47:59.897762+00:00",
+  "total": 7,
   "articles": [
+    {
+      "id": "aa21b53171f5",
+      "title": "Analysis: Xi Jinping tests Trump's limits with Pacific SLBM firing",
+      "summary": "",
+      "link": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-xi-jinping-tests-trump-s-limits-with-pacific-slbm-firing",
+      "published": "2026-07-15T20:48:14.065407+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "分析：习近平用太平洋潜射弹道导弹测试特朗普的极限"
+    },
+    {
+      "id": "5e3563df2b9d",
+      "title": "More people around the world now favour China over the US, Pew study suggests",
+      "summary": "There is more confidence in Xi Jinping than Donald Trump, the US think tank's survey indicates.",
+      "link": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-15T17:02:41+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "皮尤研究表明，现在世界各地越来越多的人偏爱中国而不是美国"
+    },
     {
       "id": "150aa85890d7",
       "title": "U.S. Presses China to Free American Seismologist Accused of Spying",
