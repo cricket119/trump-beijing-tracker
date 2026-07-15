@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-15T01:15:54.359161+00:00",
-  "total": 5,
+  "last_updated": "2026-07-15T06:05:46.907898+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "4f9966ebf458",
+      "title": "FirstFT: Ukraine to buy Chinese drone parts with EU funds",
+      "summary": "Also in today’s newsletter: Trump’s return to war with Iran and BYD signals wider European expansion",
+      "link": "https://www.ft.com/content/6470bbd1-ec3b-44c7-a767-405b99d0b342",
+      "published": "2026-07-15T04:32:14+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "FirstFT ：乌克兰将用欧盟资金购买中国无人机零部件"
+    },
     {
       "id": "520fc618b799",
       "title": "Trump Reimposes Naval Blockade, as U.S. and Iran Escalate Strikes",
