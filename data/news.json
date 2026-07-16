@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-07-16T09:54:12.554866+00:00",
-  "total": 8,
+  "last_updated": "2026-07-16T13:15:36.507040+00:00",
+  "total": 9,
   "articles": [
     {
       "id": "aa21b53171f5",
       "title": "Analysis: Xi Jinping tests Trump's limits with Pacific SLBM firing",
       "summary": "",
       "link": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-xi-jinping-tests-trump-s-limits-with-pacific-slbm-firing",
-      "published": "2026-07-16T09:54:24.845298+00:00",
+      "published": "2026-07-16T13:15:49.699679+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "分析：习近平用太平洋潜射弹道导弹测试特朗普的极限"
+    },
+    {
+      "id": "cd6c3020eef8",
+      "title": "US lawmakers urge Trump administration to ban Chinese memory chips",
+      "summary": "Apple has been lobbying for clearance to buy from China’s CXMT during a global memory shortage",
+      "link": "https://www.ft.com/content/9e7cdf3c-2e52-492f-afeb-b63d86a53ce6",
+      "published": "2026-07-16T10:00:06+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "美国议员敦促特朗普政府禁止中国内存芯片"
     },
     {
       "id": "420d24a83bba",
