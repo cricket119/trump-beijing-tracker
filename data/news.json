@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-07-16T01:25:41.716867+00:00",
-  "total": 7,
+  "last_updated": "2026-07-16T06:08:52.770373+00:00",
+  "total": 8,
   "articles": [
     {
       "id": "aa21b53171f5",
       "title": "Analysis: Xi Jinping tests Trump's limits with Pacific SLBM firing",
       "summary": "",
       "link": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-xi-jinping-tests-trump-s-limits-with-pacific-slbm-firing",
-      "published": "2026-07-16T01:25:55.189625+00:00",
+      "published": "2026-07-16T06:09:05.776796+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "分析：习近平用太平洋潜射弹道导弹测试特朗普的极限"
+    },
+    {
+      "id": "420d24a83bba",
+      "title": "Ex-Fed advisor gets over three years in prison for lying about China ties",
+      "summary": "The case marks one of the most prominent U.S. prosecutions alleging Chinese intelligence targeting of U.S. institutions, as Trump intensifies its pursuit of foreign economic espionage.",
+      "link": "https://www.cnbc.com/2026/07/16/ex-fed-adviser-gets-jailtime-lying-about-china-ties-economic-espionage-.html",
+      "published": "2026-07-16T01:47:30+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "前美联储顾问因在中国关系上撒谎而被判入狱三年以上"
     },
     {
       "id": "5e3563df2b9d",
