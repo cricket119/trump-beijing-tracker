@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-07-17T09:44:45.213249+00:00",
-  "total": 10,
+  "last_updated": "2026-07-17T12:59:57.733484+00:00",
+  "total": 12,
   "articles": [
     {
       "id": "c5f19583b028",
       "title": "Trump accuses China of massive US election data breach",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/trump-accuses-china-of-massive-us-election-data-breach",
-      "published": "2026-07-17T09:44:59.043837+00:00",
+      "published": "2026-07-17T13:00:11.071512+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -15,11 +15,47 @@
       "title_zh": "特朗普指责中国大规模泄露美国大选数据"
     },
     {
+      "id": "5fc491f69fa1",
+      "title": "‘Suddenly, I Was Free’: A Chinese Pastor’s Journey From Jail to the U.S.",
+      "summary": "In his first interview since being released by China, Pastor Ezra Jin Mingri details his surprise release after a direct appeal by President Trump to Xi Jinping.",
+      "link": "https://www.nytimes.com/2026/07/17/world/asia/ezra-jin-china-pastor-trump.html",
+      "published": "2026-07-17T12:46:56+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "“突然，我自由了” ：一位中国牧师从监狱到美国的旅程"
+    },
+    {
+      "id": "bb2d9568d2ca",
+      "title": "China slams Trump’s claims over 2020 US election interference",
+      "summary": "China has responded to US President Donald Trump’s claims that China interfered in the 2020 US presidential election.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/china-slams-trumps-claims-over-2020-us-election-interference?traffic_source=rss",
+      "published": "2026-07-17T12:15:49+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "中国抨击特朗普对2020年美国大选干预的主张"
+    },
+    {
+      "id": "003dc3abbddd",
+      "title": "Did China steal 2020 US election data, as Trump claims?",
+      "summary": "Trump revived long-debunked theories regarding the 2020 elections in a primetime speech.",
+      "link": "https://www.aljazeera.com/news/2026/7/17/did-china-steal-2020-us-election-data-as-trump-claims?traffic_source=rss",
+      "published": "2026-07-17T12:10:39+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "中国是否像特朗普声称的那样窃取了2020年美国大选数据？"
+    },
+    {
       "id": "9a83af93ec0d",
       "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
       "summary": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
       "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-07-17T09:12:06+00:00",
+      "published": "2026-07-17T11:37:00+00:00",
       "source": "BBC",
       "source_color": "#BB1919",
       "source_lang": "en",
@@ -27,16 +63,28 @@
       "title_zh": "特朗普指责中国干预2020年大选，并质疑中期选举前的投票安全"
     },
     {
-      "id": "5fc491f69fa1",
-      "title": "‘Suddenly, I Was Free’: A Chinese Pastor’s Journey From Jail to the U.S.",
-      "summary": "In his first interview since being released by China, Pastor Ezra Jin Mingri details his surprise release after a direct appeal by President Trump to Xi Jinping.",
-      "link": "https://www.nytimes.com/2026/07/17/world/asia/ezra-jin-china-pastor-trump.html",
-      "published": "2026-07-17T09:03:36+00:00",
+      "id": "f0713ccce5ef",
+      "title": "Trump doubles down on 2020 election claims in national address, alleging China meddling",
+      "summary": "Trump also repeated his calls for the Republican-led Congress to pass the \"SAVE America Act,\" a controversial election bill that lacks support to pass.",
+      "link": "https://www.cnbc.com/2026/07/16/trump-primetime-address-elections-2020.html",
+      "published": "2026-07-17T11:08:09+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普在全国地址中对2020年大选的申诉加倍，指控中国干涉"
+    },
+    {
+      "id": "57ee3ea95151",
+      "title": "Beijing Rejects Trump’s Claim of Meddling, but Avoids a Fight",
+      "summary": "Chinese officials called the election-meddling accusation baseless, while analysts said Beijing was trying to preserve a fragile détente.",
+      "link": "https://www.nytimes.com/2026/07/17/world/asia/china-trump-meddling-election.html",
+      "published": "2026-07-17T09:56:14+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "“突然，我自由了” ：一位中国牧师从监狱到美国的旅程"
+      "title_zh": "北京拒绝特朗普的干涉主张，但避免打架"
     },
     {
       "id": "62d111c174b9",
@@ -49,30 +97,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "CNBC每日公开：特朗普猛烈抨击选举制度和中国"
-    },
-    {
-      "id": "25ed9a2be3a7",
-      "title": "Key takeaways from Donald Trump’s controversial speech on election security",
-      "summary": "The president claimed China and deep state actors had deceived US voters, but critics say his claims were misleading.",
-      "link": "https://www.aljazeera.com/news/2026/7/17/key-takeaways-from-donald-trumps-speech-on-election-security?traffic_source=rss",
-      "published": "2026-07-17T04:58:58+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "唐纳德特朗普关于选举安全的有争议演讲的关键要点"
-    },
-    {
-      "id": "f0713ccce5ef",
-      "title": "Trump doubles down on 2020 election claims in national address, alleging China meddling",
-      "summary": "Trump also repeated his calls for the Republican-led Congress to pass the \"SAVE America Act,\" a controversial election bill that lacks support to pass.",
-      "link": "https://www.cnbc.com/2026/07/16/trump-primetime-address-elections-2020.html",
-      "published": "2026-07-17T02:24:46+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普在全国地址中对2020年大选的申诉加倍，指控中国干涉"
     },
     {
       "id": "50b1bc26ab32",
@@ -107,8 +131,7 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
+      "source_category": "business"
     },
     {
       "id": "b279b93e7dae",
@@ -119,8 +142,7 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
+      "source_category": "business"
     }
   ]
 }
