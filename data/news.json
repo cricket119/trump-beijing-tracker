@@ -1,42 +1,66 @@
 {
-  "last_updated": "2026-07-17T01:28:51.126884+00:00",
-  "total": 7,
+  "last_updated": "2026-07-17T06:07:55.003468+00:00",
+  "total": 9,
   "articles": [
     {
-      "id": "aa21b53171f5",
-      "title": "Analysis: Xi Jinping tests Trump's limits with Pacific SLBM firing",
+      "id": "c5f19583b028",
+      "title": "Trump accuses China of massive US election data breach",
       "summary": "",
-      "link": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-xi-jinping-tests-trump-s-limits-with-pacific-slbm-firing",
-      "published": "2026-07-17T01:29:04.901346+00:00",
+      "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/trump-accuses-china-of-massive-us-election-data-breach",
+      "published": "2026-07-17T06:08:08.939361+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
-      "title_zh": "分析：习近平用太平洋潜射弹道导弹测试特朗普的极限"
+      "title_zh": "特朗普指责中国大规模泄露美国大选数据"
     },
     {
-      "id": "a161f65bd27a",
-      "title": "Donald Trump live: US president accuses China of election interference",
-      "summary": "Critics fear Trump may use his podium to spread spread doubt about election integrity before the 2026 midterms.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/16/donald-trump-live-us-president-to-deliver-primetime-address-on-elections?traffic_source=rss",
-      "published": "2026-07-16T20:59:18+00:00",
+      "id": "25ed9a2be3a7",
+      "title": "Key takeaways from Donald Trump’s controversial speech on election security",
+      "summary": "The president claimed China and deep state actors had deceived US voters, but critics say his claims were misleading.",
+      "link": "https://www.aljazeera.com/news/2026/7/17/key-takeaways-from-donald-trumps-speech-on-election-security?traffic_source=rss",
+      "published": "2026-07-17T04:58:58+00:00",
       "source": "Al Jazeera",
       "source_color": "#009B77",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "唐纳德特朗普现场直播：美国总统指责中国干涉选举"
+      "title_zh": "唐纳德特朗普关于选举安全的有争议演讲的关键要点"
     },
     {
-      "id": "5e3563df2b9d",
-      "title": "More people around the world now favour China over the US, Pew study suggests",
-      "summary": "There is more confidence in Xi Jinping than Donald Trump, the US think tank's survey indicates.",
-      "link": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-07-15T17:02:41+00:00",
+      "id": "cc667b1354a5",
+      "title": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
+      "summary": "The president accuses China of meddling in the 2020 election, directly contradicting past findings from US intelligence.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-17T04:08:27+00:00",
       "source": "BBC",
       "source_color": "#BB1919",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "皮尤研究表明，现在世界各地越来越多的人偏爱中国而不是美国"
+      "title_zh": "特朗普在中期选举之前声称美国大选安全存在“令人震惊的漏洞”"
+    },
+    {
+      "id": "459ce073c775",
+      "title": "Trump revives election meddling claims ahead of midterms",
+      "summary": "US president accuses China of interference in primetime speech",
+      "link": "https://www.ft.com/content/61909f37-b1b5-41af-bac0-3e64bbe0506d?syn-25a6b1a6=1",
+      "published": "2026-07-17T02:54:21+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普在中期选举之前恢复选举干预主张"
+    },
+    {
+      "id": "f0713ccce5ef",
+      "title": "Trump doubles down on 2020 election claims in national address, alleging China meddling",
+      "summary": "Trump also repeated his calls for the Republican-led Congress to pass the \"SAVE America Act,\" a controversial election bill that lacks support to pass.",
+      "link": "https://www.cnbc.com/2026/07/16/trump-primetime-address-elections-2020.html",
+      "published": "2026-07-17T02:24:46+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普在全国地址中对2020年大选的申诉加倍，指控中国干涉"
     },
     {
       "id": "50b1bc26ab32",
