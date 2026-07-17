@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-07-17T16:57:21.419970+00:00",
-  "total": 12,
+  "last_updated": "2026-07-17T20:41:12.584642+00:00",
+  "total": 10,
   "articles": [
     {
       "id": "c5f19583b028",
       "title": "Trump accuses China of massive US election data breach",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/trump-accuses-china-of-massive-us-election-data-breach",
-      "published": "2026-07-17T16:57:35.473420+00:00",
+      "published": "2026-07-17T20:41:29.442206+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -25,30 +25,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "“突然，我自由了” ：一位中国牧师从监狱到美国的旅程"
-    },
-    {
-      "id": "bb2d9568d2ca",
-      "title": "China slams Trump’s claims over 2020 US election interference",
-      "summary": "China has responded to US President Donald Trump’s claims that China interfered in the 2020 US presidential election.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/china-slams-trumps-claims-over-2020-us-election-interference?traffic_source=rss",
-      "published": "2026-07-17T12:15:49+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "中国抨击特朗普对2020年美国大选干预的主张"
-    },
-    {
-      "id": "003dc3abbddd",
-      "title": "Did China steal 2020 US election data, as Trump claims?",
-      "summary": "Trump revived long-debunked theories regarding the 2020 elections in a primetime speech.",
-      "link": "https://www.aljazeera.com/news/2026/7/17/did-china-steal-2020-us-election-data-as-trump-claims?traffic_source=rss",
-      "published": "2026-07-17T12:10:39+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "中国是否像特朗普声称的那样窃取了2020年美国大选数据？"
     },
     {
       "id": "9a83af93ec0d",
@@ -131,7 +107,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
     },
     {
       "id": "b279b93e7dae",
@@ -142,7 +119,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
     }
   ]
 }
