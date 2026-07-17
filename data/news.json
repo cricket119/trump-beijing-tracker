@@ -1,18 +1,54 @@
 {
-  "last_updated": "2026-07-17T06:07:55.003468+00:00",
-  "total": 9,
+  "last_updated": "2026-07-17T09:44:45.213249+00:00",
+  "total": 10,
   "articles": [
     {
       "id": "c5f19583b028",
       "title": "Trump accuses China of massive US election data breach",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/trump-accuses-china-of-massive-us-election-data-breach",
-      "published": "2026-07-17T06:08:08.939361+00:00",
+      "published": "2026-07-17T09:44:59.043837+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "特朗普指责中国大规模泄露美国大选数据"
+    },
+    {
+      "id": "9a83af93ec0d",
+      "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+      "summary": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-17T09:12:06+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普指责中国干预2020年大选，并质疑中期选举前的投票安全"
+    },
+    {
+      "id": "5fc491f69fa1",
+      "title": "‘Suddenly, I Was Free’: A Chinese Pastor’s Journey From Jail to the U.S.",
+      "summary": "In his first interview since being released by China, Pastor Ezra Jin Mingri details his surprise release after a direct appeal by President Trump to Xi Jinping.",
+      "link": "https://www.nytimes.com/2026/07/17/world/asia/ezra-jin-china-pastor-trump.html",
+      "published": "2026-07-17T09:03:36+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "“突然，我自由了” ：一位中国牧师从监狱到美国的旅程"
+    },
+    {
+      "id": "62d111c174b9",
+      "title": "CNBC Daily Open: Trump lashes out at electoral system and China in fiery speech",
+      "summary": "President Trump is doubling down on his 2020 election rigging claims, alleged Chinese interference, and on access to information via a new API product.",
+      "link": "https://www.cnbc.com/2026/07/17/cnbc-daily-open-trump-electoral-system-fraud-china.html",
+      "published": "2026-07-17T06:09:48+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "CNBC每日公开：特朗普猛烈抨击选举制度和中国"
     },
     {
       "id": "25ed9a2be3a7",
@@ -25,30 +61,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "唐纳德特朗普关于选举安全的有争议演讲的关键要点"
-    },
-    {
-      "id": "cc667b1354a5",
-      "title": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
-      "summary": "The president accuses China of meddling in the 2020 election, directly contradicting past findings from US intelligence.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-07-17T04:08:27+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普在中期选举之前声称美国大选安全存在“令人震惊的漏洞”"
-    },
-    {
-      "id": "459ce073c775",
-      "title": "Trump revives election meddling claims ahead of midterms",
-      "summary": "US president accuses China of interference in primetime speech",
-      "link": "https://www.ft.com/content/61909f37-b1b5-41af-bac0-3e64bbe0506d?syn-25a6b1a6=1",
-      "published": "2026-07-17T02:54:21+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普在中期选举之前恢复选举干预主张"
     },
     {
       "id": "f0713ccce5ef",
