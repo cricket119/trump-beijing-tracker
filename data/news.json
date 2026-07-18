@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-07-18T05:55:49.986274+00:00",
-  "total": 12,
+  "last_updated": "2026-07-18T09:14:21.337716+00:00",
+  "total": 10,
   "articles": [
     {
       "id": "c5f19583b028",
       "title": "Trump accuses China of massive US election data breach",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/trump-accuses-china-of-massive-us-election-data-breach",
-      "published": "2026-07-18T05:56:03.624290+00:00",
+      "published": "2026-07-18T09:14:35.993540+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -25,18 +25,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "谢恩鲍姆，卡尼将与特朗普一起观看世界杯决赛"
-    },
-    {
-      "id": "c1245617e237",
-      "title": "Homeland Security Secretary Mullin reiterates Trump threats about elections",
-      "summary": "Mullin pledged to make Trumps election security demands mandatory and implement a maximum pressure campaign.",
-      "link": "https://www.aljazeera.com/news/2026/7/18/homeland-security-secretary-mullin-reiterates-trump-threats-about-elections?traffic_source=rss",
-      "published": "2026-07-18T00:07:38+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "国土安全部长穆林重申特朗普对选举的威胁"
     },
     {
       "id": "5fc491f69fa1",
@@ -87,18 +75,6 @@
       "title_zh": "北京拒绝特朗普的干涉主张，但避免打架"
     },
     {
-      "id": "62d111c174b9",
-      "title": "CNBC Daily Open: Trump lashes out at electoral system and China in fiery speech",
-      "summary": "President Trump is doubling down on his 2020 election rigging claims, alleged Chinese interference, and on access to information via a new API product.",
-      "link": "https://www.cnbc.com/2026/07/17/cnbc-daily-open-trump-electoral-system-fraud-china.html",
-      "published": "2026-07-17T06:09:48+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "CNBC每日公开：特朗普猛烈抨击选举制度和中国"
-    },
-    {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
       "summary": "",
@@ -131,7 +107,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
     },
     {
       "id": "b279b93e7dae",
@@ -142,7 +119,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
     }
   ]
 }
