@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-07-18T01:20:31.422330+00:00",
-  "total": 11,
+  "last_updated": "2026-07-18T05:55:49.986274+00:00",
+  "total": 12,
   "articles": [
     {
       "id": "c5f19583b028",
       "title": "Trump accuses China of massive US election data breach",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/trump-accuses-china-of-massive-us-election-data-breach",
-      "published": "2026-07-18T01:20:46.619374+00:00",
+      "published": "2026-07-18T05:56:03.624290+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "特朗普指责中国大规模泄露美国大选数据"
+    },
+    {
+      "id": "0f81d204e8ed",
+      "title": "Sheinbaum, Carney to Watch World Cup Final With Trump",
+      "summary": "Mexican President Claudia Sheinbaum and Canadian Prime Minister Mark Carney will travel to the US to attend Sunday’s World Cup final on President Donald Trump’s invitation, creating the opportunity for a reset after a month filled with regional tensions.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-18/sheinbaum-carney-to-watch-world-cup-final-with-trump",
+      "published": "2026-07-18T02:28:14+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "谢恩鲍姆，卡尼将与特朗普一起观看世界杯决赛"
     },
     {
       "id": "c1245617e237",
@@ -119,8 +131,7 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
+      "source_category": "business"
     },
     {
       "id": "b279b93e7dae",
