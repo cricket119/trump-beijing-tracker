@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T20:36:06.278616+00:00",
+  "last_updated": "2026-07-19T01:26:26.438448+00:00",
   "total": 8,
   "articles": [
     {
@@ -7,7 +7,7 @@
       "title": "Trump accuses China of massive US election data breach",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/trump-accuses-china-of-massive-us-election-data-breach",
-      "published": "2026-07-18T20:36:19.635913+00:00",
+      "published": "2026-07-19T01:26:40.969537+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -27,18 +27,6 @@
       "title_zh": "谢恩鲍姆，卡尼将与特朗普一起观看世界杯决赛"
     },
     {
-      "id": "5fc491f69fa1",
-      "title": "‘Suddenly, I Was Free’: A Chinese Pastor’s Journey From Jail to the U.S.",
-      "summary": "In his first interview since being released by China, Pastor Ezra Jin Mingri details his surprise release after a direct appeal by President Trump to Xi Jinping.",
-      "link": "https://www.nytimes.com/2026/07/17/world/asia/ezra-jin-china-pastor-trump.html",
-      "published": "2026-07-17T12:46:57+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "“突然，我自由了” ：一位中国牧师从监狱到美国的旅程"
-    },
-    {
       "id": "9a83af93ec0d",
       "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
       "summary": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
@@ -49,6 +37,18 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "特朗普指责中国干预2020年大选，并质疑中期选举前的投票安全"
+    },
+    {
+      "id": "57ee3ea95151",
+      "title": "Beijing Rejects Trump’s Claim of Meddling, but Avoids a Fight",
+      "summary": "Chinese officials called the election-meddling accusation baseless, while analysts said Beijing was trying to preserve a fragile détente.",
+      "link": "https://www.nytimes.com/2026/07/17/world/asia/china-trump-meddling-election.html",
+      "published": "2026-07-17T09:56:14+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "北京拒绝特朗普的干涉主张，但避免打架"
     },
     {
       "id": "50b1bc26ab32",
