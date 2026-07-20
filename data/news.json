@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-20T01:51:47.337049+00:00",
-  "total": 4,
+  "last_updated": "2026-07-20T06:37:13.339696+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "4db3b1fa23c3",
+      "title": "China Is Exporting 20% Fewer Magnets to US Despite Trade Truce",
+      "summary": "China’s shipments of rare-earth magnets to the US remain well below pre-trade war levels despite last year’s truce, underscoring concerns in the Trump administration about Beijing’s adherence to that agreement.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/china-is-exporting-20-fewer-magnets-to-us-despite-trade-truce",
+      "published": "2026-07-20T06:02:24+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "尽管存在贸易休战，但中国向美国出口的磁铁减少了20%"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
