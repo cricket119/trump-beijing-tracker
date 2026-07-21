@@ -1,30 +1,18 @@
 {
-  "last_updated": "2026-07-20T20:59:08.402330+00:00",
-  "total": 6,
+  "last_updated": "2026-07-21T01:26:16.632638+00:00",
+  "total": 5,
   "articles": [
     {
-      "id": "e05a1691d1a0",
-      "title": "US Immigration Policies Sink Mexican Grocery Chain Chedraui",
-      "summary": "President Donald Trump’s immigration crackdown is causing the worst rout on the Mexican stock exchange this year.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-20/us-immigration-policies-hammer-mexican-grocery-chain-chedraui",
-      "published": "2026-07-20T16:18:32+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
+      "id": "36d9f1738a4f",
+      "title": "Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination",
+      "summary": "Canada's relationship with the U.S. has frayed amid Trump's tariff-heavy agenda and vocal displeasure with the nations' trilateral trade pact with Mexico.",
+      "link": "https://www.cnbc.com/2026/07/20/trump-tariffs-canada-trade.html",
+      "published": "2026-07-20T22:13:57+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "美国移民政策沉没墨西哥杂货连锁店Chedraui"
-    },
-    {
-      "id": "3192cdb2a222",
-      "title": "China, immigration, drugs: Behind US policy in Latin America",
-      "summary": "Latin America analyst Brian Winter argues that Trump sees Venezuela as a foreign policy success… and Cuba may be next.",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/7/20/china-immigration-drugs-behind-us-policy-in-latin-america?traffic_source=rss",
-      "published": "2026-07-20T16:03:50+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "中国、移民、毒品：美国拉丁美洲政策的背后"
+      "title_zh": "特朗普因涉嫌贸易歧视而对某些加拿大商品征收50%的关税"
     },
     {
       "id": "50b1bc26ab32",
