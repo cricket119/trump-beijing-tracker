@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-07-21T17:05:19.618936+00:00",
-  "total": 6,
+  "last_updated": "2026-07-21T20:56:45.162588+00:00",
+  "total": 5,
   "articles": [
-    {
-      "id": "f25fd449ee8a",
-      "title": "US eyes new tariffs as existing trade duties near expiration",
-      "summary": "US Trade Rep Jamieson Greer hints at new tariffs on 60 trading partners as Trumps temporary tariffs expire on Friday.",
-      "link": "https://www.aljazeera.com/economy/2026/7/21/us-eyes-new-tariffs-as-existing-trade-duties-near-expiration?traffic_source=rss",
-      "published": "2026-07-21T15:54:13+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "美国关注新关税，因为现有贸易关税即将到期"
-    },
     {
       "id": "36d9f1738a4f",
       "title": "Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination",
