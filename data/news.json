@@ -1,30 +1,18 @@
 {
-  "last_updated": "2026-07-22T17:06:00.090235+00:00",
-  "total": 6,
+  "last_updated": "2026-07-22T20:53:36.797143+00:00",
+  "total": 5,
   "articles": [
     {
       "id": "6a38f3530dda",
       "title": "Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit",
       "summary": "Secretary of State Marco Rubio spent much of a meeting with China’s foreign minister discussing the summit, but did not bring up President Trump’s claims of election interference by China.",
       "link": "https://www.nytimes.com/2026/07/22/us/politics/trump-xi-rubio-manila-china.html",
-      "published": "2026-07-22T16:23:06+00:00",
+      "published": "2026-07-22T16:23:07+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "卢比奥和中国外交官为特朗普和习近平的华盛顿峰会制定计划"
-    },
-    {
-      "id": "0f9740f30284",
-      "title": "CNBC Daily Open: AI race, potential tariffs and Middle East conflict continue to heat up",
-      "summary": "The U.S.-China AI race continues to intensify amid signs that the Trump administration could sanction China over \"theft,\" while OpenAI ramps up IPO efforts.",
-      "link": "https://www.cnbc.com/2026/07/22/cnbc-daily-open-ai-race-potential-tariffs-and-iran-conflict-heat-up-.html",
-      "published": "2026-07-22T00:51:42+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "CNBC每日公开赛：人工智能竞赛、潜在关税和中东冲突继续升温"
     },
     {
       "id": "50b1bc26ab32",
