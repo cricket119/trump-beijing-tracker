@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-23T20:49:57.467072+00:00",
-  "total": 6,
+  "last_updated": "2026-07-24T01:29:10.290993+00:00",
+  "total": 7,
   "articles": [
+    {
+      "id": "4543e83ef642",
+      "title": "Trump imposes new double-digit tariffs on dozens of countries",
+      "summary": "With existing 10 percent levies set to expire, Trump issues new tariffs on 60 countries under forced labour provision.",
+      "link": "https://www.aljazeera.com/news/2026/7/24/trump-imposes-new-double-digit-tariffs-on-dozens-of-countries?traffic_source=rss",
+      "published": "2026-07-24T01:08:08+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普对数十个国家征收新的两位数关税"
+    },
     {
       "id": "a03d5242121a",
       "title": "US sanctions on 39 Hong Kong, mainland Chinese officials will remain in place: Rubio",
