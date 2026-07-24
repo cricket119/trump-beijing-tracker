@@ -1,13 +1,25 @@
 {
-  "last_updated": "2026-07-24T17:19:08.386738+00:00",
-  "total": 6,
+  "last_updated": "2026-07-24T20:53:38.549964+00:00",
+  "total": 7,
   "articles": [
+    {
+      "id": "d4aa7b209d2e",
+      "title": "Venezuela to exit International Criminal Court, accusing it of ‘bias’",
+      "summary": "Announcement comes as Venezuela has hewed close to Trump administration, who has pledged todisable international court.",
+      "link": "https://www.aljazeera.com/news/2026/7/24/venezuela-to-exit-international-criminal-court-accusing-it-of-bias?traffic_source=rss",
+      "published": "2026-07-24T20:32:12+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "委内瑞拉退出国际刑事法院，指责其“偏见”"
+    },
     {
       "id": "9938002ebce8",
       "title": "Trump considers ‘massive attack’ on Iran; Pakistan reportedly seeks to restart stalled peace talks",
       "summary": "The president told Axios he was considering an operation \"bigger than ever before\" before Reuters reported Pakistan is seeking to restart peace talks.",
       "link": "https://www.cnbc.com/2026/07/24/us-iran-war-trump-hormuz-houthis.html",
-      "published": "2026-07-24T16:04:46+00:00",
+      "published": "2026-07-24T18:48:10+00:00",
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
