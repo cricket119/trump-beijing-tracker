@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-07-24T06:17:10.035501+00:00",
+  "last_updated": "2026-07-24T10:05:23.813981+00:00",
   "total": 7,
   "articles": [
     {
-      "id": "4543e83ef642",
-      "title": "Trump imposes new double-digit tariffs on dozens of countries",
-      "summary": "With existing 10 percent levies set to expire, Trump issues new tariffs on 60 countries under forced labour provision.",
-      "link": "https://www.aljazeera.com/news/2026/7/24/trump-imposes-new-double-digit-tariffs-on-dozens-of-countries?traffic_source=rss",
-      "published": "2026-07-24T01:08:08+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
+      "id": "47c6ad5228e4",
+      "title": "Trump considering a ‘massive attack’ on Iran as Tehran labels UK ‘accomplice’ to America",
+      "summary": "The president told Axios he was considering an operation \"bigger than ever before.\"",
+      "link": "https://www.cnbc.com/2026/07/24/us-iran-war-trump-hormuz-houthis.html",
+      "published": "2026-07-24T07:57:12+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普对数十个国家征收新的两位数关税"
+      "source_category": "business",
+      "title_zh": "特朗普考虑对伊朗发动“大规模袭击” ，因为德黑兰将英国称为美国的“帮凶”"
+    },
+    {
+      "id": "cad48e598e40",
+      "title": "Trump to Take Up Manila’s Concerns With Xi, Philippines Says",
+      "summary": "US President Donald Trump assured Philippine leader Ferdinand Marcos Jr. that he would take up Manila’s concerns when he meets with Chinese President Xi Jinping, the Southeast Asian nation said.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-24/trump-to-take-up-manila-s-concerns-with-xi-philippines-says",
+      "published": "2026-07-24T01:22:04+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "菲律宾表示，特朗普将接受马尼拉对习近平的担忧"
     },
     {
       "id": "a03d5242121a",
@@ -25,18 +37,6 @@
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "美国对39名香港、中国大陆官员的制裁仍将继续：卢比奥"
-    },
-    {
-      "id": "6a38f3530dda",
-      "title": "Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit",
-      "summary": "Secretary of State Marco Rubio spent much of a meeting with China’s foreign minister discussing the summit, but did not bring up President Trump’s claims of election interference by China.",
-      "link": "https://www.nytimes.com/2026/07/22/us/politics/trump-xi-rubio-manila-china.html",
-      "published": "2026-07-22T16:23:07+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "卢比奥和中国外交官为特朗普和习近平的华盛顿峰会制定计划"
     },
     {
       "id": "50b1bc26ab32",
