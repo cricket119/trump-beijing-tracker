@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-25T16:43:23.300726+00:00",
-  "total": 5,
+  "last_updated": "2026-07-25T20:38:52.373560+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "11d5e1b42708",
+      "title": "Top Democrat says Trump administration is worsening chip shortage",
+      "summary": "Apple wants clearance to buy semiconductors from blacklisted Chinese company amid surging demand from AI",
+      "link": "https://www.ft.com/content/5bd259ca-d278-498a-a03d-7b4556d9fa8f?syn-25a6b1a6=1",
+      "published": "2026-07-25T19:33:15+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "最高民主党人表示，特朗普政府正在恶化芯片短缺"
+    },
     {
       "id": "a03d5242121a",
       "title": "US sanctions on 39 Hong Kong, mainland Chinese officials will remain in place: Rubio",
