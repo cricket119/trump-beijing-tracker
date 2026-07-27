@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-27T01:50:04.903937+00:00",
-  "total": 4,
+  "last_updated": "2026-07-27T06:53:29.144836+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "e7820b6b1d20",
+      "title": "Why Trump's new tariff blitz is very different this time round",
+      "summary": "President Trump on Friday launched a fresh round of tariffs targeting 60 trading partners, including the European Union, China, and the U.K.",
+      "link": "https://www.cnbc.com/2026/07/27/donald-trump-tariffs-trade-war-iran.html",
+      "published": "2026-07-27T05:04:43+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "为什么特朗普的新关税闪电战这次非常不同"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
