@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-07-27T06:53:29.144836+00:00",
-  "total": 5,
+  "last_updated": "2026-07-27T11:00:14.757234+00:00",
+  "total": 6,
   "articles": [
     {
-      "id": "e7820b6b1d20",
-      "title": "Why Trump's new tariff blitz is very different this time round",
+      "id": "18a0c309ea8c",
+      "title": "Why Trump's new tariff blitz is very different this time around",
       "summary": "President Trump on Friday launched a fresh round of tariffs targeting 60 trading partners, including the European Union, China, and the U.K.",
       "link": "https://www.cnbc.com/2026/07/27/donald-trump-tariffs-trade-war-iran.html",
-      "published": "2026-07-27T05:04:43+00:00",
+      "published": "2026-07-27T10:47:12+00:00",
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "为什么特朗普的新关税闪电战这次非常不同"
+    },
+    {
+      "id": "39601fe178b4",
+      "title": "FirstFT: Oil prices plunge as Trump calls off strikes",
+      "summary": "Also in today’s newsletter: Chinese chipmaker soars on market debut, and fires rage in Europe",
+      "link": "https://www.ft.com/content/cb0f0e8b-cb17-4a7b-9875-d34da635cb88?syn-25a6b1a6=1",
+      "published": "2026-07-27T10:00:21+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "FirstFT ：随着特朗普取消罢工，油价暴跌"
     },
     {
       "id": "50b1bc26ab32",
