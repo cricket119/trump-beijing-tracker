@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-07-28T20:57:05.256968+00:00",
+  "last_updated": "2026-07-29T01:25:05.334839+00:00",
   "total": 5,
   "articles": [
     {
-      "id": "636db659a348",
-      "title": "French Container Giant Says Transpacific Revival Boost Profits",
-      "summary": "CMA CGM SA, the world’s third-largest container line, said a surge in Chinese shipments is boosting earnings as US companies pad inventories while President Donald Trump rebuilds a tariff strategy dealt a setback in February by the Supreme Court.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-28/french-container-giant-says-transpacific-revival-boost-profits",
-      "published": "2026-07-28T16:02:51+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
+      "id": "3629acc3545f",
+      "title": "Trump administration bans new Chinese humanoid robots",
+      "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
+      "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-29T01:22:14+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "法国集装箱巨头称跨太平洋复兴提振利润"
+      "source_category": "international",
+      "title_zh": "特朗普政府禁止新的中国人形机器人"
     },
     {
       "id": "50b1bc26ab32",
