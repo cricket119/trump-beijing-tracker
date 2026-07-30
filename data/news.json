@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-07-29T20:41:25.966030+00:00",
+  "last_updated": "2026-07-30T01:18:07.505797+00:00",
   "total": 5,
   "articles": [
     {
-      "id": "3629acc3545f",
-      "title": "Trump administration bans new Chinese humanoid robots",
-      "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
-      "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-07-29T02:30:50+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
+      "id": "fd85298da2a7",
+      "title": "Chinese Firms Ready Most Buybacks Since Trade War to Stem Rout",
+      "summary": "Chinese companies are set to unveil their biggest wave of share buybacks since President Donald Trump escalated tariff threats in April 2025, as firms move to stem a stock selloff and bolster investor confidence.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-30/china-inc-readies-most-buybacks-since-trade-war-to-stem-rout",
+      "published": "2026-07-30T00:44:00+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普政府禁止新的中国人形机器人"
+      "source_category": "business",
+      "title_zh": "中国企业准备进行自贸易战以来最多的回购以遏制溃败"
     },
     {
       "id": "50b1bc26ab32",
