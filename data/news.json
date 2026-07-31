@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-31T17:16:42.355292+00:00",
-  "total": 5,
+  "last_updated": "2026-07-31T20:51:30.251114+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "904c07f1dc25",
+      "title": "Trump Casts Doubt on New Iran Negotiations as War Drags On",
+      "summary": "Retired Army General Wesley Clark, who served as Supreme Allied Commander Europe, said the more the US wants negotiations, the stronger the hand Iran thinks it has at the table. Clark said that the Iranian government sees the fight against the US as existential and that it will take more than taking out a few oil refineries to get the IRGC to surrender, particularly as they receive more backing from Russia and China.  (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-31/trump-casts-doubt-on-iran-negotiations-as-war-drags-on-video",
+      "published": "2026-07-31T19:05:48+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "随着战争的拖延，特朗普对新的伊朗谈判表示怀疑"
+    },
     {
       "id": "4b81e6f758ff",
       "title": "CNBC Daily Open: Iran-U.S. tensions, China's factory data and a steady Bank of Japan",
