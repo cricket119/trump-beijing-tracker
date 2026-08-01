@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-01T16:45:31.096118+00:00",
-  "total": 4,
+  "last_updated": "2026-08-01T20:39:07.583324+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "a2295cbec731",
+      "title": "Iran Plotted Wider War With Help of Its Proxies",
+      "summary": "During a fleeting truce, Iranians covertly devised a plan to raise the war’s costs for President Trump if U.S. forces attacked anew.",
+      "link": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
+      "published": "2026-08-01T20:26:35+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "伊朗在其代理人的帮助下策划了更广泛的战争"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
