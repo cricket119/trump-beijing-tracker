@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-08-01T20:39:07.583324+00:00",
-  "total": 5,
+  "last_updated": "2026-08-02T01:42:28.294031+00:00",
+  "total": 8,
   "articles": [
+    {
+      "id": "f6446515afca",
+      "title": "Trump's diplomacy is nudging Thailand toward China",
+      "summary": "",
+      "link": "https://asia.nikkei.com/spotlight/comment/trump-s-diplomacy-is-nudging-thailand-toward-china",
+      "published": "2026-08-02T01:42:41.972434+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "特朗普的外交政策正在推动泰国向中国靠拢"
+    },
+    {
+      "id": "ad3fa4873706",
+      "title": "Saudi Prince Concerned Over Trump’s Iran Strike Plan: Axios",
+      "summary": "Saudi Crown Prince Mohammed bin Salman told President Donald Trump in a call that he was concerned over the US’s plans for new strikes against Iran, Axios reported, citing people familiar with the conversation.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-02/saudi-prince-concerned-over-trump-s-iran-strike-plan-axios",
+      "published": "2026-08-02T00:13:35+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "沙特王子担心特朗普的伊朗罢工计划： Axios"
+    },
+    {
+      "id": "705399e408a9",
+      "title": "Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum?",
+      "summary": "Taiwans GDP is soaring on back of US imports of AI chips, but experts warn that problems could arise with Trump, China.",
+      "link": "https://www.aljazeera.com/economy/2026/8/1/growing-like-gangbusters-can-taiwan-maintain-its-economic-momentum?traffic_source=rss",
+      "published": "2026-08-01T23:15:40+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "像“歹徒”一样成长：台湾能否保持经济发展势头？"
+    },
     {
       "id": "a2295cbec731",
       "title": "Iran Plotted Wider War With Help of Its Proxies",
