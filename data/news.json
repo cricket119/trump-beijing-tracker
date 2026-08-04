@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-08-03T20:52:58.935948+00:00",
-  "total": 6,
+  "last_updated": "2026-08-04T01:21:15.098517+00:00",
+  "total": 7,
   "articles": [
     {
       "id": "f6446515afca",
       "title": "Trump's diplomacy is nudging Thailand toward China",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/comment/trump-s-diplomacy-is-nudging-thailand-toward-china",
-      "published": "2026-08-03T20:53:13.403985+00:00",
+      "published": "2026-08-04T01:21:28.831977+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "特朗普的外交政策正在推动泰国向中国靠拢"
+    },
+    {
+      "id": "a2ad0349053e",
+      "title": "Iran Believes It Has the 'Upper Hand': CSIS's Yacoubian",
+      "summary": "CSIS Director and Senior Adviser Mona Yacoubian argues the Trump administration has failed to carry out some of its maximalist threats against the Iranian regime, causing the regime to believe it has the upper hand in the conflict. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-04/iran-believes-it-has-the-upper-hand-csis-s-yacoubian-video",
+      "published": "2026-08-04T00:32:09+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "伊朗认为它拥有“上手” ： CSIS的Yacoubian"
     },
     {
       "id": "a2295cbec731",
