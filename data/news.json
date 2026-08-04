@@ -1,31 +1,7 @@
 {
-  "last_updated": "2026-08-04T06:18:36.798527+00:00",
-  "total": 6,
+  "last_updated": "2026-08-04T10:25:46.901095+00:00",
+  "total": 4,
   "articles": [
-    {
-      "id": "4c3007412f00",
-      "title": "China Anxious About Mythos Ahead of Trump-Xi Meeting",
-      "summary": "China is growing anxious that Anthropic’s Mythos could be wielded against the world’s second-biggest economy, adding a volatile new issue to already heightened tensions before a planned summit between Xi Jinping and Donald Trump. Bloomberg's Minmin Low has the latest. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-04/china-anxious-about-mythos-ahead-of-trump-xi-meeting-video",
-      "published": "2026-08-04T04:34:44+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "中国在特朗普-习近平会晤之前对神话感到焦虑"
-    },
-    {
-      "id": "a2295cbec731",
-      "title": "Iran Plotted Wider War With Help of Its Proxies",
-      "summary": "During a fleeting truce, Iranians covertly devised a plan to raise the war’s costs for President Trump if U.S. forces attacked anew.",
-      "link": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
-      "published": "2026-08-02T18:36:29+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "伊朗在其代理人的帮助下策划了更广泛的战争"
-    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
