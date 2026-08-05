@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-05T01:25:53.125174+00:00",
-  "total": 4,
+  "last_updated": "2026-08-05T06:17:55.601629+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "1227ebea4dd6",
+      "title": "Trump trapped between escalation and an Iran deal on Tehran’s terms",
+      "summary": "US president faces few good options to exit a war he once said would end swiftly with the Islamic republic’s surrender",
+      "link": "https://www.ft.com/content/87b039cf-7eb0-4cf6-b536-0c2929424dc5?syn-25a6b1a6=1",
+      "published": "2026-08-05T00:50:16+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普陷入紧张局势升级和伊朗与德黑兰达成协议之间"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
