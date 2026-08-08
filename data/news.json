@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-08T00:45:25.632513+00:00",
-  "total": 7,
+  "last_updated": "2026-08-08T04:44:53.140852+00:00",
+  "total": 8,
   "articles": [
+    {
+      "id": "7acb1edc6ce7",
+      "title": "US Senate passes Russia sanctions that could hurt India and China",
+      "summary": "The US Senate approved its strongest move against Russia under Trump.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss",
+      "published": "2026-08-08T03:20:41+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "美国参议院通过可能伤害印度和中国的俄罗斯制裁措施"
+    },
     {
       "id": "59377e333ec6",
       "title": "Solar stocks shine after Trump extends China tariffs to polysilicon products",
