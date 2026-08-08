@@ -1,31 +1,7 @@
 {
-  "last_updated": "2026-08-08T08:26:00.237988+00:00",
-  "total": 8,
+  "last_updated": "2026-08-08T12:23:02.847247+00:00",
+  "total": 6,
   "articles": [
-    {
-      "id": "7acb1edc6ce7",
-      "title": "US Senate passes Russia sanctions that could hurt India and China",
-      "summary": "The US Senate approved its strongest move against Russia under Trump.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss",
-      "published": "2026-08-08T03:20:41+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "美国参议院通过可能伤害印度和中国的俄罗斯制裁措施"
-    },
-    {
-      "id": "59377e333ec6",
-      "title": "Solar stocks shine after Trump extends China tariffs to polysilicon products",
-      "summary": "Solar stocks rose in premarket trading President Donald Trump announced fresh import restrictions on polysilicon products.",
-      "link": "https://www.cnbc.com/2026/08/07/polysilicon-solar-tariffs-donald-trump-us-china-trade-war-energy-semiconductors.html",
-      "published": "2026-08-07T14:01:31+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普将中国关税扩大到多晶硅产品后，太阳能股大放异彩"
-    },
     {
       "id": "90770f8b2d21",
       "title": "Trump again tries to limit US birthright citizenship with new executive orders",
