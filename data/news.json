@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-09T20:18:24.041315+00:00",
-  "total": 4,
+  "last_updated": "2026-08-10T00:52:09.945296+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "772ccd92c7ef",
+      "title": "FirstFT: Ex-CIA officials warn Donald Trump is dismantling US guardrails",
+      "summary": "Also in today’s newsletter: Kashmir protests test Pakistan’s military rulers and the bank behind China’s AI listings bonanza",
+      "link": "https://www.ft.com/content/6e943917-2eeb-4654-b4ad-a4af76b4b946?syn-25a6b1a6=1",
+      "published": "2026-08-09T21:16:57+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "FirstFT ：前中央情报局官员警告唐纳德特朗普正在拆除美国护栏"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
