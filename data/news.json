@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-10T05:14:20.301984+00:00",
-  "total": 5,
+  "last_updated": "2026-08-10T09:05:19.484030+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "3afd0ba19c28",
+      "title": "Australian rare earth miner surges after U.S. Department of War investment",
+      "summary": "The Trump administration has backed plans to build an Australian scandium mine as part of a push to challenge China’s critical-minerals dominance.",
+      "link": "https://www.cnbc.com/2026/08/10/rare-earths-sunrise-energy-metals-trump-cina.html",
+      "published": "2026-08-10T08:36:11+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "美国战争部投资后，澳大利亚稀土矿工激增"
+    },
     {
       "id": "6118f25963fa",
       "title": "US backs Australian rare earth miner to cut out China",
