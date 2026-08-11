@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-10T20:29:35.153876+00:00",
-  "total": 5,
+  "last_updated": "2026-08-11T00:51:10.965035+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "144612bc7c55",
+      "title": "Trump Touts $3B in Mineral Project to Counter China",
+      "summary": "During a recent meeting with top industry executives, the US President announced $3 billion in investments aimed at strengthening the domestic critical minerals and mining sector. The initiative seeks to reduce reliance on supply chains dominated by China. Gary Evans, Chairman and CEO of US Antimony, participated in the discussion and spoke to Bloomberg News about how much he is willing to see the government invest in his firm. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-10/trump-touts-3b-in-mineral-project-to-counter-china-video",
+      "published": "2026-08-10T21:43:16+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普吹捧30亿美元的矿产项目来对抗中国"
+    },
     {
       "id": "94dcb52b93b8",
       "title": "Australian rare earth miner surges after U.S. Department of Defense investment",
