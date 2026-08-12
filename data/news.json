@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-08-12T12:41:04.319270+00:00",
-  "total": 4,
+  "last_updated": "2026-08-12T16:44:12.873919+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "44b093f75c63",
+      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-12T16:34:01+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普内阁成员在总统安静退出后仍留在诱饵飞机上"
+    },
+    {
+      "id": "5d60327edc3a",
+      "title": "Decoys to hide presidents are common - but elaborate Trump ruse was different level",
+      "summary": "Deceptions of varying complexity are often used to thwart potential threats, former Secret Service agents say.",
+      "link": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-11T20:39:42+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "隐藏总统的诱饵很常见，但精心策划的特朗普诡计层次不同"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
