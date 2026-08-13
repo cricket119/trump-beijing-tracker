@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-08-13T00:59:44.967395+00:00",
-  "total": 5,
+  "last_updated": "2026-08-13T05:26:22.923641+00:00",
+  "total": 7,
   "articles": [
+    {
+      "id": "6ed6259cade3",
+      "title": "Trump is taxing the dark matter that pays America’s way",
+      "summary": "The administration’s tariff regime undermines the income the US receives from deploying knowledge abroad",
+      "link": "https://www.ft.com/content/7ff4321e-3f96-4f7b-8f2d-4fefa4773a5d",
+      "published": "2026-08-13T04:00:13+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普正在对支付美国的暗物质征税"
+    },
+    {
+      "id": "17a851bd7e3e",
+      "title": "Donald Trump loses his favourite press secretary as Karoline Leavitt exits",
+      "summary": "Youngest White House spokesperson outshone all four of her predecessors in the perilous role",
+      "link": "https://www.ft.com/content/34350ae5-d266-48e1-83fb-72ecd3e1524d?syn-25a6b1a6=1",
+      "published": "2026-08-13T01:03:39+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "卡罗琳·莱维特（ Karoline Leavitt ）离职，唐纳德·特朗普（ Donald Trump ）"
+    },
     {
       "id": "44b093f75c63",
       "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
