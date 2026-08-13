@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-13T09:00:31.622846+00:00",
+  "last_updated": "2026-08-13T12:41:47.614959+00:00",
   "total": 6,
   "articles": [
+    {
+      "id": "44b093f75c63",
+      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-13T09:40:18+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普内阁成员在总统安静退出后仍留在诱饵飞机上"
+    },
     {
       "id": "6ed6259cade3",
       "title": "Trump is taxing the dark matter that pays America’s way",
@@ -13,18 +25,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "特朗普正在对支付美国的暗物质征税"
-    },
-    {
-      "id": "44b093f75c63",
-      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-12T23:19:57+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普内阁成员在总统安静退出后仍留在诱饵飞机上"
     },
     {
       "id": "50b1bc26ab32",
