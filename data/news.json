@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-08-14T00:59:00.843695+00:00",
-  "total": 5,
+  "last_updated": "2026-08-14T05:23:16.535998+00:00",
+  "total": 6,
   "articles": [
     {
-      "id": "aa7d58ee8b9a",
-      "title": "US accuses more than 40 countries of helping China avoid Trump’s tariffs",
-      "summary": "White House says Canada, Japan, EU and others enabling the evasion of levies for $60bn in trade via ‘transshipment scam’",
-      "link": "https://www.ft.com/content/5d5ed2dd-8326-4cad-aac3-5816448ceccf?syn-25a6b1a6=1",
-      "published": "2026-08-13T15:55:56+00:00",
+      "id": "249ee5b49159",
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-14T03:09:48+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "美国称数十个国家帮助中国避开特朗普的关税"
+    },
+    {
+      "id": "52b155b4160d",
+      "title": "Trump launches tariffs targeting Chinese drone technology",
+      "summary": "US to impose up to 100% levies on unmanned aircraft and their components",
+      "link": "https://www.ft.com/content/5ca83d6d-2c13-4d5e-b564-881f89189b3e?syn-25a6b1a6=1",
+      "published": "2026-08-14T00:40:02+00:00",
       "source": "Financial Times",
       "source_color": "#C7A000",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "美国指责40多个国家帮助中国避免特朗普的关税"
+      "title_zh": "特朗普针对中国无人机技术征收关税"
     },
     {
       "id": "50b1bc26ab32",
