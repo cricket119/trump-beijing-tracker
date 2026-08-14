@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-08-14T16:38:48.723935+00:00",
-  "total": 5,
+  "last_updated": "2026-08-14T20:20:04.560032+00:00",
+  "total": 9,
   "articles": [
+    {
+      "id": "69b05a46583d",
+      "title": "White House Announces Drone Tariffs to Counter China",
+      "summary": "The Trump Administration announced tariffs on drone imports, seeking to bolster US security and boost domestic defense manufacturing. Bloomberg's Tyler Kendall has the details on the new levies and the White House's broader aims to ensure drone dominance. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-14/white-house-announces-drone-tariffs-to-counter-china-video",
+      "published": "2026-08-14T19:45:54+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "白宫宣布对中国征收无人机关税"
+    },
+    {
+      "id": "687f2aae56f0",
+      "title": "A Prominent Mexican Politician Says U.S. Revoked His Visa",
+      "summary": "Andrés Manuel López Beltrán, a former president’s son, lashed out at the Trump administration after he said it canceled his visa, another flashpoint in the tense U.S.-Mexico relationship.",
+      "link": "https://www.nytimes.com/2026/08/14/world/americas/mexico-visas-lopez-beltran.html",
+      "published": "2026-08-14T19:16:55+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "一位着名的墨西哥政治家说美国吊销了他的签证"
+    },
+    {
+      "id": "aa7d58ee8b9a",
+      "title": "US accuses more than 40 countries of helping China avoid Trump’s tariffs",
+      "summary": "White House says Canada, Japan, EU and others enabling evasion of levies for $60bn in trade via ‘transshipment scam’",
+      "link": "https://www.ft.com/content/5d5ed2dd-8326-4cad-aac3-5816448ceccf?syn-25a6b1a6=1",
+      "published": "2026-08-14T18:54:54+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "美国指责40多个国家帮助中国避免特朗普的关税"
+    },
+    {
+      "id": "4d1024b10c7a",
+      "title": "Sheinbaum slams US for revoking visa of former Mexican president’s son",
+      "summary": "Trump administration accused of foreign interference as López Obrador’s son says decision came from ‘gangster bosses’",
+      "link": "https://www.ft.com/content/2066e73b-be66-4df0-822a-b694d8f66535?syn-25a6b1a6=1",
+      "published": "2026-08-14T18:14:42+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "Sheinbaum抨击美国吊销墨西哥前总统儿子的签证"
+    },
     {
       "id": "249ee5b49159",
       "title": "US says dozens of countries helped China dodge Trump's tariffs",
