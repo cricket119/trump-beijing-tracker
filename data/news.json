@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-15T00:34:31.370488+00:00",
+  "last_updated": "2026-08-15T04:18:32.907906+00:00",
   "total": 8,
   "articles": [
+    {
+      "id": "687f2aae56f0",
+      "title": "A Prominent Mexican Politician Says U.S. Revoked His Visa",
+      "summary": "Andrés Manuel López Beltrán, a former president’s son, lashed out at the Trump administration after he said it canceled his visa, another flashpoint in the tense U.S.-Mexico relationship.",
+      "link": "https://www.nytimes.com/2026/08/14/world/americas/mexico-visas-lopez-beltran.html",
+      "published": "2026-08-15T01:17:32+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "一位着名的墨西哥政治家说美国吊销了他的签证"
+    },
     {
       "id": "4d1024b10c7a",
       "title": "Sheinbaum slams US for revoking visa of former Mexican president’s son",
@@ -13,18 +25,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "Sheinbaum抨击美国吊销墨西哥前总统儿子的签证"
-    },
-    {
-      "id": "687f2aae56f0",
-      "title": "A Prominent Mexican Politician Says U.S. Revoked His Visa",
-      "summary": "Andrés Manuel López Beltrán, a former president’s son, lashed out at the Trump administration after he said it canceled his visa, another flashpoint in the tense U.S.-Mexico relationship.",
-      "link": "https://www.nytimes.com/2026/08/14/world/americas/mexico-visas-lopez-beltran.html",
-      "published": "2026-08-14T19:16:55+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "一位着名的墨西哥政治家说美国吊销了他的签证"
     },
     {
       "id": "aa7d58ee8b9a",
