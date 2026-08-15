@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-15T04:18:32.907906+00:00",
-  "total": 8,
+  "last_updated": "2026-08-15T08:13:50.085453+00:00",
+  "total": 7,
   "articles": [
     {
       "id": "687f2aae56f0",
@@ -37,18 +37,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "美国指责40多个国家帮助中国避免特朗普的关税"
-    },
-    {
-      "id": "249ee5b49159",
-      "title": "US says dozens of countries helped China dodge Trump's tariffs",
-      "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
-      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-14T08:39:46+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "美国称数十个国家帮助中国避开特朗普的关税"
     },
     {
       "id": "50b1bc26ab32",
