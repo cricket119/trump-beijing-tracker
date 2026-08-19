@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-19T04:25:15.565023+00:00",
-  "total": 4,
+  "last_updated": "2026-08-19T08:22:07.457018+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "99002510955c",
+      "title": "Scaling back US-South Korea drills may fail to woo Kim away from China",
+      "summary": "Trump is scaling back US-South Korea military exercises as he signals interest in renewed talks with Kim Jong Un.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/scaling-back-us-south-korea-drills-may-fail-to-woo-kim-away-from-china?traffic_source=rss",
+      "published": "2026-08-19T06:16:53+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "缩减美韩演习可能无法吸引金正恩离开中国"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
