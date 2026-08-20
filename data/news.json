@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-20T08:23:17.466866+00:00",
-  "total": 4,
+  "last_updated": "2026-08-20T12:22:36.845441+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "c4de4ecb7b0d",
+      "title": "Trump is losing his war of independence on rare earths",
+      "summary": "Inefficiency, untrustworthiness and cronyism are weakening the administration’s plans to stand up to China",
+      "link": "https://www.ft.com/content/201a86a6-3597-4efb-b575-39172c729fe1?syn-25a6b1a6=1",
+      "published": "2026-08-20T10:00:13+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普在稀土问题上正在输掉独立战争"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
