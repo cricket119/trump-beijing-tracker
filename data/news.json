@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-08-20T16:20:32.326319+00:00",
+  "last_updated": "2026-08-20T20:15:56.044412+00:00",
   "total": 6,
   "articles": [
-    {
-      "id": "00ade9120099",
-      "title": "How China and Russia could hobble Trump’s plans to isolate Iran",
-      "summary": "Irans deep trade ties with Beijing and Moscow could prove difficult for the US to disrupt, say analysts.",
-      "link": "https://www.aljazeera.com/news/2026/8/20/how-china-and-russia-could-hobble-trumps-plans-to-isolate-iran?traffic_source=rss",
-      "published": "2026-08-20T14:55:47+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "中国和俄罗斯如何阻碍特朗普孤立伊朗的计划"
-    },
     {
       "id": "c4de4ecb7b0d",
       "title": "Trump is losing his war of independence on rare earths",
@@ -25,6 +13,18 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "特朗普在稀土问题上正在输掉独立战争"
+    },
+    {
+      "id": "0404f201c906",
+      "title": "US-Canada Trade Draft Pressures Mexico to Match Terms",
+      "summary": "Canada’s preliminary trade deal with the US caught Mexican officials and business leaders off guard. Now, Mexico wants one of its own, as questions grow over whether months of painstaking engagement can deliver comparable tariff relief from Donald Trump.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-20/us-canada-trade-draft-piles-pressure-on-mexico-to-match-terms",
+      "published": "2026-08-20T00:58:55+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "美加贸易草案向墨西哥施压，要求其匹配条款"
     },
     {
       "id": "50b1bc26ab32",
