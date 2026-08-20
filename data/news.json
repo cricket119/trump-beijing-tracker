@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-20T12:22:36.845441+00:00",
-  "total": 5,
+  "last_updated": "2026-08-20T16:20:32.326319+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "00ade9120099",
+      "title": "How China and Russia could hobble Trump’s plans to isolate Iran",
+      "summary": "Irans deep trade ties with Beijing and Moscow could prove difficult for the US to disrupt, say analysts.",
+      "link": "https://www.aljazeera.com/news/2026/8/20/how-china-and-russia-could-hobble-trumps-plans-to-isolate-iran?traffic_source=rss",
+      "published": "2026-08-20T14:55:47+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "中国和俄罗斯如何阻碍特朗普孤立伊朗的计划"
+    },
     {
       "id": "c4de4ecb7b0d",
       "title": "Trump is losing his war of independence on rare earths",
