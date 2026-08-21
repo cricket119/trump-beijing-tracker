@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-08-21T12:27:11.112368+00:00",
-  "total": 4,
+  "last_updated": "2026-08-21T16:18:31.920648+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "07d084d1260b",
+      "title": "Why China Thinks It Can Resist Trump’s Economic Threats on Iran",
+      "summary": "Beijing can squeeze U.S. critical mineral supplies and has enough oil to withstand the loss of Iranian crude, Chinese analysts say.",
+      "link": "https://www.nytimes.com/2026/08/21/world/asia/china-iran-trump-economic-threats.html",
+      "published": "2026-08-21T14:48:14+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "为什么中国认为它可以抵御特朗普对伊朗的经济威胁"
+    },
+    {
+      "id": "e3f732a17865",
+      "title": "US allies in Asia wary as Trump moves military assets for Iran war",
+      "summary": "Allies worry about the US ability to deter China, even if the bulk of US forces remain in the region.",
+      "link": "https://www.aljazeera.com/news/2026/8/21/us-allies-in-asia-wary-as-trump-moves-military-assets-for-iran-war?traffic_source=rss",
+      "published": "2026-08-21T12:32:03+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "美国在亚洲的盟友对特朗普为伊朗战争转移军事资产持谨慎态度"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
