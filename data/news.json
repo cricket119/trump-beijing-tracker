@@ -1,30 +1,18 @@
 {
-  "last_updated": "2026-08-20T20:15:56.044412+00:00",
-  "total": 6,
+  "last_updated": "2026-08-21T00:36:25.874686+00:00",
+  "total": 5,
   "articles": [
     {
-      "id": "c4de4ecb7b0d",
-      "title": "Trump is losing his war of independence on rare earths",
-      "summary": "Inefficiency, untrustworthiness and cronyism are weakening the administration’s plans to stand up to China",
-      "link": "https://www.ft.com/content/201a86a6-3597-4efb-b575-39172c729fe1?syn-25a6b1a6=1",
-      "published": "2026-08-20T10:00:13+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
+      "id": "3979a3516352",
+      "title": "US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections",
+      "summary": "The Trump administration has ramped up deportations to third countries in an apparent bid to deter immigration.",
+      "link": "https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss",
+      "published": "2026-08-21T00:12:37+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普在稀土问题上正在输掉独立战争"
-    },
-    {
-      "id": "0404f201c906",
-      "title": "US-Canada Trade Draft Pressures Mexico to Match Terms",
-      "summary": "Canada’s preliminary trade deal with the US caught Mexican officials and business leaders off guard. Now, Mexico wants one of its own, as questions grow over whether months of painstaking engagement can deliver comparable tariff relief from Donald Trump.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-20/us-canada-trade-draft-piles-pressure-on-mexico-to-match-terms",
-      "published": "2026-08-20T00:58:55+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "美加贸易草案向墨西哥施压，要求其匹配条款"
+      "source_category": "international",
+      "title_zh": "由于墨西哥的反对，美国将近2300名墨西哥人驱逐到危地马拉"
     },
     {
       "id": "50b1bc26ab32",
