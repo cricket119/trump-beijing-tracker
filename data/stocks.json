@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T20:12:39.063300+00:00",
+  "last_updated": "2026-08-22T00:33:47.610493+00:00",
   "stocks": [
     {
       "symbol": "TSLA",
@@ -30,10 +30,10 @@
       "name": "JPMorgan Chase",
       "person": "Jamie Dimon",
       "role": "CEO",
-      "price": 351.57,
+      "price": 351.58,
       "prev_close": 362.84,
-      "change": -11.27,
-      "change_pct": -3.11,
+      "change": -11.26,
+      "change_pct": -3.1,
       "currency": "USD",
       "market_state": "UNKNOWN"
     },
@@ -42,10 +42,10 @@
       "name": "BlackRock",
       "person": "Larry Fink",
       "role": "CEO",
-      "price": 1156.175,
+      "price": 1156.55,
       "prev_close": 1173.73,
-      "change": -17.555,
-      "change_pct": -1.5,
+      "change": -17.18,
+      "change_pct": -1.46,
       "currency": "USD",
       "market_state": "UNKNOWN"
     },
@@ -54,10 +54,10 @@
       "name": "Goldman Sachs",
       "person": "David Solomon",
       "role": "CEO",
-      "price": 1039.41,
+      "price": 1039.28,
       "prev_close": 1039.42,
-      "change": -0.01,
-      "change_pct": -0.0,
+      "change": -0.14,
+      "change_pct": -0.01,
       "currency": "USD",
       "market_state": "UNKNOWN"
     },

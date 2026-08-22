@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-08-21T20:12:39.063300+00:00",
-  "total": 6,
+  "last_updated": "2026-08-22T00:33:47.610493+00:00",
+  "total": 7,
   "articles": [
     {
       "id": "f8bf5ce2182e",
       "title": "Canada-U.S. Tariff Talks Continue as Trump’s Midnight Deadline Looms",
       "summary": "Canadian negotiators were in Washington to finalize a deal that would stave off new tariffs and improve the terms of existing ones, but Mark Carney faces a tough sell back home.",
       "link": "https://www.nytimes.com/2026/08/21/world/canada/trump-carney-tariffs-trade-deal.html",
-      "published": "2026-08-21T16:22:44+00:00",
+      "published": "2026-08-22T00:06:17+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "随着特朗普午夜截止日期的临近，加美关税谈判仍在继续"
+    },
+    {
+      "id": "44b6a56d61ea",
+      "title": "Mexico Governor Ruben Rocha returns to office despite US criminal charges",
+      "summary": "The governor, who leads the state of Sinaloa, has been accused by the Trump administration of partnering with a cartel.",
+      "link": "https://www.aljazeera.com/news/2026/8/21/mexico-governor-ruben-rocha-returns-to-office-despite-us-criminal-charges?traffic_source=rss",
+      "published": "2026-08-21T21:38:32+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "墨西哥州长鲁本·罗查（ Ruben Rocha ）不顾美国刑事指控重返办公室"
     },
     {
       "id": "07d084d1260b",
