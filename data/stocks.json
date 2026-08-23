@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T16:11:28.661318+00:00",
+  "last_updated": "2026-08-23T20:09:44.480477+00:00",
   "stocks": [
     {
       "symbol": "TSLA",
@@ -196,8 +196,8 @@
       "name": "沪深300",
       "region": "CN",
       "price": 4618.895,
-      "prev_close": 4592.7505,
-      "change": 26.1445,
+      "prev_close": 4592.75,
+      "change": 26.145,
       "change_pct": 0.57,
       "currency": "CNY",
       "market_state": "UNKNOWN"
