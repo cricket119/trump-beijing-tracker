@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T20:10:06.262249+00:00",
+  "last_updated": "2026-08-23T00:36:53.488971+00:00",
   "stocks": [
     {
       "symbol": "TSLA",
@@ -162,9 +162,9 @@
       "symbol": "^DJI",
       "name": "Dow Jones",
       "region": "US",
-      "price": 53277.0,
+      "price": 53277.01,
       "prev_close": 53732.41,
-      "change": -455.41,
+      "change": -455.4,
       "change_pct": -0.85,
       "currency": "USD",
       "market_state": "UNKNOWN"
