@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-08-24T16:22:06.676032+00:00",
-  "total": 5,
+  "last_updated": "2026-08-24T20:16:59.406498+00:00",
+  "total": 7,
   "articles": [
+    {
+      "id": "4997b7e571ac",
+      "title": "Trump Vows to Double Canadian Auto Tariffs, Escalating Fight",
+      "summary": "Bloomberg's Melissa Shin said that negotiators in both Canada and the United States understand how important the auto sector is both countries as President Trump vowed to double existing tariffs on the Canadian auto industry. Shin said that the broader tariffs stand to impact an estimated 90,000 jobs and disproportionately small businesses that may not see as much government support.  (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-24/trump-vows-to-double-canadian-auto-tariffs-video",
+      "published": "2026-08-24T19:44:04+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普誓言将加拿大汽车关税提高一倍，战斗升级"
+    },
+    {
+      "id": "44191c81d4f8",
+      "title": "Trump admin unveils anti-Iran global sanctions plan, signals China not exempt",
+      "summary": "The Trump administration unveiled a plan to isolate Iran's economy by threatening to impose secondary sanctions on the Islamic Republic's \"enablers.\"",
+      "link": "https://www.cnbc.com/2026/08/24/trump-iran-economy-sanctions-china-bessent.html",
+      "published": "2026-08-24T18:32:36+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普政府公布反伊朗全球制裁计划，标志着中国不能豁免"
+    },
     {
       "id": "8680d4e02df7",
       "title": "US plans nuclear-powered merchant fleet to challenge China’s shipbuilding dominance",
