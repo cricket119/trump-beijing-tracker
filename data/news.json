@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-25T04:27:29.739172+00:00",
-  "total": 6,
+  "last_updated": "2026-08-25T08:28:20.316922+00:00",
+  "total": 7,
   "articles": [
+    {
+      "id": "65766df4015f",
+      "title": "China Defends Cooperation With Iran, Warns Against Disrupting It",
+      "summary": "Beijing threatened to retaliate against the US and signaled it won’t back away from its cooperation with Iran after the Trump administration’s latest sanctions targeted businesses in China and Hong Kong.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-25/china-defends-cooperation-with-iran-warns-against-disrupting-it-mt8dnid2",
+      "published": "2026-08-25T08:02:38+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "中国捍卫与伊朗的合作，警告不要破坏它"
+    },
     {
       "id": "e7fcabddc33c",
       "title": "Reflections of a reformed grammar Nazi",
