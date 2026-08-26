@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-08-26T08:28:36.979737+00:00",
-  "total": 4,
+  "last_updated": "2026-08-26T12:26:33.224948+00:00",
+  "total": 6,
   "articles": [
     {
       "id": "eadd420b7028",
       "title": "Huawei licenses key Wi-Fi tech to HP ahead of Trump-Xi meeting",
       "summary": "",
       "link": "https://asia.nikkei.com/business/china-tech/huawei-licenses-key-wi-fi-tech-to-hp-ahead-of-trump-xi-meeting",
-      "published": "2026-08-26T08:31:05.965263+00:00",
+      "published": "2026-08-26T12:26:47.004069+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -25,6 +25,30 @@
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "纳粹语法改革的思考"
+    },
+    {
+      "id": "50b1bc26ab32",
+      "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
+      "summary": "",
+      "link": "https://www.globaltimes.cn/page/202602/1354899.shtml",
+      "published": "2026-02-06T00:00:00+00:00",
+      "source": "Global Times",
+      "source_color": "#CC0000",
+      "source_lang": "en",
+      "source_category": "chinese_official",
+      "title_zh": "在习近平通话后，中国强调台湾是“核心利益的核心” ； “依靠美国独立”的幻想空间只会进一步缩小：专家"
+    },
+    {
+      "id": "2c9f49adac2e",
+      "title": "Trump claims India will buy Venezuelan oil, welcomes China's investment; Chinese expert notices remarks 'unilateral,' no confirmation from Indian side",
+      "summary": "",
+      "link": "https://www.globaltimes.cn/page/202602/1354617.shtml",
+      "published": "2026-02-02T00:00:00+00:00",
+      "source": "Global Times",
+      "source_color": "#CC0000",
+      "source_lang": "en",
+      "source_category": "chinese_official",
+      "title_zh": "特朗普声称印度将购买委内瑞拉石油，欢迎中国的投资;中国专家注意到言论“单方面” ，没有得到印度方面的确认"
     },
     {
       "id": "28925d7651b5",
