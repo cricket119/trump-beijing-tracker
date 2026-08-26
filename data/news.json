@@ -1,42 +1,18 @@
 {
-  "last_updated": "2026-08-26T04:28:43.204290+00:00",
-  "total": 8,
+  "last_updated": "2026-08-26T08:28:36.979737+00:00",
+  "total": 4,
   "articles": [
     {
       "id": "eadd420b7028",
       "title": "Huawei licenses key Wi-Fi tech to HP ahead of Trump-Xi meeting",
       "summary": "",
       "link": "https://asia.nikkei.com/business/china-tech/huawei-licenses-key-wi-fi-tech-to-hp-ahead-of-trump-xi-meeting",
-      "published": "2026-08-26T04:28:57.508844+00:00",
+      "published": "2026-08-26T08:31:05.965263+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "华为在特朗普-习近平会晤前向惠普授权关键Wi-Fi技术"
-    },
-    {
-      "id": "a9683ee50312",
-      "title": "Why China Is Defiant Even as US Threatens Iran Sanctions",
-      "summary": "China has thrown Tehran an economic lifeline as its biggest buyer of oil, and Xi appears in no rush to help Trump end a conflict that's pulling US resources from Asia. Bloomberg's Jill Disis breaks down the news. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-26/why-china-is-defiant-even-as-us-threatens-iran-sanctions-video",
-      "published": "2026-08-26T03:34:29+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "即使美国威胁对伊朗实施制裁，中国为什么反抗"
-    },
-    {
-      "id": "082e7524ec15",
-      "title": "Xi Signals Defiance as US Threatens Sanctions Over Iran",
-      "summary": "Xi Jinping’s government is sending a message of defiance to Donald Trump over China’s economic ties with Iran. Bloomberg's Michael Heath breaks down the options available to Donald Trump to strangle Iran's economy and end a conflict that's pulling US resources from Asia. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-26/xi-signals-defiance-as-us-threatens-sanctions-over-iran-video",
-      "published": "2026-08-26T00:17:43+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "美国威胁对伊朗实施制裁，习近平发出蔑视信号"
     },
     {
       "id": "e7fcabddc33c",
@@ -49,30 +25,6 @@
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "纳粹语法改革的思考"
-    },
-    {
-      "id": "50b1bc26ab32",
-      "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
-      "summary": "",
-      "link": "https://www.globaltimes.cn/page/202602/1354899.shtml",
-      "published": "2026-02-06T00:00:00+00:00",
-      "source": "Global Times",
-      "source_color": "#CC0000",
-      "source_lang": "en",
-      "source_category": "chinese_official",
-      "title_zh": "在习近平通话后，中国强调台湾是“核心利益的核心” ； “依靠美国独立”的幻想空间只会进一步缩小：专家"
-    },
-    {
-      "id": "2c9f49adac2e",
-      "title": "Trump claims India will buy Venezuelan oil, welcomes China's investment; Chinese expert notices remarks 'unilateral,' no confirmation from Indian side",
-      "summary": "",
-      "link": "https://www.globaltimes.cn/page/202602/1354617.shtml",
-      "published": "2026-02-02T00:00:00+00:00",
-      "source": "Global Times",
-      "source_color": "#CC0000",
-      "source_lang": "en",
-      "source_category": "chinese_official",
-      "title_zh": "特朗普声称印度将购买委内瑞拉石油，欢迎中国的投资;中国专家注意到言论“单方面” ，没有得到印度方面的确认"
     },
     {
       "id": "28925d7651b5",
