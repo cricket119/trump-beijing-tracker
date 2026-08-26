@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-08-26T00:36:08.036761+00:00",
-  "total": 7,
+  "last_updated": "2026-08-26T04:28:43.204290+00:00",
+  "total": 8,
   "articles": [
+    {
+      "id": "eadd420b7028",
+      "title": "Huawei licenses key Wi-Fi tech to HP ahead of Trump-Xi meeting",
+      "summary": "",
+      "link": "https://asia.nikkei.com/business/china-tech/huawei-licenses-key-wi-fi-tech-to-hp-ahead-of-trump-xi-meeting",
+      "published": "2026-08-26T04:28:57.508844+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "华为在特朗普-习近平会晤前向惠普授权关键Wi-Fi技术"
+    },
+    {
+      "id": "a9683ee50312",
+      "title": "Why China Is Defiant Even as US Threatens Iran Sanctions",
+      "summary": "China has thrown Tehran an economic lifeline as its biggest buyer of oil, and Xi appears in no rush to help Trump end a conflict that's pulling US resources from Asia. Bloomberg's Jill Disis breaks down the news. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-26/why-china-is-defiant-even-as-us-threatens-iran-sanctions-video",
+      "published": "2026-08-26T03:34:29+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "即使美国威胁对伊朗实施制裁，中国为什么反抗"
+    },
     {
       "id": "082e7524ec15",
       "title": "Xi Signals Defiance as US Threatens Sanctions Over Iran",
@@ -13,18 +37,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "美国威胁对伊朗实施制裁，习近平发出蔑视信号"
-    },
-    {
-      "id": "f6a25aa8d46f",
-      "title": "Can Trump’s ‘economic D-day’ force Iran to capitulate?",
-      "summary": "Tehran made no concessions as a result of ‘maximum pressure’ sanctions eight years ago. Few expect it to yield this time",
-      "link": "https://www.ft.com/content/b6009dd2-7e97-4bbc-941d-cd0b8fc046b6?syn-25a6b1a6=1",
-      "published": "2026-08-25T13:58:58+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普的“经济D日”能否迫使伊朗投降？"
     },
     {
       "id": "e7fcabddc33c",
