@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-25T20:15:35.872831+00:00",
-  "total": 6,
+  "last_updated": "2026-08-26T00:36:08.036761+00:00",
+  "total": 7,
   "articles": [
+    {
+      "id": "082e7524ec15",
+      "title": "Xi Signals Defiance as US Threatens Sanctions Over Iran",
+      "summary": "Xi Jinping’s government is sending a message of defiance to Donald Trump over China’s economic ties with Iran. Bloomberg's Michael Heath breaks down the options available to Donald Trump to strangle Iran's economy and end a conflict that's pulling US resources from Asia. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-26/xi-signals-defiance-as-us-threatens-sanctions-over-iran-video",
+      "published": "2026-08-26T00:17:43+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "美国威胁对伊朗实施制裁，习近平发出蔑视信号"
+    },
     {
       "id": "f6a25aa8d46f",
       "title": "Can Trump’s ‘economic D-day’ force Iran to capitulate?",
