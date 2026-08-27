@@ -1,30 +1,30 @@
 {
-  "last_updated": "2026-08-27T05:32:51.387922+00:00",
+  "last_updated": "2026-08-27T18:28:30.559597+00:00",
   "total": 6,
   "articles": [
     {
-      "id": "eadd420b7028",
-      "title": "Huawei licenses key Wi-Fi tech to HP ahead of Trump-Xi meeting",
-      "summary": "",
-      "link": "https://asia.nikkei.com/business/china-tech/huawei-licenses-key-wi-fi-tech-to-hp-ahead-of-trump-xi-meeting",
-      "published": "2026-08-27T05:33:06.043317+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
+      "id": "4c7f87cd65bd",
+      "title": "US Nears Deal for Stake in Venezuela Oil Fields, Axios Says",
+      "summary": "The Trump administration is in talks with Venezuela to take an ownership stake in the Latin American nation’s oil fields, Axios reported.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-27/us-nears-deal-for-stake-in-venezuela-oil-fields-axios-says",
+      "published": "2026-08-27T17:21:20+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "华为在特朗普-习近平会晤前向惠普授权关键Wi-Fi技术"
+      "source_category": "business",
+      "title_zh": "Axios称，美国即将达成委内瑞拉油田股权交易"
     },
     {
-      "id": "e7fcabddc33c",
-      "title": "Reflections of a reformed grammar Nazi",
-      "summary": "“Nothing bad can happen. It can only good happen.” Donald J. Trump\nIt would be easy to write off the regular word salads of America’s 47th president as the increasingly incoherent ramblings of an elderly man in obvious mental and physical decline.\nHowever, one can also argue that Trump’s seemingly dyslexic struggles with the English language reflect a deliberate disregard for grammar rules that resonates with his support base. It’s the level of language that up to half of Americans happily use...",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364711/reflections-reformed-grammar-nazi?utm_source=rss_feed",
-      "published": "2026-08-25T01:30:10+00:00",
+      "id": "eada1356a230",
+      "title": "‘Panicked’: pause to US visa interviews affects more than 100 Hong Kong applicants",
+      "summary": "More than 100 Hong Kong-based applicants have been affected by the indefinite postponement of US immigrant visa interviews worldwide, consultants have said, with student and travel applications also disrupted.\nThe global pause, which marks a sharp tightening of legal immigration under the Trump administration, has left some Hong Kong applicants fearing the United States could scrap the entire pathway, rendering their efforts futile and their money wasted.\nIn an email seen by the South China...",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3365428/panic-us-immigrant-visa-interview-pause-hits-least-100-hong-kong-applicants?utm_source=rss_feed",
+      "published": "2026-08-27T06:42:40+00:00",
       "source": "SCMP",
       "source_color": "#003580",
       "source_lang": "en",
       "source_category": "asia",
-      "title_zh": "纳粹语法改革的思考"
+      "title_zh": "“惊慌失措” ：暂停美国签证面试影响了100多名香港申请人"
     },
     {
       "id": "50b1bc26ab32",
