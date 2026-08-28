@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-28T03:53:58.050096+00:00",
-  "total": 7,
+  "last_updated": "2026-08-28T15:45:14.360558+00:00",
+  "total": 6,
   "articles": [
     {
       "id": "e23a39d18087",
@@ -13,18 +13,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "特朗普在美中官员会见习近平访问华盛顿时加大对北京的言论"
-    },
-    {
-      "id": "0be430605254",
-      "title": "CNBC Daily Open: Tariffs in spotlight — and Trump has a new name for a lake",
-      "summary": "President Donald Trump's administration is reportedly mulling over new tariffs on chips, while Nvidia increases support for Chinese AI models.",
-      "link": "https://www.cnbc.com/2026/08/28/cnbc-daily-open-tariffs-in-spotlight-and-trump-has-a-new-name-for-a-lake.html",
-      "published": "2026-08-28T01:19:27+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "CNBC每日公开赛：关税成为焦点--特朗普为湖泊取了一个新名字"
     },
     {
       "id": "eada1356a230",
