@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-29T10:32:46.517317+00:00",
-  "total": 6,
+  "last_updated": "2026-08-29T15:52:59.336396+00:00",
+  "total": 7,
   "articles": [
+    {
+      "id": "3ea8c6ab7160",
+      "title": "Nepal Rescuers Race to Find Thousands Missing",
+      "summary": "Rescue and recovery operations are continuing in Nepal after a glacial collapse triggered catastrophic flooding near the border with China, killing more than 600 people and leaving thousands missing. Bloomberg News Senior Reporter Dan Strumpf joins Christina Ruffini and Bailey Lipschultz on Bloomberg This Weekend and reports that destroyed roads and bridges are complicating efforts to reach isolated communities as Nepal seeks specialized international assistance for tunnel rescues, victim identification and recovery. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-29/nepal-rescuers-race-to-find-thousands-missing-video",
+      "published": "2026-08-29T12:41:42+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "尼泊尔救援人员竞相寻找数千名失踪人员"
+    },
     {
       "id": "e23a39d18087",
       "title": "Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit",
