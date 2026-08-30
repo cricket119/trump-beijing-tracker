@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T15:38:57.186403+00:00",
+  "last_updated": "2026-08-30T18:54:12.760080+00:00",
   "stocks": [
     {
       "symbol": "TSLA",
@@ -196,8 +196,8 @@
       "name": "沪深300",
       "region": "CN",
       "price": 4609.176,
-      "prev_close": 4630.277,
-      "change": -21.101,
+      "prev_close": 4630.28,
+      "change": -21.104,
       "change_pct": -0.46,
       "currency": "CNY",
       "market_state": "UNKNOWN"
@@ -217,10 +217,10 @@
       "symbol": "CNY=X",
       "name": "USD/CNY",
       "region": "FX",
-      "price": 6.7255,
+      "price": 6.7208,
       "prev_close": 6.721,
-      "change": 0.0045,
-      "change_pct": 0.07,
+      "change": -0.0002,
+      "change_pct": -0.0,
       "currency": "CNY",
       "market_state": "UNKNOWN"
     }
