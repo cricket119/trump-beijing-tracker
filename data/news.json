@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T18:57:04.030248+00:00",
+  "last_updated": "2026-09-01T22:09:30.654095+00:00",
   "total": 8,
   "articles": [
     {
@@ -7,7 +7,7 @@
       "title": "As US-China summit nears, Japan's Takaichi wants face time with Trump",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/as-us-china-summit-nears-japan-s-takaichi-wants-face-time-with-trump",
-      "published": "2026-09-01T18:57:16.982890+00:00",
+      "published": "2026-09-01T22:09:44.625106+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "US, China debate 'nonsensitive' tariff cuts ahead of Trump-Xi summit",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/us-china-debate-nonsensitive-tariff-cuts-ahead-of-trump-xi-summit",
-      "published": "2026-09-01T18:57:16.982809+00:00",
+      "published": "2026-09-01T22:09:44.625004+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -27,28 +27,28 @@
       "title_zh": "在特朗普-习近平峰会之前，美国和中国辩论“不敏感”的关税削减"
     },
     {
-      "id": "e774c0391879",
-      "title": "China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit",
-      "summary": "Chinese President Xi Jinping is expected to make his first visit to India before traveling to the U.S. for a meeting with U.S. President Donald Trump.",
-      "link": "https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html",
-      "published": "2026-09-01T18:51:50+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "中国的习近平在特朗普峰会之前通过多次国事访问建立外交影响力"
-    },
-    {
       "id": "0132f840e694",
       "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
       "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
       "link": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
-      "published": "2026-09-01T17:57:37+00:00",
+      "published": "2026-09-01T21:57:52+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "中国还是美国？两场会议提供了相互竞争的全球实力展示。"
+    },
+    {
+      "id": "1d03c61e9e24",
+      "title": "US defends Venezuela deal as Chevron prepares to expand operations",
+      "summary": "Trump administration justifies agreement as a way to expel Chinese and Russian adversaries from oilfields in ‘our hemisphere’",
+      "link": "https://www.ft.com/content/45449170-57cf-48f8-85a9-7e353cadde32?syn-25a6b1a6=1",
+      "published": "2026-09-01T20:48:13+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "随着雪佛龙准备扩大业务，美国为委内瑞拉的交易辩护"
     },
     {
       "id": "50b1bc26ab32",
