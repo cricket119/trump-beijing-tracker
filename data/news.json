@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-09-01T02:26:53.101903+00:00",
-  "total": 6,
+  "last_updated": "2026-09-01T08:58:23.697025+00:00",
+  "total": 8,
   "articles": [
+    {
+      "id": "8ed50fe3e89e",
+      "title": "US, China debate 'nonsensitive' tariff cuts ahead of Trump-Xi summit",
+      "summary": "",
+      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/us-china-debate-nonsensitive-tariff-cuts-ahead-of-trump-xi-summit",
+      "published": "2026-09-01T08:58:36.776896+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "在特朗普-习近平峰会之前，美国和中国辩论“不敏感”的关税削减"
+    },
+    {
+      "id": "0132f840e694",
+      "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
+      "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
+      "link": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
+      "published": "2026-09-01T08:51:03+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "中国还是美国？两场会议提供了相互竞争的全球实力展示。"
+    },
     {
       "id": "69a8e9b39a6e",
       "title": "Trump says U.S. communities opposing AI data centers could end up 'backwards and poor'",
