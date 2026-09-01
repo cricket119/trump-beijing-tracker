@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T08:58:23.697025+00:00",
+  "last_updated": "2026-09-01T15:41:43.998923+00:00",
   "total": 8,
   "articles": [
     {
@@ -7,7 +7,7 @@
       "title": "US, China debate 'nonsensitive' tariff cuts ahead of Trump-Xi summit",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/us-china-debate-nonsensitive-tariff-cuts-ahead-of-trump-xi-summit",
-      "published": "2026-09-01T08:58:36.776896+00:00",
+      "published": "2026-09-01T15:41:57.450790+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -15,28 +15,28 @@
       "title_zh": "在特朗普-习近平峰会之前，美国和中国辩论“不敏感”的关税削减"
     },
     {
+      "id": "30838f38f551",
+      "title": "As US-China summit nears, Japan's Takaichi wants face time with Trump",
+      "summary": "",
+      "link": "https://asia.nikkei.com/politics/international-relations/as-us-china-summit-nears-japan-s-takaichi-wants-face-time-with-trump",
+      "published": "2026-09-01T15:41:57.450521+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "随着美中峰会的临近，日本高市希望与特朗普见面"
+    },
+    {
       "id": "0132f840e694",
       "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
       "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
       "link": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
-      "published": "2026-09-01T08:51:03+00:00",
+      "published": "2026-09-01T13:30:10+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "中国还是美国？两场会议提供了相互竞争的全球实力展示。"
-    },
-    {
-      "id": "69a8e9b39a6e",
-      "title": "Trump says U.S. communities opposing AI data centers could end up 'backwards and poor'",
-      "summary": "\"China could not be happier with this anti Data Center movement,\" Trump said as Republicans express concerns about the backlash to data centers.",
-      "link": "https://www.cnbc.com/2026/08/31/trump-data-centers-backlash-elections-congress.html",
-      "published": "2026-08-31T18:47:01+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普表示，反对人工智能数据中心的美国社区最终可能会“落后和贫穷”"
     },
     {
       "id": "e774c0391879",
