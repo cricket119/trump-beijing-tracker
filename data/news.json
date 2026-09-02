@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-01T22:09:30.654095+00:00",
-  "total": 8,
+  "last_updated": "2026-09-02T01:47:52.165390+00:00",
+  "total": 9,
   "articles": [
     {
       "id": "30838f38f551",
       "title": "As US-China summit nears, Japan's Takaichi wants face time with Trump",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/as-us-china-summit-nears-japan-s-takaichi-wants-face-time-with-trump",
-      "published": "2026-09-01T22:09:44.625106+00:00",
+      "published": "2026-09-02T01:48:06.213336+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "US, China debate 'nonsensitive' tariff cuts ahead of Trump-Xi summit",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/us-china-debate-nonsensitive-tariff-cuts-ahead-of-trump-xi-summit",
-      "published": "2026-09-01T22:09:44.625004+00:00",
+      "published": "2026-09-02T01:48:06.213256+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -27,11 +27,23 @@
       "title_zh": "在特朗普-习近平峰会之前，美国和中国辩论“不敏感”的关税削减"
     },
     {
+      "id": "0d01509c5806",
+      "title": "China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says",
+      "summary": "Bessent is leading the Trump administration's plan to choke off Iran's economy by threatening its business partners with secondary sanctions.",
+      "link": "https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html",
+      "published": "2026-09-01T23:52:21+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "贝森特说，中国不同意G20反对“廉价出口”洪水市场的声明"
+    },
+    {
       "id": "0132f840e694",
       "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
       "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
       "link": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
-      "published": "2026-09-01T21:57:52+00:00",
+      "published": "2026-09-01T23:38:51+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
