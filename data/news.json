@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-09-02T22:05:33.347819+00:00",
-  "total": 8,
+  "last_updated": "2026-09-03T01:54:01.923558+00:00",
+  "total": 7,
   "articles": [
     {
-      "id": "8ed50fe3e89e",
-      "title": "US, China debate 'nonsensitive' tariff cuts ahead of Trump-Xi summit",
-      "summary": "",
-      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/us-china-debate-nonsensitive-tariff-cuts-ahead-of-trump-xi-summit",
-      "published": "2026-09-02T22:05:47.067320+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
+      "id": "91a87cf8709b",
+      "title": "CNBC Daily Open: U.S.-China meeting in focus while Trump wants to rename the Strait of Hormuz",
+      "summary": "All eyes are on the upcoming meeting between U.S. President Donald Trump and Chinese leader Xi Jinping at the White House, which could offer more clues to the U.S.-China trade relations as well as China's stance towards Iran amid the Mideast conflict.",
+      "link": "https://www.cnbc.com/2026/09/03/cnbc-daily-open-us-china-meeting-in-focus-while-trump-wants-to-rename-the-strait-of-hormuz.html",
+      "published": "2026-09-03T01:14:22+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "在特朗普-习近平峰会之前，美国和中国辩论“不敏感”的关税削减"
+      "source_category": "business",
+      "title_zh": "CNBC每日公开赛：特朗普希望重命名霍尔木兹海峡时，美中会晤成为焦点"
     },
     {
       "id": "e3142eec5059",
       "title": "Trump and Xi are set to meet in DC. Why some China watchers have low expectations",
       "summary": "Trump's summit with Xi is expected to take place less than six weeks before the U.S. election, with polls showing Democrats favored to make gains in Congress.",
       "link": "https://www.cnbc.com/2026/09/02/trump-xi-summit-iran-china-trade-elections.html",
-      "published": "2026-09-02T22:00:01+00:00",
+      "published": "2026-09-02T22:10:15+00:00",
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
@@ -37,18 +37,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "中国的习近平让伊朗总统在特朗普峰会前几周保持距离"
-    },
-    {
-      "id": "0132f840e694",
-      "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
-      "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
-      "link": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
-      "published": "2026-09-02T03:04:58+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "中国还是美国？两场会议提供了相互竞争的全球实力展示。"
     },
     {
       "id": "50b1bc26ab32",
