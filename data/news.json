@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-09-06T01:43:41.272225+00:00",
-  "total": 5,
+  "last_updated": "2026-09-06T08:11:07.283218+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "1c406e68542b",
+      "title": "Trump’s approval rating falls to all-time low in FT poll",
+      "summary": "Voters’ anxiety about economy saps popularity of US president and his Republican Party weeks before midterm elections",
+      "link": "https://www.ft.com/content/9bcce1fa-997e-49f2-9530-f1255e4cb28b?syn-25a6b1a6=1",
+      "published": "2026-09-06T04:01:09+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "在英国《金融时报》的民意调查中，特朗普的支持率降至历史最低水平"
+    },
     {
       "id": "f8ca159c34dd",
       "title": "China’s Xi eyes Apec trilateral; no outrunning deadly Nepal floods: SCMP’s 7 highlights",
