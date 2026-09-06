@@ -1,10 +1,22 @@
 {
-  "last_updated": "2026-09-06T08:11:07.283218+00:00",
+  "last_updated": "2026-09-06T14:32:37.969569+00:00",
   "total": 6,
   "articles": [
     {
-      "id": "1c406e68542b",
-      "title": "Trump’s approval rating falls to all-time low in FT poll",
+      "id": "2bb33cc8d2b4",
+      "title": "US Iran Fight Shifts to Economic Endurance",
+      "summary": "The Trump administration is intensifying economic pressure on Iran through sanctions and a blockade, with Treasury Secretary Scott Bessent saying Tehran has about 30 million barrels of crude left for potential Chinese buyers. Bloomberg News Middle East Reporter Dan Williams joins Christina Ruffini and Jeff Mason on Bloomberg This Weekend and says the strategy also amounts to a test of endurance, as Washington seeks to outlast Tehran while managing its relationship with China and domestic political pressures.  (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-06/us-iran-fight-shifts-to-economic-endurance-video",
+      "published": "2026-09-06T11:54:03+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "美国与伊朗的斗争转向经济耐力"
+    },
+    {
+      "id": "cf61fffd8520",
+      "title": "Trump’s approval rating falls to lowest yet in FT poll",
       "summary": "Voters’ anxiety about economy saps popularity of US president and his Republican Party weeks before midterm elections",
       "link": "https://www.ft.com/content/9bcce1fa-997e-49f2-9530-f1255e4cb28b?syn-25a6b1a6=1",
       "published": "2026-09-06T04:01:09+00:00",
@@ -12,19 +24,7 @@
       "source_color": "#C7A000",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "在英国《金融时报》的民意调查中，特朗普的支持率降至历史最低水平"
-    },
-    {
-      "id": "f8ca159c34dd",
-      "title": "China’s Xi eyes Apec trilateral; no outrunning deadly Nepal floods: SCMP’s 7 highlights",
-      "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing.\n1. Xi, Trump and Putin may hold trilateral meeting at next Apec forum, Kremlin says\nA senior Russian aide suggested on Tuesday that Chinese President Xi Jinping, US President Donald Trump and Russian President Vladimir Putin could hold a...",
-      "link": "https://www.scmp.com/news/china/article/3366291/chinas-xi-eyes-apec-trilateral-no-outrunning-deadly-nepal-floods-scmps-7-highlights?utm_source=rss_feed",
-      "published": "2026-09-04T04:15:05+00:00",
-      "source": "SCMP",
-      "source_color": "#003580",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "中国的习近平关注APEC三边;没有致命的尼泊尔洪水：南华早报的7个亮点"
+      "title_zh": "在英国《金融时报》的民意调查中，特朗普的支持率降至最低"
     },
     {
       "id": "50b1bc26ab32",
