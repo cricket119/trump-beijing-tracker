@@ -1,30 +1,18 @@
 {
-  "last_updated": "2026-09-07T01:40:47.425215+00:00",
-  "total": 6,
+  "last_updated": "2026-09-07T08:42:39.931683+00:00",
+  "total": 5,
   "articles": [
     {
       "id": "ec0d5c9b2eaf",
       "title": "US and China eye Trump-Xi talks on AI guardrails despite tech rift",
       "summary": "",
       "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-and-china-eye-trump-xi-talks-on-ai-guardrails-despite-tech-rift",
-      "published": "2026-09-07T01:41:02.234300+00:00",
+      "published": "2026-09-07T08:42:53.572927+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "尽管存在技术裂痕，美国和中国仍关注特朗普-习近平关于人工智能护栏的谈判"
-    },
-    {
-      "id": "cf61fffd8520",
-      "title": "Trump’s approval rating falls to lowest yet in FT poll",
-      "summary": "Voters’ anxiety about economy saps popularity of US president and his Republican Party weeks before midterm elections",
-      "link": "https://www.ft.com/content/9bcce1fa-997e-49f2-9530-f1255e4cb28b?syn-25a6b1a6=1",
-      "published": "2026-09-06T04:01:09+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "在英国《金融时报》的民意调查中，特朗普的支持率降至最低"
     },
     {
       "id": "50b1bc26ab32",
