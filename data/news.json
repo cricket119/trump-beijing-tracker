@@ -1,18 +1,42 @@
 {
-  "last_updated": "2026-09-07T08:42:39.931683+00:00",
-  "total": 5,
+  "last_updated": "2026-09-07T16:47:00.684054+00:00",
+  "total": 7,
   "articles": [
     {
       "id": "ec0d5c9b2eaf",
       "title": "US and China eye Trump-Xi talks on AI guardrails despite tech rift",
       "summary": "",
       "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-and-china-eye-trump-xi-talks-on-ai-guardrails-despite-tech-rift",
-      "published": "2026-09-07T08:42:53.572927+00:00",
+      "published": "2026-09-07T16:47:14.622691+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "尽管存在技术裂痕，美国和中国仍关注特朗普-习近平关于人工智能护栏的谈判"
+    },
+    {
+      "id": "76fed620a1f2",
+      "title": "Republicans fear Trump has turned toxic on the campaign trail",
+      "summary": "Some party candidates worry the president’s low popularity and inflammatory rhetoric will cost them November’s election",
+      "link": "https://www.ft.com/content/3edf3717-4737-424c-9162-d330851edcf6?syn-25a6b1a6=1",
+      "published": "2026-09-07T15:30:50+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "共和党人担心特朗普在竞选过程中变得有毒"
+    },
+    {
+      "id": "94fdc5504ca7",
+      "title": "In Peru, the Trump Administration Sees the Limits of Its Anti-China Push",
+      "summary": "As Secretary of State Marco Rubio travels this week to Peru, its growing economic ties to China have raised tensions with the U.S., but show no signs of reversing course.",
+      "link": "https://www.nytimes.com/2026/09/07/world/americas/peru-trump-china-economy.html",
+      "published": "2026-09-07T09:00:13+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "在秘鲁，特朗普政府看到了其反华努力的局限性"
     },
     {
       "id": "50b1bc26ab32",
