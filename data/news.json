@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T01:52:17.770783+00:00",
+  "last_updated": "2026-09-08T08:23:52.397586+00:00",
   "total": 7,
   "articles": [
     {
@@ -7,11 +7,24 @@
       "title": "US and China eye Trump-Xi talks on AI guardrails despite tech rift",
       "summary": "",
       "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-and-china-eye-trump-xi-talks-on-ai-guardrails-despite-tech-rift",
-      "published": "2026-09-08T01:52:30.823954+00:00",
+      "published": "2026-09-08T08:24:06.272546+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "asia"
+      "source_category": "asia",
+      "title_zh": "尽管存在技术裂痕，美国和中国仍关注特朗普-习近平关于人工智能护栏的谈判"
+    },
+    {
+      "id": "f08ff549656f",
+      "title": "China’s export surge sets stage for record annual surplus",
+      "summary": "Data released ahead of crucial meeting between Donald Trump and Xi Jinping on extending tariff truce",
+      "link": "https://www.ft.com/content/56bcc2fb-99eb-4ad9-af67-101c8d0382cb?syn-25a6b1a6=1",
+      "published": "2026-09-08T05:15:08+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "中国的出口激增为创纪录的年度盈余奠定了基础"
     },
     {
       "id": "94fdc5504ca7",
@@ -22,18 +35,8 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international"
-    },
-    {
-      "id": "76fed620a1f2",
-      "title": "Republicans fear Trump has turned toxic on the campaign trail",
-      "summary": "Some party candidates worry the president’s low popularity and inflammatory rhetoric will cost them November’s election",
-      "link": "https://www.ft.com/content/3edf3717-4737-424c-9162-d330851edcf6?syn-25a6b1a6=1",
-      "published": "2026-09-07T15:30:50+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business"
+      "source_category": "international",
+      "title_zh": "在秘鲁，特朗普政府看到了其反华努力的局限性"
     },
     {
       "id": "50b1bc26ab32",
@@ -44,7 +47,8 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official"
+      "source_category": "chinese_official",
+      "title_zh": "在习近平通话后，中国强调台湾是“核心利益的核心” ； “依靠美国独立”的幻想空间只会进一步缩小：专家"
     },
     {
       "id": "2c9f49adac2e",
@@ -55,7 +59,8 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official"
+      "source_category": "chinese_official",
+      "title_zh": "特朗普声称印度将购买委内瑞拉石油，欢迎中国的投资;中国专家注意到言论“单方面” ，没有得到印度方面的确认"
     },
     {
       "id": "28925d7651b5",
@@ -66,7 +71,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
     },
     {
       "id": "b279b93e7dae",
@@ -77,7 +83,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
     }
   ]
 }
