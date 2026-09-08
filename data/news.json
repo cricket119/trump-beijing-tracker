@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-09-08T15:34:21.876618+00:00",
-  "total": 7,
+  "last_updated": "2026-09-08T19:05:47.763013+00:00",
+  "total": 6,
   "articles": [
-    {
-      "id": "ec0d5c9b2eaf",
-      "title": "US and China eye Trump-Xi talks on AI guardrails despite tech rift",
-      "summary": "",
-      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-and-china-eye-trump-xi-talks-on-ai-guardrails-despite-tech-rift",
-      "published": "2026-09-08T15:34:35.339663+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "尽管存在技术裂痕，美国和中国仍关注特朗普-习近平关于人工智能护栏的谈判"
-    },
     {
       "id": "82888b4f0d16",
       "title": "Iceland summons US ambassador over Trump’s Stars and Stripes map",
