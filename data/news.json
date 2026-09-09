@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-09-09T01:57:58.183278+00:00",
+  "last_updated": "2026-09-09T08:26:37.305388+00:00",
   "total": 7,
   "articles": [
+    {
+      "id": "2a8a02c1f08c",
+      "title": "‘This is not a joke’: Iceland condemns Trump’s post showing island under American flag",
+      "summary": "Denmark and Mexico also objected, underscoring the diplomatic backlash to Trump's territorial ambitions.",
+      "link": "https://www.cnbc.com/2026/09/09/iceland-trump-map-us-flag-greenland-mexico.html",
+      "published": "2026-09-09T08:00:54+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "“这不是开玩笑” ：冰岛谴责特朗普在美国国旗下展示岛屿的帖子"
+    },
     {
       "id": "ab040c3e00a7",
       "title": "Trump administration expresses 'profound concern' over Ford's ties to China",
@@ -13,18 +25,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "特朗普政府对福特与中国的关系表示“深切关注”"
-    },
-    {
-      "id": "82888b4f0d16",
-      "title": "Iceland summons US ambassador over Trump’s Stars and Stripes map",
-      "summary": "Post showed US flag covering Canada, Mexico, Greenland, Iceland and other nations",
-      "link": "https://www.ft.com/content/792e9e30-7a96-402c-a472-d7304f5bc1ef?syn-25a6b1a6=1",
-      "published": "2026-09-08T13:35:13+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "冰岛在特朗普的星条旗地图上传唤美国大使"
     },
     {
       "id": "94fdc5504ca7",
