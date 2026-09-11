@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-09-11T08:22:38.843117+00:00",
-  "total": 4,
+  "last_updated": "2026-09-11T15:26:13.545134+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "7aec0134f7e7",
+      "title": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
+      "summary": "As Brics leaders meet in Delhi, divisions within the bloc make a united response to Washington unlikely.",
+      "link": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-11T09:38:23+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "随着莫迪在德里接待普京和习近平，特朗普的阴影在金砖四国上空笼罩"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
