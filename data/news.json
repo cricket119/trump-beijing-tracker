@@ -1,30 +1,42 @@
 {
-  "last_updated": "2026-09-13T18:24:01.867923+00:00",
-  "total": 7,
+  "last_updated": "2026-09-13T21:53:31.772147+00:00",
+  "total": 8,
   "articles": [
     {
-      "id": "292e96fe4ae9",
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
-      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-13T18:03:44+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
+      "id": "ef6bf33e7527",
+      "title": "Trump leaves door open to Chinese carmakers ahead of summit with Xi",
+      "summary": "",
+      "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/trump-leaves-door-open-to-chinese-carmakers-ahead-of-summit-with-xi",
+      "published": "2026-09-13T21:53:46.060268+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普以与中国的竞争为由淡化对人工智能风险的警告"
+      "source_category": "asia",
+      "title_zh": "特朗普在与习近平举行峰会前为中国汽车制造商敞开大门"
     },
     {
       "id": "40978b79a935",
       "title": "Donald Trump rejects calls from tech bosses for an AI slowdown",
       "summary": "President denounces demands for regulation as existential fears over technology move to the centre of US politics",
       "link": "https://www.ft.com/content/cae60732-f929-4735-a627-db8c14e7c7ed?syn-25a6b1a6=1",
-      "published": "2026-09-13T15:42:41+00:00",
+      "published": "2026-09-13T21:34:22+00:00",
       "source": "Financial Times",
       "source_color": "#C7A000",
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "唐纳德特朗普拒绝科技老板关于人工智能放缓的呼吁"
+    },
+    {
+      "id": "292e96fe4ae9",
+      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-13T18:49:37+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普以与中国的竞争为由淡化对人工智能风险的警告"
     },
     {
       "id": "403bff636083",
