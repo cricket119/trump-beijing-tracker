@@ -1,18 +1,41 @@
 {
-  "last_updated": "2026-09-14T09:20:14.360777+00:00",
-  "total": 9,
+  "last_updated": "2026-09-14T17:10:53.119021+00:00",
+  "total": 8,
   "articles": [
     {
       "id": "ef6bf33e7527",
       "title": "Trump leaves door open to Chinese carmakers ahead of summit with Xi",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/trump-leaves-door-open-to-chinese-carmakers-ahead-of-summit-with-xi",
-      "published": "2026-09-14T09:20:28.424694+00:00",
+      "published": "2026-09-14T17:11:07.576948+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "特朗普在与习近平举行峰会前为中国汽车制造商敞开大门"
+    },
+    {
+      "id": "d5ab9426825e",
+      "title": "US Takes $450 Million Stake in Tungsten Firm to Counter China",
+      "summary": "The Pentagon will take a near-20% stake in a US producer of tungsten — a metal used in military hardware — in a move that expands the Trump administration’s push to secure critical minerals supplies outside China.",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-14/us-takes-450-million-stake-in-tungsten-firm-to-counter-china",
+      "published": "2026-09-14T16:09:29+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "美国收购钨公司4.5亿美元$股权以对抗中国"
+    },
+    {
+      "id": "beda1bc9c053",
+      "title": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei",
+      "summary": "The Trump administration has encouraged AI's rapid growth and the development of data centers as it seeks an insurmountable tech edge over China.",
+      "link": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html",
+      "published": "2026-09-14T16:08:15+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business"
     },
     {
       "id": "9f77c09de9b2",
@@ -25,42 +48,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "CNBC每日公开赛： “谁赢了AI ，谁就赢了”"
-    },
-    {
-      "id": "d4ae4ea459e6",
-      "title": "Trump dismisses calls for AI slowdown from leading tech CEOs",
-      "summary": "Trump downplays AI risks, saying he wants to maintain the USs lead over China in the emerging technology.",
-      "link": "https://www.aljazeera.com/news/2026/9/13/trump-dismisses-calls-for-ai-slowdown-from-leading-tech-ceos?traffic_source=rss",
-      "published": "2026-09-13T23:31:56+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普驳斥了领先科技首席执行官对人工智能放缓的呼吁"
-    },
-    {
-      "id": "927a39034468",
-      "title": "Trump rejects calls from tech bosses for AI slowdown",
-      "summary": "President denounces demands for regulation as existential fears over technology move to the centre of US politics",
-      "link": "https://www.ft.com/content/cae60732-f929-4735-a627-db8c14e7c7ed?syn-25a6b1a6=1",
-      "published": "2026-09-13T21:34:22+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普拒绝科技老板关于人工智能放缓的呼吁"
-    },
-    {
-      "id": "292e96fe4ae9",
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "summary": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
-      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-13T18:49:37+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普以与中国的竞争为由淡化对人工智能风险的警告"
     },
     {
       "id": "50b1bc26ab32",
