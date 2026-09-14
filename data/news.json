@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T02:09:11.887720+00:00",
+  "last_updated": "2026-09-14T09:20:14.360777+00:00",
   "total": 9,
   "articles": [
     {
@@ -7,12 +7,24 @@
       "title": "Trump leaves door open to Chinese carmakers ahead of summit with Xi",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/trump-leaves-door-open-to-chinese-carmakers-ahead-of-summit-with-xi",
-      "published": "2026-09-14T02:09:26.445349+00:00",
+      "published": "2026-09-14T09:20:28.424694+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "特朗普在与习近平举行峰会前为中国汽车制造商敞开大门"
+    },
+    {
+      "id": "9f77c09de9b2",
+      "title": "CNBC Daily Open: 'Whoever wins AI, wins'",
+      "summary": "Rivals Anthropic, OpenAI and xAI jointly called for a slowdown in AI development, while President Donald Trump stressed the need to keep a lead on China.",
+      "link": "https://www.cnbc.com/2026/09/14/daily-open-ai-slowdown-trump-anthropic.html",
+      "published": "2026-09-14T06:25:12+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "CNBC每日公开赛： “谁赢了AI ，谁就赢了”"
     },
     {
       "id": "d4ae4ea459e6",
@@ -49,18 +61,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "特朗普以与中国的竞争为由淡化对人工智能风险的警告"
-    },
-    {
-      "id": "403bff636083",
-      "title": "Trump's America-first world is pushing other powers to hedge their bets",
-      "summary": "Xi, Putin and Modi meet in New Delhi as U.S. tariffs, sanctions and the Iran war test whether BRICS members can find more common ground.",
-      "link": "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html",
-      "published": "2026-09-12T13:24:33+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普的美国优先世界正在推动其他大国对冲他们的赌注"
     },
     {
       "id": "50b1bc26ab32",
