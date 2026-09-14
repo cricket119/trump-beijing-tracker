@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T17:10:53.119021+00:00",
+  "last_updated": "2026-09-14T22:50:09.839814+00:00",
   "total": 8,
   "articles": [
     {
@@ -7,7 +7,7 @@
       "title": "Trump leaves door open to Chinese carmakers ahead of summit with Xi",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/trump-leaves-door-open-to-chinese-carmakers-ahead-of-summit-with-xi",
-      "published": "2026-09-14T17:11:07.576948+00:00",
+      "published": "2026-09-14T22:50:22.678567+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -15,27 +15,28 @@
       "title_zh": "特朗普在与习近平举行峰会前为中国汽车制造商敞开大门"
     },
     {
-      "id": "d5ab9426825e",
-      "title": "US Takes $450 Million Stake in Tungsten Firm to Counter China",
-      "summary": "The Pentagon will take a near-20% stake in a US producer of tungsten — a metal used in military hardware — in a move that expands the Trump administration’s push to secure critical minerals supplies outside China.",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-14/us-takes-450-million-stake-in-tungsten-firm-to-counter-china",
-      "published": "2026-09-14T16:09:29+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "美国收购钨公司4.5亿美元$股权以对抗中国"
-    },
-    {
-      "id": "beda1bc9c053",
-      "title": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei",
+      "id": "e9af7bacdbe7",
+      "title": "Trump goes scorched earth on AI warnings, raging about data center opposition and regulation",
       "summary": "The Trump administration has encouraged AI's rapid growth and the development of data centers as it seeks an insurmountable tech edge over China.",
       "link": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html",
-      "published": "2026-09-14T16:08:15+00:00",
+      "published": "2026-09-14T21:15:56+00:00",
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "特朗普在人工智能警告中走向焦土，对数据中心的反对和监管感到愤怒"
+    },
+    {
+      "id": "711a9100f31e",
+      "title": "Trump says calls for more control on AI are a ‘SICK conspiracy’",
+      "summary": "US president says current oversight is adequate and regulations could allow China to win AI competition.",
+      "link": "https://www.aljazeera.com/news/2026/9/14/trump-says-calls-for-more-control-on-ai-are-a-sick-conspiracy?traffic_source=rss",
+      "published": "2026-09-14T19:32:23+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普表示，呼吁加强对人工智能的控制是一个“病态的阴谋”"
     },
     {
       "id": "9f77c09de9b2",
