@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-14T22:50:09.839814+00:00",
-  "total": 8,
+  "last_updated": "2026-09-15T02:15:53.450331+00:00",
+  "total": 7,
   "articles": [
     {
       "id": "ef6bf33e7527",
       "title": "Trump leaves door open to Chinese carmakers ahead of summit with Xi",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/trump-leaves-door-open-to-chinese-carmakers-ahead-of-summit-with-xi",
-      "published": "2026-09-14T22:50:22.678567+00:00",
+      "published": "2026-09-15T02:16:06.847122+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -37,18 +37,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "特朗普表示，呼吁加强对人工智能的控制是一个“病态的阴谋”"
-    },
-    {
-      "id": "9f77c09de9b2",
-      "title": "CNBC Daily Open: 'Whoever wins AI, wins'",
-      "summary": "Rivals Anthropic, OpenAI and xAI jointly called for a slowdown in AI development, while President Donald Trump stressed the need to keep a lead on China.",
-      "link": "https://www.cnbc.com/2026/09/14/daily-open-ai-slowdown-trump-anthropic.html",
-      "published": "2026-09-14T06:25:12+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "CNBC每日公开赛： “谁赢了AI ，谁就赢了”"
     },
     {
       "id": "50b1bc26ab32",
