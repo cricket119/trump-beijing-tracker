@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-09-15T09:01:54.075771+00:00",
-  "total": 6,
+  "last_updated": "2026-09-15T15:50:42.282023+00:00",
+  "total": 7,
   "articles": [
     {
-      "id": "ef6bf33e7527",
-      "title": "Trump leaves door open to Chinese carmakers ahead of summit with Xi",
-      "summary": "",
-      "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/trump-leaves-door-open-to-chinese-carmakers-ahead-of-summit-with-xi",
-      "published": "2026-09-15T09:02:09.124349+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
+      "id": "d90922e6d263",
+      "title": "Private sector is 'the right place' to solve AI threats, White House's Hassett says",
+      "summary": "President Donald Trump's AI-friendly administration argues U.S. dominance over China in the fast-expanding industry is essential.",
+      "link": "https://www.cnbc.com/2026/09/15/hassett-ai-trump-government-regulation.html",
+      "published": "2026-09-15T15:31:34+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "特朗普在与习近平举行峰会前为中国汽车制造商敞开大门"
+      "source_category": "business",
+      "title_zh": "白宫的哈塞特说，私营部门是解决人工智能威胁的“正确之地”"
+    },
+    {
+      "id": "aed80f6be71b",
+      "title": "The main Trump-Xi summit achievement will be it happening at all",
+      "summary": "The US and China are in a stand-off rather than a state of agreement",
+      "link": "https://www.ft.com/content/86078ee7-0c8a-4d2b-8ce7-4fc47d965985?syn-25a6b1a6=1",
+      "published": "2026-09-15T13:00:08+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普-习近平峰会的主要成就将是它会发生"
     },
     {
       "id": "e9af7bacdbe7",
