@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-09-15T19:20:19.569110+00:00",
-  "total": 6,
+  "last_updated": "2026-09-15T22:30:40.267420+00:00",
+  "total": 7,
   "articles": [
+    {
+      "id": "b5355b03e743",
+      "title": "US speaker rejects AI pause, warns of losing edge to China",
+      "summary": "Trump has dismissed AI fears as hoax, insisting US safeguards suffice and warning slowdown benefits China.",
+      "link": "https://www.aljazeera.com/news/2026/9/15/us-speaker-rejects-ai-pause-warns-of-losing-edge-to-china?traffic_source=rss",
+      "published": "2026-09-15T20:13:09+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "美国议长拒绝人工智能暂停，警告中国将失去优势"
+    },
     {
       "id": "aed80f6be71b",
       "title": "The main Trump-Xi summit achievement will be it happening at all",
