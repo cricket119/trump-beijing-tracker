@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-16T02:08:58.207304+00:00",
-  "total": 7,
+  "last_updated": "2026-09-16T08:54:15.808897+00:00",
+  "total": 5,
   "articles": [
     {
       "id": "aeec3f4d4805",
@@ -13,30 +13,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "CNBC Daily Open ：人工智能安全吗？行业领袖和特朗普意见分歧"
-    },
-    {
-      "id": "7f2447ce169d",
-      "title": "Bessent to meet He Lifeng in New York ahead of Trump-Xi summit",
-      "summary": "US Treasury secretary and Chinese vice-premier to hold talks as one-year expiry in trade war truce nears",
-      "link": "https://www.ft.com/content/7cc04edd-2897-4655-99d4-ede1ccfcd91c?syn-25a6b1a6=1",
-      "published": "2026-09-15T22:32:47+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "Bessent在特朗普-习近平峰会之前在纽约会见何立峰"
-    },
-    {
-      "id": "b5355b03e743",
-      "title": "US speaker rejects AI pause, warns of losing edge to China",
-      "summary": "Trump has dismissed AI fears as hoax, insisting US safeguards suffice and warning slowdown benefits China.",
-      "link": "https://www.aljazeera.com/news/2026/9/15/us-speaker-rejects-ai-pause-warns-of-losing-edge-to-china?traffic_source=rss",
-      "published": "2026-09-15T20:13:09+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "美国议长拒绝人工智能暂停，警告中国将失去优势"
     },
     {
       "id": "50b1bc26ab32",
