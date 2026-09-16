@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-09-16T08:54:15.808897+00:00",
-  "total": 5,
+  "last_updated": "2026-09-16T15:42:33.703929+00:00",
+  "total": 7,
   "articles": [
+    {
+      "id": "135210da6ba4",
+      "title": "Trump curbs on China-linked equipment threaten US clean-energy projects",
+      "summary": "",
+      "link": "https://asia.nikkei.com/business/energy/trump-curbs-on-china-linked-equipment-threaten-us-clean-energy-projects",
+      "published": "2026-09-16T15:42:46.921680+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "特朗普限制与中国相关的设备威胁美国清洁能源项目"
+    },
+    {
+      "id": "49e8e033636d",
+      "title": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
+      "summary": "China renewed calls for an end to the fighting in the Middle East while demonstrating its influence over Tehran.",
+      "link": "https://www.nytimes.com/2026/09/16/world/asia/iran-war-china-trump-summit.html",
+      "published": "2026-09-16T14:15:35+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "北京在美中峰会前接待伊朗外交官，向特朗普发出信号"
+    },
     {
       "id": "aeec3f4d4805",
       "title": "CNBC Daily Open: Is AI safe? Industry leaders and Trump disagree",
