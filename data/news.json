@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-09-15T22:30:40.267420+00:00",
+  "last_updated": "2026-09-16T02:08:58.207304+00:00",
   "total": 7,
   "articles": [
+    {
+      "id": "aeec3f4d4805",
+      "title": "CNBC Daily Open: Is AI safe? Industry leaders and Trump disagree",
+      "summary": "OpenAI, Anthropic and Google unite for AI safety talks after warnings that the technology could pose an existential risk to humanity.",
+      "link": "https://www.cnbc.com/2026/09/16/cnbc-daily-open-is-ai-safe-industry-leaders-and-trump-disagree.html",
+      "published": "2026-09-16T01:42:51+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "CNBC Daily Open ：人工智能安全吗？行业领袖和特朗普意见分歧"
+    },
+    {
+      "id": "7f2447ce169d",
+      "title": "Bessent to meet He Lifeng in New York ahead of Trump-Xi summit",
+      "summary": "US Treasury secretary and Chinese vice-premier to hold talks as one-year expiry in trade war truce nears",
+      "link": "https://www.ft.com/content/7cc04edd-2897-4655-99d4-ede1ccfcd91c?syn-25a6b1a6=1",
+      "published": "2026-09-15T22:32:47+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "Bessent在特朗普-习近平峰会之前在纽约会见何立峰"
+    },
     {
       "id": "b5355b03e743",
       "title": "US speaker rejects AI pause, warns of losing edge to China",
@@ -13,30 +37,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "美国议长拒绝人工智能暂停，警告中国将失去优势"
-    },
-    {
-      "id": "aed80f6be71b",
-      "title": "The main Trump-Xi summit achievement will be it happening at all",
-      "summary": "The US and China are in a stand-off rather than a state of agreement",
-      "link": "https://www.ft.com/content/86078ee7-0c8a-4d2b-8ce7-4fc47d965985?syn-25a6b1a6=1",
-      "published": "2026-09-15T13:00:08+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普-习近平峰会的主要成就将是它会发生"
-    },
-    {
-      "id": "e9af7bacdbe7",
-      "title": "Trump goes scorched earth on AI warnings, raging about data center opposition and regulation",
-      "summary": "The Trump administration has encouraged AI's rapid growth and the development of data centers as it seeks an insurmountable tech edge over China.",
-      "link": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html",
-      "published": "2026-09-14T21:15:56+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普在人工智能警告中走向焦土，对数据中心的反对和监管感到愤怒"
     },
     {
       "id": "50b1bc26ab32",
