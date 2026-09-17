@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-17T02:12:24.096143+00:00",
-  "total": 9,
+  "last_updated": "2026-09-17T08:58:58.015097+00:00",
+  "total": 10,
   "articles": [
     {
       "id": "135210da6ba4",
       "title": "Trump curbs on China-linked equipment threaten US clean-energy projects",
       "summary": "",
       "link": "https://asia.nikkei.com/business/energy/trump-curbs-on-china-linked-equipment-threaten-us-clean-energy-projects",
-      "published": "2026-09-17T02:12:37.565406+00:00",
+      "published": "2026-09-17T08:59:11.896829+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,12 +19,36 @@
       "title": "Analysis: Trump factor limits diplomatic outcome of Xi's outreach to Modi",
       "summary": "",
       "link": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-trump-factor-limits-diplomatic-outcome-of-xi-s-outreach-to-modi",
-      "published": "2026-09-17T02:12:37.565289+00:00",
+      "published": "2026-09-17T08:59:11.896692+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "分析：特朗普因素限制了习近平与莫迪接触的外交成果"
+    },
+    {
+      "id": "f98acc27fe1d",
+      "title": "Trump gains a tariff weapon against China and India. Will he use it?",
+      "summary": "U.S. House has paved the way for a legislation that will allow Trump to impose up to 100% tariffs on countries buying Russian oil, giving him leverage against India and China.",
+      "link": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
+      "published": "2026-09-17T08:46:04+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普获得了针对中国和印度的关税武器。他会用吗？"
+    },
+    {
+      "id": "e4f1763342e6",
+      "title": "Trump threatens to end trade with Mexico and Europe after rate hike",
+      "summary": "US President Donald Trump had tried to pressure the Fed to lower rates, but it voted unanimously to raise them instead.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/trump-threatens-to-end-trade-with-mexico-and-europe-after-rate-hike?traffic_source=rss",
+      "published": "2026-09-17T04:43:01+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普威胁要在加息后结束与墨西哥和欧洲的贸易"
     },
     {
       "id": "d51b76e7d05b",
@@ -37,18 +61,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "OpenAI首席执行官Sam Altman将出席在华盛顿举行的特朗普-习近平峰会的国宴"
-    },
-    {
-      "id": "1049ffeb62e3",
-      "title": "Sen. Blumenthal urges AI oversight: 'We're on the verge of losing control'",
-      "summary": "The Trump administration argues that beating China in the race to AI dominance is an all-important goal.",
-      "link": "https://www.cnbc.com/2026/09/16/blumenthal-ai-regulation-safety-oversight.html",
-      "published": "2026-09-16T18:18:09+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "参议员布卢门撒尔敦促人工智能监督： “我们正处于失去控制的边缘”"
     },
     {
       "id": "49e8e033636d",
