@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-17T08:58:58.015097+00:00",
-  "total": 10,
+  "last_updated": "2026-09-17T15:48:48.324050+00:00",
+  "total": 11,
   "articles": [
     {
       "id": "135210da6ba4",
       "title": "Trump curbs on China-linked equipment threaten US clean-energy projects",
       "summary": "",
       "link": "https://asia.nikkei.com/business/energy/trump-curbs-on-china-linked-equipment-threaten-us-clean-energy-projects",
-      "published": "2026-09-17T08:59:11.896829+00:00",
+      "published": "2026-09-17T15:49:01.751501+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "Analysis: Trump factor limits diplomatic outcome of Xi's outreach to Modi",
       "summary": "",
       "link": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-trump-factor-limits-diplomatic-outcome-of-xi-s-outreach-to-modi",
-      "published": "2026-09-17T08:59:11.896692+00:00",
+      "published": "2026-09-17T15:49:01.751372+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -27,28 +27,40 @@
       "title_zh": "分析：特朗普因素限制了习近平与莫迪接触的外交成果"
     },
     {
-      "id": "f98acc27fe1d",
-      "title": "Trump gains a tariff weapon against China and India. Will he use it?",
-      "summary": "U.S. House has paved the way for a legislation that will allow Trump to impose up to 100% tariffs on countries buying Russian oil, giving him leverage against India and China.",
-      "link": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
-      "published": "2026-09-17T08:46:04+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
+      "id": "3cd6fda5176f",
+      "title": "King Charles raises alarm over AI ahead of Burnham meeting with Trump",
+      "summary": "British monarch warns of ‘existential dangers’ in talks with tech titans",
+      "link": "https://www.ft.com/content/f2c2e267-1e2e-457c-b08b-8a6a933ec285?syn-25a6b1a6=1",
+      "published": "2026-09-17T14:52:06+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "特朗普获得了针对中国和印度的关税武器。他会用吗？"
+      "title_zh": "在伯纳姆与特朗普会面之前，查尔斯国王对人工智能发出警报"
     },
     {
-      "id": "e4f1763342e6",
-      "title": "Trump threatens to end trade with Mexico and Europe after rate hike",
-      "summary": "US President Donald Trump had tried to pressure the Fed to lower rates, but it voted unanimously to raise them instead.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/trump-threatens-to-end-trade-with-mexico-and-europe-after-rate-hike?traffic_source=rss",
-      "published": "2026-09-17T04:43:01+00:00",
+      "id": "7a7f71a8c8b5",
+      "title": "Ghalibaf’s maths missile at Trump decoded: Is Iran fixing US interest rates?",
+      "summary": "Irans speaker mocks US interest rates, citing the Taylor equation amidst rising global oil prices and inflation.",
+      "link": "https://www.aljazeera.com/news/2026/9/17/ghalibafs-maths-missile-at-trump-decoded-is-iran-fixing-us-interest-rates?traffic_source=rss",
+      "published": "2026-09-17T14:10:41+00:00",
       "source": "Al Jazeera",
       "source_color": "#009B77",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "特朗普威胁要在加息后结束与墨西哥和欧洲的贸易"
+      "title_zh": "加利巴夫对特朗普的数学导弹破译：伊朗是否在固定美国利率？"
+    },
+    {
+      "id": "5d51b52cd5d2",
+      "title": "FirstFT: Warsh defies Trump",
+      "summary": "Also in today’s newsletter: OpenAI discloses a string of incidents by its AI models and EU asks China to voluntarily restrict exports of hybrid cars",
+      "link": "https://www.ft.com/content/d719d59e-cb2a-4488-a4cf-2f291a85e9ca?syn-25a6b1a6=1",
+      "published": "2026-09-17T10:13:36+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "FirstFT ： Warsh挑战特朗普"
     },
     {
       "id": "d51b76e7d05b",
@@ -119,8 +131,7 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
+      "source_category": "business"
     }
   ]
 }
