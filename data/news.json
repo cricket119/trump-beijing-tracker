@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-17T19:22:32.295006+00:00",
-  "total": 11,
+  "last_updated": "2026-09-17T22:30:40.571052+00:00",
+  "total": 10,
   "articles": [
     {
       "id": "135210da6ba4",
       "title": "Trump curbs on China-linked equipment threaten US clean-energy projects",
       "summary": "",
       "link": "https://asia.nikkei.com/business/energy/trump-curbs-on-china-linked-equipment-threaten-us-clean-energy-projects",
-      "published": "2026-09-17T19:22:44.699158+00:00",
+      "published": "2026-09-17T22:30:54.377260+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "Analysis: Trump factor limits diplomatic outcome of Xi's outreach to Modi",
       "summary": "",
       "link": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-trump-factor-limits-diplomatic-outcome-of-xi-s-outreach-to-modi",
-      "published": "2026-09-17T19:22:44.699055+00:00",
+      "published": "2026-09-17T22:30:54.377100+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -49,18 +49,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "在伯纳姆与特朗普会面之前，查尔斯国王对人工智能发出警报"
-    },
-    {
-      "id": "7a7f71a8c8b5",
-      "title": "Ghalibaf’s maths missile at Trump decoded: Is Iran fixing US interest rates?",
-      "summary": "Irans speaker mocks US interest rates, citing the Taylor equation amidst rising global oil prices and inflation.",
-      "link": "https://www.aljazeera.com/news/2026/9/17/ghalibafs-maths-missile-at-trump-decoded-is-iran-fixing-us-interest-rates?traffic_source=rss",
-      "published": "2026-09-17T14:10:41+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "加利巴夫对特朗普的数学导弹破译：伊朗是否在固定美国利率？"
     },
     {
       "id": "d51b76e7d05b",
@@ -131,7 +119,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
     }
   ]
 }
