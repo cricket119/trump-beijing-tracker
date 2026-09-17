@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T15:48:48.324050+00:00",
+  "last_updated": "2026-09-17T19:22:32.295006+00:00",
   "total": 11,
   "articles": [
     {
@@ -7,7 +7,7 @@
       "title": "Trump curbs on China-linked equipment threaten US clean-energy projects",
       "summary": "",
       "link": "https://asia.nikkei.com/business/energy/trump-curbs-on-china-linked-equipment-threaten-us-clean-energy-projects",
-      "published": "2026-09-17T15:49:01.751501+00:00",
+      "published": "2026-09-17T19:22:44.699158+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,12 +19,24 @@
       "title": "Analysis: Trump factor limits diplomatic outcome of Xi's outreach to Modi",
       "summary": "",
       "link": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-trump-factor-limits-diplomatic-outcome-of-xi-s-outreach-to-modi",
-      "published": "2026-09-17T15:49:01.751372+00:00",
+      "published": "2026-09-17T19:22:44.699055+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "分析：特朗普因素限制了习近平与莫迪接触的外交成果"
+    },
+    {
+      "id": "3543b318e3af",
+      "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+      "summary": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
+      "link": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-17T17:08:00+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "在中国被监禁的美国学者的妻子要求特朗普在习近平会议上提高逮捕率"
     },
     {
       "id": "3cd6fda5176f",
@@ -49,18 +61,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "加利巴夫对特朗普的数学导弹破译：伊朗是否在固定美国利率？"
-    },
-    {
-      "id": "5d51b52cd5d2",
-      "title": "FirstFT: Warsh defies Trump",
-      "summary": "Also in today’s newsletter: OpenAI discloses a string of incidents by its AI models and EU asks China to voluntarily restrict exports of hybrid cars",
-      "link": "https://www.ft.com/content/d719d59e-cb2a-4488-a4cf-2f291a85e9ca?syn-25a6b1a6=1",
-      "published": "2026-09-17T10:13:36+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "FirstFT ： Warsh挑战特朗普"
     },
     {
       "id": "d51b76e7d05b",
