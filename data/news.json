@@ -1,18 +1,54 @@
 {
-  "last_updated": "2026-09-18T15:21:45.813800+00:00",
-  "total": 9,
+  "last_updated": "2026-09-18T18:43:16.153605+00:00",
+  "total": 12,
   "articles": [
     {
       "id": "c7114cc7e2c4",
       "title": "China rebuffs AI slowdown calls ahead of Trump-Xi summit: 5 things to know",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-rebuffs-ai-slowdown-calls-ahead-of-trump-xi-summit-5-things-to-know",
-      "published": "2026-09-18T15:21:58.899742+00:00",
+      "published": "2026-09-18T18:43:30.264043+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "中国在特朗普-习近平峰会之前拒绝了人工智能放缓的电话：需要了解的5件事"
+    },
+    {
+      "id": "eafcb4376039",
+      "title": "Trump Courts North Korea’s Leader, but Might Need China to Reignite the Flame",
+      "summary": "President Trump has gotten no love back yet from Kim Jong-un. He could turn to Xi Jinping, China’s leader, to help set up a summit when Mr. Xi visits Washington next week.",
+      "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-north-korea.html",
+      "published": "2026-09-18T18:25:01+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普起诉朝鲜领导人，但可能需要中国重新点燃火焰"
+    },
+    {
+      "id": "7c3bc0a3bc8a",
+      "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
+      "summary": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
+      "link": "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html",
+      "published": "2026-09-18T17:34:49+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "摩根大通、花旗集团首席执行官出席特朗普为中国习近平举行的国宴：消息来源"
+    },
+    {
+      "id": "932b63a9f7c6",
+      "title": "Auto industry urges Trump to bar Chinese automakers in U.S. ahead of Xi visit",
+      "summary": "Leaders of six major auto trade groups joined to sign a letter to the president.",
+      "link": "https://www.cnbc.com/2026/09/18/xi-visit-automakers-urge-trump-to-bar-chinese-automakers-in-us.html",
+      "published": "2026-09-18T17:11:39+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "汽车行业敦促特朗普在习近平访美前禁止中国汽车制造商进入美国"
     },
     {
       "id": "1f30d2c5d6ea",
@@ -95,8 +131,7 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
+      "source_category": "business"
     },
     {
       "id": "b279b93e7dae",
@@ -107,8 +142,7 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
+      "source_category": "business"
     }
   ]
 }
