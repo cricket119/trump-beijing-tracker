@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-17T22:30:40.571052+00:00",
-  "total": 10,
+  "last_updated": "2026-09-18T01:59:08.392579+00:00",
+  "total": 12,
   "articles": [
     {
       "id": "135210da6ba4",
       "title": "Trump curbs on China-linked equipment threaten US clean-energy projects",
       "summary": "",
       "link": "https://asia.nikkei.com/business/energy/trump-curbs-on-china-linked-equipment-threaten-us-clean-energy-projects",
-      "published": "2026-09-17T22:30:54.377260+00:00",
+      "published": "2026-09-18T01:59:22.065432+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,12 +19,24 @@
       "title": "Analysis: Trump factor limits diplomatic outcome of Xi's outreach to Modi",
       "summary": "",
       "link": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-trump-factor-limits-diplomatic-outcome-of-xi-s-outreach-to-modi",
-      "published": "2026-09-17T22:30:54.377100+00:00",
+      "published": "2026-09-18T01:59:22.065305+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "分析：特朗普因素限制了习近平与莫迪接触的外交成果"
+    },
+    {
+      "id": "1140fe8c6f1b",
+      "title": "CNBC Daily Open: Trump's tariff leverage, EU warning and Iran hopes",
+      "summary": "The one place Washington's leverage is unambiguous is tariffs, where Congress just gave Trump a fresh weapon aimed at Beijing and New Delhi.",
+      "link": "https://www.cnbc.com/2026/09/18/trump-iran-canada-europe-tariffs-hormuz-ai-palatir-.html",
+      "published": "2026-09-18T01:40:15+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "CNBC Daily Open ：特朗普的关税杠杆、欧盟警告和伊朗希望"
     },
     {
       "id": "3543b318e3af",
@@ -49,6 +61,18 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "在伯纳姆与特朗普会面之前，查尔斯国王对人工智能发出警报"
+    },
+    {
+      "id": "f98acc27fe1d",
+      "title": "Trump gains a tariff weapon against China and India. Will he use it?",
+      "summary": "U.S. House has paved the way for a legislation that will allow Trump to impose up to 100% tariffs on countries buying Russian oil, giving him leverage against India and China.",
+      "link": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
+      "published": "2026-09-17T08:46:04+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普获得了针对中国和印度的关税武器。他会用吗？"
     },
     {
       "id": "d51b76e7d05b",
@@ -107,8 +131,7 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
+      "source_category": "business"
     },
     {
       "id": "b279b93e7dae",
@@ -119,8 +142,7 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
+      "source_category": "business"
     }
   ]
 }
