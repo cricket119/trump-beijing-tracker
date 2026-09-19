@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-19T02:03:47.389801+00:00",
-  "total": 13,
+  "last_updated": "2026-09-19T08:21:05.095802+00:00",
+  "total": 12,
   "articles": [
     {
       "id": "c7114cc7e2c4",
       "title": "China rebuffs AI slowdown calls ahead of Trump-Xi summit: 5 things to know",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-rebuffs-ai-slowdown-calls-ahead-of-trump-xi-summit-5-things-to-know",
-      "published": "2026-09-19T02:04:01.620269+00:00",
+      "published": "2026-09-19T08:21:17.898327+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "Takaichi seeks Trump meeting early next week ahead of US-China summit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/takaichi-seeks-trump-meeting-early-next-week-ahead-of-us-china-summit",
-      "published": "2026-09-19T02:04:01.620081+00:00",
+      "published": "2026-09-19T08:21:17.898018+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -31,7 +31,7 @@
       "title": "Trump signs Russia sanctions bill that opens China, India to tariffs",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
-      "published": "2026-09-19T02:04:01.620001+00:00",
+      "published": "2026-09-19T08:21:17.897821+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -39,16 +39,16 @@
       "title_zh": "特朗普签署俄罗斯制裁法案，对中国和印度征收关税"
     },
     {
-      "id": "033807af61b6",
-      "title": "Mexico’s Sheinbaum says she spoke with Trump as trade negotiations continue",
-      "summary": "Mexican president says she is seeking a decrease in tariffs as both countries seek new bilateral trade deal.",
-      "link": "https://www.aljazeera.com/news/2026/9/18/mexicos-sheinbaum-says-she-spoke-with-trump-as-trade-negotiations-continue?traffic_source=rss",
-      "published": "2026-09-18T18:46:51+00:00",
+      "id": "b793f65c0940",
+      "title": "Trump signs sweeping Russia sanctions over Ukraine war",
+      "summary": "New law allows tariffs of up to 100 percent on major buyers of Russian oil, including China and India.",
+      "link": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss",
+      "published": "2026-09-19T00:46:04+00:00",
       "source": "Al Jazeera",
       "source_color": "#009B77",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "墨西哥的Sheinbaum表示，随着贸易谈判的继续，她与特朗普进行了交谈"
+      "title_zh": "特朗普签署对俄罗斯对乌克兰战争的全面制裁"
     },
     {
       "id": "eafcb4376039",
@@ -73,18 +73,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "汽车行业敦促特朗普在习近平访美前禁止中国汽车制造商进入美国"
-    },
-    {
-      "id": "60049130d21d",
-      "title": "CNBC Daily Open: Hike, hold, hike",
-      "summary": "A trio of major central bank decisions dominates trading this week, but focus turns to geopolitical stains ahead of President Trump's meeting with Xi Jingping.",
-      "link": "https://www.cnbc.com/2026/09/18/rate-hike-hold-trump-xi-elections.html",
-      "published": "2026-09-18T06:20:51+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "CNBC每日开放：徒步、停留、徒步"
     },
     {
       "id": "c49b2c985cb9",
@@ -131,7 +119,8 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official"
+      "source_category": "chinese_official",
+      "title_zh": "特朗普声称印度将购买委内瑞拉石油，欢迎中国的投资;中国专家注意到言论“单方面” ，没有得到印度方面的确认"
     },
     {
       "id": "28925d7651b5",
