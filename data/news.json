@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T18:15:59.199825+00:00",
+  "last_updated": "2026-09-19T21:53:15.511241+00:00",
   "total": 13,
   "articles": [
     {
@@ -7,7 +7,7 @@
       "title": "China rebuffs AI slowdown calls ahead of Trump-Xi summit: 5 things to know",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-rebuffs-ai-slowdown-calls-ahead-of-trump-xi-summit-5-things-to-know",
-      "published": "2026-09-19T18:16:12.561493+00:00",
+      "published": "2026-09-19T21:53:28.298169+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "Takaichi seeks Trump meeting early next week ahead of US-China summit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/takaichi-seeks-trump-meeting-early-next-week-ahead-of-us-china-summit",
-      "published": "2026-09-19T18:16:12.561231+00:00",
+      "published": "2026-09-19T21:53:28.297907+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -31,24 +31,12 @@
       "title": "Trump signs Russia sanctions bill that opens China, India to tariffs",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
-      "published": "2026-09-19T18:16:12.561120+00:00",
+      "published": "2026-09-19T21:53:28.297797+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "特朗普签署俄罗斯制裁法案，对中国和印度征收关税"
-    },
-    {
-      "id": "d106895e0725",
-      "title": "Taiwan flexes military capabilities ahead of Trump-Xi talks",
-      "summary": "Taiwan has staged live-fire drills with missiles and attack drones as Donald Trump prepares to host China’s Xi Jinping.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-taiwan-drills-minisv?traffic_source=rss",
-      "published": "2026-09-19T13:13:19+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "台湾在特朗普-习近平会谈之前展示军事能力"
     },
     {
       "id": "462f2e381783",
@@ -109,6 +97,18 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "尽管存在情报问题，特朗普仍继续向沙特阿拉伯出售F-35喷气式飞机"
+    },
+    {
+      "id": "f98acc27fe1d",
+      "title": "Trump gains a tariff weapon against China and India. Will he use it?",
+      "summary": "U.S. House has paved the way for a legislation that will allow Trump to impose up to 100% tariffs on countries buying Russian oil, giving him leverage against India and China.",
+      "link": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
+      "published": "2026-09-17T08:46:04+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普获得了针对中国和印度的关税武器。他会用吗？"
     },
     {
       "id": "50b1bc26ab32",
