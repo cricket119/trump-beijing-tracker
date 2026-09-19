@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-19T08:21:05.095802+00:00",
-  "total": 12,
+  "last_updated": "2026-09-19T14:58:40.966586+00:00",
+  "total": 13,
   "articles": [
     {
       "id": "c7114cc7e2c4",
       "title": "China rebuffs AI slowdown calls ahead of Trump-Xi summit: 5 things to know",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-rebuffs-ai-slowdown-calls-ahead-of-trump-xi-summit-5-things-to-know",
-      "published": "2026-09-19T08:21:17.898327+00:00",
+      "published": "2026-09-19T14:58:54.803472+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "Takaichi seeks Trump meeting early next week ahead of US-China summit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/takaichi-seeks-trump-meeting-early-next-week-ahead-of-us-china-summit",
-      "published": "2026-09-19T08:21:17.898018+00:00",
+      "published": "2026-09-19T14:58:54.803318+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -31,7 +31,7 @@
       "title": "Trump signs Russia sanctions bill that opens China, India to tariffs",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
-      "published": "2026-09-19T08:21:17.897821+00:00",
+      "published": "2026-09-19T14:58:54.803249+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -39,16 +39,28 @@
       "title_zh": "特朗普签署俄罗斯制裁法案，对中国和印度征收关税"
     },
     {
-      "id": "b793f65c0940",
-      "title": "Trump signs sweeping Russia sanctions over Ukraine war",
-      "summary": "New law allows tariffs of up to 100 percent on major buyers of Russian oil, including China and India.",
-      "link": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss",
-      "published": "2026-09-19T00:46:04+00:00",
+      "id": "d106895e0725",
+      "title": "Taiwan flexes military capabilities ahead of Trump-Xi talks",
+      "summary": "Taiwan has staged live-fire drills with missiles and attack drones as Donald Trump prepares to host China’s Xi Jinping.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-taiwan-drills-minisv?traffic_source=rss",
+      "published": "2026-09-19T13:13:19+00:00",
       "source": "Al Jazeera",
       "source_color": "#009B77",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "特朗普签署对俄罗斯对乌克兰战争的全面制裁"
+      "title_zh": "台湾在特朗普-习近平会谈之前展示军事能力"
+    },
+    {
+      "id": "462f2e381783",
+      "title": "AI Agents Test the Limits of Human Oversight",
+      "summary": "OpenAI disclosed six cases of unexpected or concerning model behavior as AI companies grapple with how to monitor increasingly autonomous agents and whether stronger independent oversight is needed. Joining David Gura on Bloomberg This Weekend, Bloomberg News AI Reporter Shirin Ghaffary explains that the safety debate is taking on geopolitical urgency as President Donald Trump emphasizes maintaining the US lead over China while resisting calls to slow AI development. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-19/ai-agents-test-the-limits-of-human-oversight-video",
+      "published": "2026-09-19T12:28:50+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "人工智能代理测试人类监督的局限性"
     },
     {
       "id": "eafcb4376039",
@@ -61,6 +73,18 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "特朗普起诉朝鲜领导人，但可能需要中国重新点燃火焰"
+    },
+    {
+      "id": "7c3bc0a3bc8a",
+      "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
+      "summary": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
+      "link": "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html",
+      "published": "2026-09-18T17:34:49+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "摩根大通、花旗集团首席执行官出席特朗普为中国习近平举行的国宴：消息来源"
     },
     {
       "id": "932b63a9f7c6",
@@ -87,18 +111,6 @@
       "title_zh": "尽管存在情报问题，特朗普仍继续向沙特阿拉伯出售F-35喷气式飞机"
     },
     {
-      "id": "f98acc27fe1d",
-      "title": "Trump gains a tariff weapon against China and India. Will he use it?",
-      "summary": "U.S. House has paved the way for a legislation that will allow Trump to impose up to 100% tariffs on countries buying Russian oil, giving him leverage against India and China.",
-      "link": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
-      "published": "2026-09-17T08:46:04+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普获得了针对中国和印度的关税武器。他会用吗？"
-    },
-    {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
       "summary": "",
@@ -119,8 +131,7 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official",
-      "title_zh": "特朗普声称印度将购买委内瑞拉石油，欢迎中国的投资;中国专家注意到言论“单方面” ，没有得到印度方面的确认"
+      "source_category": "chinese_official"
     },
     {
       "id": "28925d7651b5",
