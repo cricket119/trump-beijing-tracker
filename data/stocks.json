@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T02:08:36.191789+00:00",
+  "last_updated": "2026-09-20T08:52:50.617631+00:00",
   "stocks": [
     {
       "symbol": "TSLA",
@@ -217,10 +217,10 @@
       "symbol": "CNY=X",
       "name": "USD/CNY",
       "region": "FX",
-      "price": 6.6883,
+      "price": 6.6974,
       "prev_close": 6.708,
-      "change": -0.0197,
-      "change_pct": -0.29,
+      "change": -0.0106,
+      "change_pct": -0.16,
       "currency": "CNY",
       "market_state": "UNKNOWN"
     }

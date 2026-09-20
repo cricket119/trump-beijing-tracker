@@ -1,25 +1,13 @@
 {
-  "last_updated": "2026-09-20T02:08:36.191789+00:00",
-  "total": 13,
+  "last_updated": "2026-09-20T08:52:50.617631+00:00",
+  "total": 11,
   "articles": [
-    {
-      "id": "c7114cc7e2c4",
-      "title": "China rebuffs AI slowdown calls ahead of Trump-Xi summit: 5 things to know",
-      "summary": "",
-      "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-rebuffs-ai-slowdown-calls-ahead-of-trump-xi-summit-5-things-to-know",
-      "published": "2026-09-20T02:08:50.122252+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "中国在特朗普-习近平峰会之前拒绝了人工智能放缓的电话：需要了解的5件事"
-    },
     {
       "id": "53f3eba7c019",
       "title": "Takaichi seeks Trump meeting early next week ahead of US-China summit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/takaichi-seeks-trump-meeting-early-next-week-ahead-of-us-china-summit",
-      "published": "2026-09-20T02:08:50.122104+00:00",
+      "published": "2026-09-20T08:53:04.558216+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -31,24 +19,12 @@
       "title": "Trump signs Russia sanctions bill that opens China, India to tariffs",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
-      "published": "2026-09-20T02:08:50.122043+00:00",
+      "published": "2026-09-20T08:53:04.558106+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "特朗普签署俄罗斯制裁法案，对中国和印度征收关税"
-    },
-    {
-      "id": "462f2e381783",
-      "title": "AI Agents Test the Limits of Human Oversight",
-      "summary": "OpenAI disclosed six cases of unexpected or concerning model behavior as AI companies grapple with how to monitor increasingly autonomous agents and whether stronger independent oversight is needed. Joining David Gura on Bloomberg This Weekend, Bloomberg News AI Reporter Shirin Ghaffary explains that the safety debate is taking on geopolitical urgency as President Donald Trump emphasizes maintaining the US lead over China while resisting calls to slow AI development. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-19/ai-agents-test-the-limits-of-human-oversight-video",
-      "published": "2026-09-19T12:28:50+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "人工智能代理测试人类监督的局限性"
     },
     {
       "id": "eafcb4376039",
@@ -131,7 +107,8 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official"
+      "source_category": "chinese_official",
+      "title_zh": "特朗普声称印度将购买委内瑞拉石油，欢迎中国的投资;中国专家注意到言论“单方面” ，没有得到印度方面的确认"
     },
     {
       "id": "28925d7651b5",
@@ -142,7 +119,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
     },
     {
       "id": "b279b93e7dae",
