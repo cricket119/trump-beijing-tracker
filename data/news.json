@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-20T15:01:42.148831+00:00",
-  "total": 9,
+  "last_updated": "2026-09-20T18:21:31.204408+00:00",
+  "total": 10,
   "articles": [
     {
       "id": "53f3eba7c019",
       "title": "Takaichi seeks Trump meeting early next week ahead of US-China summit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/takaichi-seeks-trump-meeting-early-next-week-ahead-of-us-china-summit",
-      "published": "2026-09-20T15:01:57.370660+00:00",
+      "published": "2026-09-20T18:21:45.587406+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,12 +19,24 @@
       "title": "Trump signs Russia sanctions bill that opens China, India to tariffs",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
-      "published": "2026-09-20T15:01:57.370567+00:00",
+      "published": "2026-09-20T18:21:45.587301+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "特朗普签署俄罗斯制裁法案，对中国和印度征收关税"
+    },
+    {
+      "id": "c267233934da",
+      "title": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
+      "summary": "Scott Bessent and China’s He Lifeng are holding talks on trade, AI and critical minerals ahead of Trump and Xi’s Sept. 24 summit.",
+      "link": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
+      "published": "2026-09-20T16:56:14+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "贝森特在特朗普-习近平峰会前会见中国国务院副总理何立峰"
     },
     {
       "id": "eafcb4376039",
