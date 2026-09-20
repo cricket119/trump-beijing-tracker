@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-20T08:52:50.617631+00:00",
-  "total": 11,
+  "last_updated": "2026-09-20T15:01:42.148831+00:00",
+  "total": 9,
   "articles": [
     {
       "id": "53f3eba7c019",
       "title": "Takaichi seeks Trump meeting early next week ahead of US-China summit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/takaichi-seeks-trump-meeting-early-next-week-ahead-of-us-china-summit",
-      "published": "2026-09-20T08:53:04.558216+00:00",
+      "published": "2026-09-20T15:01:57.370660+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "Trump signs Russia sanctions bill that opens China, India to tariffs",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
-      "published": "2026-09-20T08:53:04.558106+00:00",
+      "published": "2026-09-20T15:01:57.370567+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -61,30 +61,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "汽车行业敦促特朗普在习近平访美前禁止中国汽车制造商进入美国"
-    },
-    {
-      "id": "c49b2c985cb9",
-      "title": "Trump Moves Ahead With F-35 Jet Sales to Saudi Arabia Despite Intelligence Concerns",
-      "summary": "U.S. intelligence agencies have warned in internal reports that China could acquire or steal U.S. warplane technology if F-35 jets are sent to Saudi Arabia.",
-      "link": "https://www.nytimes.com/2026/09/17/us/politics/trump-f35-jet-saudi-arabia.html",
-      "published": "2026-09-18T02:32:19+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "尽管存在情报问题，特朗普仍继续向沙特阿拉伯出售F-35喷气式飞机"
-    },
-    {
-      "id": "f98acc27fe1d",
-      "title": "Trump gains a tariff weapon against China and India. Will he use it?",
-      "summary": "U.S. House has paved the way for a legislation that will allow Trump to impose up to 100% tariffs on countries buying Russian oil, giving him leverage against India and China.",
-      "link": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
-      "published": "2026-09-17T08:46:04+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普获得了针对中国和印度的关税武器。他会用吗？"
     },
     {
       "id": "50b1bc26ab32",
@@ -131,7 +107,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
     }
   ]
 }
