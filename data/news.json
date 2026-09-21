@@ -1,30 +1,30 @@
 {
-  "last_updated": "2026-09-21T17:19:39.860085+00:00",
-  "total": 15,
+  "last_updated": "2026-09-21T22:54:36.075905+00:00",
+  "total": 10,
   "articles": [
-    {
-      "id": "4a7afb5fd766",
-      "title": "Trump signs Russia sanctions bill that opens China, India to tariffs",
-      "summary": "",
-      "link": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
-      "published": "2026-09-21T17:19:55.297798+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "特朗普签署俄罗斯制裁法案，对中国和印度征收关税"
-    },
     {
       "id": "050a3845c97e",
       "title": "Japan-China ties wither as Trump readies red carpet for Xi Jinping",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/japan-china-ties-wither-as-trump-readies-red-carpet-for-xi-jinping",
-      "published": "2026-09-21T17:19:55.297403+00:00",
+      "published": "2026-09-21T22:54:50.081034+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "随着特朗普为习近平铺设红地毯，日中关系枯萎"
+    },
+    {
+      "id": "a4e972e983b2",
+      "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
+      "summary": "Trump, facing low approval on the economy ahead of the midterm election, has an added incentive to emerge from the summit with China's Xi touting trade wins.",
+      "link": "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html",
+      "published": "2026-09-21T22:25:33+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普、习近平寻求贸易稳定和贸易协议，但人工智能、关税和伊朗迫在眉睫。"
     },
     {
       "id": "73f123a8f5e0",
@@ -39,42 +39,6 @@
       "title_zh": "可能颠覆脆弱美中关系的一个问题：台湾武器"
     },
     {
-      "id": "bbc6cc6d39bc",
-      "title": "Trump admin won't give AI leaders a 'liability shield,' Bessent tells CNBC",
-      "summary": "Bessent spoke with CNBC's \"Squawk Box\" about AI safety concerns and this week's summit between Chinese President Xi Jinping and President Donald Trump.",
-      "link": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
-      "published": "2026-09-21T15:14:18+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "Bessent告诉CNBC ，特朗普管理员不会给人工智能领导者一个“责任盾牌”"
-    },
-    {
-      "id": "7092e5338f67",
-      "title": "USTR Jameison Greer lays the groundwork for upcoming Trump-Xi summit",
-      "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than \"Bloomberg Surveillance.\" (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-21/bloomberg-surveillance-9-21-2026-video",
-      "published": "2026-09-21T14:57:03+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "美国贸易代表杰米森·格里尔为即将举行的特朗普-习近平峰会奠定基础"
-    },
-    {
-      "id": "6d0e9823ad7d",
-      "title": "What’s the US–China AI ‘hotline’ that Trump plans to pitch to Xi Jinping?",
-      "summary": "Washington and Beijing discuss AI hotline idea amid escalating competition and restrictions on advanced technologies.",
-      "link": "https://www.aljazeera.com/news/2026/9/21/whats-the-us-china-ai-hotline-that-trump-plans-to-pitch-to-xi?traffic_source=rss",
-      "published": "2026-09-21T13:32:55+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普计划向习近平推销的美中人工智能“热线”是什么？"
-    },
-    {
       "id": "1e51452fd99a",
       "title": "Bessent calls meeting with China Vice Premier He Lifeng 'successful' ahead of Trump-Xi summit",
       "summary": "Treasury Secretary Scott Bessent said his meeting with Chinese Vice Premier He Lifeng was \"successful\" ahead of the Sept. 24 Trump-Xi summit.",
@@ -85,30 +49,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "贝森特在特朗普-习近平峰会前与中国国务院副总理何立峰“成功”会晤"
-    },
-    {
-      "id": "5e3862f33044",
-      "title": "US Stocks Advance Ahead of Trump-Xi Meeting as Oil Slips",
-      "summary": "US stocks climb as oil prices slide and officials signaled optimism about a summit between US President Donald Trump and China’s Xi Jinping this week.",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-21/us-stock-futures-climb-ahead-of-trump-xi-meeting-as-oil-slips",
-      "published": "2026-09-21T12:14:29+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "美国股市在特朗普-习近平会晤前走高，因油价下滑"
-    },
-    {
-      "id": "ef7639948484",
-      "title": "Trump and Xi are the wrong men at the wrong time",
-      "summary": "The world needs far-sighted leadership but the US and Chinese leaders are unlikely to provide it",
-      "link": "https://www.ft.com/content/aa1dbf18-eaa3-411a-9bf0-52c99adcb7a8?syn-25a6b1a6=1",
-      "published": "2026-09-21T11:59:54+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普和习近平在错误的时间是错误的人"
     },
     {
       "id": "ae3ec45e287f",
@@ -131,7 +71,8 @@
       "source": "BBC",
       "source_color": "#BB1919",
       "source_lang": "en",
-      "source_category": "international"
+      "source_category": "international",
+      "title_zh": "中美在特朗普-习近平峰会之前讨论人工智能安全计划"
     },
     {
       "id": "50b1bc26ab32",
@@ -142,7 +83,8 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official"
+      "source_category": "chinese_official",
+      "title_zh": "在习近平通话后，中国强调台湾是“核心利益的核心” ； “依靠美国独立”的幻想空间只会进一步缩小：专家"
     },
     {
       "id": "2c9f49adac2e",
@@ -153,7 +95,8 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official"
+      "source_category": "chinese_official",
+      "title_zh": "特朗普声称印度将购买委内瑞拉石油，欢迎中国的投资;中国专家注意到言论“单方面” ，没有得到印度方面的确认"
     },
     {
       "id": "28925d7651b5",
@@ -164,7 +107,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
     },
     {
       "id": "b279b93e7dae",
@@ -175,7 +119,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
     }
   ]
 }
