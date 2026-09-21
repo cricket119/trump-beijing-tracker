@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-21T02:09:04.778497+00:00",
-  "total": 15,
+  "last_updated": "2026-09-21T09:22:57.655443+00:00",
+  "total": 20,
   "articles": [
     {
       "id": "53f3eba7c019",
       "title": "Takaichi seeks Trump meeting early next week ahead of US-China summit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/takaichi-seeks-trump-meeting-early-next-week-ahead-of-us-china-summit",
-      "published": "2026-09-21T02:09:18.846610+00:00",
+      "published": "2026-09-21T09:23:10.767804+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,12 +19,96 @@
       "title": "Trump signs Russia sanctions bill that opens China, India to tariffs",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
-      "published": "2026-09-21T02:09:18.846530+00:00",
+      "published": "2026-09-21T09:23:10.767727+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "特朗普签署俄罗斯制裁法案，对中国和印度征收关税"
+    },
+    {
+      "id": "050a3845c97e",
+      "title": "Japan-China ties wither as Trump readies red carpet for Xi Jinping",
+      "summary": "",
+      "link": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/japan-china-ties-wither-as-trump-readies-red-carpet-for-xi-jinping",
+      "published": "2026-09-21T09:23:10.767440+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "随着特朗普为习近平铺设红地毯，日中关系枯萎"
+    },
+    {
+      "id": "e0150a44f05b",
+      "title": "Chinese rare earth shipments to US drop ahead of Trump-Xi summit",
+      "summary": "August exports down 20% from July as Washington presses Beijing over supplies of critical minerals",
+      "link": "https://www.ft.com/content/eeef7db4-b26d-426f-896b-f7b95bb84223?syn-25a6b1a6=1",
+      "published": "2026-09-21T07:45:45+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "在特朗普-习近平峰会之前，中国对美国的稀土出货量下降"
+    },
+    {
+      "id": "ae3ec45e287f",
+      "title": "CNBC Daily Open: May the 'AI Force' be with you",
+      "summary": "President Trump announces the creation of an 'AI Force' as the technology looks set to be a key topic with Chinese President Xi Jinping this week.",
+      "link": "https://www.cnbc.com/2026/09/21/cnbc-daily-open-trump-china-ai-force.html",
+      "published": "2026-09-21T06:41:34+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "CNBC每日公开赛：愿“人工智能力量”与您同在"
+    },
+    {
+      "id": "9cc6bfb532c6",
+      "title": "Hormuz Flows Ease Oil Fears, Saudi Air-Raid Alerts, Qatar Urges Gulf Unity, Trump-Xi Summit Nears",
+      "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg.  (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-21/horizons-middle-east-africa-9-21-2026-video",
+      "published": "2026-09-21T06:19:28+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "霍尔木兹流量缓解石油恐慌，沙特空袭警报，卡塔尔敦促海湾团结，特朗普-习近平峰会近在咫尺"
+    },
+    {
+      "id": "a8533aab9928",
+      "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+      "summary": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-21T05:50:56+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "中美在特朗普-习近平峰会之前讨论人工智能安全计划"
+    },
+    {
+      "id": "0b984cc3353f",
+      "title": "Bessent hails US-China AI dialogue ahead of Trump-Xi meeting",
+      "summary": "Treasury secretary says sides working towards ‘shared vision’ after talks with Chinese counterpart",
+      "link": "https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32?syn-25a6b1a6=1",
+      "published": "2026-09-21T04:11:57+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "贝森特在特朗普-习近平会晤前欢呼美中人工智能对话"
+    },
+    {
+      "id": "73f123a8f5e0",
+      "title": "One Issue That Could Upend Fragile U.S.-China Ties: Taiwan Arms",
+      "summary": "As Beijing presses President Trump to freeze a proposed $14 billion weapons sale to the island, Taiwan is trying to show that its security is in U.S. interests.",
+      "link": "https://www.nytimes.com/2026/09/21/world/asia/china-trump-taiwan-arms-sales.html",
+      "published": "2026-09-21T04:01:07+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "可能颠覆脆弱美中关系的一个问题：台湾武器"
     },
     {
       "id": "4f3bc33d912e",
@@ -39,30 +123,6 @@
       "title_zh": "CNBC每日公开赛：人人都想统治人工智能世界"
     },
     {
-      "id": "07c1b8adece4",
-      "title": "US and China agree to dialogue on AI ahead of Trump-Xi meeting",
-      "summary": "Treasury secretary Scott Bessent met his Chinese counterpart He Lifeng in New York",
-      "link": "https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32?syn-25a6b1a6=1",
-      "published": "2026-09-21T01:11:44+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "美国和中国同意在特朗普-习近平会晤之前就人工智能进行对话"
-    },
-    {
-      "id": "92867ae1cb36",
-      "title": "Trump & Xi to Meet Amidst Friction on Wars, Tech, Trade",
-      "summary": "US President Donald Trump and Chinese President Xi Jinping prepare to meet in Washington with technological supremacy and unresolved economic friction at the top of the agenda. Ahead of an approaching trade truce deadline, discussions are likely to center on artificial intelligence competition, semiconductor export policy, and potential Chinese EV manufacturing in the US. Against the backdrop of ongoing tariff debates and geopolitical tensions over Taiwan and Iran, Bloomberg’s Stephen Engle previews what is at stake for both economies. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-21/trump-xi-to-meet-amidst-friction-on-wars-tech-trade-video",
-      "published": "2026-09-21T00:50:09+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普和习近平将在战争、科技、贸易摩擦中会面"
-    },
-    {
       "id": "1e51452fd99a",
       "title": "Bessent calls meeting with China Vice Premier He Lifeng 'successful' ahead of Trump-Xi summit",
       "summary": "Treasury Secretary Scott Bessent said his meeting with Chinese Vice Premier He Lifeng was \"successful\" ahead of the Sept. 24 Trump-Xi summit.",
@@ -71,32 +131,29 @@
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "贝森特在特朗普-习近平峰会前与中国国务院副总理何立峰“成功”会晤"
+      "source_category": "business"
     },
     {
-      "id": "fbf031210243",
-      "title": "Asian Stocks and US Futures Rise, Oil Extends Drop: Markets Wrap",
-      "summary": "Asian equities and Wall Street stock-index futures advanced after the US described talks with China as “very successful” ahead of a summit between Presidents Donald Trump and Xi Jinping this week. Oil fell for a fourth day.",
+      "id": "3e4530eb9aef",
+      "title": "Stocks Rise in Upbeat Start to Week as Oil Drops: Markets Wrap",
+      "summary": "Stocks and bonds are getting a boost in an upbeat start to the week as oil retreated and positive anticipation built ahead of a summit between US President Donald Trump and China’s Xi Jinping.",
       "link": "https://www.bloomberg.com/news/articles/2026-09-20/us-stock-futures-up-ahead-of-talks-dollar-steady-markets-wrap",
       "published": "2026-09-20T22:14:48+00:00",
       "source": "Bloomberg",
       "source_color": "#1976D2",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "亚洲股市和美国期货上涨，石油延续下跌：市场环绕"
+      "source_category": "business"
     },
     {
-      "id": "fa4a1f2bbda9",
-      "title": "US, China open high-level talks ahead of Trump-Xi summit",
+      "id": "66ee6129e926",
+      "title": "US proposes AI safety notification mechanism in talks with China",
       "summary": "Scott Bessent and He Lifeng meet in New York for US-China talks ahead of the Trump-Xi meeting later this week.",
       "link": "https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit?traffic_source=rss",
       "published": "2026-09-20T19:42:13+00:00",
       "source": "Al Jazeera",
       "source_color": "#009B77",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "美国，中国在特朗普-习近平峰会之前举行高层会谈"
+      "source_category": "international"
     },
     {
       "id": "eafcb4376039",
@@ -107,8 +164,7 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普起诉朝鲜领导人，但可能需要中国重新点燃火焰"
+      "source_category": "international"
     },
     {
       "id": "7c3bc0a3bc8a",
@@ -119,8 +175,7 @@
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "摩根大通、花旗集团首席执行官出席特朗普为中国习近平举行的国宴：消息来源"
+      "source_category": "business"
     },
     {
       "id": "932b63a9f7c6",
