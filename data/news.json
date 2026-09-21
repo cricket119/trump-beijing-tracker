@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-20T22:00:36.864961+00:00",
-  "total": 11,
+  "last_updated": "2026-09-21T02:09:04.778497+00:00",
+  "total": 15,
   "articles": [
     {
       "id": "53f3eba7c019",
       "title": "Takaichi seeks Trump meeting early next week ahead of US-China summit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/takaichi-seeks-trump-meeting-early-next-week-ahead-of-us-china-summit",
-      "published": "2026-09-20T22:00:51.443059+00:00",
+      "published": "2026-09-21T02:09:18.846610+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,12 +19,72 @@
       "title": "Trump signs Russia sanctions bill that opens China, India to tariffs",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
-      "published": "2026-09-20T22:00:51.442922+00:00",
+      "published": "2026-09-21T02:09:18.846530+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "特朗普签署俄罗斯制裁法案，对中国和印度征收关税"
+    },
+    {
+      "id": "4f3bc33d912e",
+      "title": "CNBC Daily Open: Everybody wants to rule the AI world",
+      "summary": "One question will hang over the Trump-Xi meeting: Which country will win the AI race, and can any one side control the technology?",
+      "link": "https://www.cnbc.com/2026/09/21/cnbc-daily-open-trump-xi-summit-ai-gemini-openai.html",
+      "published": "2026-09-21T01:38:31+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "CNBC每日公开赛：人人都想统治人工智能世界"
+    },
+    {
+      "id": "07c1b8adece4",
+      "title": "US and China agree to dialogue on AI ahead of Trump-Xi meeting",
+      "summary": "Treasury secretary Scott Bessent met his Chinese counterpart He Lifeng in New York",
+      "link": "https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32?syn-25a6b1a6=1",
+      "published": "2026-09-21T01:11:44+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "美国和中国同意在特朗普-习近平会晤之前就人工智能进行对话"
+    },
+    {
+      "id": "92867ae1cb36",
+      "title": "Trump & Xi to Meet Amidst Friction on Wars, Tech, Trade",
+      "summary": "US President Donald Trump and Chinese President Xi Jinping prepare to meet in Washington with technological supremacy and unresolved economic friction at the top of the agenda. Ahead of an approaching trade truce deadline, discussions are likely to center on artificial intelligence competition, semiconductor export policy, and potential Chinese EV manufacturing in the US. Against the backdrop of ongoing tariff debates and geopolitical tensions over Taiwan and Iran, Bloomberg’s Stephen Engle previews what is at stake for both economies. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-21/trump-xi-to-meet-amidst-friction-on-wars-tech-trade-video",
+      "published": "2026-09-21T00:50:09+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普和习近平将在战争、科技、贸易摩擦中会面"
+    },
+    {
+      "id": "1e51452fd99a",
+      "title": "Bessent calls meeting with China Vice Premier He Lifeng 'successful' ahead of Trump-Xi summit",
+      "summary": "Treasury Secretary Scott Bessent said his meeting with Chinese Vice Premier He Lifeng was \"successful\" ahead of the Sept. 24 Trump-Xi summit.",
+      "link": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
+      "published": "2026-09-21T00:45:26+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "贝森特在特朗普-习近平峰会前与中国国务院副总理何立峰“成功”会晤"
+    },
+    {
+      "id": "fbf031210243",
+      "title": "Asian Stocks and US Futures Rise, Oil Extends Drop: Markets Wrap",
+      "summary": "Asian equities and Wall Street stock-index futures advanced after the US described talks with China as “very successful” ahead of a summit between Presidents Donald Trump and Xi Jinping this week. Oil fell for a fourth day.",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-20/us-stock-futures-up-ahead-of-talks-dollar-steady-markets-wrap",
+      "published": "2026-09-20T22:14:48+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "亚洲股市和美国期货上涨，石油延续下跌：市场环绕"
     },
     {
       "id": "fa4a1f2bbda9",
@@ -37,18 +97,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "美国，中国在特朗普-习近平峰会之前举行高层会谈"
-    },
-    {
-      "id": "c267233934da",
-      "title": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
-      "summary": "Scott Bessent and China’s He Lifeng are holding talks on trade, AI and critical minerals ahead of Trump and Xi’s Sept. 24 summit.",
-      "link": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
-      "published": "2026-09-20T16:56:14+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "贝森特在特朗普-习近平峰会前会见中国国务院副总理何立峰"
     },
     {
       "id": "eafcb4376039",
@@ -83,8 +131,7 @@
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "汽车行业敦促特朗普在习近平访美前禁止中国汽车制造商进入美国"
+      "source_category": "business"
     },
     {
       "id": "50b1bc26ab32",
@@ -95,8 +142,7 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official",
-      "title_zh": "在习近平通话后，中国强调台湾是“核心利益的核心” ； “依靠美国独立”的幻想空间只会进一步缩小：专家"
+      "source_category": "chinese_official"
     },
     {
       "id": "2c9f49adac2e",
@@ -107,8 +153,7 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official",
-      "title_zh": "特朗普声称印度将购买委内瑞拉石油，欢迎中国的投资;中国专家注意到言论“单方面” ，没有得到印度方面的确认"
+      "source_category": "chinese_official"
     },
     {
       "id": "28925d7651b5",
@@ -119,8 +164,7 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
+      "source_category": "business"
     },
     {
       "id": "b279b93e7dae",
