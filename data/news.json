@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-22T08:52:00.413425+00:00",
-  "total": 15,
+  "last_updated": "2026-09-22T15:53:16.863151+00:00",
+  "total": 11,
   "articles": [
     {
       "id": "050a3845c97e",
       "title": "Japan-China ties wither as Trump readies red carpet for Xi Jinping",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/japan-china-ties-wither-as-trump-readies-red-carpet-for-xi-jinping",
-      "published": "2026-09-22T08:52:16.307267+00:00",
+      "published": "2026-09-22T15:53:31.087246+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "Trump and Xi set to talk trade and AI as truce hangs in balance",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-and-xi-set-to-talk-trade-and-ai-as-truce-hangs-in-balance",
-      "published": "2026-09-22T08:52:16.306967+00:00",
+      "published": "2026-09-22T15:53:31.086982+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -27,40 +27,28 @@
       "title_zh": "特朗普和习近平将讨论贸易和人工智能，因为休战处于平衡状态"
     },
     {
-      "id": "a7465eedaea6",
-      "title": "Japan Meets With Trump, Hoping to Get His Help on China",
-      "summary": "Japan’s prime minister will meet President Trump to discuss China’s economic and security pressure while also seeking to de-escalate tensions with Beijing.",
-      "link": "https://www.nytimes.com/2026/09/21/world/asia/trump-takaichi-japan-china-economy.html",
-      "published": "2026-09-22T07:58:46+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "日本与特朗普会面，希望得到他在中国的帮助"
-    },
-    {
-      "id": "851821810a38",
-      "title": "What Xi wants from his summit with Trump",
-      "summary": "Chinese leader’s most urgent goal is extending trade truce with US, but he is also expected to discuss Taiwan, Iran and AI",
-      "link": "https://www.ft.com/content/9bea08f4-c9e8-450a-9d0f-0af0bf47b64e?syn-25a6b1a6=1",
-      "published": "2026-09-22T04:00:12+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "习近平希望从与特朗普的峰会中得到什么"
-    },
-    {
       "id": "656dc2cc7e1c",
       "title": "China’s Leader Xi Seeks to Extend Truce with Trump During U.S. Summit",
       "summary": "Facing an American president constrained by war and politics, China’s leader may seek to lock in a tactical truce while he shores up a fragile economy at home.",
       "link": "https://www.nytimes.com/2026/09/21/world/asia/xi-trump-meeting-china-summit.html",
-      "published": "2026-09-22T02:00:10+00:00",
+      "published": "2026-09-22T13:48:05+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "中国领导人习近平在美国峰会期间寻求与特朗普延长休战"
+    },
+    {
+      "id": "a7465eedaea6",
+      "title": "Japan Meets With Trump, Hoping to Get His Help on China",
+      "summary": "Japan’s prime minister will meet President Trump to discuss China’s economic and security pressure while also seeking to de-escalate tensions with Beijing.",
+      "link": "https://www.nytimes.com/2026/09/21/world/asia/trump-takaichi-japan-china-economy.html",
+      "published": "2026-09-22T12:28:42+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "日本与特朗普会面，希望得到他在中国的帮助"
     },
     {
       "id": "1e9c63d1b7a1",
@@ -87,18 +75,6 @@
       "title_zh": "特朗普、习近平寻求贸易稳定和贸易协议，但人工智能、关税和伊朗迫在眉睫。"
     },
     {
-      "id": "73f123a8f5e0",
-      "title": "One Issue That Could Upend Fragile U.S.-China Ties: Taiwan Arms",
-      "summary": "As Beijing presses President Trump to freeze a proposed $14 billion weapons sale to the island, Taiwan is trying to show that its security is in U.S. interests.",
-      "link": "https://www.nytimes.com/2026/09/21/world/asia/china-trump-taiwan-arms-sales.html",
-      "published": "2026-09-21T16:18:40+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "可能颠覆脆弱美中关系的一个问题：台湾武器"
-    },
-    {
       "id": "bbc6cc6d39bc",
       "title": "Trump admin won't give AI leaders a 'liability shield,' Bessent tells CNBC",
       "summary": "Bessent spoke with CNBC's \"Squawk Box\" about AI safety concerns and this week's summit between Chinese President Xi Jinping and President Donald Trump.",
@@ -111,29 +87,6 @@
       "title_zh": "Bessent告诉CNBC ，特朗普管理员不会给人工智能领导者一个“责任盾牌”"
     },
     {
-      "id": "1e51452fd99a",
-      "title": "Bessent calls meeting with China Vice Premier He Lifeng 'successful' ahead of Trump-Xi summit",
-      "summary": "Treasury Secretary Scott Bessent said his meeting with Chinese Vice Premier He Lifeng was \"successful\" ahead of the Sept. 24 Trump-Xi summit.",
-      "link": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
-      "published": "2026-09-21T12:51:10+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "贝森特在特朗普-习近平峰会前与中国国务院副总理何立峰“成功”会晤"
-    },
-    {
-      "id": "a8533aab9928",
-      "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-      "summary": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-21T05:50:56+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
       "summary": "",
@@ -142,7 +95,8 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official"
+      "source_category": "chinese_official",
+      "title_zh": "在习近平通话后，中国强调台湾是“核心利益的核心” ； “依靠美国独立”的幻想空间只会进一步缩小：专家"
     },
     {
       "id": "2c9f49adac2e",
@@ -153,7 +107,8 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official"
+      "source_category": "chinese_official",
+      "title_zh": "特朗普声称印度将购买委内瑞拉石油，欢迎中国的投资;中国专家注意到言论“单方面” ，没有得到印度方面的确认"
     },
     {
       "id": "28925d7651b5",
@@ -164,7 +119,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
     },
     {
       "id": "b279b93e7dae",
