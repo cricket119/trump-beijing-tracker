@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-22T15:53:16.863151+00:00",
-  "total": 11,
+  "last_updated": "2026-09-22T19:20:33.930449+00:00",
+  "total": 12,
   "articles": [
     {
       "id": "050a3845c97e",
       "title": "Japan-China ties wither as Trump readies red carpet for Xi Jinping",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/japan-china-ties-wither-as-trump-readies-red-carpet-for-xi-jinping",
-      "published": "2026-09-22T15:53:31.087246+00:00",
+      "published": "2026-09-22T19:20:47.688025+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,12 +19,36 @@
       "title": "Trump and Xi set to talk trade and AI as truce hangs in balance",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-and-xi-set-to-talk-trade-and-ai-as-truce-hangs-in-balance",
-      "published": "2026-09-22T15:53:31.086982+00:00",
+      "published": "2026-09-22T19:20:47.687826+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "特朗普和习近平将讨论贸易和人工智能，因为休战处于平衡状态"
+    },
+    {
+      "id": "b8a34fdc187c",
+      "title": "Trump rejects ‘globalist scheme’ to control AI in blow to Burnham",
+      "summary": "President says US is ‘leading over China by a lot and everyone else, and we’re going to keep it that way’",
+      "link": "https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db?syn-25a6b1a6=1",
+      "published": "2026-09-22T18:20:57+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普拒绝“全球主义阴谋”来控制人工智能对伯纳姆的打击"
+    },
+    {
+      "id": "a7465eedaea6",
+      "title": "Japan Meets With Trump, Hoping to Get His Help on China",
+      "summary": "Japan’s prime minister met with President Trump to discuss China’s economic and security pressure while also seeking to de-escalate tensions with Beijing.",
+      "link": "https://www.nytimes.com/2026/09/21/world/asia/trump-takaichi-japan-china-economy.html",
+      "published": "2026-09-22T18:09:44+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "日本与特朗普会面，希望得到他在中国的帮助"
     },
     {
       "id": "656dc2cc7e1c",
@@ -37,18 +61,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "中国领导人习近平在美国峰会期间寻求与特朗普延长休战"
-    },
-    {
-      "id": "a7465eedaea6",
-      "title": "Japan Meets With Trump, Hoping to Get His Help on China",
-      "summary": "Japan’s prime minister will meet President Trump to discuss China’s economic and security pressure while also seeking to de-escalate tensions with Beijing.",
-      "link": "https://www.nytimes.com/2026/09/21/world/asia/trump-takaichi-japan-china-economy.html",
-      "published": "2026-09-22T12:28:42+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "日本与特朗普会面，希望得到他在中国的帮助"
     },
     {
       "id": "1e9c63d1b7a1",
@@ -119,8 +131,7 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
+      "source_category": "business"
     },
     {
       "id": "b279b93e7dae",
