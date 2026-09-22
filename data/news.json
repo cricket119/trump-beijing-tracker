@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-22T19:20:33.930449+00:00",
-  "total": 12,
+  "last_updated": "2026-09-22T22:28:36.860660+00:00",
+  "total": 13,
   "articles": [
     {
       "id": "050a3845c97e",
       "title": "Japan-China ties wither as Trump readies red carpet for Xi Jinping",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/japan-china-ties-wither-as-trump-readies-red-carpet-for-xi-jinping",
-      "published": "2026-09-22T19:20:47.688025+00:00",
+      "published": "2026-09-22T22:28:51.570088+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "Trump and Xi set to talk trade and AI as truce hangs in balance",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-and-xi-set-to-talk-trade-and-ai-as-truce-hangs-in-balance",
-      "published": "2026-09-22T19:20:47.687826+00:00",
+      "published": "2026-09-22T22:28:51.569786+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -27,11 +27,23 @@
       "title_zh": "特朗普和习近平将讨论贸易和人工智能，因为休战处于平衡状态"
     },
     {
+      "id": "d2a012d2fccf",
+      "title": "Trump, Takaichi reaffirm alliance days before US-China summit",
+      "summary": "",
+      "link": "https://asia.nikkei.com/politics/international-relations/trump-takaichi-reaffirm-alliance-days-before-us-china-summit",
+      "published": "2026-09-22T22:28:51.569617+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "特朗普、高市在美中峰会前几天重申结盟"
+    },
+    {
       "id": "b8a34fdc187c",
       "title": "Trump rejects ‘globalist scheme’ to control AI in blow to Burnham",
       "summary": "President says US is ‘leading over China by a lot and everyone else, and we’re going to keep it that way’",
       "link": "https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db?syn-25a6b1a6=1",
-      "published": "2026-09-22T18:20:57+00:00",
+      "published": "2026-09-22T21:20:34+00:00",
       "source": "Financial Times",
       "source_color": "#C7A000",
       "source_lang": "en",
@@ -119,8 +131,7 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official",
-      "title_zh": "特朗普声称印度将购买委内瑞拉石油，欢迎中国的投资;中国专家注意到言论“单方面” ，没有得到印度方面的确认"
+      "source_category": "chinese_official"
     },
     {
       "id": "28925d7651b5",
