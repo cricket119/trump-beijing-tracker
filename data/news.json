@@ -1,18 +1,50 @@
 {
-  "last_updated": "2026-09-21T22:54:36.075905+00:00",
-  "total": 10,
+  "last_updated": "2026-09-22T02:14:33.234687+00:00",
+  "total": 13,
   "articles": [
     {
       "id": "050a3845c97e",
       "title": "Japan-China ties wither as Trump readies red carpet for Xi Jinping",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/japan-china-ties-wither-as-trump-readies-red-carpet-for-xi-jinping",
-      "published": "2026-09-21T22:54:50.081034+00:00",
+      "published": "2026-09-22T02:14:48.028987+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "随着特朗普为习近平铺设红地毯，日中关系枯萎"
+      "source_category": "asia"
+    },
+    {
+      "id": "a7465eedaea6",
+      "title": "Japan Meets With Trump, Hoping to Get His Help on China",
+      "summary": "Japan’s prime minister will meet President Trump to discuss China’s economic and security pressure while also seeking to de-escalate tensions with Beijing.",
+      "link": "https://www.nytimes.com/2026/09/21/world/asia/trump-takaichi-japan-china-economy.html",
+      "published": "2026-09-22T02:01:04+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international"
+    },
+    {
+      "id": "656dc2cc7e1c",
+      "title": "China’s Leader Xi Seeks to Extend Truce with Trump During U.S. Summit",
+      "summary": "Facing an American president constrained by war and politics, China’s leader may seek to lock in a tactical truce while he shores up a fragile economy at home.",
+      "link": "https://www.nytimes.com/2026/09/21/world/asia/xi-trump-meeting-china-summit.html",
+      "published": "2026-09-22T02:00:10+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international"
+    },
+    {
+      "id": "1e9c63d1b7a1",
+      "title": "CNBC's The China Connection newsletter: Five things to watch for the Trump-Xi summit",
+      "summary": "Many in China sound far more optimistic than those in the U.S. about the bilateral relationship, ahead of a highly anticipated summit this week.",
+      "link": "https://www.cnbc.com/2026/09/22/cnbcs-the-china-connection-newsletter-watch-this-at-trump-xi-summit.html",
+      "published": "2026-09-21T23:18:30+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business"
     },
     {
       "id": "a4e972e983b2",
@@ -23,8 +55,7 @@
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普、习近平寻求贸易稳定和贸易协议，但人工智能、关税和伊朗迫在眉睫。"
+      "source_category": "business"
     },
     {
       "id": "73f123a8f5e0",
@@ -35,8 +66,7 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "可能颠覆脆弱美中关系的一个问题：台湾武器"
+      "source_category": "international"
     },
     {
       "id": "1e51452fd99a",
@@ -47,8 +77,7 @@
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "贝森特在特朗普-习近平峰会前与中国国务院副总理何立峰“成功”会晤"
+      "source_category": "business"
     },
     {
       "id": "ae3ec45e287f",
@@ -59,8 +88,7 @@
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "CNBC每日公开赛：愿“人工智能力量”与您同在"
+      "source_category": "business"
     },
     {
       "id": "a8533aab9928",
@@ -71,8 +99,7 @@
       "source": "BBC",
       "source_color": "#BB1919",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "中美在特朗普-习近平峰会之前讨论人工智能安全计划"
+      "source_category": "international"
     },
     {
       "id": "50b1bc26ab32",
@@ -83,8 +110,7 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official",
-      "title_zh": "在习近平通话后，中国强调台湾是“核心利益的核心” ； “依靠美国独立”的幻想空间只会进一步缩小：专家"
+      "source_category": "chinese_official"
     },
     {
       "id": "2c9f49adac2e",
@@ -95,8 +121,7 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official",
-      "title_zh": "特朗普声称印度将购买委内瑞拉石油，欢迎中国的投资;中国专家注意到言论“单方面” ，没有得到印度方面的确认"
+      "source_category": "chinese_official"
     },
     {
       "id": "28925d7651b5",
@@ -107,8 +132,7 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
+      "source_category": "business"
     },
     {
       "id": "b279b93e7dae",
@@ -119,8 +143,7 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
+      "source_category": "business"
     }
   ]
 }
