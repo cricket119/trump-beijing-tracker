@@ -1,28 +1,54 @@
 {
-  "last_updated": "2026-09-22T02:14:33.234687+00:00",
-  "total": 13,
+  "last_updated": "2026-09-22T08:52:00.413425+00:00",
+  "total": 15,
   "articles": [
     {
       "id": "050a3845c97e",
       "title": "Japan-China ties wither as Trump readies red carpet for Xi Jinping",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/japan-china-ties-wither-as-trump-readies-red-carpet-for-xi-jinping",
-      "published": "2026-09-22T02:14:48.028987+00:00",
+      "published": "2026-09-22T08:52:16.307267+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "asia"
+      "source_category": "asia",
+      "title_zh": "随着特朗普为习近平铺设红地毯，日中关系枯萎"
+    },
+    {
+      "id": "6d712e81edb1",
+      "title": "Trump and Xi set to talk trade and AI as truce hangs in balance",
+      "summary": "",
+      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-and-xi-set-to-talk-trade-and-ai-as-truce-hangs-in-balance",
+      "published": "2026-09-22T08:52:16.306967+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "特朗普和习近平将讨论贸易和人工智能，因为休战处于平衡状态"
     },
     {
       "id": "a7465eedaea6",
       "title": "Japan Meets With Trump, Hoping to Get His Help on China",
       "summary": "Japan’s prime minister will meet President Trump to discuss China’s economic and security pressure while also seeking to de-escalate tensions with Beijing.",
       "link": "https://www.nytimes.com/2026/09/21/world/asia/trump-takaichi-japan-china-economy.html",
-      "published": "2026-09-22T02:01:04+00:00",
+      "published": "2026-09-22T07:58:46+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international"
+      "source_category": "international",
+      "title_zh": "日本与特朗普会面，希望得到他在中国的帮助"
+    },
+    {
+      "id": "851821810a38",
+      "title": "What Xi wants from his summit with Trump",
+      "summary": "Chinese leader’s most urgent goal is extending trade truce with US, but he is also expected to discuss Taiwan, Iran and AI",
+      "link": "https://www.ft.com/content/9bea08f4-c9e8-450a-9d0f-0af0bf47b64e?syn-25a6b1a6=1",
+      "published": "2026-09-22T04:00:12+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "习近平希望从与特朗普的峰会中得到什么"
     },
     {
       "id": "656dc2cc7e1c",
@@ -33,7 +59,8 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international"
+      "source_category": "international",
+      "title_zh": "中国领导人习近平在美国峰会期间寻求与特朗普延长休战"
     },
     {
       "id": "1e9c63d1b7a1",
@@ -44,7 +71,8 @@
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "CNBC《The China Connection》时事通讯：特朗普-习近平峰会期间要注意的五件事"
     },
     {
       "id": "a4e972e983b2",
@@ -55,7 +83,8 @@
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "特朗普、习近平寻求贸易稳定和贸易协议，但人工智能、关税和伊朗迫在眉睫。"
     },
     {
       "id": "73f123a8f5e0",
@@ -66,7 +95,20 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international"
+      "source_category": "international",
+      "title_zh": "可能颠覆脆弱美中关系的一个问题：台湾武器"
+    },
+    {
+      "id": "bbc6cc6d39bc",
+      "title": "Trump admin won't give AI leaders a 'liability shield,' Bessent tells CNBC",
+      "summary": "Bessent spoke with CNBC's \"Squawk Box\" about AI safety concerns and this week's summit between Chinese President Xi Jinping and President Donald Trump.",
+      "link": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
+      "published": "2026-09-21T15:14:18+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "Bessent告诉CNBC ，特朗普管理员不会给人工智能领导者一个“责任盾牌”"
     },
     {
       "id": "1e51452fd99a",
@@ -77,18 +119,8 @@
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "business"
-    },
-    {
-      "id": "ae3ec45e287f",
-      "title": "CNBC Daily Open: May the 'AI Force' be with you",
-      "summary": "President Trump announces the creation of an 'AI Force' as the technology looks set to be a key topic with Chinese President Xi Jinping this week.",
-      "link": "https://www.cnbc.com/2026/09/21/cnbc-daily-open-trump-china-ai-force.html",
-      "published": "2026-09-21T06:41:34+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "贝森特在特朗普-习近平峰会前与中国国务院副总理何立峰“成功”会晤"
     },
     {
       "id": "a8533aab9928",
