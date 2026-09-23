@@ -1,25 +1,13 @@
 {
-  "last_updated": "2026-09-23T02:14:40.993444+00:00",
-  "total": 11,
+  "last_updated": "2026-09-23T08:53:53.638243+00:00",
+  "total": 14,
   "articles": [
-    {
-      "id": "050a3845c97e",
-      "title": "Japan-China ties wither as Trump readies red carpet for Xi Jinping",
-      "summary": "",
-      "link": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/japan-china-ties-wither-as-trump-readies-red-carpet-for-xi-jinping",
-      "published": "2026-09-23T02:14:57.189244+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "随着特朗普为习近平铺设红地毯，日中关系枯萎"
-    },
     {
       "id": "6d712e81edb1",
       "title": "Trump and Xi set to talk trade and AI as truce hangs in balance",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-and-xi-set-to-talk-trade-and-ai-as-truce-hangs-in-balance",
-      "published": "2026-09-23T02:14:57.189002+00:00",
+      "published": "2026-09-23T08:54:06.394562+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -31,7 +19,7 @@
       "title": "Trump, Takaichi reaffirm alliance days before US-China summit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/trump-takaichi-reaffirm-alliance-days-before-us-china-summit",
-      "published": "2026-09-23T02:14:57.188852+00:00",
+      "published": "2026-09-23T08:54:06.394365+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -39,16 +27,76 @@
       "title_zh": "特朗普、高市在美中峰会前几天重申结盟"
     },
     {
-      "id": "b8a34fdc187c",
-      "title": "Trump rejects ‘globalist scheme’ to control AI in blow to Burnham",
-      "summary": "President says US is ‘leading over China by a lot and everyone else, and we’re going to keep it that way’",
-      "link": "https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db?syn-25a6b1a6=1",
-      "published": "2026-09-22T23:42:36+00:00",
+      "id": "eb64533e9392",
+      "title": "Xi Unlikely To Bring CEOs to Summit With Trump",
+      "summary": "The highly anticipated summit between President Donald Trump and China’s Xi Jinping this week will bring together a robust group of US corporate leaders. But a comparable delegation of Chinese executives is not expected.\n\nStephen Engle explains what the uneven guest list could mean. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-23/xi-unlikely-to-bring-ceos-to-summit-with-trump-video",
+      "published": "2026-09-23T08:39:12+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "习近平不太可能让首席执行官与特朗普举行峰会"
+    },
+    {
+      "id": "0756668bfcd1",
+      "title": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down",
+      "summary": "Recent weeks have seen AI safety fears reach new heights. That will be a key focus for the U.S. and Chinese premiers, analysts told CNBC.",
+      "link": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html",
+      "published": "2026-09-23T07:48:58+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普-习近平峰会将人工智能安全谈判摆在桌面上，但双方都不想放慢速度"
+    },
+    {
+      "id": "abc3949466c8",
+      "title": "Chinese CEOs Unlikely to Join Xi at Trump Summit",
+      "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter.  (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-23/the-china-show-9-23-2026-video",
+      "published": "2026-09-23T06:19:50+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "中国首席执行官不太可能在特朗普峰会上加入习近平"
+    },
+    {
+      "id": "4b9c206393ca",
+      "title": "CNBC Daily Open: Nothing artificial about 'Super Intelligence'",
+      "summary": "President Donald Trump seeks to rebrand AI ahead of his meeting with China's Xi Jinping, while rejecting a \"globalist scheme\" to regulate the technology.",
+      "link": "https://www.cnbc.com/2026/09/23/trump-super-intelligence-artificial-intelligence.html",
+      "published": "2026-09-23T06:10:07+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "CNBC每日公开赛：关于“超级智能”没有什么人为的"
+    },
+    {
+      "id": "8b2652ccea9f",
+      "title": "Has Trump caged his China hawks?",
+      "summary": "Xi Jinping will arrive in Washington this week to find a US president wary of jeopardising their détente",
+      "link": "https://www.ft.com/content/5b7decf1-08fd-43fc-b9f3-9870ffa5716f?syn-25a6b1a6=1",
+      "published": "2026-09-23T04:10:54+00:00",
       "source": "Financial Times",
       "source_color": "#C7A000",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "特朗普拒绝“全球主义阴谋”来控制人工智能对伯纳姆的打击"
+      "title_zh": "特朗普把他的中国鹰关在笼子里了吗？"
+    },
+    {
+      "id": "60418cc74238",
+      "title": "South Korean solar stocks jump as curbs on Chinese sector expected to remain in place",
+      "summary": "South Korean solar stocks jumped as U.S. restrictions on Chinese solar products came into focus ahead of the Trump-Xi summit.",
+      "link": "https://www.cnbc.com/2026/09/23/korean-solar-stocks-jump-as-curbs-on-china-expected-to-stay-in-place.html",
+      "published": "2026-09-23T03:08:23+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "随着对中国太阳能行业的限制预计将继续存在，韩国太阳能库存激增"
     },
     {
       "id": "a7465eedaea6",
@@ -61,18 +109,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "日本与特朗普会面，希望得到他在中国的帮助"
-    },
-    {
-      "id": "1e9c63d1b7a1",
-      "title": "CNBC's The China Connection newsletter: Five things to watch for the Trump-Xi summit",
-      "summary": "Many in China sound far more optimistic than those in the U.S. about the bilateral relationship, ahead of a highly anticipated summit this week.",
-      "link": "https://www.cnbc.com/2026/09/22/cnbcs-the-china-connection-newsletter-watch-this-at-trump-xi-summit.html",
-      "published": "2026-09-21T23:18:30+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "CNBC《The China Connection》时事通讯：特朗普-习近平峰会期间要注意的五件事"
     },
     {
       "id": "a4e972e983b2",
@@ -95,8 +131,7 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official",
-      "title_zh": "在习近平通话后，中国强调台湾是“核心利益的核心” ； “依靠美国独立”的幻想空间只会进一步缩小：专家"
+      "source_category": "chinese_official"
     },
     {
       "id": "2c9f49adac2e",
@@ -107,8 +142,7 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official",
-      "title_zh": "特朗普声称印度将购买委内瑞拉石油，欢迎中国的投资;中国专家注意到言论“单方面” ，没有得到印度方面的确认"
+      "source_category": "chinese_official"
     },
     {
       "id": "28925d7651b5",
@@ -119,8 +153,7 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
+      "source_category": "business"
     },
     {
       "id": "b279b93e7dae",
