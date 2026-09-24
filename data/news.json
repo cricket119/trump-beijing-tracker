@@ -1,25 +1,13 @@
 {
-  "last_updated": "2026-09-24T16:03:55.705462+00:00",
-  "total": 20,
+  "last_updated": "2026-09-24T22:48:04.630127+00:00",
+  "total": 19,
   "articles": [
-    {
-      "id": "d2a012d2fccf",
-      "title": "Trump, Takaichi reaffirm alliance days before US-China summit",
-      "summary": "",
-      "link": "https://asia.nikkei.com/politics/international-relations/trump-takaichi-reaffirm-alliance-days-before-us-china-summit",
-      "published": "2026-09-24T16:04:10.852872+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "特朗普、高市在美中峰会前几天重申结盟"
-    },
     {
       "id": "0911461af84c",
       "title": "Takaichi raises China concerns but Trump may still cut deal with Xi",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/takaichi-raises-china-concerns-but-trump-may-still-cut-deal-with-xi",
-      "published": "2026-09-24T16:04:10.852695+00:00",
+      "published": "2026-09-24T22:48:17.921102+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -27,52 +15,88 @@
       "title_zh": "高市提出对中国的担忧，但特朗普仍可能与习近平达成协议"
     },
     {
-      "id": "50c1022f6119",
-      "title": "Trump and Xi set to kick off White House talks",
+      "id": "512e9c50f4f6",
+      "title": "Trump-Xi summit live: US, China should keep AI under human control, Xi says",
       "summary": "",
-      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-and-xi-set-to-kick-off-white-house-talks",
-      "published": "2026-09-24T16:04:10.852390+00:00",
+      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-us-china-should-keep-ai-under-human-control-xi-says",
+      "published": "2026-09-24T22:48:17.920836+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
-      "title_zh": "特朗普和习近平将启动白宫会谈"
+      "title_zh": "习近平说，特朗普-习近平峰会直播：美国，中国应该让人工智能处于人类控制之下"
     },
     {
-      "id": "0ba1854f83b6",
-      "title": "Trump-Xi summit live: Leaders call for US-China cooperation at White House",
-      "summary": "",
-      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-leaders-call-for-us-china-cooperation-at-white-house",
-      "published": "2026-09-24T16:04:10.852322+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "特朗普-习近平峰会现场直播：领导人在白宫呼吁美中合作"
-    },
-    {
-      "id": "462a7e803fe5",
-      "title": "Trump, Xi to talk Taiwan, AI, trade and Iran as DC summit kicks off",
+      "id": "95b710d367cd",
+      "title": "Trump, Xi to attend state dinner after White House meeting",
       "summary": "Trump greeted China's Xi at Joint Base Andrews, marking the U.S. president's first time traveling to the facility to welcome a foreign leader.",
       "link": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
-      "published": "2026-09-24T15:55:21+00:00",
+      "published": "2026-09-24T22:09:33+00:00",
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "特朗普、习近平在DC峰会开幕之际与台湾、人工智能、贸易和伊朗会谈"
+      "title_zh": "特朗普，习近平参加白宫会议后的国宴"
     },
     {
-      "id": "4d449f8e7a31",
-      "title": "Trump welcomes China’s Xi Jinping to White House",
-      "summary": "Trump welcomes China’s Xi Jinping to White House",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-welcomes-chinas-xi-jinping-to-white-house?traffic_source=rss",
-      "published": "2026-09-24T15:27:45+00:00",
+      "id": "6fb9d5c76bbd",
+      "title": "Trump and Xi hold critical talks at White House summit",
+      "summary": "US President Donald Trump welcomed Chinese President Xi Jinping to Washington for talks on trade, AI, Taiwan and Iran.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss",
+      "published": "2026-09-24T21:41:40+00:00",
       "source": "Al Jazeera",
       "source_color": "#009B77",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "特朗普欢迎中国习近平来到白宫"
+      "title_zh": "特朗普和习近平在白宫峰会上举行批评性会谈"
+    },
+    {
+      "id": "cb60c25aaa73",
+      "title": "US and China presidents discuss cooperation, trade and AI risks",
+      "summary": "Donald Trump and Xi Jinping discussed trade tensions, technology and AI risks at the White House",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-and-china-presidents-discuss-cooperation-trade-and-ai-risks?traffic_source=rss",
+      "published": "2026-09-24T18:19:01+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "中美两国元首讨论合作、贸易和人工智能风险"
+    },
+    {
+      "id": "6c65246cff75",
+      "title": "Foreign relations as it happened: Xi Jinping says US and China must ‘coexist in peace’ in historic White House visit, Benjamin Netanyahu tells UN Israel and US launched Iran war to ‘save civilisation’",
+      "summary": "Chinese leader met US counterpart Donald Trump in Washington for wide-ranging talks between the superpowers against the backdrop of UN General Assembly week",
+      "link": "https://www.ft.com/content/979ae3ac-4623-4fe9-a771-43ce451a9e73",
+      "published": "2026-09-24T18:05:39+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "发生的对外关系：习近平在历史性的白宫访问中表示，美国和中国必须“和平共处” ，本雅明·内塔尼亚胡告诉联合国以色列和美国发动伊朗战争是为了“拯救文明”"
+    },
+    {
+      "id": "7b86d1b36781",
+      "title": "Xi says US and China must ‘coexist in peace’ in historic White House visit",
+      "summary": "The Chinese leader is meeting his US counterpart Donald Trump in Washington for wide-ranging talks between the superpowers",
+      "link": "https://www.ft.com/content/24c13fd3-5de5-4916-8300-ec3073027ff6?syn-25a6b1a6=1",
+      "published": "2026-09-24T17:53:11+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "习近平表示，在历史性的白宫访问中，美国和中国必须“和平共处”"
+    },
+    {
+      "id": "48f501cab2e8",
+      "title": "In Trumpeting His Ballroom Project, Trump Has Used China as an Example",
+      "summary": "President Trump has repeatedly cited the Great Hall of the People in Beijing as inspiration and competition with his own design.",
+      "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-ballroom-china-great-hall-beijing.html",
+      "published": "2026-09-24T17:41:23+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "在宣传他的舞厅项目时，特朗普以中国为例"
     },
     {
       "id": "43a7e9a216fa",
@@ -87,30 +111,6 @@
       "title_zh": "中国确认与美国进行了首次人工智能谈判，暗示将延长贸易休战"
     },
     {
-      "id": "400b0ed3869c",
-      "title": "Trump and Xi begin high-stakes summit in Washington",
-      "summary": "Also in today’s newsletter, Hasan Piker explains why he has become US conservatives’ midterm hate figure",
-      "link": "https://www.ft.com/content/1f52f41a-f7db-49cc-b40e-c9d29aa01b9f?syn-25a6b1a6=1",
-      "published": "2026-09-24T13:00:07+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普和习近平在华盛顿举行高风险峰会"
-    },
-    {
-      "id": "cf4dbfbddf6e",
-      "title": "Trump-Xi summit live: Trade, AI, Iran and Taiwan top US-China talks",
-      "summary": "Xi’s first White House visit in more than a decade comes amid ongoing disputes over trade, AI, Taiwan and war in Iran.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/24/trump-xi-summit-live-trade-ai-iran-and-taiwan-top-us-china-talks?traffic_source=rss",
-      "published": "2026-09-24T12:00:00+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普-习近平峰会现场直播：贸易、人工智能、伊朗和台湾顶级美中会谈"
-    },
-    {
       "id": "62bee723b2dd",
       "title": "Families Urge Trump to Press Xi to Free Americans Detained in China",
       "summary": "The Americans being held in China are U Min Zin, a scholar who studied Myanmar, and Youlin Chen, a seismologist who researched North Korean nuclear tests.",
@@ -121,17 +121,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "家人敦促特朗普敦促习近平释放在中国被拘留的美国人"
-    },
-    {
-      "id": "aad04d598870",
-      "title": "Decoding Trump-Xi",
-      "summary": "The Chinese leader seems to have the upper hand heading into a state visit to Washington and talks on trade, A.I. and Taiwan.",
-      "link": "https://www.nytimes.com/2026/09/23/world/trump-xi-ai-meeting-iran-un.html",
-      "published": "2026-09-24T04:58:23+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
     },
     {
       "id": "82a4c2bb1c2b",
