@@ -1,25 +1,13 @@
 {
-  "last_updated": "2026-09-23T22:31:39.224295+00:00",
-  "total": 20,
+  "last_updated": "2026-09-24T02:01:03.375571+00:00",
+  "total": 22,
   "articles": [
-    {
-      "id": "6d712e81edb1",
-      "title": "Trump and Xi set to talk trade and AI as truce hangs in balance",
-      "summary": "",
-      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-and-xi-set-to-talk-trade-and-ai-as-truce-hangs-in-balance",
-      "published": "2026-09-23T22:31:53.605520+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "特朗普和习近平将讨论贸易和人工智能，因为休战处于平衡状态"
-    },
     {
       "id": "d2a012d2fccf",
       "title": "Trump, Takaichi reaffirm alliance days before US-China summit",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/trump-takaichi-reaffirm-alliance-days-before-us-china-summit",
-      "published": "2026-09-23T22:31:53.605405+00:00",
+      "published": "2026-09-24T02:01:16.541992+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -31,7 +19,7 @@
       "title": "Takaichi raises China concerns but Trump may still cut deal with Xi",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/takaichi-raises-china-concerns-but-trump-may-still-cut-deal-with-xi",
-      "published": "2026-09-23T22:31:53.605266+00:00",
+      "published": "2026-09-24T02:01:16.541802+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -39,16 +27,100 @@
       "title_zh": "高市提出对中国的担忧，但特朗普仍可能与习近平达成协议"
     },
     {
-      "id": "382d51952a46",
-      "title": "Trump-Xi summit live: Chinese leader arrives to welcome from US president",
+      "id": "a333697f75a8",
+      "title": "Trump-Xi summit live: US welcomes Chinese president with pomp",
       "summary": "",
-      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-chinese-leader-arrives-to-welcome-from-us-president",
-      "published": "2026-09-23T22:31:53.605129+00:00",
+      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-us-welcomes-chinese-president-with-pomp",
+      "published": "2026-09-24T02:01:16.541555+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
-      "title_zh": "特朗普-习近平峰会现场直播：中国领导人抵达美国总统府欢迎"
+      "title_zh": "特朗普-习近平峰会现场直播：美国盛大欢迎中国国家主席"
+    },
+    {
+      "id": "a955e98462d9",
+      "title": "America’s Asian allies want a Trump-Xi truce — but not at their expense",
+      "summary": "There are concerns that Trump could soften Washington's position on Taiwan or other regional security issues in return for concessions from Beijing.",
+      "link": "https://www.cnbc.com/2026/09/24/uss-asian-allies-want-a-trump-xi-truce-but-not-at-their-expense.html",
+      "published": "2026-09-24T01:56:26+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "美国的亚洲盟友希望特朗普-习近平休战—但不是以牺牲他们的利益为代价"
+    },
+    {
+      "id": "1eefcafe1d61",
+      "title": "Trump-Xi meeting: Why China's self-sufficiency changes the calculus",
+      "summary": "Persistent growth of Chinese exports to the U.S. is helping the world's second-largest economy ride out ongoing domestic challenges.",
+      "link": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html",
+      "published": "2026-09-24T01:44:14+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普-习近平会晤：中国自给自足为何改变微积分"
+    },
+    {
+      "id": "1df21072575a",
+      "title": "China’s Xi visits US as Trump bets on stabilising global relations",
+      "summary": "US President Donald Trump welcomes his Chinese counterpart Xi Jinping ahead of talks and state dinner.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_trump-hosts-xi-amid-rising-tensions-1-230926?traffic_source=rss",
+      "published": "2026-09-24T00:43:10+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "中国习近平访问美国，特朗普押注稳定全球关系"
+    },
+    {
+      "id": "02600a7b2a28",
+      "title": "China’s Xi arrives to Trump welcome on state visit",
+      "summary": "Chinas President Xi Jinping has touched down at Joint Base Andrews as he begins a much anticipated official state visit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/chinas-xi-arrives-to-trump-welcome-on-state-visit?traffic_source=rss",
+      "published": "2026-09-23T23:19:29+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "中国习近平抵达特朗普欢迎国事访问"
+    },
+    {
+      "id": "1e05547f6424",
+      "title": "Xi arrives for high-stakes summit with Trump as leaders extend trade truce",
+      "summary": "Treasury secretary Scott Bessent says the countries have agreed to January 10 extension",
+      "link": "https://www.ft.com/content/8ff1b8fd-ff58-42a4-8e44-6a31f6db8154?syn-25a6b1a6=1",
+      "published": "2026-09-23T23:04:18+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "随着领导人延长贸易休战，习近平抵达特朗普的高风险峰会"
+    },
+    {
+      "id": "f9dde7af5f9e",
+      "title": "A red carpet and military flyover - How Trump welcomed Xi",
+      "summary": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
+      "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23T23:03:56+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "红地毯和军用天桥-特朗普如何欢迎习近平"
+    },
+    {
+      "id": "261ea9dffbe2",
+      "title": "Trump welcomes Xi to Washington as US, China agree to extend trade truce",
+      "summary": "Trump takes rare step of meeting foreign leader at the airport, underscoring significance of US-China relationship.",
+      "link": "https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss",
+      "published": "2026-09-23T22:56:41+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普欢迎习近平访问华盛顿，因为美国，中国同意延长贸易休战"
     },
     {
       "id": "0e9364b5598e",
@@ -59,8 +131,7 @@
       "source": "BBC",
       "source_color": "#BB1919",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "随着特朗普和习近平的会面，人工智能超级大国的野心成为中心舞台"
+      "source_category": "international"
     },
     {
       "id": "346241958a5c",
@@ -71,32 +142,7 @@
       "source": "Financial Times",
       "source_color": "#C7A000",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "FirstFT ：习近平和唐纳德特朗普将举行高风险峰会"
-    },
-    {
-      "id": "1eefcafe1d61",
-      "title": "Trump-Xi meeting: Why China's self-sufficiency changes the calculus",
-      "summary": "Persistent growth of Chinese exports to the U.S. is helping the world's second-largest economy ride out ongoing domestic challenges.",
-      "link": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html",
-      "published": "2026-09-23T21:26:36+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普-习近平会晤：中国自给自足为何改变微积分"
-    },
-    {
-      "id": "a8a05e0f2e21",
-      "title": "As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry",
-      "summary": "Trump’s meeting with Xi comes as U.S. automakers and lawmakers push to keep restrictions on Chinese vehicles and manufacturers.",
-      "link": "https://www.cnbc.com/2026/09/23/trump-xi-chinese-automakers-us-access.html",
-      "published": "2026-09-23T21:25:01+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "随着特朗普和习近平的会面，中国汽车制造商可能成为美国汽车行业的潘多拉盒子"
+      "source_category": "business"
     },
     {
       "id": "aad04d598870",
@@ -107,20 +153,7 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "解码特朗普-习近平"
-    },
-    {
-      "id": "22c3c3ff5c8d",
-      "title": "Xi Jinping arrives for high-stakes summit with Donald Trump",
-      "summary": "Gathering comes less than two months before expiry of US-China trade truce",
-      "link": "https://www.ft.com/content/8ff1b8fd-ff58-42a4-8e44-6a31f6db8154?syn-25a6b1a6=1",
-      "published": "2026-09-23T20:51:16+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "习近平抵达与唐纳德特朗普举行高风险峰会"
+      "source_category": "international"
     },
     {
       "id": "0756668bfcd1",
@@ -154,17 +187,6 @@
       "source_color": "#BB1919",
       "source_lang": "en",
       "source_category": "international"
-    },
-    {
-      "id": "4b9c206393ca",
-      "title": "CNBC Daily Open: Nothing artificial about 'Super Intelligence'",
-      "summary": "President Donald Trump seeks to rebrand AI ahead of his meeting with China's Xi Jinping, while rejecting a \"globalist scheme\" to regulate the technology.",
-      "link": "https://www.cnbc.com/2026/09/23/trump-super-intelligence-artificial-intelligence.html",
-      "published": "2026-09-23T06:10:07+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
     },
     {
       "id": "60418cc74238",
