@@ -1,30 +1,126 @@
 {
-  "last_updated": "2026-09-24T22:48:04.630127+00:00",
-  "total": 19,
+  "last_updated": "2026-09-25T02:17:54.584937+00:00",
+  "total": 22,
   "articles": [
     {
-      "id": "0911461af84c",
-      "title": "Takaichi raises China concerns but Trump may still cut deal with Xi",
+      "id": "c3e79ef110db",
+      "title": "Trump-Xi summit live: US president hosts state dinner with tech leaders",
       "summary": "",
-      "link": "https://asia.nikkei.com/politics/international-relations/takaichi-raises-china-concerns-but-trump-may-still-cut-deal-with-xi",
-      "published": "2026-09-24T22:48:17.921102+00:00",
+      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-us-president-hosts-state-dinner-with-tech-leaders",
+      "published": "2026-09-25T02:18:07.637591+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
-      "title_zh": "高市提出对中国的担忧，但特朗普仍可能与习近平达成协议"
+      "title_zh": "特朗普-习近平峰会现场直播：美国总统与科技领袖举行国宴"
     },
     {
-      "id": "512e9c50f4f6",
-      "title": "Trump-Xi summit live: US, China should keep AI under human control, Xi says",
-      "summary": "",
-      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-us-china-should-keep-ai-under-human-control-xi-says",
-      "published": "2026-09-24T22:48:17.920836+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
+      "id": "e709de37a44a",
+      "title": "Trump praises US-China friendship at state dinner with Xi Jinping",
+      "summary": "The two superpowers seek greater dialogue despite differences over issues such as Iran, Taiwan, AI and trade.",
+      "link": "https://www.aljazeera.com/news/2026/9/25/trump-praises-us-china-friendship-at-state-dinner-with-xi-jinping?traffic_source=rss",
+      "published": "2026-09-25T02:00:16+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "习近平说，特朗普-习近平峰会直播：美国，中国应该让人工智能处于人类控制之下"
+      "source_category": "international",
+      "title_zh": "特朗普在与习近平的国宴上赞扬美中友谊"
+    },
+    {
+      "id": "f33fdfd2a26a",
+      "title": "Grains Drop With Trump-Xi Summit Yet to Offer Farm Trade Details",
+      "summary": "Chicago grains fell at the open as traders were left waiting for concrete news on agricultural trade with China from the presidential summit in Washington.",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-25/grains-drop-with-trump-xi-summit-yet-to-offer-farm-trade-details",
+      "published": "2026-09-25T01:40:46+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "随着特朗普-习近平峰会尚未提供农场贸易细节，谷物下降"
+    },
+    {
+      "id": "f3d6d2bd6108",
+      "title": "China's Xi urges U.S. to cooperate on AI",
+      "summary": "U.S. President Donald Trump hosted Chinese President Xi Jinping on Thursday at the White House.",
+      "link": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
+      "published": "2026-09-25T01:22:17+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "中国的习近平敦促美国在人工智能方面进行合作"
+    },
+    {
+      "id": "36a55492924e",
+      "title": "CNBC Daily Open: Stability is on the menu as Trump and Xi start dinner",
+      "summary": "No one expects the two sides to settle every disagreement that they have, but Beijing and Washington seem committed to reducing tensions.",
+      "link": "https://www.cnbc.com/2026/09/25/cnbc-daily-open-stability-is-on-the-menu-as-trump-and-xi-start-dinner.html",
+      "published": "2026-09-25T01:19:33+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "CNBC每日开放：随着特朗普和习近平开始晚餐，稳定性在菜单上"
+    },
+    {
+      "id": "7d1c1a6fabd5",
+      "title": "Here's who is attending the Trump-Xi state dinner",
+      "summary": "U.S. President Donald Trump hosted a dinner Thursday for Chinese President Xi Jinping.",
+      "link": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
+      "published": "2026-09-25T01:02:40+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "这是参加特朗普-习近平国宴的人"
+    },
+    {
+      "id": "7b86d1b36781",
+      "title": "Xi says US and China must ‘coexist in peace’ in historic White House visit",
+      "summary": "China’s president is meeting his US counterpart Donald Trump in Washington for wide-ranging talks between the superpowers",
+      "link": "https://www.ft.com/content/24c13fd3-5de5-4916-8300-ec3073027ff6?syn-25a6b1a6=1",
+      "published": "2026-09-25T01:01:20+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "习近平表示，在历史性的白宫访问中，美国和中国必须“和平共处”"
+    },
+    {
+      "id": "b14e94530a6e",
+      "title": "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting",
+      "summary": "Trump, Xi seek stable US-China ties at the White House, but differences over Iran, Taiwan and trade remain unresolved.",
+      "link": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting?traffic_source=rss",
+      "published": "2026-09-24T23:51:56+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普-习近平峰会：华盛顿特区会议的四个关键要点"
+    },
+    {
+      "id": "2be483a32166",
+      "title": "Xi Urges AI Cooperation WIth US",
+      "summary": "Donald Trump and Xi Jinping addressed their intense competition over artificial intelligence on Thursday during a summit aimed at keeping ties between the world’s largest economies on track. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-24/xi-urges-ai-cooperation-with-us-video",
+      "published": "2026-09-24T23:23:15+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "习近平敦促与美国开展人工智能合作"
+    },
+    {
+      "id": "58c779f1678b",
+      "title": "Brexit and Trump’s tariffs push UK’s food and drink trade deficit to £21bn",
+      "summary": "In the first half of 2026, the sector’s export volumes fell 11.7% to hit their third-lowest level on record",
+      "link": "https://www.ft.com/content/82b3b8ab-4bc5-4f56-b337-77cf5601e02c?syn-25a6b1a6=1",
+      "published": "2026-09-24T23:01:05+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "英国脱欧和特朗普的关税将英国的食品和饮料贸易逆差推高至210亿美元（ £ 210亿）"
     },
     {
       "id": "95b710d367cd",
@@ -35,8 +131,7 @@
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普，习近平参加白宫会议后的国宴"
+      "source_category": "business"
     },
     {
       "id": "6fb9d5c76bbd",
@@ -47,20 +142,7 @@
       "source": "Al Jazeera",
       "source_color": "#009B77",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普和习近平在白宫峰会上举行批评性会谈"
-    },
-    {
-      "id": "cb60c25aaa73",
-      "title": "US and China presidents discuss cooperation, trade and AI risks",
-      "summary": "Donald Trump and Xi Jinping discussed trade tensions, technology and AI risks at the White House",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-and-china-presidents-discuss-cooperation-trade-and-ai-risks?traffic_source=rss",
-      "published": "2026-09-24T18:19:01+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "中美两国元首讨论合作、贸易和人工智能风险"
+      "source_category": "international"
     },
     {
       "id": "6c65246cff75",
@@ -71,20 +153,7 @@
       "source": "Financial Times",
       "source_color": "#C7A000",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "发生的对外关系：习近平在历史性的白宫访问中表示，美国和中国必须“和平共处” ，本雅明·内塔尼亚胡告诉联合国以色列和美国发动伊朗战争是为了“拯救文明”"
-    },
-    {
-      "id": "7b86d1b36781",
-      "title": "Xi says US and China must ‘coexist in peace’ in historic White House visit",
-      "summary": "The Chinese leader is meeting his US counterpart Donald Trump in Washington for wide-ranging talks between the superpowers",
-      "link": "https://www.ft.com/content/24c13fd3-5de5-4916-8300-ec3073027ff6?syn-25a6b1a6=1",
-      "published": "2026-09-24T17:53:11+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "习近平表示，在历史性的白宫访问中，美国和中国必须“和平共处”"
+      "source_category": "business"
     },
     {
       "id": "48f501cab2e8",
@@ -95,8 +164,7 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "在宣传他的舞厅项目时，特朗普以中国为例"
+      "source_category": "international"
     },
     {
       "id": "43a7e9a216fa",
@@ -107,8 +175,7 @@
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "中国确认与美国进行了首次人工智能谈判，暗示将延长贸易休战"
+      "source_category": "business"
     },
     {
       "id": "62bee723b2dd",
@@ -119,30 +186,7 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "家人敦促特朗普敦促习近平释放在中国被拘留的美国人"
-    },
-    {
-      "id": "82a4c2bb1c2b",
-      "title": "China's AI chip blitz arms Xi with a message for Trump: 'You can't choke us off'",
-      "summary": "A run of new chips and AI models from national champions gives Chinese President Xi Jinping a confidence boost, as the U.S. summit gets underway.",
-      "link": "https://www.cnbc.com/2026/09/24/trump-xi-china-summit-ai-export-control-nvidia-huawei-alibaba-.html",
-      "published": "2026-09-24T03:38:03+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
-    },
-    {
-      "id": "a955e98462d9",
-      "title": "America’s Asian allies want a Trump-Xi truce — but not at their expense",
-      "summary": "There are concerns that Trump could soften Washington's position on Taiwan or other regional security issues in return for concessions from Beijing.",
-      "link": "https://www.cnbc.com/2026/09/24/uss-asian-allies-want-a-trump-xi-truce-but-not-at-their-expense.html",
-      "published": "2026-09-24T01:56:26+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
+      "source_category": "international"
     },
     {
       "id": "f9dde7af5f9e",
@@ -161,17 +205,6 @@
       "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
       "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-23T22:01:17+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
-      "id": "811453aee7be",
-      "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
-      "summary": "The BBC’s China correspondent and US editor explain everything you need to know ahead of the Trump-Xi meeting in Washington DC.",
-      "link": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23T11:00:09+00:00",
       "source": "BBC",
       "source_color": "#BB1919",
       "source_lang": "en",
