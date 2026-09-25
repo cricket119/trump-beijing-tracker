@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-25T09:10:09.044799+00:00",
-  "total": 19,
+  "last_updated": "2026-09-25T16:04:26.268238+00:00",
+  "total": 24,
   "articles": [
     {
       "id": "5097b32abfd5",
       "title": "Editor's Choice: Another Trump-Xi ambiguous summit",
       "summary": "",
       "link": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-another-trump-xi-ambiguous-summit",
-      "published": "2026-09-25T09:10:22.886504+00:00",
+      "published": "2026-09-25T16:04:39.558472+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -15,23 +15,11 @@
       "title_zh": "编者推荐：又一场特朗普-习近平模棱两可的峰会"
     },
     {
-      "id": "6b54c2786c6f",
-      "title": "Trump-Xi summit live: Leaders to tour National Archives as visit nears end",
-      "summary": "",
-      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-leaders-to-tour-national-archives-as-visit-nears-end",
-      "published": "2026-09-25T09:10:22.886464+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "特朗普-习近平峰会现场直播：领导人在访问即将结束时参观国家档案馆"
-    },
-    {
       "id": "d9a365fee8b1",
       "title": "Taiwan says Xi 'distorted facts' to Trump as analysts read between lines",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/taiwan-says-xi-distorted-facts-to-trump-as-analysts-read-between-lines",
-      "published": "2026-09-25T09:10:22.886425+00:00",
+      "published": "2026-09-25T16:04:39.558392+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -39,28 +27,144 @@
       "title_zh": "台湾称习近平对特朗普“歪曲事实” ，因为分析师在行间阅读"
     },
     {
-      "id": "86ee545791d6",
-      "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
-      "summary": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.",
-      "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T08:09:26+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
+      "id": "8e99097e40f5",
+      "title": "Trump remarks on China as WWII 'ally' raise eyebrows in Japan",
+      "summary": "",
+      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-remarks-on-china-as-wwii-ally-raise-eyebrows-in-japan",
+      "published": "2026-09-25T16:04:39.558366+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "特朗普将中国视为二战“盟友”的言论在日本引发关注"
+    },
+    {
+      "id": "75eab08eae3f",
+      "title": "Through the lens: Trump-Xi summit",
+      "summary": "",
+      "link": "https://asia.nikkei.com/photos/through-the-lens-trump-xi-summit",
+      "published": "2026-09-25T16:04:39.558326+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "透过镜头：特朗普-习近平峰会"
+    },
+    {
+      "id": "b5018d613460",
+      "title": "Trump-Xi summit live: Chinese leader says bilateral ties will be 'brighter'",
+      "summary": "",
+      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-chinese-leader-says-bilateral-ties-will-be-brighter",
+      "published": "2026-09-25T16:04:39.558227+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "特朗普-习近平峰会现场直播：中国领导人表示双边关系将“更加光明”"
+    },
+    {
+      "id": "7274369485b6",
+      "title": "What the Trump-Xi meeting revealed about global power",
+      "summary": "Donald Trump and Xi Jinping met in Washington as world leaders gathered at the UN General Assembly in New York.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/what-the-trump-xi-meeting-revealed-about-global-power?traffic_source=rss",
+      "published": "2026-09-25T15:26:56+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "特朗普和习近平在国宴上热情交谈，但在关键问题上进展甚微"
+      "title_zh": "特朗普与习近平的会晤揭示了全球力量"
+    },
+    {
+      "id": "7481f4e95844",
+      "title": "Trump hails ‘very productive’ talks with China’s Xi",
+      "summary": "Washington and Beijing to continue discussions on AI, technology transfer licensing after state visit by Chinese leader.",
+      "link": "https://www.aljazeera.com/news/2026/9/25/trump-hails-very-productive-talks-with-chinas-xi?traffic_source=rss",
+      "published": "2026-09-25T15:19:34+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普称赞与中国习近平的“非常富有成效”的会谈"
+    },
+    {
+      "id": "2dd52b99630d",
+      "title": "Trump and Xi dined with AI's biggest names. Here's what we know about tech talks so far",
+      "summary": "AI was a key topic during Trump-Xi talks on Thursday, after safety concerns shot to the top of the global geopolitical agenda in recent weeks.",
+      "link": "https://www.cnbc.com/2026/09/25/the-tech-download-trump-xi-ai-talks.html",
+      "published": "2026-09-25T14:43:23+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普和习近平与人工智能的知名人士共进晚餐。以下是到目前为止我们对技术讨论的了解"
     },
     {
       "id": "2d52ce2428f7",
       "title": "Here's who attended the Trump-Xi state dinner",
       "summary": "U.S. President Donald Trump hosted a dinner Thursday for Chinese President Xi Jinping.",
       "link": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
-      "published": "2026-09-25T06:30:06+00:00",
+      "published": "2026-09-25T14:41:24+00:00",
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "这是参加特朗普-习近平国宴的人"
+    },
+    {
+      "id": "63c803c808d2",
+      "title": "Trump Gave Xi His Go-To Gift: A Bald Eagle Statue",
+      "summary": "The president has often reached for statues of the national bird on diplomatic occasions in his second term. (Ronald Reagan favored them, too.)",
+      "link": "https://www.nytimes.com/2026/09/25/world/americas/trump-bald-eagle-gift-xi.html",
+      "published": "2026-09-25T14:09:20+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普送习近平去礼：一尊秃鹰雕像"
+    },
+    {
+      "id": "f6ca59196a3c",
+      "title": "The Trump-Xi summit exposes a US disadvantage in the Global South",
+      "summary": "Washington asks for alignment while Beijing offers strategic flexibility without military entanglement.",
+      "link": "https://www.aljazeera.com/opinions/2026/9/25/the-trump-xi-summit-exposes-a-us-disadvantage-in-the-global-south?traffic_source=rss",
+      "published": "2026-09-25T14:00:26+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international"
+    },
+    {
+      "id": "3bd9b31cad5a",
+      "title": "Former US intelligence chief Avril Haines: ‘Trump trusts his gut more than the expertise’",
+      "summary": "The security expert on the chances of a Trump-Xi deal on Taiwan, her interactions with President Biden — and why a third world war is a ‘plausible scenario’",
+      "link": "https://www.ft.com/content/8f1030c3-9ad0-45b2-86bf-71d8dec27be4?syn-25a6b1a6=1",
+      "published": "2026-09-25T12:00:26+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business"
+    },
+    {
+      "id": "8e0e214073aa",
+      "title": "FirstFT: The Xi-Trump finale",
+      "summary": "Also in today’s newsletter: Iran makes proposal to reopen the Strait of Hormuz and the financial risks of AI",
+      "link": "https://www.ft.com/content/91f6e99d-b953-4056-ae72-30464b87ab5c?syn-25a6b1a6=1",
+      "published": "2026-09-25T10:01:55+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business"
+    },
+    {
+      "id": "bf8d4924edff",
+      "title": "From ‘cheats’ to ‘great friendship’: How Trump’s rhetoric on China changed",
+      "summary": "Warmth on display in Washington contrasts significantly with the language Trump has used to characterise Beijing and Xi.",
+      "link": "https://www.aljazeera.com/news/2026/9/25/from-cheats-to-great-friendship-how-trumps-rhetoric-on-china-changed?traffic_source=rss",
+      "published": "2026-09-25T09:46:18+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international"
     },
     {
       "id": "355ad7c9a6da",
@@ -71,20 +175,7 @@
       "source": "BBC",
       "source_color": "#BB1919",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "盛大庆祝：特朗普和习近平在华盛顿的第2天"
-    },
-    {
-      "id": "626f82fe942e",
-      "title": "Xi says US and China must ‘coexist in peace’",
-      "summary": "Donald Trump and Chinese leader hold wide-ranging talks covering AI, Taiwan and Iran war",
-      "link": "https://www.ft.com/content/24c13fd3-5de5-4916-8300-ec3073027ff6?syn-25a6b1a6=1",
-      "published": "2026-09-25T04:02:55+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "习近平表示，美国和中国必须“和平共处”"
+      "source_category": "international"
     },
     {
       "id": "54dfbe015e0f",
@@ -95,20 +186,7 @@
       "source": "BBC",
       "source_color": "#BB1919",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "习近平得到了特朗普的红地毯欢迎-但不是他想要的一切"
-    },
-    {
-      "id": "e709de37a44a",
-      "title": "Trump praises US-China friendship at state dinner with Xi Jinping",
-      "summary": "The two superpowers seek greater dialogue despite differences over issues such as Iran, Taiwan, AI and trade.",
-      "link": "https://www.aljazeera.com/news/2026/9/25/trump-praises-us-china-friendship-at-state-dinner-with-xi-jinping?traffic_source=rss",
-      "published": "2026-09-25T02:00:16+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普在与习近平的国宴上赞扬美中友谊"
+      "source_category": "international"
     },
     {
       "id": "f3d6d2bd6108",
@@ -119,8 +197,7 @@
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "中国的习近平敦促美国在人工智能方面进行合作"
+      "source_category": "business"
     },
     {
       "id": "48f501cab2e8",
@@ -128,28 +205,6 @@
       "summary": "President Trump has repeatedly cited the Great Hall of the People in Beijing as inspiration and competition with his own design.",
       "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-ballroom-china-great-hall-beijing.html",
       "published": "2026-09-24T17:41:23+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
-      "id": "43a7e9a216fa",
-      "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
-      "summary": "Chinese confirmation of the AI discussions came just hours before President Xi Jinping was scheduled to begin talks with U.S. President Donald Trump.",
-      "link": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
-      "published": "2026-09-24T14:16:27+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
-    },
-    {
-      "id": "62bee723b2dd",
-      "title": "Families Urge Trump to Press Xi to Free Americans Detained in China",
-      "summary": "The Americans being held in China are U Min Zin, a scholar who studied Myanmar, and Youlin Chen, a seismologist who researched North Korean nuclear tests.",
-      "link": "https://www.nytimes.com/2026/09/24/world/asia/china-xi-trump-detained-americans.html",
-      "published": "2026-09-24T09:54:05+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
