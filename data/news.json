@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-25T22:54:46.640451+00:00",
-  "total": 21,
+  "last_updated": "2026-09-26T02:22:57.629306+00:00",
+  "total": 23,
   "articles": [
     {
       "id": "5097b32abfd5",
       "title": "Editor's Choice: Another Trump-Xi ambiguous summit",
       "summary": "",
       "link": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-another-trump-xi-ambiguous-summit",
-      "published": "2026-09-25T22:55:00.889123+00:00",
+      "published": "2026-09-26T02:23:12.567799+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "Taiwan says Xi 'distorted facts' to Trump as analysts read between lines",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/taiwan-says-xi-distorted-facts-to-trump-as-analysts-read-between-lines",
-      "published": "2026-09-25T22:55:00.889049+00:00",
+      "published": "2026-09-26T02:23:12.567742+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -31,7 +31,7 @@
       "title": "Trump remarks on China as WWII 'ally' raise eyebrows in Japan",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-remarks-on-china-as-wwii-ally-raise-eyebrows-in-japan",
-      "published": "2026-09-25T22:55:00.889027+00:00",
+      "published": "2026-09-26T02:23:12.567725+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -43,7 +43,7 @@
       "title": "China now holds the whip hand over Trump",
       "summary": "",
       "link": "https://asia.nikkei.com/opinion/china-now-holds-the-whip-hand-over-trump",
-      "published": "2026-09-25T22:55:00.888953+00:00",
+      "published": "2026-09-26T02:23:12.567669+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -51,23 +51,11 @@
       "title_zh": "中国现在手握特朗普的鞭子"
     },
     {
-      "id": "6dcaebb6952a",
-      "title": "Trump-Xi summit live: Xi departs Washington after three-day state visit",
-      "summary": "",
-      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-xi-departs-washington-after-three-day-state-visit",
-      "published": "2026-09-25T22:55:00.888892+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "特朗普-习近平峰会现场直播：习近平在为期三天的国事访问后离开华盛顿"
-    },
-    {
       "id": "5d91930ab94d",
       "title": "Xi's human control or Trump's 'super intelligence': What's next for AI?",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/xi-s-human-control-or-trump-s-super-intelligence-what-s-next-for-ai",
-      "published": "2026-09-25T22:55:00.888801+00:00",
+      "published": "2026-09-26T02:23:12.567573+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -79,12 +67,48 @@
       "title": "Through the lens: Trump-Xi summit",
       "summary": "",
       "link": "https://asia.nikkei.com/photos/through-the-lens-trump-xi-summit",
-      "published": "2026-09-25T22:55:00.888732+00:00",
+      "published": "2026-09-26T02:23:12.567535+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "透过镜头：特朗普-习近平峰会"
+    },
+    {
+      "id": "3cff6ccdf8fb",
+      "title": "Pomp, tariffs and AI: 5 things to know about the Trump-Xi summit",
+      "summary": "",
+      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/pomp-tariffs-and-ai-5-things-to-know-about-the-trump-xi-summit",
+      "published": "2026-09-26T02:23:12.567506+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "盛况、关税和人工智能：关于特朗普-习近平峰会需要了解的5件事"
+    },
+    {
+      "id": "0db26e90af32",
+      "title": "Trump-Xi summit: How the Chinese leader's trip to Washington unfolded",
+      "summary": "",
+      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-how-the-chinese-leader-s-trip-to-washington-unfolded",
+      "published": "2026-09-26T02:23:12.567474+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "特朗普-习近平峰会：中国领导人华盛顿之行如何展开"
+    },
+    {
+      "id": "dbc2b5ea900a",
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "summary": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T23:20:48+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "南非白人种族灭绝不存在，新任驻美国大使告诉BBC"
     },
     {
       "id": "4fa96678673f",
@@ -107,8 +131,7 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "你得到一只老鹰，你得到一只老鹰：习近平得到特朗普的礼物"
+      "source_category": "international"
     },
     {
       "id": "d97ef05ced0c",
@@ -119,8 +142,7 @@
       "source": "Financial Times",
       "source_color": "#C7A000",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "与中国交谈的案例不是缓和的案例"
+      "source_category": "business"
     },
     {
       "id": "2d52ce2428f7",
