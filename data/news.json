@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-27T19:25:45.337980+00:00",
-  "total": 19,
+  "last_updated": "2026-09-27T22:38:49.100436+00:00",
+  "total": 21,
   "articles": [
     {
       "id": "d9a365fee8b1",
       "title": "Taiwan says Xi 'distorted facts' to Trump as analysts read between lines",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/taiwan-says-xi-distorted-facts-to-trump-as-analysts-read-between-lines",
-      "published": "2026-09-27T19:26:00.570259+00:00",
+      "published": "2026-09-27T22:39:03.398102+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "Trump remarks on China as WWII 'ally' raise eyebrows in Japan",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-remarks-on-china-as-wwii-ally-raise-eyebrows-in-japan",
-      "published": "2026-09-27T19:26:00.570234+00:00",
+      "published": "2026-09-27T22:39:03.398083+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -31,7 +31,7 @@
       "title": "China now holds the whip hand over Trump",
       "summary": "",
       "link": "https://asia.nikkei.com/opinion/china-now-holds-the-whip-hand-over-trump",
-      "published": "2026-09-27T19:26:00.570153+00:00",
+      "published": "2026-09-27T22:39:03.398018+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -43,7 +43,7 @@
       "title": "Xi's human control or Trump's 'super intelligence': What's next for AI?",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/xi-s-human-control-or-trump-s-super-intelligence-what-s-next-for-ai",
-      "published": "2026-09-27T19:26:00.570016+00:00",
+      "published": "2026-09-27T22:39:03.397908+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -55,7 +55,7 @@
       "title": "Through the lens: Trump-Xi summit",
       "summary": "",
       "link": "https://asia.nikkei.com/photos/through-the-lens-trump-xi-summit",
-      "published": "2026-09-27T19:26:00.569960+00:00",
+      "published": "2026-09-27T22:39:03.397865+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -67,7 +67,7 @@
       "title": "Trump-Xi summit: How the Chinese leader's trip to Washington unfolded",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-how-the-chinese-leader-s-trip-to-washington-unfolded",
-      "published": "2026-09-27T19:26:00.569918+00:00",
+      "published": "2026-09-27T22:39:03.397832+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -79,12 +79,36 @@
       "title": "Pomp, tariffs and AI: 5 things to know about the Trump-Xi summit",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/pomp-tariffs-and-ai-5-things-to-know-about-the-trump-xi-summit",
-      "published": "2026-09-27T19:26:00.569875+00:00",
+      "published": "2026-09-27T22:39:03.397796+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "盛况、关税和人工智能：关于特朗普-习近平峰会需要了解的5件事"
+    },
+    {
+      "id": "ac13d25deebe",
+      "title": "FirstFT: Trump asked Xi if China wanted to buy American weapons, US ambassador says",
+      "summary": "Also in today’s newsletter: terrorism arrests made near RAF Fairford and Nicaragua hands Chinese miners rights to a tenth of its land",
+      "link": "https://www.ft.com/content/47019489-f00e-4c96-bb79-5c628c89b3a1?syn-25a6b1a6=1",
+      "published": "2026-09-27T21:25:27+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "FirstFT ：美国大使称，特朗普问习近平中国是否想购买美国武器"
+    },
+    {
+      "id": "ee35c1310656",
+      "title": "Trump asked Xi if China wanted to buy American weapons, US envoy says",
+      "summary": "Administration denies delaying sale of a $14bn arms package to Taiwan to appease Beijing",
+      "link": "https://www.ft.com/content/8b4690d4-7c02-48af-b117-56faf21c389d?syn-25a6b1a6=1",
+      "published": "2026-09-27T20:31:48+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普问习近平中国是否想购买美国武器，美国特使说"
     },
     {
       "id": "025b5d4ef9d8",
@@ -107,8 +131,7 @@
       "source": "Bloomberg",
       "source_color": "#1976D2",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普拒绝伊朗重新开放霍尔木兹的计划"
+      "source_category": "business"
     },
     {
       "id": "981f52741fcd",
@@ -119,8 +142,7 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "在峰会上，习近平试图转变特朗普对美国在亚洲地位的立场"
+      "source_category": "international"
     },
     {
       "id": "3b23d34074f0",
