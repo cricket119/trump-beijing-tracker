@@ -1,37 +1,13 @@
 {
-  "last_updated": "2026-09-28T02:23:06.135501+00:00",
-  "total": 21,
+  "last_updated": "2026-09-28T10:15:51.188644+00:00",
+  "total": 16,
   "articles": [
-    {
-      "id": "8e99097e40f5",
-      "title": "Trump remarks on China as WWII 'ally' raise eyebrows in Japan",
-      "summary": "",
-      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-remarks-on-china-as-wwii-ally-raise-eyebrows-in-japan",
-      "published": "2026-09-28T02:23:19.704383+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "特朗普将中国视为二战“盟友”的言论在日本引发关注"
-    },
-    {
-      "id": "cf0ec6d9b0dd",
-      "title": "China now holds the whip hand over Trump",
-      "summary": "",
-      "link": "https://asia.nikkei.com/opinion/china-now-holds-the-whip-hand-over-trump",
-      "published": "2026-09-28T02:23:19.704302+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "中国现在手握特朗普的鞭子"
-    },
     {
       "id": "5d91930ab94d",
       "title": "Xi's human control or Trump's 'super intelligence': What's next for AI?",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/xi-s-human-control-or-trump-s-super-intelligence-what-s-next-for-ai",
-      "published": "2026-09-28T02:23:19.704143+00:00",
+      "published": "2026-09-28T10:16:05.587855+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -43,7 +19,7 @@
       "title": "Through the lens: Trump-Xi summit",
       "summary": "",
       "link": "https://asia.nikkei.com/photos/through-the-lens-trump-xi-summit",
-      "published": "2026-09-28T02:23:19.704089+00:00",
+      "published": "2026-09-28T10:16:05.587741+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -55,7 +31,7 @@
       "title": "Trump-Xi summit: How the Chinese leader's trip to Washington unfolded",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-how-the-chinese-leader-s-trip-to-washington-unfolded",
-      "published": "2026-09-28T02:23:19.704048+00:00",
+      "published": "2026-09-28T10:16:05.587700+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -67,7 +43,7 @@
       "title": "Pomp, tariffs and AI: 5 things to know about the Trump-Xi summit",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/pomp-tariffs-and-ai-5-things-to-know-about-the-trump-xi-summit",
-      "published": "2026-09-28T02:23:19.704008+00:00",
+      "published": "2026-09-28T10:16:05.587665+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -75,16 +51,52 @@
       "title_zh": "盛况、关税和人工智能：关于特朗普-习近平峰会需要了解的5件事"
     },
     {
-      "id": "9d200ce86dd7",
-      "title": "David Perdue: US Taiwan Policy Unchanged After Talks",
-      "summary": "US Ambassador to China David Perdue has stated that Washington’s Taiwan policy remains unchanged following high-level talks between Donald Trump and Xi Jinping, despite hopes from Beijing to limit support for Taipei. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-28/david-perdue-us-taiwan-policy-unchanged-after-talks-video",
-      "published": "2026-09-28T00:48:23+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
+      "id": "25c7e69709bf",
+      "title": "Trump-Xi summit: What wasn't said might matter the most",
+      "summary": "The most revealing thing about the summit in Washington may be what the two leaders did not say - and what we still don't know.",
+      "link": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-28T07:52:23+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普-习近平峰会：没有说过的话可能最重要"
+    },
+    {
+      "id": "d4644def0767",
+      "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
+      "summary": "U.S. President Donald Trump and Chinese President Xi Jinping met in Washington, D.C., last week and signaled plans to meet two more times this year.",
+      "link": "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html",
+      "published": "2026-09-28T07:22:06+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "大卫·珀杜：会谈后美国台湾政策不变"
+      "title_zh": "特朗普-习近平峰会分析：中美停战需要“切实成果”"
+    },
+    {
+      "id": "296fb68160ed",
+      "title": "US, China list goods recommended for tariff cuts following Trump-Xi summit",
+      "summary": "Washington and Beijing announce details of agreement to reduce tariffs on $60bn of trade.",
+      "link": "https://www.aljazeera.com/economy/2026/9/28/us-china-list-goods-recommended-for-tariff-cuts-following-trump-xi-summit?traffic_source=rss",
+      "published": "2026-09-28T06:24:33+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "美国，中国在特朗普-习近平峰会后列出建议削减关税的商品"
+    },
+    {
+      "id": "5501c4b0b5fc",
+      "title": "‘Xi got face’: China relishes equal treatment from Trump",
+      "summary": "Chinese state media hail the respect that US president offered their country’s leader",
+      "link": "https://www.ft.com/content/8ac777fc-882e-4781-826b-272d72d468a0?syn-25a6b1a6=1",
+      "published": "2026-09-28T05:55:08+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "“习近平得到了面子” ：中国喜欢特朗普的平等待遇"
     },
     {
       "id": "26d9898df056",
@@ -99,41 +111,6 @@
       "title_zh": "美国大使说，特朗普提出向中国出售武器"
     },
     {
-      "id": "ac13d25deebe",
-      "title": "FirstFT: Trump asked Xi if China wanted to buy American weapons, US ambassador says",
-      "summary": "Also in today’s newsletter: terrorism arrests made near RAF Fairford and Nicaragua hands Chinese miners rights to a tenth of its land",
-      "link": "https://www.ft.com/content/47019489-f00e-4c96-bb79-5c628c89b3a1?syn-25a6b1a6=1",
-      "published": "2026-09-27T21:25:27+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "FirstFT ：美国大使称，特朗普问习近平中国是否想购买美国武器"
-    },
-    {
-      "id": "ee35c1310656",
-      "title": "Trump asked Xi if China wanted to buy American weapons, US envoy says",
-      "summary": "Administration denies delaying sale of a $14bn arms package to Taiwan to appease Beijing",
-      "link": "https://www.ft.com/content/8b4690d4-7c02-48af-b117-56faf21c389d?syn-25a6b1a6=1",
-      "published": "2026-09-27T20:31:48+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普问习近平中国是否想购买美国武器，美国特使说"
-    },
-    {
-      "id": "025b5d4ef9d8",
-      "title": "US Iran Talks Hit Familiar Sticking Points",
-      "summary": "Bloomberg White House correspondent and national security editor Michelle Jamrisko is on Bloomberg This Weekend discussing renewed US-Iran diplomacy after indirect talks in New York failed to overcome disagreements over sanctions, the US blockade and the Strait of Hormuz. Speaking with hosts David Gura and Christina Ruffini, Jamrisko says the two sides remain on different timelines and also examines questions surrounding Taiwan after President Donald Trump’s meeting with Chinese President Xi Jinping. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-27/us-iran-talks-hit-familiar-sticking-points-video",
-      "published": "2026-09-27T14:02:15+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business"
-    },
-    {
       "id": "981f52741fcd",
       "title": "At Summit, Xi Sought to Tilt Trump’s Stance on America’s Place in Asia",
       "summary": "In his talks with President Trump, the Chinese leader used praise, warnings and wartime history to challenge American support for Taiwan and Japan.",
@@ -142,7 +119,8 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international"
+      "source_category": "international",
+      "title_zh": "在峰会上，习近平试图转变特朗普对美国在亚洲地位的立场"
     },
     {
       "id": "3b23d34074f0",
@@ -165,39 +143,6 @@
       "source_color": "#003580",
       "source_lang": "en",
       "source_category": "asia"
-    },
-    {
-      "id": "2bdf405297d7",
-      "title": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'",
-      "summary": "In May, Chinese President Xi Jinping asked U.S. President Donald Trump whether the countries could avoid destructive rivalry. Now, it seems, he thinks they can",
-      "link": "https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html",
-      "published": "2026-09-26T05:00:01+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
-    },
-    {
-      "id": "4fa96678673f",
-      "title": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
-      "summary": "President Trump and Chinese leader Xi went heavy on the ceremony and light on deliverables as they danced around Taiwan and Iran during two days in Washington.",
-      "link": "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html",
-      "published": "2026-09-25T21:38:38+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
-    },
-    {
-      "id": "2dd52b99630d",
-      "title": "Trump and Xi dined with AI's biggest names. Here's what we know about tech talks so far",
-      "summary": "AI was a key topic during Trump-Xi talks on Thursday, after safety concerns shot to the top of the global geopolitical agenda in recent weeks.",
-      "link": "https://www.cnbc.com/2026/09/25/the-tech-download-trump-xi-ai-talks.html",
-      "published": "2026-09-25T14:43:23+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
     },
     {
       "id": "50b1bc26ab32",
