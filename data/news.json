@@ -1,37 +1,13 @@
 {
-  "last_updated": "2026-09-28T10:15:51.188644+00:00",
-  "total": 16,
+  "last_updated": "2026-09-28T18:53:22.323640+00:00",
+  "total": 11,
   "articles": [
-    {
-      "id": "5d91930ab94d",
-      "title": "Xi's human control or Trump's 'super intelligence': What's next for AI?",
-      "summary": "",
-      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/xi-s-human-control-or-trump-s-super-intelligence-what-s-next-for-ai",
-      "published": "2026-09-28T10:16:05.587855+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "习近平的人类控制或特朗普的“超级智能” ：人工智能的下一步是什么？"
-    },
-    {
-      "id": "75eab08eae3f",
-      "title": "Through the lens: Trump-Xi summit",
-      "summary": "",
-      "link": "https://asia.nikkei.com/photos/through-the-lens-trump-xi-summit",
-      "published": "2026-09-28T10:16:05.587741+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "透过镜头：特朗普-习近平峰会"
-    },
     {
       "id": "0db26e90af32",
       "title": "Trump-Xi summit: How the Chinese leader's trip to Washington unfolded",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-how-the-chinese-leader-s-trip-to-washington-unfolded",
-      "published": "2026-09-28T10:16:05.587700+00:00",
+      "published": "2026-09-28T18:53:36.471057+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -43,12 +19,36 @@
       "title": "Pomp, tariffs and AI: 5 things to know about the Trump-Xi summit",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/pomp-tariffs-and-ai-5-things-to-know-about-the-trump-xi-summit",
-      "published": "2026-09-28T10:16:05.587665+00:00",
+      "published": "2026-09-28T18:53:36.471021+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "盛况、关税和人工智能：关于特朗普-习近平峰会需要了解的5件事"
+    },
+    {
+      "id": "26d9898df056",
+      "title": "Trump Offered to Sell Arms to China, U.S. Ambassador Says",
+      "summary": "President Trump made the offer to Xi Jinping, China’s leader, said David Perdue, the ambassador to China. The White House later said the U.S. had no plans for such a sale.",
+      "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html",
+      "published": "2026-09-28T17:22:51+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "美国大使说，特朗普提出向中国出售武器"
+    },
+    {
+      "id": "e4eb8edb3509",
+      "title": "Arming an adversary: Why Trump’s offer to sell China weapons belies US policy",
+      "summary": "Analysts dismissed Trumps proposal as lacking any strategic logic – but said it revealed how he views Beijing.",
+      "link": "https://www.aljazeera.com/news-analysis/2026/9/28/arming-an-adversary-why-trump-offer-to-sell-china-weapons-belies-us-policy?traffic_source=rss",
+      "published": "2026-09-28T16:55:05+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "武装对手：为什么特朗普向中国出售武器的提议与美国的政策背道而驰"
     },
     {
       "id": "25c7e69709bf",
@@ -75,42 +75,6 @@
       "title_zh": "特朗普-习近平峰会分析：中美停战需要“切实成果”"
     },
     {
-      "id": "296fb68160ed",
-      "title": "US, China list goods recommended for tariff cuts following Trump-Xi summit",
-      "summary": "Washington and Beijing announce details of agreement to reduce tariffs on $60bn of trade.",
-      "link": "https://www.aljazeera.com/economy/2026/9/28/us-china-list-goods-recommended-for-tariff-cuts-following-trump-xi-summit?traffic_source=rss",
-      "published": "2026-09-28T06:24:33+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "美国，中国在特朗普-习近平峰会后列出建议削减关税的商品"
-    },
-    {
-      "id": "5501c4b0b5fc",
-      "title": "‘Xi got face’: China relishes equal treatment from Trump",
-      "summary": "Chinese state media hail the respect that US president offered their country’s leader",
-      "link": "https://www.ft.com/content/8ac777fc-882e-4781-826b-272d72d468a0?syn-25a6b1a6=1",
-      "published": "2026-09-28T05:55:08+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "“习近平得到了面子” ：中国喜欢特朗普的平等待遇"
-    },
-    {
-      "id": "26d9898df056",
-      "title": "Trump Offered to Sell Arms to China, U.S. Ambassador Says",
-      "summary": "President Trump made the offer to Xi Jinping, China’s leader, said David Perdue, the ambassador to China. The White House later said the U.S. had no plans for such a sale.",
-      "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html",
-      "published": "2026-09-27T23:33:39+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "美国大使说，特朗普提出向中国出售武器"
-    },
-    {
       "id": "981f52741fcd",
       "title": "At Summit, Xi Sought to Tilt Trump’s Stance on America’s Place in Asia",
       "summary": "In his talks with President Trump, the Chinese leader used praise, warnings and wartime history to challenge American support for Taiwan and Japan.",
@@ -123,28 +87,6 @@
       "title_zh": "在峰会上，习近平试图转变特朗普对美国在亚洲地位的立场"
     },
     {
-      "id": "3b23d34074f0",
-      "title": "You Get an Eagle, and You Get an Eagle: Xi Takes Home Trump’s Go-To Gift",
-      "summary": "The president has often reached for statues of the national bird on diplomatic occasions in his second term. (Ronald Reagan favored them, too.)",
-      "link": "https://www.nytimes.com/2026/09/25/world/americas/trump-bald-eagle-gift-xi.html",
-      "published": "2026-09-26T06:25:29+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
-      "id": "346a2fbae1fe",
-      "title": "Xi-Trump summit: Hong Kong’s Paul Chan predicts positive market response",
-      "summary": "Hong Kong’s finance chief has predicted a positive market response to the Xi-Trump summit, saying that mitigating geopolitical uncertainties would bolster investor confidence, while local business representatives expect that greater stability in bilateral ties may reinforce the city’s role as a connector.\nFinancial Secretary Paul Chan Mo-po made the prediction on a radio programme on Saturday after Chinese President Xi Jinping ended a three-day visit to Washington for talks with his US...",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368886/hong-kongs-paul-chan-predicts-positive-market-response-xi-trump-summit?utm_source=rss_feed",
-      "published": "2026-09-26T05:18:58+00:00",
-      "source": "SCMP",
-      "source_color": "#003580",
-      "source_lang": "en",
-      "source_category": "asia"
-    },
-    {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
       "summary": "",
@@ -153,7 +95,8 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official"
+      "source_category": "chinese_official",
+      "title_zh": "在习近平通话后，中国强调台湾是“核心利益的核心” ； “依靠美国独立”的幻想空间只会进一步缩小：专家"
     },
     {
       "id": "2c9f49adac2e",
@@ -164,7 +107,8 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official"
+      "source_category": "chinese_official",
+      "title_zh": "特朗普声称印度将购买委内瑞拉石油，欢迎中国的投资;中国专家注意到言论“单方面” ，没有得到印度方面的确认"
     },
     {
       "id": "28925d7651b5",
@@ -175,7 +119,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
     },
     {
       "id": "b279b93e7dae",
