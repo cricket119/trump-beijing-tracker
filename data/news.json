@@ -1,30 +1,18 @@
 {
-  "last_updated": "2026-09-28T18:53:22.323640+00:00",
-  "total": 11,
+  "last_updated": "2026-09-29T00:01:45.953048+00:00",
+  "total": 9,
   "articles": [
     {
-      "id": "0db26e90af32",
-      "title": "Trump-Xi summit: How the Chinese leader's trip to Washington unfolded",
-      "summary": "",
-      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-how-the-chinese-leader-s-trip-to-washington-unfolded",
-      "published": "2026-09-28T18:53:36.471057+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
+      "id": "f17d6b8164fa",
+      "title": "CNBC's The China Connection newsletter: Spectacle-heavy Trump-Xi summit was more about domestic messaging",
+      "summary": "Much of the pageantry was meant for the leaders' constituencies at home, analysts said.",
+      "link": "https://www.cnbc.com/2026/09/28/cnbcs-the-china-connection-trump-xi-summit-about-domestic-messaging.html",
+      "published": "2026-09-28T23:00:01+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "特朗普-习近平峰会：中国领导人华盛顿之行如何展开"
-    },
-    {
-      "id": "3cff6ccdf8fb",
-      "title": "Pomp, tariffs and AI: 5 things to know about the Trump-Xi summit",
-      "summary": "",
-      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/pomp-tariffs-and-ai-5-things-to-know-about-the-trump-xi-summit",
-      "published": "2026-09-28T18:53:36.471021+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "盛况、关税和人工智能：关于特朗普-习近平峰会需要了解的5件事"
+      "source_category": "business",
+      "title_zh": "CNBC的《The China Connection》时事通讯：特朗普-习近平峰会更加关注国内信息传递"
     },
     {
       "id": "26d9898df056",
@@ -37,18 +25,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "美国大使说，特朗普提出向中国出售武器"
-    },
-    {
-      "id": "e4eb8edb3509",
-      "title": "Arming an adversary: Why Trump’s offer to sell China weapons belies US policy",
-      "summary": "Analysts dismissed Trumps proposal as lacking any strategic logic – but said it revealed how he views Beijing.",
-      "link": "https://www.aljazeera.com/news-analysis/2026/9/28/arming-an-adversary-why-trump-offer-to-sell-china-weapons-belies-us-policy?traffic_source=rss",
-      "published": "2026-09-28T16:55:05+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "武装对手：为什么特朗普向中国出售武器的提议与美国的政策背道而驰"
     },
     {
       "id": "25c7e69709bf",
@@ -131,7 +107,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
     }
   ]
 }
