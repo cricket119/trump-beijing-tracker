@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-09-29T00:01:45.953048+00:00",
-  "total": 9,
+  "last_updated": "2026-09-29T10:12:10.385523+00:00",
+  "total": 8,
   "articles": [
+    {
+      "id": "27066edb96c9",
+      "title": "The Trump-Xi summit leaves Taiwan in limbo",
+      "summary": "",
+      "link": "https://asia.nikkei.com/opinion/the-trump-xi-summit-leaves-taiwan-in-limbo",
+      "published": "2026-09-29T10:12:23.469895+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "特朗普-习近平峰会让台湾陷入困境"
+    },
     {
       "id": "f17d6b8164fa",
       "title": "CNBC's The China Connection newsletter: Spectacle-heavy Trump-Xi summit was more about domestic messaging",
@@ -19,24 +31,12 @@
       "title": "Trump Offered to Sell Arms to China, U.S. Ambassador Says",
       "summary": "President Trump made the offer to Xi Jinping, China’s leader, said David Perdue, the ambassador to China. The White House later said the U.S. had no plans for such a sale.",
       "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html",
-      "published": "2026-09-28T17:22:51+00:00",
+      "published": "2026-09-28T17:22:52+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "美国大使说，特朗普提出向中国出售武器"
-    },
-    {
-      "id": "25c7e69709bf",
-      "title": "Trump-Xi summit: What wasn't said might matter the most",
-      "summary": "The most revealing thing about the summit in Washington may be what the two leaders did not say - and what we still don't know.",
-      "link": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-28T07:52:23+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普-习近平峰会：没有说过的话可能最重要"
     },
     {
       "id": "d4644def0767",
@@ -49,18 +49,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "特朗普-习近平峰会分析：中美停战需要“切实成果”"
-    },
-    {
-      "id": "981f52741fcd",
-      "title": "At Summit, Xi Sought to Tilt Trump’s Stance on America’s Place in Asia",
-      "summary": "In his talks with President Trump, the Chinese leader used praise, warnings and wartime history to challenge American support for Taiwan and Japan.",
-      "link": "https://www.nytimes.com/2026/09/26/world/asia/summit-xi-trump-taiwan-japan.html",
-      "published": "2026-09-26T21:31:57+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "在峰会上，习近平试图转变特朗普对美国在亚洲地位的立场"
     },
     {
       "id": "50b1bc26ab32",
