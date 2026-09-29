@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T10:12:10.385523+00:00",
+  "last_updated": "2026-09-29T17:11:13.720281+00:00",
   "total": 8,
   "articles": [
     {
@@ -7,12 +7,24 @@
       "title": "The Trump-Xi summit leaves Taiwan in limbo",
       "summary": "",
       "link": "https://asia.nikkei.com/opinion/the-trump-xi-summit-leaves-taiwan-in-limbo",
-      "published": "2026-09-29T10:12:23.469895+00:00",
+      "published": "2026-09-29T17:11:26.802972+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "特朗普-习近平峰会让台湾陷入困境"
+    },
+    {
+      "id": "85eb8e9e0446",
+      "title": "Trump rules out joint US-China venture to develop AI",
+      "summary": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth.",
+      "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T16:09:26+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普排除了美中合资企业开发人工智能的可能性"
     },
     {
       "id": "f17d6b8164fa",
@@ -37,18 +49,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "美国大使说，特朗普提出向中国出售武器"
-    },
-    {
-      "id": "d4644def0767",
-      "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
-      "summary": "U.S. President Donald Trump and Chinese President Xi Jinping met in Washington, D.C., last week and signaled plans to meet two more times this year.",
-      "link": "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html",
-      "published": "2026-09-28T07:22:06+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普-习近平峰会分析：中美停战需要“切实成果”"
     },
     {
       "id": "50b1bc26ab32",
