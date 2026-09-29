@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-29T17:11:13.720281+00:00",
-  "total": 8,
+  "last_updated": "2026-09-29T23:15:25.101215+00:00",
+  "total": 10,
   "articles": [
     {
       "id": "27066edb96c9",
       "title": "The Trump-Xi summit leaves Taiwan in limbo",
       "summary": "",
       "link": "https://asia.nikkei.com/opinion/the-trump-xi-summit-leaves-taiwan-in-limbo",
-      "published": "2026-09-29T17:11:26.802972+00:00",
+      "published": "2026-09-29T23:15:37.968482+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,12 +19,36 @@
       "title": "Trump rules out joint US-China venture to develop AI",
       "summary": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth.",
       "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T16:09:26+00:00",
+      "published": "2026-09-29T21:45:01+00:00",
       "source": "BBC",
       "source_color": "#BB1919",
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "特朗普排除了美中合资企业开发人工智能的可能性"
+    },
+    {
+      "id": "56a2748ea3f7",
+      "title": "FirstFT: Trump says AI bosses agreed to ‘self-regulation’ amid safety fears",
+      "summary": "Also in today’s newsletter: Lady Gaga urges Japanese to work at FamilyMart and China unveils mortgage subsidies to boost economy",
+      "link": "https://www.ft.com/content/38edf5d4-31df-4250-a6b7-691b844b22e0?syn-25a6b1a6=1",
+      "published": "2026-09-29T21:34:45+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "FirstFT ：特朗普表示人工智能老板在安全担忧中同意“自我监管”"
+    },
+    {
+      "id": "cbd5531c21f1",
+      "title": "Ford CEO says it's 'too late' for Europe to fend off Chinese automakers, but not for U.S.",
+      "summary": "CEO Jim Farley's warning comes on the heels of a high-profile visit last week by Chinese President Xi Jinping with President Donald Trump",
+      "link": "https://www.cnbc.com/2026/09/29/ford-ceo-jim-farley-china-automakers.html",
+      "published": "2026-09-29T21:08:05+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "福特首席执行官表示，欧洲抵御中国汽车制造商“为时已晚” ，但对美国来说并非如此"
     },
     {
       "id": "f17d6b8164fa",
