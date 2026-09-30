@@ -1,42 +1,18 @@
 {
-  "last_updated": "2026-09-30T02:48:41.568645+00:00",
-  "total": 10,
+  "last_updated": "2026-09-30T10:04:00.478874+00:00",
+  "total": 7,
   "articles": [
     {
       "id": "27066edb96c9",
       "title": "The Trump-Xi summit leaves Taiwan in limbo",
       "summary": "",
       "link": "https://asia.nikkei.com/opinion/the-trump-xi-summit-leaves-taiwan-in-limbo",
-      "published": "2026-09-30T02:48:55.967366+00:00",
+      "published": "2026-09-30T10:04:12.611873+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "特朗普-习近平峰会让台湾陷入困境"
-    },
-    {
-      "id": "85eb8e9e0446",
-      "title": "Trump rules out joint US-China venture to develop AI",
-      "summary": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth.",
-      "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T21:45:01+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普排除了美中合资企业开发人工智能的可能性"
-    },
-    {
-      "id": "56a2748ea3f7",
-      "title": "FirstFT: Trump says AI bosses agreed to ‘self-regulation’ amid safety fears",
-      "summary": "Also in today’s newsletter: Lady Gaga urges Japanese to work at FamilyMart and China unveils mortgage subsidies to boost economy",
-      "link": "https://www.ft.com/content/38edf5d4-31df-4250-a6b7-691b844b22e0?syn-25a6b1a6=1",
-      "published": "2026-09-29T21:34:45+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "FirstFT ：特朗普表示人工智能老板在安全担忧中同意“自我监管”"
     },
     {
       "id": "cbd5531c21f1",
@@ -61,18 +37,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "CNBC的《The China Connection》时事通讯：特朗普-习近平峰会更加关注国内信息传递"
-    },
-    {
-      "id": "26d9898df056",
-      "title": "Trump Offered to Sell Arms to China, U.S. Ambassador Says",
-      "summary": "President Trump made the offer to Xi Jinping, China’s leader, said David Perdue, the ambassador to China. The White House later said the U.S. had no plans for such a sale.",
-      "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html",
-      "published": "2026-09-28T17:22:52+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "美国大使说，特朗普提出向中国出售武器"
     },
     {
       "id": "50b1bc26ab32",
