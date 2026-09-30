@@ -1,43 +1,7 @@
 {
-  "last_updated": "2026-09-30T10:04:00.478874+00:00",
-  "total": 7,
+  "last_updated": "2026-09-30T17:09:09.771732+00:00",
+  "total": 4,
   "articles": [
-    {
-      "id": "27066edb96c9",
-      "title": "The Trump-Xi summit leaves Taiwan in limbo",
-      "summary": "",
-      "link": "https://asia.nikkei.com/opinion/the-trump-xi-summit-leaves-taiwan-in-limbo",
-      "published": "2026-09-30T10:04:12.611873+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "特朗普-习近平峰会让台湾陷入困境"
-    },
-    {
-      "id": "cbd5531c21f1",
-      "title": "Ford CEO says it's 'too late' for Europe to fend off Chinese automakers, but not for U.S.",
-      "summary": "CEO Jim Farley's warning comes on the heels of a high-profile visit last week by Chinese President Xi Jinping with President Donald Trump",
-      "link": "https://www.cnbc.com/2026/09/29/ford-ceo-jim-farley-china-automakers.html",
-      "published": "2026-09-29T21:08:05+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "福特首席执行官表示，欧洲抵御中国汽车制造商“为时已晚” ，但对美国来说并非如此"
-    },
-    {
-      "id": "f17d6b8164fa",
-      "title": "CNBC's The China Connection newsletter: Spectacle-heavy Trump-Xi summit was more about domestic messaging",
-      "summary": "Much of the pageantry was meant for the leaders' constituencies at home, analysts said.",
-      "link": "https://www.cnbc.com/2026/09/28/cnbcs-the-china-connection-trump-xi-summit-about-domestic-messaging.html",
-      "published": "2026-09-28T23:00:01+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "CNBC的《The China Connection》时事通讯：特朗普-习近平峰会更加关注国内信息传递"
-    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
