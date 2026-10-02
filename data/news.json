@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-02T16:58:07.860173+00:00",
-  "total": 4,
+  "last_updated": "2026-10-02T23:23:31.206979+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "b89f67964bb5",
+      "title": "California leads lawsuit against Trump fuel efficiency standards rollback",
+      "summary": "Lawsuit alleges NHTSA contravenes its congressional mandate to set fuel-economy standards at maximum feasible .",
+      "link": "https://www.aljazeera.com/economy/2026/10/2/california-leads-lawsuit-against-trump-fuel-efficiency-standards-rollback?traffic_source=rss",
+      "published": "2026-10-02T20:28:07+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "加利福尼亚州对特朗普燃油效率标准回滚提起诉讼"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
