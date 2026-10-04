@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-04T10:16:51.197603+00:00",
-  "total": 4,
+  "last_updated": "2026-10-04T16:05:48.885607+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "c530ce067252",
+      "title": "Taiwan Says US Policy Remains Unchanged",
+      "summary": "Taiwan’s Representative to the US, Alexander Yui, tells Bloomberg This Weekend that Washington has reassured Taipei its Taiwan policy remains unchanged following President Donald Trump’s meeting with Chinese President Xi Jinping, even as a $14 billion US arms package remains stalled. Speaking with hosts David Gura and Christina Ruffini, Yui says Taiwan wants faster weapons deliveries and is deepening its economic relationship with the US through major investments in semiconductors and other industries.  (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-04/taiwan-says-us-policy-remains-unchanged-video",
+      "published": "2026-10-04T14:45:57+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "台湾称美国政策保持不变"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
