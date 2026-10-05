@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-04T22:35:21.005554+00:00",
-  "total": 5,
+  "last_updated": "2026-10-05T02:49:57.080622+00:00",
+  "total": 4,
   "articles": [
-    {
-      "id": "c530ce067252",
-      "title": "Taiwan Says US Policy Remains Unchanged",
-      "summary": "Taiwan’s Representative to the US, Alexander Yui, tells Bloomberg This Weekend that Washington has reassured Taipei its Taiwan policy remains unchanged following President Donald Trump’s meeting with Chinese President Xi Jinping, even as a $14 billion US arms package remains stalled. Speaking with hosts David Gura and Christina Ruffini, Yui says Taiwan wants faster weapons deliveries and is deepening its economic relationship with the US through major investments in semiconductors and other industries.  (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-10-04/taiwan-says-us-policy-remains-unchanged-video",
-      "published": "2026-10-04T14:45:57+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business"
-    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
@@ -22,7 +11,8 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official"
+      "source_category": "chinese_official",
+      "title_zh": "在习近平通话后，中国强调台湾是“核心利益的核心” ； “依靠美国独立”的幻想空间只会进一步缩小：专家"
     },
     {
       "id": "2c9f49adac2e",
@@ -33,7 +23,8 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official"
+      "source_category": "chinese_official",
+      "title_zh": "特朗普声称印度将购买委内瑞拉石油，欢迎中国的投资;中国专家注意到言论“单方面” ，没有得到印度方面的确认"
     },
     {
       "id": "28925d7651b5",
@@ -44,7 +35,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
     },
     {
       "id": "b279b93e7dae",
@@ -55,7 +47,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
     }
   ]
 }
