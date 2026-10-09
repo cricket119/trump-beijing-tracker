@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-10-09T00:01:40.671546+00:00",
-  "total": 5,
+  "last_updated": "2026-10-09T10:59:07.229677+00:00",
+  "total": 6,
   "articles": [
     {
       "id": "15038751f746",
       "title": "Trump's AI free-for-all plays into China's hands",
       "summary": "",
       "link": "https://asia.nikkei.com/opinion/trump-s-ai-free-for-all-plays-into-china-s-hands",
-      "published": "2026-10-09T00:01:53.997661+00:00",
+      "published": "2026-10-09T10:59:19.393498+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "特朗普的人工智能完全掌握在中国人手中"
+    },
+    {
+      "id": "0a9fcb08e3f9",
+      "title": "Nobel laureate Machado says Venezuela is ‘ready’ for new elections",
+      "summary": "Exiled Nobel Peace Prize laureate demands ‘transparency’ over oil revenues after deal with Trump administration",
+      "link": "https://www.ft.com/content/0d411bea-ee6a-4300-9b1e-cc5a6bba4b7c?syn-25a6b1a6=1",
+      "published": "2026-10-09T04:23:44+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "诺贝尔奖获得者马查多表示，委内瑞拉已为新的选举做好“准备”"
     },
     {
       "id": "50b1bc26ab32",
