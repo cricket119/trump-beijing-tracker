@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-08T18:06:21.794606+00:00",
-  "total": 4,
+  "last_updated": "2026-10-09T00:01:40.671546+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "15038751f746",
+      "title": "Trump's AI free-for-all plays into China's hands",
+      "summary": "",
+      "link": "https://asia.nikkei.com/opinion/trump-s-ai-free-for-all-plays-into-china-s-hands",
+      "published": "2026-10-09T00:01:53.997661+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "特朗普的人工智能完全掌握在中国人手中"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
