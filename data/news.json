@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-10-09T17:39:58.182584+00:00",
+  "last_updated": "2026-10-09T23:39:12.755662+00:00",
   "total": 5,
   "articles": [
     {
-      "id": "15038751f746",
-      "title": "Trump's AI free-for-all plays into China's hands",
-      "summary": "",
-      "link": "https://asia.nikkei.com/opinion/trump-s-ai-free-for-all-plays-into-china-s-hands",
-      "published": "2026-10-09T17:40:12.057323+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
+      "id": "60c15101e080",
+      "title": "Trump pressures Mexico for energy deals in crunch trade talks",
+      "summary": "Move triggers alarm in Mexico City, where domestic control of sensitive sector is part of modern political identity",
+      "link": "https://www.ft.com/content/dda61be8-88bd-4ebc-bde5-ba440308d518?syn-25a6b1a6=1",
+      "published": "2026-10-09T17:29:29+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "特朗普的人工智能完全掌握在中国人手中"
+      "source_category": "business",
+      "title_zh": "特朗普向墨西哥施压，要求在紧缩贸易谈判中达成能源协议"
     },
     {
       "id": "50b1bc26ab32",
