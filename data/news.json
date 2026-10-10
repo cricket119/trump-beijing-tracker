@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-10-10T03:08:51.636848+00:00",
+  "last_updated": "2026-10-10T10:11:38.754739+00:00",
   "total": 5,
   "articles": [
     {
-      "id": "60c15101e080",
-      "title": "Trump pressures Mexico for energy deals in crunch trade talks",
-      "summary": "Move triggers alarm in Mexico City, where domestic control of sensitive sector is part of modern political identity",
-      "link": "https://www.ft.com/content/dda61be8-88bd-4ebc-bde5-ba440308d518?syn-25a6b1a6=1",
-      "published": "2026-10-09T17:29:29+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
+      "id": "d6a38e3457be",
+      "title": "Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Summit",
+      "summary": "Taiwan President Lai Ching-te called on democracies in the region to unite against threats to stability, as the island faces pressure from Beijing and concerns that Donald Trump’s rapprochement with China could come at Taiwan’s expense.",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-10/taiwan-s-lai-urges-democracies-to-unite-after-trump-xi-summit",
+      "published": "2026-10-10T03:35:41+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "特朗普向墨西哥施压，要求在紧缩贸易谈判中达成能源协议"
+      "title_zh": "台湾LAI敦促民主国家在特朗普-习近平峰会后团结起来"
     },
     {
       "id": "50b1bc26ab32",
