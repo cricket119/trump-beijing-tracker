@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-10T16:31:18.379784+00:00",
-  "total": 6,
+  "last_updated": "2026-10-10T23:02:41.836841+00:00",
+  "total": 7,
   "articles": [
+    {
+      "id": "5fd66e406fb9",
+      "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
+      "summary": "Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek",
+      "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
+      "published": "2026-10-10T18:14:28+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "英伟达洽谈收购美国“开放”模式初创公司Reflection AI"
+    },
     {
       "id": "d78881fa32be",
       "title": "Nixonmaxxing: the strange revival of America’s disgraced president",
