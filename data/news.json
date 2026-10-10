@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-10-10T10:11:38.754739+00:00",
-  "total": 5,
+  "last_updated": "2026-10-10T16:31:18.379784+00:00",
+  "total": 6,
   "articles": [
     {
-      "id": "d6a38e3457be",
-      "title": "Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Summit",
-      "summary": "Taiwan President Lai Ching-te called on democracies in the region to unite against threats to stability, as the island faces pressure from Beijing and concerns that Donald Trump’s rapprochement with China could come at Taiwan’s expense.",
+      "id": "d78881fa32be",
+      "title": "Nixonmaxxing: the strange revival of America’s disgraced president",
+      "summary": "Richard Nixon has become the unlikely darling of Trump’s Washington",
+      "link": "https://www.ft.com/content/e3945b16-13f0-4640-882d-fafaca9d25e9?syn-25a6b1a6=1",
+      "published": "2026-10-10T10:00:07+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "Nixonmaxxing ：美国耻辱总统的奇怪复兴"
+    },
+    {
+      "id": "725509af8efe",
+      "title": "Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Talks",
+      "summary": "Taiwanese President Lai Ching-te called on democracies in the region to unite against threats to stability, as the island faces pressure from Beijing and concerns that US President Donald Trump’s rapprochement with China could come at Taiwan’s expense.",
       "link": "https://www.bloomberg.com/news/articles/2026-10-10/taiwan-s-lai-urges-democracies-to-unite-after-trump-xi-summit",
       "published": "2026-10-10T03:35:41+00:00",
       "source": "Bloomberg",
       "source_color": "#1976D2",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "台湾LAI敦促民主国家在特朗普-习近平峰会后团结起来"
+      "title_zh": "台湾赖军敦促民主国家在特朗普-习近平会谈后团结起来"
     },
     {
       "id": "50b1bc26ab32",
