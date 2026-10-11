@@ -1,31 +1,7 @@
 {
-  "last_updated": "2026-10-11T10:23:46.260372+00:00",
-  "total": 7,
+  "last_updated": "2026-10-11T16:56:13.188354+00:00",
+  "total": 5,
   "articles": [
-    {
-      "id": "5fd66e406fb9",
-      "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
-      "summary": "Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek",
-      "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
-      "published": "2026-10-10T18:14:28+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "英伟达洽谈收购美国“开放”模式初创公司Reflection AI"
-    },
-    {
-      "id": "d78881fa32be",
-      "title": "Nixonmaxxing: the strange revival of America’s disgraced president",
-      "summary": "Richard Nixon has become the unlikely darling of Trump’s Washington",
-      "link": "https://www.ft.com/content/e3945b16-13f0-4640-882d-fafaca9d25e9?syn-25a6b1a6=1",
-      "published": "2026-10-10T10:00:07+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "Nixonmaxxing ：美国耻辱总统的奇怪复兴"
-    },
     {
       "id": "725509af8efe",
       "title": "Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Talks",
