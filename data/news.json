@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-12T20:32:21.717995+00:00",
-  "total": 3,
+  "last_updated": "2026-10-13T04:20:44.239416+00:00",
+  "total": 5,
   "articles": [
     {
       "id": "b1537d8534fb",
@@ -13,6 +13,30 @@
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "特朗普的中国发言人，香港线索紧急情况： 5个周末读你错过了"
+    },
+    {
+      "id": "50b1bc26ab32",
+      "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
+      "summary": "",
+      "link": "https://www.globaltimes.cn/page/202602/1354899.shtml",
+      "published": "2026-02-06T00:00:00+00:00",
+      "source": "Global Times",
+      "source_color": "#CC0000",
+      "source_lang": "en",
+      "source_category": "chinese_official",
+      "title_zh": "在习近平通话后，中国强调台湾是“核心利益的核心” ； “依靠美国独立”的幻想空间只会进一步缩小：专家"
+    },
+    {
+      "id": "2c9f49adac2e",
+      "title": "Trump claims India will buy Venezuelan oil, welcomes China's investment; Chinese expert notices remarks 'unilateral,' no confirmation from Indian side",
+      "summary": "",
+      "link": "https://www.globaltimes.cn/page/202602/1354617.shtml",
+      "published": "2026-02-02T00:00:00+00:00",
+      "source": "Global Times",
+      "source_color": "#CC0000",
+      "source_lang": "en",
+      "source_category": "chinese_official",
+      "title_zh": "特朗普声称印度将购买委内瑞拉石油，欢迎中国的投资;中国专家注意到言论“单方面” ，没有得到印度方面的确认"
     },
     {
       "id": "28925d7651b5",
