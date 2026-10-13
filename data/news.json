@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-13T15:22:09.626372+00:00",
-  "total": 6,
+  "last_updated": "2026-10-13T20:52:21.358624+00:00",
+  "total": 7,
   "articles": [
+    {
+      "id": "1fadebf833a1",
+      "title": "Sheinbaum Vows to Buy More From US to Reach Trump Trade Deal",
+      "summary": "President Claudia Sheinbaum said her government is addressing Donald Trump’s concerns about the growing US trade deficit with Mexico by buying more American goods as she pushes to secure a deal with Washington.",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-13/sheinbaum-vows-to-buy-more-goods-from-the-us-to-sign-trade-deal",
+      "published": "2026-10-13T18:34:41+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "Sheinbaum发誓要从美国购买更多，以达成特朗普贸易协议"
+    },
     {
       "id": "004e2c45989d",
       "title": "Can energy help Mexico in trade talks with Trump?",
