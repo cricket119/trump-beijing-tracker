@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-13T04:20:44.239416+00:00",
-  "total": 5,
+  "last_updated": "2026-10-13T15:22:09.626372+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "004e2c45989d",
+      "title": "Can energy help Mexico in trade talks with Trump?",
+      "summary": "It is the sector where the US runs its largest surplus with its southern neighbour totalling about $25bn last year",
+      "link": "https://www.ft.com/content/73257952-844b-4f5f-a1cb-112ae9cb0249?syn-25a6b1a6=1",
+      "published": "2026-10-13T11:00:08+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "能源能否帮助墨西哥与特朗普进行贸易谈判？"
+    },
     {
       "id": "b1537d8534fb",
       "title": "Trump’s China-savvy spokeswoman, Hong Kong trail emergencies: 5 weekend reads you missed",
