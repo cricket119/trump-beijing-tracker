@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-16T08:34:03.745868+00:00",
-  "total": 4,
+  "last_updated": "2026-10-16T15:42:32.805601+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "cad35c67a870",
+      "title": "US in ‘denuclearisation’ talks with Russia and China: Trump",
+      "summary": "US and Russia each have more than 4,000 warheads. China set to catch up with them within five years, Trump says.",
+      "link": "https://www.aljazeera.com/news/2026/10/16/us-in-denuclearisation-talks-with-russia-and-china-trump?traffic_source=rss",
+      "published": "2026-10-16T11:28:12+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "美国与俄罗斯和中国进行“无核化”谈判：特朗普"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
