@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-10-19T09:23:16.168716+00:00",
-  "total": 5,
+  "last_updated": "2026-10-19T17:53:40.082192+00:00",
+  "total": 6,
   "articles": [
     {
       "id": "a8a0ee3a18fd",
       "title": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
       "summary": "The report comes amid mounting tensions between Ukraine and the United States, its largest military backer.",
       "link": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
-      "published": "2026-10-19T09:05:41+00:00",
+      "published": "2026-10-19T10:36:47+00:00",
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "据报道，普京提议与特朗普和习近平就乌克兰战争举行三方峰会—没有泽伦斯基"
+    },
+    {
+      "id": "1fe9cfa0e5e9",
+      "title": "FirstFT: Macron rejects interior minister’s resignation",
+      "summary": "Also in today’s newsletter: China’s third-quarter growth beats expectations and US voters’ verdict on Trump’s second term",
+      "link": "https://www.ft.com/content/76117a3b-2cd6-481b-b485-4b743627589d?syn-25a6b1a6=1",
+      "published": "2026-10-19T10:26:14+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "FirstFT ：马克龙拒绝内政部长辞职"
     },
     {
       "id": "50b1bc26ab32",
