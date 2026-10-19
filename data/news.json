@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-19T02:13:20.034421+00:00",
-  "total": 4,
+  "last_updated": "2026-10-19T09:23:16.168716+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "a8a0ee3a18fd",
+      "title": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
+      "summary": "The report comes amid mounting tensions between Ukraine and the United States, its largest military backer.",
+      "link": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
+      "published": "2026-10-19T09:05:41+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "据报道，普京提议与特朗普和习近平就乌克兰战争举行三方峰会—没有泽伦斯基"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
