@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-20T02:28:07.579393+00:00",
-  "total": 5,
+  "last_updated": "2026-10-20T08:58:22.560057+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "c0b59bcdcdbd",
+      "title": "Stephen Roach: Xi May Be Using Trump Summits to Buy Time",
+      "summary": "Stephen Roach argues Xi Jinping’s willingness to engage in a series of meetings with Donald Trump may reflect concern about China’s economy and a desire to buy time. Roach suggests Xi may not share the personal camaraderie Trump portrays and says Chinese officials are likely realistic about how much progress is possible with an unpredictable counterpart. He spoke with Stephen Engle on Bloomberg's Insight with Haslinda Amin. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-20/stephen-roach-xi-may-be-using-trump-summits-to-buy-time-video-mvgbogtq",
+      "published": "2026-10-20T06:48:57+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "斯蒂芬·罗奇：习近平可能正在利用特朗普峰会来争取时间"
+    },
     {
       "id": "a8a0ee3a18fd",
       "title": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
