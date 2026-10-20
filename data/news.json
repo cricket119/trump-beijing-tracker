@@ -1,30 +1,18 @@
 {
-  "last_updated": "2026-10-20T08:58:22.560057+00:00",
-  "total": 6,
+  "last_updated": "2026-10-20T15:57:43.884365+00:00",
+  "total": 5,
   "articles": [
     {
-      "id": "c0b59bcdcdbd",
-      "title": "Stephen Roach: Xi May Be Using Trump Summits to Buy Time",
-      "summary": "Stephen Roach argues Xi Jinping’s willingness to engage in a series of meetings with Donald Trump may reflect concern about China’s economy and a desire to buy time. Roach suggests Xi may not share the personal camaraderie Trump portrays and says Chinese officials are likely realistic about how much progress is possible with an unpredictable counterpart. He spoke with Stephen Engle on Bloomberg's Insight with Haslinda Amin. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-10-20/stephen-roach-xi-may-be-using-trump-summits-to-buy-time-video-mvgbogtq",
-      "published": "2026-10-20T06:48:57+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "斯蒂芬·罗奇：习近平可能正在利用特朗普峰会来争取时间"
-    },
-    {
-      "id": "a8a0ee3a18fd",
-      "title": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
-      "summary": "The report comes amid mounting tensions between Ukraine and the United States, its largest military backer.",
-      "link": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
-      "published": "2026-10-19T10:36:47+00:00",
+      "id": "e21fef95ef89",
+      "title": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
+      "summary": "Tensions between Trump and Zelenskyy have steadily risen in recent weeks, while Russia, which invaded Ukraine, has received multiple breaks from the U.S.",
+      "link": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
+      "published": "2026-10-19T21:00:02+00:00",
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "据报道，普京提议与特朗普和习近平就乌克兰战争举行三方峰会—没有泽伦斯基"
+      "title_zh": "特朗普表示他将与普京和习近平会面，批评泽伦斯基"
     },
     {
       "id": "50b1bc26ab32",
