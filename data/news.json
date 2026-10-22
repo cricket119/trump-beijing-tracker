@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-10-22T02:16:58.744299+00:00",
+  "last_updated": "2026-10-22T08:59:13.869614+00:00",
   "total": 5,
   "articles": [
     {
-      "id": "1eea42f5d9d9",
-      "title": "Trump envoy proposes Ukraine talks and summit with Putin and Xi",
-      "summary": "Steve Witkoff discusses resumption of peace dialogue with Russian president followed by US-China-Russia meeting next month",
-      "link": "https://www.ft.com/content/d7345d46-f000-49b1-99f6-57edfbd5f0af?syn-25a6b1a6=1",
-      "published": "2026-10-21T19:59:34+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
+      "id": "135eaef360c2",
+      "title": "Trump administration seeks Supreme Court approval to build Big Bend wall",
+      "summary": "US federal judge blocked walls construction on Texas-Mexico border amid an ongoing legal battle.",
+      "link": "https://www.aljazeera.com/news/2026/10/22/trump-administration-seeks-supreme-court-approval-to-build-big-bend-wall?traffic_source=rss",
+      "published": "2026-10-22T03:19:38+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普特使提议与普京和习近平举行乌克兰会谈和峰会"
+      "source_category": "international",
+      "title_zh": "特朗普政府寻求最高法院批准建造大弯墙"
     },
     {
       "id": "50b1bc26ab32",
