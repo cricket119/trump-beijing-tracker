@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-23T02:22:36.452635+00:00",
-  "total": 4,
+  "last_updated": "2026-10-23T08:54:16.971989+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "d6050ef04e9c",
+      "title": "The limits of Trump’s trade war",
+      "summary": "Economies like Mexico are being forced to choose sides on trade",
+      "link": "https://www.ft.com/content/0ce7d049-b264-47da-9aaa-08b33941585a?syn-25a6b1a6=1",
+      "published": "2026-10-23T04:00:18+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普贸易战的局限性"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
