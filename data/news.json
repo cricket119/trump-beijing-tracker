@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-24T08:27:48.569610+00:00",
-  "total": 4,
+  "last_updated": "2026-10-24T14:59:48.065553+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "cedca8910492",
+      "title": "U.S. Pressures Mexico to Deliver a Security Win Ahead of Midterm Elections",
+      "summary": "The Trump administration wants a public victory soon, as well as a potential path to U.S. military forces in Mexico.",
+      "link": "https://www.nytimes.com/2026/10/24/world/americas/us-mexico-security-cartels.html",
+      "published": "2026-10-24T09:03:03+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "美国向墨西哥施压，要求其在中期选举前取得安全胜利"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
