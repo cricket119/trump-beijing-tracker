@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-25T15:11:42.238396+00:00",
-  "total": 5,
+  "last_updated": "2026-10-25T18:36:09.176859+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "4201aa5dcac4",
+      "title": "Venezuelan opposition leader Machado returns from exile",
+      "summary": "Nobel laureate’s arrival poses a challenge to the country’s Trump-backed interim government",
+      "link": "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135",
+      "published": "2026-10-25T17:37:08+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "委内瑞拉反对派领袖马查多流亡归来"
+    },
     {
       "id": "cedca8910492",
       "title": "U.S. Pressures Mexico to Deliver a Security Win Ahead of Midterm Elections",
