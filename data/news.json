@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-26T17:48:47.408283+00:00",
-  "total": 4,
+  "last_updated": "2026-10-26T23:25:47.890474+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "b199c376f1e2",
+      "title": "Wall Street Week | High Stakes Summit, New Zealand's Brain Drain, Stablecoin Adoption, Bubbly Water",
+      "summary": "This week, China thinks it's cracked the code on Trump heading into a summit in Beijing. And, what happens when a country's best and brightest travel overseas and stop coming back? Plus, the most useful thing about crypto might be the one nobody's talking about: cheap and fast cross-border payments. Later, the smartest bet in the sparkling water boom might not be on any brand, but on the companies behind them. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-08/wall-street-week-high-stakes-summit-talent-troubles-video",
+      "published": "2026-05-08T23:14:55+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "《华尔街周刊》|高风险峰会、新西兰人才流失、稳定币采用、气泡水"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
