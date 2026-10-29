@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-29T17:43:51.774407+00:00",
-  "total": 4,
+  "last_updated": "2026-10-29T23:41:08.913549+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "49003d848897",
+      "title": "Venezuela opposition leader hails Trump on return from exile",
+      "summary": "María Corina Machado praises US president and secretary of state after Washington sets out timetable for elections",
+      "link": "https://www.ft.com/content/bc97b73d-2a7f-4873-b955-441abdf8f4a9",
+      "published": "2026-10-29T18:59:02+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "委内瑞拉反对派领导人对特朗普流亡归国表示欢迎"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
