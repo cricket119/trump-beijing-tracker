@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-02T03:09:16.991958+00:00",
-  "total": 4,
+  "last_updated": "2026-11-02T11:46:13.867214+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "056d262af5d2",
+      "title": "Surging costs and China trade war test US farmers' loyalty to Trump",
+      "summary": "",
+      "link": "https://asia.nikkei.com/politics/u.s.-midterm-elections/surging-costs-and-china-trade-war-test-us-farmers-loyalty-to-trump",
+      "published": "2026-11-02T11:46:28.090874+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "成本飙升和中国贸易战考验美国农民对特朗普的忠诚度"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
