@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-11-02T20:58:39.205766+00:00",
-  "total": 5,
+  "last_updated": "2026-11-03T04:25:55.420372+00:00",
+  "total": 6,
   "articles": [
     {
       "id": "056d262af5d2",
       "title": "Surging costs and China trade war test US farmers' loyalty to Trump",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/u.s.-midterm-elections/surging-costs-and-china-trade-war-test-us-farmers-loyalty-to-trump",
-      "published": "2026-11-02T20:58:54.936871+00:00",
+      "published": "2026-11-03T04:26:09.385812+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "成本飙升和中国贸易战考验美国农民对特朗普的忠诚度"
+    },
+    {
+      "id": "b4fd64db6efa",
+      "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
+      "summary": "Hit hard by Trumps tariffs and the war on Iran, countries in the Asia-Pacific want enormous changes in US policies.",
+      "link": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
+      "published": "2026-11-02T23:41:18+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "战争、关税与中国：美国中期选举对亚太地区的意义"
     },
     {
       "id": "50b1bc26ab32",
