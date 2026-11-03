@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-03T04:25:55.420372+00:00",
-  "total": 6,
+  "last_updated": "2026-11-03T15:33:50.928950+00:00",
+  "total": 7,
   "articles": [
     {
       "id": "056d262af5d2",
       "title": "Surging costs and China trade war test US farmers' loyalty to Trump",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/u.s.-midterm-elections/surging-costs-and-china-trade-war-test-us-farmers-loyalty-to-trump",
-      "published": "2026-11-03T04:26:09.385812+00:00",
+      "published": "2026-11-03T15:34:05.245366+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -15,16 +15,28 @@
       "title_zh": "成本飙升和中国贸易战考验美国农民对特朗普的忠诚度"
     },
     {
-      "id": "b4fd64db6efa",
-      "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
-      "summary": "Hit hard by Trumps tariffs and the war on Iran, countries in the Asia-Pacific want enormous changes in US policies.",
-      "link": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
-      "published": "2026-11-02T23:41:18+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
+      "id": "c8814c78bfa6",
+      "title": "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting",
+      "summary": "Russia confirmed Ukraine peace talks in Abu Dhabi next week and signaled a possible Trump-Putin-Xi summit, raising questions over Kyiv's role in negotiations.",
+      "link": "https://www.cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html",
+      "published": "2026-11-03T13:22:25+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "战争、关税与中国：美国中期选举对亚太地区的意义"
+      "source_category": "business",
+      "title_zh": "随着梅拉尼娅·特朗普准备主办停火会议，俄罗斯确认新的乌克兰和平谈判"
+    },
+    {
+      "id": "0cb9b94f4417",
+      "title": "FirstFT: Officials discuss Trump, Putin and Xi meeting",
+      "summary": "Also in today’s newsletter: America votes and how Lula’s electoral victory in Brazil has lifted the global left",
+      "link": "https://www.ft.com/content/65982705-e3f3-4dfe-8d5d-39809f8a1103?syn-25a6b1a6=1",
+      "published": "2026-11-03T10:47:20+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "FirstFT ：官员讨论特朗普、普京和习近平会晤"
     },
     {
       "id": "50b1bc26ab32",
