@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-11-05T00:34:51.501520+00:00",
-  "total": 4,
+  "last_updated": "2026-11-05T11:41:43.835303+00:00",
+  "total": 6,
   "articles": [
+    {
+      "id": "8d700589abc7",
+      "title": "What the Democratic midterms sweep changes for U.S.-China relations",
+      "summary": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.",
+      "link": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
+      "published": "2026-11-05T06:54:52+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "民主党中期选举对美中关系的改变"
+    },
+    {
+      "id": "106d27ebcd33",
+      "title": "Russia, China may be more aggressive if they feel Trump is on 'his way out': Brookings",
+      "summary": "Russia and China may be more aggressive if they feel that U.S. President Donald Trump is on \"his way out\" after the Democratic Party flipped the midterms.",
+      "link": "https://www.cnbc.com/2026/11/05/trump-russia-china-summit-apec-midterms.html",
+      "published": "2026-11-05T05:58:33+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "如果俄罗斯和中国觉得特朗普正在“走出困境” ，他们可能会更加咄咄逼人：布鲁金斯学会"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
