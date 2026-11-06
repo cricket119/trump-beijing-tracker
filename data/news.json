@@ -1,30 +1,18 @@
 {
-  "last_updated": "2026-11-06T18:38:20.056713+00:00",
-  "total": 8,
+  "last_updated": "2026-11-06T23:51:30.310190+00:00",
+  "total": 7,
   "articles": [
     {
-      "id": "5a6c3e3d5d8d",
-      "title": "US prosecutor who led Trump-backed election probe exits Justice Department",
-      "summary": "Jason Reding Quinones resignation comes as administration braces for Democrat-led investigations.",
-      "link": "https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss",
-      "published": "2026-11-06T17:02:19+00:00",
+      "id": "0b3bfa847ae9",
+      "title": "US urges China to honour Busan trade deal commitments",
+      "summary": "Trump-Xi Busan deal aimed to ease tariffs and tech restrictions; progress hinges on Chinas fulfilment of commitments.",
+      "link": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
+      "published": "2026-11-06T23:00:37+00:00",
       "source": "Al Jazeera",
       "source_color": "#009B77",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "领导特朗普支持的选举调查的美国检察官退出司法部"
-    },
-    {
-      "id": "aaacbf4e72af",
-      "title": "What a Trump-Xi-Putin summit could mean – and what it wouldn’t",
-      "summary": "A Trump-Xi-Putin meeting at APEC would be a coup for Moscow, analysts say, but Beijing appears lukewarm.",
-      "link": "https://www.aljazeera.com/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt?traffic_source=rss",
-      "published": "2026-11-06T13:49:07+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普-西普京峰会可能意味着什么–以及它不会意味着什么"
+      "title_zh": "美国敦促中国兑现釜山贸易协议承诺"
     },
     {
       "id": "8bd7d5d2dfde",
