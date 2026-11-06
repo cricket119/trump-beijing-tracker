@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-06T00:36:15.982365+00:00",
+  "last_updated": "2026-11-06T11:40:10.363845+00:00",
   "total": 6,
   "articles": [
+    {
+      "id": "ea22b48855c5",
+      "title": "A Summit in China With Trump and Putin? That Might be Awkward for Xi.",
+      "summary": "A summit could bolster Xi Jinping’s stature. But talks about Ukraine’s future and limits on nuclear weapons pose uncomfortable choices for China.",
+      "link": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
+      "published": "2026-11-06T05:01:11+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "与特朗普和普京在中国举行峰会？这对习近平来说可能很尴尬。"
+    },
     {
       "id": "f213c732174f",
       "title": "Nvidia's Huang is asked to brief Congress on reported Chinese spy relationship",
@@ -13,18 +25,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "英伟达黄被要求向国会简要介绍所报道的中国间谍关系"
-    },
-    {
-      "id": "8d700589abc7",
-      "title": "What the Democratic midterms sweep changes for U.S.-China relations",
-      "summary": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.",
-      "link": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
-      "published": "2026-11-05T12:57:10+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "民主党中期选举对美中关系的改变"
     },
     {
       "id": "50b1bc26ab32",
