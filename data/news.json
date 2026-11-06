@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-05T19:11:16.048602+00:00",
+  "last_updated": "2026-11-06T00:36:15.982365+00:00",
   "total": 6,
   "articles": [
+    {
+      "id": "f213c732174f",
+      "title": "Nvidia's Huang is asked to brief Congress on reported Chinese spy relationship",
+      "summary": "President Donald Trump was briefed about a year ago about those intelligence findings, The New York Times reported.",
+      "link": "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html",
+      "published": "2026-11-05T22:21:29+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "英伟达黄被要求向国会简要介绍所报道的中国间谍关系"
+    },
     {
       "id": "8d700589abc7",
       "title": "What the Democratic midterms sweep changes for U.S.-China relations",
@@ -13,18 +25,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "民主党中期选举对美中关系的改变"
-    },
-    {
-      "id": "106d27ebcd33",
-      "title": "Russia, China may be more aggressive if they feel Trump is on 'his way out': Brookings",
-      "summary": "Russia and China may be more aggressive if they feel that U.S. President Donald Trump is on \"his way out\" after the Democratic Party flipped the midterms.",
-      "link": "https://www.cnbc.com/2026/11/05/trump-russia-china-summit-apec-midterms.html",
-      "published": "2026-11-05T05:58:33+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "如果俄罗斯和中国觉得特朗普正在“走出困境” ，他们可能会更加咄咄逼人：布鲁金斯学会"
     },
     {
       "id": "50b1bc26ab32",
