@@ -1,31 +1,7 @@
 {
-  "last_updated": "2026-11-08T10:50:44.048412+00:00",
-  "total": 6,
+  "last_updated": "2026-11-08T17:20:35.994301+00:00",
+  "total": 4,
   "articles": [
-    {
-      "id": "c0998576fd0b",
-      "title": "Trump’s defeat heralds a US retreat",
-      "summary": "American retrenchment could change Middle East balance of power and signify opportunities for China",
-      "link": "https://www.ft.com/content/f80ff605-6f6e-4b5d-9fab-20276b78e9b7?syn-25a6b1a6=1",
-      "published": "2026-11-07T05:00:34+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普的失败预示着美国的撤退"
-    },
-    {
-      "id": "8bd7d5d2dfde",
-      "title": "A Trump-Putin-Xi Summit? That Might Be Awkward for One of Them.",
-      "summary": "A summit could bolster Xi Jinping’s stature. But talks about Ukraine’s future and limits on nuclear weapons pose uncomfortable choices for China.",
-      "link": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
-      "published": "2026-11-06T12:28:55+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普-普京-习近平峰会？这对他们中的一个来说可能很尴尬。"
-    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
