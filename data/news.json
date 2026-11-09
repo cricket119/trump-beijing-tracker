@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-08T23:15:20.018017+00:00",
-  "total": 4,
+  "last_updated": "2026-11-09T03:28:10.924960+00:00",
+  "total": 5,
   "articles": [
+    {
+      "id": "032dd82ed410",
+      "title": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearisation’",
+      "summary": "Trump says Iran land blockade is now in effect, as Tehran threatens to rain down hell if US resumes attacks.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+      "published": "2026-11-09T00:00:34+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "伊朗战争现场：特朗普与习近平会谈，普京谈论德黑兰， “无核化”"
+    },
     {
       "id": "50b1bc26ab32",
       "title": "China stresses Taiwan at 'core of core interests' after Xi-Trump call; Room for 'relying on US for independence' illusion will only shrink further: expert",
