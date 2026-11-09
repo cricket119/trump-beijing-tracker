@@ -1,18 +1,66 @@
 {
-  "last_updated": "2026-11-09T12:16:39.934159+00:00",
-  "total": 5,
+  "last_updated": "2026-11-09T23:53:19.539148+00:00",
+  "total": 9,
   "articles": [
     {
-      "id": "143c09bca224",
-      "title": "FirstFT: Nvidia shares fall as it probes alleged Chinese spy scandal",
-      "summary": "Also in today’s newsletter: Trump concedes he was ‘too tough’ on immigration and costs rise for Chinese factory owners",
-      "link": "https://www.ft.com/content/494e9731-d195-40e0-9ad4-cf7811037c05?syn-25a6b1a6=1",
-      "published": "2026-11-09T10:51:20+00:00",
+      "id": "4f4b53d09ca4",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T23:20:29+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普称联邦调查局正在调查英伟达老板与涉嫌中国间谍的婚外情"
+    },
+    {
+      "id": "d905c3ad3c49",
+      "title": "Trump defends Nvidia’s Huang after calling about spy scandal",
+      "summary": "Trump told reporters he believes Nvidia’s CEO Jensen Huang had no idea his alleged mistress was a suspected Chinese spy.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal?traffic_source=rss",
+      "published": "2026-11-09T23:13:44+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普在致电间谍丑闻后为英伟达的黄辩护"
+    },
+    {
+      "id": "025616c042b8",
+      "title": "CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right",
+      "summary": "Following the latest Trump-Xi summit, China pledged further opening of its financial market to companies from all countries, including the U.S.",
+      "link": "https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html",
+      "published": "2026-11-09T23:00:02+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "CNBC的《The China Connection》时事通讯：华尔街再次介入。需要做正确的事情"
+    },
+    {
+      "id": "cedece67330e",
+      "title": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang",
+      "summary": "US company has been rocked by allegations its chief executive had an affair with a Chinese spy",
+      "link": "https://www.ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1",
+      "published": "2026-11-09T22:16:13+00:00",
       "source": "Financial Times",
       "source_color": "#C7A000",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "FirstFT ：英伟达股价下跌，因其调查涉嫌中国间谍丑闻"
+      "title_zh": "特朗普称联邦调查局正在“调查”英伟达的Jensen Huang"
+    },
+    {
+      "id": "5843bc37cfba",
+      "title": "Trump, Putin and the short war illusion",
+      "summary": "The American and Russian leaders have both launched failed wars. Will Xi Jinping learn the right lesson?",
+      "link": "https://www.ft.com/content/fa36233a-1ee0-4bd3-9521-c3defe10c173?syn-25a6b1a6=1",
+      "published": "2026-11-09T12:24:59+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普、普京和短暂的战争幻想"
     },
     {
       "id": "50b1bc26ab32",
