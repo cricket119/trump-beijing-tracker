@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-11-10T15:54:17.997124+00:00",
-  "total": 7,
+  "last_updated": "2026-11-10T21:32:23.363317+00:00",
+  "total": 9,
   "articles": [
+    {
+      "id": "f12d67cbc90a",
+      "title": "With Trump weakened, China courts US tech bosses as it seeks new Kissinger moment",
+      "summary": "",
+      "link": "https://asia.nikkei.com/spotlight/comment/with-trump-weakened-china-courts-us-tech-bosses-as-it-seeks-new-kissinger-moment",
+      "published": "2026-11-10T21:32:35.685560+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "随着特朗普被削弱，中国在寻求新的基辛格时刻时吸引了美国科技老板"
+    },
+    {
+      "id": "8156a5660982",
+      "title": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
+      "summary": "Rep. John Moolenaar, R-Mich., the Republican chairman of the Select Committee on China and told CNBC he expects answers about Jensen Huang's relationship.",
+      "link": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
+      "published": "2026-11-10T21:11:36+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "舒默指责特朗普以国家安全为代价为英伟达首席执行官黄延森辩护"
+    },
     {
       "id": "0f0525d2fa79",
       "title": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
