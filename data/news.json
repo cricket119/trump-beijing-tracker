@@ -1,25 +1,13 @@
 {
-  "last_updated": "2026-11-10T05:01:46.222438+00:00",
-  "total": 10,
+  "last_updated": "2026-11-10T15:54:17.997124+00:00",
+  "total": 7,
   "articles": [
-    {
-      "id": "4f4b53d09ca4",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T03:58:13+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普称联邦调查局正在调查英伟达老板与涉嫌中国间谍的婚外情"
-    },
     {
       "id": "0f0525d2fa79",
       "title": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
       "summary": "President Donald Trump suggested he had only recently learned of allegations that Alice Huang was a Chinese spy.",
       "link": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
-      "published": "2026-11-10T01:43:47+00:00",
+      "published": "2026-11-10T08:56:30+00:00",
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
@@ -27,40 +15,16 @@
       "title_zh": "特朗普说， Jensen Huang周一告诉他，他不知道情人“是间谍”"
     },
     {
-      "id": "84c2668c1d8c",
-      "title": "Trump says FBI probing Nvidia CEO Huang’s affair with alleged spy",
-      "summary": "US president says he believes CEO Jensen Huang had no knowledge of womans alleged work for Chinese intelligence.",
-      "link": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
-      "published": "2026-11-10T00:44:28+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
+      "id": "4f4b53d09ca4",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T08:23:21+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "特朗普称联邦调查局正在调查Nvidia首席执行官Huang与涉嫌间谍的婚外情"
-    },
-    {
-      "id": "cedece67330e",
-      "title": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang",
-      "summary": "US company has been rocked by allegations its chief executive had an affair with a Chinese spy",
-      "link": "https://www.ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1",
-      "published": "2026-11-10T00:35:56+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普称联邦调查局正在“调查”英伟达的Jensen Huang"
-    },
-    {
-      "id": "d905c3ad3c49",
-      "title": "Trump defends Nvidia’s Huang after calling about spy scandal",
-      "summary": "Trump told reporters he believes Nvidia’s CEO Jensen Huang had no idea his alleged mistress was a suspected Chinese spy.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal?traffic_source=rss",
-      "published": "2026-11-09T23:13:44+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普在致电间谍丑闻后为英伟达的黄辩护"
+      "title_zh": "特朗普称联邦调查局正在调查英伟达老板与涉嫌中国间谍的婚外情"
     },
     {
       "id": "025616c042b8",
