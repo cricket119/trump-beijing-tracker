@@ -1,30 +1,42 @@
 {
-  "last_updated": "2026-11-11T11:31:32.564861+00:00",
-  "total": 6,
+  "last_updated": "2026-11-11T18:57:48.346276+00:00",
+  "total": 7,
   "articles": [
     {
       "id": "f12d67cbc90a",
       "title": "With Trump weakened, China courts US tech bosses as it seeks new Kissinger moment",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/comment/with-trump-weakened-china-courts-us-tech-bosses-as-it-seeks-new-kissinger-moment",
-      "published": "2026-11-11T11:31:44.700102+00:00",
+      "published": "2026-11-11T18:58:00.724597+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
-      "title_zh": "随着特朗普被削弱，中国在寻求新的基辛格时刻时吸引了美国科技老板"
+      "title_zh": "随着特朗普的弱势，中国在寻求新的基辛格时刻之际，正向美国科技大佬示好。"
     },
     {
-      "id": "025616c042b8",
-      "title": "CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right",
-      "summary": "Following the latest Trump-Xi summit, China pledged further opening of its financial market to companies from all countries, including the U.S.",
-      "link": "https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html",
-      "published": "2026-11-09T23:00:02+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
+      "id": "f2ce65708a8a",
+      "title": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy",
+      "summary": "That the United States suspected Nvidia’s leader was a Chinese spy target underscores the deep distrust between the two powers, even as their leaders try to stabilize ties.",
+      "link": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
+      "published": "2026-11-11T14:57:07+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "英伟达丑闻揭示了特朗普与习近平外交背后的激烈间谍战"
+    },
+    {
+      "id": "1672c327bd65",
+      "title": "US-Backed Lithium Americas Hit by Rising Costs on Trump Tariffs",
+      "summary": "Lithium Americas Corp.’s Nevada mine was supposed to be the US solution to curbing dependence on China for a critical mineral for batteries. Instead, the company is getting hammered by the Trump administration’s tariffs.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-11/lithium-americas-shares-sink-as-us-backed-mine-costs-rise",
+      "published": "2026-11-11T14:53:13+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "CNBC的《The China Connection》时事通讯：华尔街再次介入。需要做正确的事情"
+      "title_zh": "美国支持的锂业公司Lithium Americas受到特朗普关税导致成本上涨的冲击"
     },
     {
       "id": "50b1bc26ab32",
@@ -36,7 +48,7 @@
       "source_color": "#CC0000",
       "source_lang": "en",
       "source_category": "chinese_official",
-      "title_zh": "在习近平通话后，中国强调台湾是“核心利益的核心” ； “依靠美国独立”的幻想空间只会进一步缩小：专家"
+      "title_zh": "习近平与特朗普通话后，中国强调台湾是“核心利益的核心”；专家表示，“依靠美国实现独立”的幻想空间只会进一步缩小。"
     },
     {
       "id": "2c9f49adac2e",
@@ -48,7 +60,7 @@
       "source_color": "#CC0000",
       "source_lang": "en",
       "source_category": "chinese_official",
-      "title_zh": "特朗普声称印度将购买委内瑞拉石油，欢迎中国的投资;中国专家注意到言论“单方面” ，没有得到印度方面的确认"
+      "title_zh": "特朗普声称印度将购买委内瑞拉石油，并欢迎中国的投资；中国专家注意到这些言论“单方面”，印度方面未予确认。"
     },
     {
       "id": "28925d7651b5",
@@ -60,7 +72,7 @@
       "source_color": "#333333",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "北京表示愿意与特朗普的团队对话，即使是老对手"
+      "title_zh": "北京方面释放出愿意与特朗普团队（甚至是昔日对手）进行对话的信号"
     },
     {
       "id": "b279b93e7dae",
