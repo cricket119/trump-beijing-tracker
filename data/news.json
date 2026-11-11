@@ -1,30 +1,18 @@
 {
-  "last_updated": "2026-11-11T03:35:58.843177+00:00",
-  "total": 7,
+  "last_updated": "2026-11-11T11:31:32.564861+00:00",
+  "total": 6,
   "articles": [
     {
       "id": "f12d67cbc90a",
       "title": "With Trump weakened, China courts US tech bosses as it seeks new Kissinger moment",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/comment/with-trump-weakened-china-courts-us-tech-bosses-as-it-seeks-new-kissinger-moment",
-      "published": "2026-11-11T03:36:12.472606+00:00",
+      "published": "2026-11-11T11:31:44.700102+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "随着特朗普被削弱，中国在寻求新的基辛格时刻时吸引了美国科技老板"
-    },
-    {
-      "id": "4f4b53d09ca4",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T08:23:21+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普称联邦调查局正在调查英伟达老板与涉嫌中国间谍的婚外情"
     },
     {
       "id": "025616c042b8",
