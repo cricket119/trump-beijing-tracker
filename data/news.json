@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-11-12T11:57:26.968618+00:00",
-  "total": 8,
+  "last_updated": "2026-11-12T19:27:04.533533+00:00",
+  "total": 9,
   "articles": [
     {
-      "id": "f12d67cbc90a",
-      "title": "With Trump weakened, China courts US tech bosses as it seeks new Kissinger moment",
-      "summary": "",
-      "link": "https://asia.nikkei.com/spotlight/comment/with-trump-weakened-china-courts-us-tech-bosses-as-it-seeks-new-kissinger-moment",
-      "published": "2026-11-12T11:57:40.084962+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
+      "id": "055b0b3ed5a9",
+      "title": "Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?",
+      "summary": "Outgoing Nvidia chief credited with easing US-China chip ties but personal scandal unlikely to upend next weeks talks.",
+      "link": "https://www.aljazeera.com/news/2026/11/12/trump-heads-to-china-amid-nvidia-scandal-will-he-get-tougher-on-beijing?traffic_source=rss",
+      "published": "2026-11-12T14:48:10+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "随着特朗普的弱势，中国在寻求新的基辛格时刻之际，开始拉拢美国科技大佬。"
+      "source_category": "international",
+      "title_zh": "特朗普在英伟达丑闻之际访华：他会对北京采取更强硬的立场吗？"
+    },
+    {
+      "id": "9b3fa1e18ce6",
+      "title": "Trump threatens to double tariffs on Mexico over illegal immigration",
+      "summary": "US president says levies will increase if trade partner does nothing to stop illegal crossings",
+      "link": "https://www.ft.com/content/b4bb6e99-97c8-4392-a227-b7b74853ba26?syn-25a6b1a6=1",
+      "published": "2026-11-12T14:12:20+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普威胁因非法移民问题而对墨西哥加征双倍关税"
     },
     {
       "id": "90c9c8c0da1d",
@@ -36,7 +48,7 @@
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "英伟达丑闻揭示了特朗普与习近平外交背后激烈的情报战"
+      "title_zh": "英伟达丑闻揭示了特朗普与习近平外交背后的激烈间谍战"
     },
     {
       "id": "d1c4546dbd51",
@@ -96,7 +108,7 @@
       "source_color": "#333333",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "加拿大正在成为芬太尼出口国，也成为特朗普的目标"
+      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
     }
   ]
 }
