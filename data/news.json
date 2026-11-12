@@ -1,18 +1,42 @@
 {
-  "last_updated": "2026-11-12T01:43:11.682793+00:00",
-  "total": 7,
+  "last_updated": "2026-11-12T11:57:26.968618+00:00",
+  "total": 8,
   "articles": [
     {
       "id": "f12d67cbc90a",
       "title": "With Trump weakened, China courts US tech bosses as it seeks new Kissinger moment",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/comment/with-trump-weakened-china-courts-us-tech-bosses-as-it-seeks-new-kissinger-moment",
-      "published": "2026-11-12T01:43:26.482595+00:00",
+      "published": "2026-11-12T11:57:40.084962+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "随着特朗普的弱势，中国在寻求新的基辛格时刻之际，开始拉拢美国科技大佬。"
+    },
+    {
+      "id": "90c9c8c0da1d",
+      "title": "Jensen Huang's affair with alleged spy revives push to tighten China chip curbs ahead of Trump-Xi summit",
+      "summary": "The scandal engulfing Jensen Huang is fueling calls for tighter restrictions on China's access to advanced AI chips, just days before the Trump-Xi summit.",
+      "link": "https://www.cnbc.com/2026/11/12/nvidia-trump-jensen-chip-export-controls-china-xi-.html",
+      "published": "2026-11-12T07:50:34+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "在特朗普与习近平会晤前夕，Jensen Huang与涉嫌间谍人员的绯闻再次引发了对中国芯片限制的收紧呼声。"
+    },
+    {
+      "id": "f2ce65708a8a",
+      "title": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy",
+      "summary": "That the United States suspected Nvidia’s leader was a Chinese spy target underscores the deep distrust between the two powers, even as their leaders try to stabilize ties.",
+      "link": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
+      "published": "2026-11-12T03:22:36+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "英伟达丑闻揭示了特朗普与习近平外交背后激烈的情报战"
     },
     {
       "id": "d1c4546dbd51",
@@ -25,18 +49,6 @@
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "习近平和特朗普在深圳亚太经合组织峰会上可轻松摘取的“低垂的果实”"
-    },
-    {
-      "id": "f2ce65708a8a",
-      "title": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy",
-      "summary": "That the United States suspected Nvidia’s leader was a Chinese spy target underscores the deep distrust between the two powers, even as their leaders try to stabilize ties.",
-      "link": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
-      "published": "2026-11-11T21:24:12+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "英伟达丑闻揭示了特朗普与习近平外交背后的激烈间谍战"
     },
     {
       "id": "50b1bc26ab32",
@@ -72,7 +84,7 @@
       "source_color": "#333333",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "北京方面释放出愿意与特朗普团队（甚至是老对手）进行对话的信号"
+      "title_zh": "北京方面释放出愿意与特朗普团队（甚至是昔日对手）进行对话的信号"
     },
     {
       "id": "b279b93e7dae",
@@ -84,7 +96,7 @@
       "source_color": "#333333",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
+      "title_zh": "加拿大正在成为芬太尼出口国，也成为特朗普的目标"
     }
   ]
 }
