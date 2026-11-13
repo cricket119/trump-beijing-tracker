@@ -1,30 +1,18 @@
 {
-  "last_updated": "2026-11-13T00:46:13.893293+00:00",
-  "total": 9,
+  "last_updated": "2026-11-13T11:40:54.963532+00:00",
+  "total": 8,
   "articles": [
     {
-      "id": "52488b40982d",
-      "title": "US lawmakers pile pressure on Howard Lutnick as Nvidia scandal widens",
-      "summary": "Legislators demand Trump’s commerce secretary explain why he allowed chip sales to company linked to alleged Chinese spy",
-      "link": "https://www.ft.com/content/190e5eea-7461-4b26-8b69-17a3288e31d4?syn-25a6b1a6=1",
-      "published": "2026-11-12T23:35:11+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
+      "id": "6a046797b57c",
+      "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+      "summary": "The political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September.",
+      "link": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
+      "published": "2026-11-13T02:56:35+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "随着Nvidia丑闻的扩大，美国立法者对霍华德·卢特尼克施加压力"
-    },
-    {
-      "id": "9b3fa1e18ce6",
-      "title": "Trump threatens to double tariffs on Mexico over illegal immigration",
-      "summary": "US president says levies will increase if trade partner does nothing to stop illegal crossings",
-      "link": "https://www.ft.com/content/b4bb6e99-97c8-4392-a227-b7b74853ba26?syn-25a6b1a6=1",
-      "published": "2026-11-12T14:12:20+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普威胁要对墨西哥的非法移民加征双倍关税"
+      "title_zh": "黄仁勋事件如何改变中美关系的前景"
     },
     {
       "id": "90c9c8c0da1d",
@@ -48,7 +36,7 @@
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "英伟达丑闻揭示了特朗普与习近平外交背后激烈的情报战"
+      "title_zh": "英伟达丑闻揭示了特朗普与习近平外交背后的激烈间谍战"
     },
     {
       "id": "d1c4546dbd51",
