@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-11-12T19:27:04.533533+00:00",
+  "last_updated": "2026-11-13T00:46:13.893293+00:00",
   "total": 9,
   "articles": [
     {
-      "id": "055b0b3ed5a9",
-      "title": "Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?",
-      "summary": "Outgoing Nvidia chief credited with easing US-China chip ties but personal scandal unlikely to upend next weeks talks.",
-      "link": "https://www.aljazeera.com/news/2026/11/12/trump-heads-to-china-amid-nvidia-scandal-will-he-get-tougher-on-beijing?traffic_source=rss",
-      "published": "2026-11-12T14:48:10+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
+      "id": "52488b40982d",
+      "title": "US lawmakers pile pressure on Howard Lutnick as Nvidia scandal widens",
+      "summary": "Legislators demand Trump’s commerce secretary explain why he allowed chip sales to company linked to alleged Chinese spy",
+      "link": "https://www.ft.com/content/190e5eea-7461-4b26-8b69-17a3288e31d4?syn-25a6b1a6=1",
+      "published": "2026-11-12T23:35:11+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普在英伟达丑闻之际访华：他会对北京采取更强硬的立场吗？"
+      "source_category": "business",
+      "title_zh": "随着Nvidia丑闻的扩大，美国立法者对霍华德·卢特尼克施加压力"
     },
     {
       "id": "9b3fa1e18ce6",
@@ -24,7 +24,7 @@
       "source_color": "#C7A000",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "特朗普威胁因非法移民问题而对墨西哥加征双倍关税"
+      "title_zh": "特朗普威胁要对墨西哥的非法移民加征双倍关税"
     },
     {
       "id": "90c9c8c0da1d",
@@ -48,7 +48,7 @@
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "英伟达丑闻揭示了特朗普与习近平外交背后的激烈间谍战"
+      "title_zh": "英伟达丑闻揭示了特朗普与习近平外交背后激烈的情报战"
     },
     {
       "id": "d1c4546dbd51",
