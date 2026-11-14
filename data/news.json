@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T11:02:56.773344+00:00",
+  "last_updated": "2026-11-14T17:25:53.560283+00:00",
   "total": 11,
   "articles": [
     {
@@ -7,7 +7,7 @@
       "title": "US-China truce masks rising tensions ahead of Xi-Trump redux at APEC",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/big-in-asia/us-china-truce-masks-rising-tensions-ahead-of-xi-trump-redux-at-apec",
-      "published": "2026-11-14T11:03:09.377260+00:00",
+      "published": "2026-11-14T17:26:07.219907+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -15,47 +15,23 @@
       "title_zh": "在习近平与特朗普于亚太经合组织峰会再次会晤前夕，中美停火掩盖了日益加剧的紧张局势"
     },
     {
-      "id": "539efef51ff4",
-      "title": "Southeast Asian leaders to meet as Trump visit highlights trade disruption",
-      "summary": "ASEAN summit comes as US president embarks on Asia trip that will see him meet Chinas Xi.",
-      "link": "https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption?traffic_source=rss",
-      "published": "2026-11-14T06:48:14+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "东南亚领导人将举行会晤，特朗普的访问凸显了贸易中断问题"
-    },
-    {
       "id": "6a1de88db50e",
       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
       "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
       "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T05:52:31+00:00",
+      "published": "2026-11-14T15:53:55+00:00",
       "source": "BBC",
       "source_color": "#BB1919",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "白宫表示，特朗普、普京和习近平计划下周在中国举行历史性联合会晤"
-    },
-    {
-      "id": "a1d25a82b31b",
-      "title": "Trump, Xi and Putin to hold first three-way summit in China",
-      "summary": "White House says Trump plans to discuss the Iran war and nuclear arms at a meeting on the sidelines of APEC next week.",
-      "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
-      "published": "2026-11-14T04:55:58+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普、习近平和普京将在中国举行首次三方峰会"
+      "title_zh": "白宫表示，特朗普、普京和习近平计划下周在中国举行历史性会晤"
     },
     {
       "id": "c1cea0c81e86",
       "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
       "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
       "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
-      "published": "2026-11-14T01:34:11+00:00",
+      "published": "2026-11-14T15:36:47+00:00",
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
@@ -63,16 +39,40 @@
       "title_zh": "美国官员：特朗普不打算在访华期间提及英伟达和间谍问题"
     },
     {
-      "id": "f23e4e46663d",
-      "title": "Trump will not raise Nvidia spy issue with Xi at summit, officials say",
-      "summary": "US president will hold trilateral meeting with Chinese leader and Russia’s Vladimir Putin next week",
-      "link": "https://www.ft.com/content/6034dd16-8c7d-4b3e-bc4e-942a6c8529dd?syn-25a6b1a6=1",
-      "published": "2026-11-14T01:28:36+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
+      "id": "def16c6be086",
+      "title": "Bessent, Lutnick Clash Over Nvidia China Curbs",
+      "summary": "Axios AI policy reporter Maria Curi tells Bloomberg This Weekend about tensions inside the Trump administration over efforts to restrict the flow of advanced Nvidia chips to China and scrutiny of Commerce Secretary Howard Lutnick’s handling of Megaspeed. Speaking with hosts David Gura and Christina Ruffini, Curi explains the reported disagreements between Lutnick and other senior officials, including Scott Bessent, and the national security questions surrounding US technology exports to China. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-14/bessent-lutnick-clash-over-nvidia-china-curbs-video",
+      "published": "2026-11-14T14:30:24+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "官员表示，特朗普不会在峰会上向习近平提出英伟达间谍问题"
+      "title_zh": "贝森特与卢特尼克就英伟达对中国的限制措施发生争执"
+    },
+    {
+      "id": "10283b947b1a",
+      "title": "Trump Heads to China for Talks With Xi and Putin",
+      "summary": "Bloomberg White House correspondent Jeff Mason tells Bloomberg This Weekend how the Trump administration responded to a nationwide FAA ground stop and Transportation Secretary Sean Duffy’s push for $50 billion to modernize the US air traffic control system. Speaking with hosts David Gura and Christina Ruffini, Mason also looks ahead to President Donald Trump’s Asia trip and a planned meeting with Chinese President Xi Jinping as technology and AI remain in focus. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-14/trump-heads-to-china-for-talks-with-xi-and-putin-video",
+      "published": "2026-11-14T14:11:19+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普将前往中国与习近平和普京举行会谈"
+    },
+    {
+      "id": "ec50efeea1e8",
+      "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
+      "summary": "A nuclear treaty and the USs war on Iran are among priority topics for China, Russia and US leaders.",
+      "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss",
+      "published": "2026-11-14T12:14:14+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "亚太经合组织特朗普-习近平-普京三方会晤：有哪些看点？"
     },
     {
       "id": "1ad6d759bf52",
@@ -120,7 +120,7 @@
       "source_color": "#333333",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "北京释放信号，表示愿意与特朗普的团队进行对话，即使是与老对手。"
+      "title_zh": "北京方面释放出愿意与特朗普团队（甚至是老对手）进行对话的信号"
     },
     {
       "id": "b279b93e7dae",
