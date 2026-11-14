@@ -1,30 +1,42 @@
 {
-  "last_updated": "2026-11-13T18:53:19.755938+00:00",
+  "last_updated": "2026-11-14T00:31:35.589761+00:00",
   "total": 9,
   "articles": [
     {
-      "id": "0cb801a1152f",
-      "title": "Nvidia Eyes Worst Week Since Trump Tariff Selloff as Huang Exits",
-      "summary": "Nvidia Corp. stock is on track to notch its worst week in more than 18 months, as its share price continues to reel after Jensen Huang’s ouster from the top chipmaker.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-eyes-worst-week-since-trump-tariff-selloff-as-huang-exits",
-      "published": "2026-11-13T18:24:41+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
+      "id": "b5e9d3ac95ad",
+      "title": "US-China truce masks rising tensions ahead of Xi-Trump redux at APEC",
+      "summary": "",
+      "link": "https://asia.nikkei.com/spotlight/big-in-asia/us-china-truce-masks-rising-tensions-ahead-of-xi-trump-redux-at-apec",
+      "published": "2026-11-14T00:31:48.125775+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "黄仁勋离任，英伟达面临自特朗普关税抛售以来的最差一周"
+      "source_category": "asia",
+      "title_zh": "在习近平与特朗普于亚太经合组织峰会再次会晤前夕，中美停火掩盖了日益加剧的紧张局势"
     },
     {
       "id": "1ad6d759bf52",
       "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
       "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
       "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T15:40:08+00:00",
+      "published": "2026-11-13T19:53:57+00:00",
       "source": "BBC",
       "source_color": "#BB1919",
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "随着特朗普的财政部长指责内阁同事，Nvidia丑闻的影响进一步扩大"
+    },
+    {
+      "id": "d53e145d3eda",
+      "title": "Nvidia Has Worst Week Since Trump Tariff Selloff as Huang Exits",
+      "summary": "Nvidia Corp. stock notched its worst week in more than 18 months, as its share price continued to reel after Jensen Huang’s ouster from the top chipmaker.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-eyes-worst-week-since-trump-tariff-selloff-as-huang-exits",
+      "published": "2026-11-13T18:24:41+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "黄仁勋离职，英伟达遭遇自特朗普关税抛售以来的最差一周"
     },
     {
       "id": "6a046797b57c",
@@ -37,18 +49,6 @@
       "source_lang": "en",
       "source_category": "business",
       "title_zh": "黄仁勋事件如何改变中美关系的前景"
-    },
-    {
-      "id": "f2ce65708a8a",
-      "title": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy",
-      "summary": "That the United States suspected Nvidia’s leader was a Chinese spy target underscores the deep distrust between the two powers, even as their leaders try to stabilize ties.",
-      "link": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
-      "published": "2026-11-12T03:22:36+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "英伟达丑闻揭示了特朗普与习近平外交背后激烈的情报战"
     },
     {
       "id": "d1c4546dbd51",
