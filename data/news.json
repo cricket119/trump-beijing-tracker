@@ -1,18 +1,78 @@
 {
-  "last_updated": "2026-11-14T00:31:35.589761+00:00",
-  "total": 9,
+  "last_updated": "2026-11-14T11:02:56.773344+00:00",
+  "total": 11,
   "articles": [
     {
       "id": "b5e9d3ac95ad",
       "title": "US-China truce masks rising tensions ahead of Xi-Trump redux at APEC",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/big-in-asia/us-china-truce-masks-rising-tensions-ahead-of-xi-trump-redux-at-apec",
-      "published": "2026-11-14T00:31:48.125775+00:00",
+      "published": "2026-11-14T11:03:09.377260+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "在习近平与特朗普于亚太经合组织峰会再次会晤前夕，中美停火掩盖了日益加剧的紧张局势"
+    },
+    {
+      "id": "539efef51ff4",
+      "title": "Southeast Asian leaders to meet as Trump visit highlights trade disruption",
+      "summary": "ASEAN summit comes as US president embarks on Asia trip that will see him meet Chinas Xi.",
+      "link": "https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption?traffic_source=rss",
+      "published": "2026-11-14T06:48:14+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "东南亚领导人将举行会晤，特朗普的访问凸显了贸易中断问题"
+    },
+    {
+      "id": "6a1de88db50e",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T05:52:31+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "白宫表示，特朗普、普京和习近平计划下周在中国举行历史性联合会晤"
+    },
+    {
+      "id": "a1d25a82b31b",
+      "title": "Trump, Xi and Putin to hold first three-way summit in China",
+      "summary": "White House says Trump plans to discuss the Iran war and nuclear arms at a meeting on the sidelines of APEC next week.",
+      "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
+      "published": "2026-11-14T04:55:58+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普、习近平和普京将在中国举行首次三方峰会"
+    },
+    {
+      "id": "c1cea0c81e86",
+      "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+      "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
+      "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+      "published": "2026-11-14T01:34:11+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "美国官员：特朗普不打算在访华期间提及英伟达和间谍问题"
+    },
+    {
+      "id": "f23e4e46663d",
+      "title": "Trump will not raise Nvidia spy issue with Xi at summit, officials say",
+      "summary": "US president will hold trilateral meeting with Chinese leader and Russia’s Vladimir Putin next week",
+      "link": "https://www.ft.com/content/6034dd16-8c7d-4b3e-bc4e-942a6c8529dd?syn-25a6b1a6=1",
+      "published": "2026-11-14T01:28:36+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "官员表示，特朗普不会在峰会上向习近平提出英伟达间谍问题"
     },
     {
       "id": "1ad6d759bf52",
@@ -25,42 +85,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "随着特朗普的财政部长指责内阁同事，Nvidia丑闻的影响进一步扩大"
-    },
-    {
-      "id": "d53e145d3eda",
-      "title": "Nvidia Has Worst Week Since Trump Tariff Selloff as Huang Exits",
-      "summary": "Nvidia Corp. stock notched its worst week in more than 18 months, as its share price continued to reel after Jensen Huang’s ouster from the top chipmaker.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-eyes-worst-week-since-trump-tariff-selloff-as-huang-exits",
-      "published": "2026-11-13T18:24:41+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "黄仁勋离职，英伟达遭遇自特朗普关税抛售以来的最差一周"
-    },
-    {
-      "id": "6a046797b57c",
-      "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
-      "summary": "The political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September.",
-      "link": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
-      "published": "2026-11-13T02:56:35+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "黄仁勋事件如何改变中美关系的前景"
-    },
-    {
-      "id": "d1c4546dbd51",
-      "title": "Low-hanging fruit for Xi and Trump to pluck at Shenzhen Apec summit",
-      "summary": "The Asia-Pacific Economic Cooperation summit is set to take place in Shenzhen on November 18 and 19. Shenzhen will also be playing host to the first of two further meetings between Chinese President Xi Jinping and US President Donald Trump this year.\nWhen the two leaders met in May and September, they called for “constructive strategic stability” as a prescription for US-China relations. Both sides are keen to maintain the fragile detente, in part due to domestic considerations.\nBeijing wants to...",
-      "link": "https://www.scmp.com/opinion/china-opinion/article/3373661/low-hanging-fruit-xi-and-trump-pluck-shenzhen-apec-summit",
-      "published": "2026-11-11T21:30:05+00:00",
-      "source": "SCMP",
-      "source_color": "#003580",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "习近平和特朗普在深圳亚太经合组织峰会上可轻松摘取的“低垂的果实”"
     },
     {
       "id": "50b1bc26ab32",
@@ -96,7 +120,7 @@
       "source_color": "#333333",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "北京方面释放出愿意与特朗普团队（甚至是昔日对手）进行对话的信号"
+      "title_zh": "北京释放信号，表示愿意与特朗普的团队进行对话，即使是与老对手。"
     },
     {
       "id": "b279b93e7dae",
@@ -107,8 +131,7 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
+      "source_category": "business"
     }
   ]
 }
