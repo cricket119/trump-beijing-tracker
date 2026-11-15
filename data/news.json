@@ -1,30 +1,30 @@
 {
-  "last_updated": "2026-11-15T03:37:46.278349+00:00",
-  "total": 10,
+  "last_updated": "2026-11-15T11:36:37.545245+00:00",
+  "total": 9,
   "articles": [
     {
       "id": "b5e9d3ac95ad",
       "title": "US-China truce masks rising tensions ahead of Xi-Trump redux at APEC",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/big-in-asia/us-china-truce-masks-rising-tensions-ahead-of-xi-trump-redux-at-apec",
-      "published": "2026-11-15T03:38:00.283040+00:00",
+      "published": "2026-11-15T11:36:50.869131+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
-      "title_zh": "在习近平与特朗普于亚太经合组织峰会再次会晤前夕，中美停火掩盖了日益加剧的紧张局势"
+      "title_zh": "中美休战掩盖了习近平与特朗普在亚太经合组织峰会再次会晤前紧张局势的加剧"
     },
     {
       "id": "b9047143803a",
       "title": "Eyeing his legacy, Trump seizes chance for arms talks with Xi and Putin",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/eyeing-his-legacy-trump-seizes-chance-for-arms-talks-with-xi-and-putin",
-      "published": "2026-11-15T03:38:00.282935+00:00",
+      "published": "2026-11-15T11:36:50.869001+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
-      "title_zh": "着眼于自己的政治遗产，特朗普抓住机会与习近平和普京进行军备谈判"
+      "title_zh": "着眼于自己的政治遗产，特朗普抓住机会与习近平和普京进行军备会谈"
     },
     {
       "id": "6a1de88db50e",
@@ -39,18 +39,6 @@
       "title_zh": "白宫表示，特朗普、普京和习近平计划下周在中国举行历史性会晤"
     },
     {
-      "id": "c1cea0c81e86",
-      "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
-      "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
-      "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
-      "published": "2026-11-14T15:36:47+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "美国官员：特朗普不打算在访华期间提及英伟达和间谍问题"
-    },
-    {
       "id": "def16c6be086",
       "title": "Bessent, Lutnick Clash Over Nvidia China Curbs",
       "summary": "Axios AI policy reporter Maria Curi tells Bloomberg This Weekend about tensions inside the Trump administration over efforts to restrict the flow of advanced Nvidia chips to China and scrutiny of Commerce Secretary Howard Lutnick’s handling of Megaspeed. Speaking with hosts David Gura and Christina Ruffini, Curi explains the reported disagreements between Lutnick and other senior officials, including Scott Bessent, and the national security questions surrounding US technology exports to China. (Source: Bloomberg)",
@@ -60,7 +48,7 @@
       "source_color": "#1976D2",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "贝森特与卢特尼克就对英伟达的中国限制措施发生争执"
+      "title_zh": "贝森特与卢特尼克就英伟达对中国的限制措施发生争执"
     },
     {
       "id": "10283b947b1a",
@@ -96,7 +84,7 @@
       "source_color": "#CC0000",
       "source_lang": "en",
       "source_category": "chinese_official",
-      "title_zh": "特朗普声称印度将购买委内瑞拉石油，并欢迎中国的投资；中国专家指出该言论“单方面”，印度方面未予确认。"
+      "title_zh": "特朗普声称印度将购买委内瑞拉石油，并欢迎中国的投资；中国专家注意到这些言论“单方面”，印度方面未予确认。"
     },
     {
       "id": "28925d7651b5",
