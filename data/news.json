@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T18:07:06.021281+00:00",
+  "last_updated": "2026-11-15T23:37:39.600101+00:00",
   "total": 10,
   "articles": [
     {
@@ -7,19 +7,19 @@
       "title": "US-China truce masks rising tensions ahead of Xi-Trump redux at APEC",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/big-in-asia/us-china-truce-masks-rising-tensions-ahead-of-xi-trump-redux-at-apec",
-      "published": "2026-11-15T18:07:20.873861+00:00",
+      "published": "2026-11-15T23:37:52.122241+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
-      "title_zh": "在习近平与特朗普于亚太经合组织峰会再次会晤前夕，中美停火掩盖了日益加剧的紧张局势"
+      "title_zh": "在习近平与特朗普于亚太经合组织峰会再次会晤前夕，中美停战掩盖了日益紧张的局势"
     },
     {
       "id": "b9047143803a",
       "title": "Eyeing his legacy, Trump seizes chance for arms talks with Xi and Putin",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/eyeing-his-legacy-trump-seizes-chance-for-arms-talks-with-xi-and-putin",
-      "published": "2026-11-15T18:07:20.873710+00:00",
+      "published": "2026-11-15T23:37:52.122066+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -27,11 +27,35 @@
       "title_zh": "着眼于自己的政治遗产，特朗普抓住机会与习近平和普京进行军备会谈"
     },
     {
+      "id": "f03e51141aa8",
+      "title": "Geopolitics a threat to shipping but Hong Kong can tap mainland China’s potential: experts",
+      "summary": "Geopolitics will remain the biggest challenge to Hong Kong’s shipping industry as it seeks to stay competitive, although US President Donald Trump’s indication to hold off on further attacks on Iran is positive news amid the global fuel crisis, industry leaders have said.\nThey also highlighted the strategic importance of the city’s container terminal in Kwai Tsing as a link between mainland China and the world, saying it was a key piece of infrastructure for Hong Kong despite a sustained decline...",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3374474/geopolitics-still-threat-shipping-hong-kong-can-tap-chinas-potential-experts",
+      "published": "2026-11-15T23:00:18+00:00",
+      "source": "SCMP",
+      "source_color": "#003580",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "专家：地缘政治对航运构成威胁，但香港可以发掘中国大陆的潜力"
+    },
+    {
+      "id": "3ce00cac8f16",
+      "title": "Anthropic IPO to further fuel the AI news cycle",
+      "summary": "New York listing date arrives, Trump, Xi and Putin in Shenzhen, a UK-EU entente cordiale",
+      "link": "https://www.ft.com/content/3c7c1b7a-541d-47a3-b074-b8e17e7b050c?syn-25a6b1a6=1",
+      "published": "2026-11-15T18:15:07+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "Anthropic的IPO将进一步推动人工智能新闻周期"
+    },
+    {
       "id": "20bbf538af23",
       "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
       "summary": "Bessent has criticized Howard Lutnick’s department over suspected chip diversion to China while defending President Donald Trump’s handling of the matter.",
       "link": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
-      "published": "2026-11-15T16:49:11+00:00",
+      "published": "2026-11-15T18:10:18+00:00",
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
@@ -39,40 +63,16 @@
       "title_zh": "贝森特呼吁英伟达进行“大刀阔斧的改革”，并敦促聘请外部人士担任首席执行官"
     },
     {
-      "id": "4eef9eaf78ee",
-      "title": "Nvidia Crisis Complicates Trump’s China Trip",
-      "summary": "On Bloomberg This Weekend, co-host of Bloomberg Surveillance Annmarie Hordern examines how scrutiny surrounding Nvidia and Jensen Huang is shifting the focus of President Donald Trump’s China trip from trade toward chip export controls and questions about how restricted technology may have reached China. Speaking with host Christina Ruffini, Hordern also discusses mounting pressure on the Commerce Department and how the controversy could lead Congress to pursue tighter controls on advanced chips and computing power. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-15/nvidia-crisis-complicates-trump-s-china-trip-video",
-      "published": "2026-11-15T13:05:46+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
+      "id": "b74b4f2f1cda",
+      "title": "US and allies sign accord to protect AI supply chains from China",
+      "summary": "Pact comes ahead of Donald Trump’s meeting with Xi Jinping at the Asia-Pacific Economic Cooperation forum in Shenzhen",
+      "link": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
+      "published": "2026-11-15T17:47:43+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "英伟达危机使特朗普的中国之行更加复杂"
-    },
-    {
-      "id": "870243be581f",
-      "title": "Trump Heads to Asia With Trade, Security at Stake",
-      "summary": "Bloomberg’s Avril Hong is on Bloomberg This Weekend to preview President Donald Trump’s trip to Asia, where trade, security ties and China’s growing regional influence are expected to shape meetings with Philippine President Ferdinand Marcos Jr. and other Southeast Asian leaders. Speaking with hosts David Gura and Christina Ruffini, Hong also examines the business stakes surrounding the trip, including Elon Musk’s reported participation and the debate over US restrictions on China’s access to advanced semiconductor technology. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-15/trump-heads-to-asia-with-trade-security-at-stake-video",
-      "published": "2026-11-15T12:52:36+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普前往亚洲，贸易和安全问题岌岌可危"
-    },
-    {
-      "id": "6a1de88db50e",
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T15:53:55+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "白宫表示，特朗普、普京和习近平计划下周在中国举行历史性会晤"
+      "title_zh": "美国及其盟友签署协议，以保护人工智能供应链免受中国影响"
     },
     {
       "id": "50b1bc26ab32",
