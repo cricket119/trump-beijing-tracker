@@ -1,30 +1,66 @@
 {
-  "last_updated": "2026-11-15T11:36:37.545245+00:00",
-  "total": 9,
+  "last_updated": "2026-11-15T18:07:06.021281+00:00",
+  "total": 10,
   "articles": [
     {
       "id": "b5e9d3ac95ad",
       "title": "US-China truce masks rising tensions ahead of Xi-Trump redux at APEC",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/big-in-asia/us-china-truce-masks-rising-tensions-ahead-of-xi-trump-redux-at-apec",
-      "published": "2026-11-15T11:36:50.869131+00:00",
+      "published": "2026-11-15T18:07:20.873861+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
-      "title_zh": "中美休战掩盖了习近平与特朗普在亚太经合组织峰会再次会晤前紧张局势的加剧"
+      "title_zh": "在习近平与特朗普于亚太经合组织峰会再次会晤前夕，中美停火掩盖了日益加剧的紧张局势"
     },
     {
       "id": "b9047143803a",
       "title": "Eyeing his legacy, Trump seizes chance for arms talks with Xi and Putin",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/eyeing-his-legacy-trump-seizes-chance-for-arms-talks-with-xi-and-putin",
-      "published": "2026-11-15T11:36:50.869001+00:00",
+      "published": "2026-11-15T18:07:20.873710+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "着眼于自己的政治遗产，特朗普抓住机会与习近平和普京进行军备会谈"
+    },
+    {
+      "id": "20bbf538af23",
+      "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
+      "summary": "Bessent has criticized Howard Lutnick’s department over suspected chip diversion to China while defending President Donald Trump’s handling of the matter.",
+      "link": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
+      "published": "2026-11-15T16:49:11+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "贝森特呼吁英伟达进行“大刀阔斧的改革”，并敦促聘请外部人士担任首席执行官"
+    },
+    {
+      "id": "4eef9eaf78ee",
+      "title": "Nvidia Crisis Complicates Trump’s China Trip",
+      "summary": "On Bloomberg This Weekend, co-host of Bloomberg Surveillance Annmarie Hordern examines how scrutiny surrounding Nvidia and Jensen Huang is shifting the focus of President Donald Trump’s China trip from trade toward chip export controls and questions about how restricted technology may have reached China. Speaking with host Christina Ruffini, Hordern also discusses mounting pressure on the Commerce Department and how the controversy could lead Congress to pursue tighter controls on advanced chips and computing power. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-15/nvidia-crisis-complicates-trump-s-china-trip-video",
+      "published": "2026-11-15T13:05:46+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "英伟达危机使特朗普的中国之行更加复杂"
+    },
+    {
+      "id": "870243be581f",
+      "title": "Trump Heads to Asia With Trade, Security at Stake",
+      "summary": "Bloomberg’s Avril Hong is on Bloomberg This Weekend to preview President Donald Trump’s trip to Asia, where trade, security ties and China’s growing regional influence are expected to shape meetings with Philippine President Ferdinand Marcos Jr. and other Southeast Asian leaders. Speaking with hosts David Gura and Christina Ruffini, Hong also examines the business stakes surrounding the trip, including Elon Musk’s reported participation and the debate over US restrictions on China’s access to advanced semiconductor technology. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-15/trump-heads-to-asia-with-trade-security-at-stake-video",
+      "published": "2026-11-15T12:52:36+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普前往亚洲，贸易和安全问题岌岌可危"
     },
     {
       "id": "6a1de88db50e",
@@ -37,30 +73,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "白宫表示，特朗普、普京和习近平计划下周在中国举行历史性会晤"
-    },
-    {
-      "id": "def16c6be086",
-      "title": "Bessent, Lutnick Clash Over Nvidia China Curbs",
-      "summary": "Axios AI policy reporter Maria Curi tells Bloomberg This Weekend about tensions inside the Trump administration over efforts to restrict the flow of advanced Nvidia chips to China and scrutiny of Commerce Secretary Howard Lutnick’s handling of Megaspeed. Speaking with hosts David Gura and Christina Ruffini, Curi explains the reported disagreements between Lutnick and other senior officials, including Scott Bessent, and the national security questions surrounding US technology exports to China. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-14/bessent-lutnick-clash-over-nvidia-china-curbs-video",
-      "published": "2026-11-14T14:30:24+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "贝森特与卢特尼克就英伟达对中国的限制措施发生争执"
-    },
-    {
-      "id": "10283b947b1a",
-      "title": "Trump Heads to China for Talks With Xi and Putin",
-      "summary": "Bloomberg White House correspondent Jeff Mason tells Bloomberg This Weekend how the Trump administration responded to a nationwide FAA ground stop and Transportation Secretary Sean Duffy’s push for $50 billion to modernize the US air traffic control system. Speaking with hosts David Gura and Christina Ruffini, Mason also looks ahead to President Donald Trump’s Asia trip and a planned meeting with Chinese President Xi Jinping as technology and AI remain in focus. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-14/trump-heads-to-china-for-talks-with-xi-and-putin-video",
-      "published": "2026-11-14T14:11:19+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普将前往中国与习近平和普京举行会谈"
     },
     {
       "id": "50b1bc26ab32",
