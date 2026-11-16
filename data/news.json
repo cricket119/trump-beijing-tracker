@@ -1,54 +1,78 @@
 {
-  "last_updated": "2026-11-16T12:10:37.717294+00:00",
-  "total": 11,
+  "last_updated": "2026-11-16T23:53:27.163272+00:00",
+  "total": 12,
   "articles": [
     {
-      "id": "b5e9d3ac95ad",
-      "title": "US-China truce masks rising tensions ahead of Xi-Trump redux at APEC",
+      "id": "d36721901048",
+      "title": "US toy sellers pin tariff hopes on third Trump-Xi meeting this year",
       "summary": "",
-      "link": "https://asia.nikkei.com/spotlight/big-in-asia/us-china-truce-masks-rising-tensions-ahead-of-xi-trump-redux-at-apec",
-      "published": "2026-11-16T12:10:51.951220+00:00",
+      "link": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/us-toy-sellers-pin-tariff-hopes-on-third-trump-xi-meeting-this-year",
+      "published": "2026-11-16T23:53:40.198137+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
-      "title_zh": "在习近平与特朗普于亚太经合组织峰会再次会晤前夕，中美停战掩盖了日益加剧的紧张局势"
+      "title_zh": "美国玩具商将关税希望寄予今年第三次特朗普-习近平会晤"
     },
     {
-      "id": "b9047143803a",
-      "title": "Eyeing his legacy, Trump seizes chance for arms talks with Xi and Putin",
-      "summary": "",
-      "link": "https://asia.nikkei.com/politics/international-relations/eyeing-his-legacy-trump-seizes-chance-for-arms-talks-with-xi-and-putin",
-      "published": "2026-11-16T12:10:51.951071+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "着眼于自己的政治遗产，特朗普抓住机会与习近平和普京进行军备会谈"
-    },
-    {
-      "id": "0ef3fe9f5fd2",
-      "title": "FirstFT: Jensen Huang talks about Nvidia comeback with allies",
-      "summary": "Also in today’s newsletter: IPOs struggle and Trump’s summit with Xi and Putin",
-      "link": "https://www.ft.com/content/0f30a230-4d66-481b-a4fd-3a4ed0c45855?syn-25a6b1a6=1",
-      "published": "2026-11-16T11:01:07+00:00",
+      "id": "b9409de43ecc",
+      "title": "Russia aims for ‘joint statement’ from trilateral summit with US and China",
+      "summary": "Thursday’s unprecedented meeting of Donald Trump, Xi Jinping and Vladimir Putin has drawn intense international attention",
+      "link": "https://www.ft.com/content/e567ba7d-c53a-47a2-a361-3b8a107fcdef?syn-25a6b1a6=1",
+      "published": "2026-11-16T23:22:46+00:00",
       "source": "Financial Times",
       "source_color": "#C7A000",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "FirstFT：黄仁勋谈论英伟达携手盟友强势回归"
+      "title_zh": "俄罗斯力求在与美国和中国的三方峰会上发表“联合声明”"
     },
     {
-      "id": "1611a1640e96",
-      "title": "A Year On, Mark Carney of Canada Returns to Asia a Political Star",
-      "summary": "Canada’s leader is courting Europe, but the bigger payoff might be in China, where he will share summit stages with Xi Jinping, Vladimir Putin and President Trump.",
-      "link": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
-      "published": "2026-11-16T09:38:53+00:00",
+      "id": "49ae59f6e77e",
+      "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
+      "summary": "Trump’s accounts sold up to $1 million in Nvidia stock five days after he was briefed on Jensen Huang’s relationship with a suspected Chinese spy.",
+      "link": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
+      "published": "2026-11-16T22:37:45+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "在黄仁勋获得白宫准入后，特朗普的账户在英伟达的交易额高达9750万美元"
+    },
+    {
+      "id": "689c4b445107",
+      "title": "Trump’s Asia Trip Will Bring Him to the Table With Xi and Putin: What to Know",
+      "summary": "President Trump will also meet with regional leaders, including Australia’s prime minister, who said “we want to see a de-escalation in the conflicts.”",
+      "link": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
+      "published": "2026-11-16T21:42:51+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "一年后，加拿大的马克·卡尼作为政治明星重返亚洲"
+      "title_zh": "特朗普的亚洲之行将使他与习近平和普京坐到谈判桌前：需要了解的要点"
+    },
+    {
+      "id": "94b098ec162b",
+      "title": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy",
+      "summary": "Summits in China and the Philippines provide a backdrop for a string of meetings involving powerful global rivals",
+      "link": "https://www.ft.com/content/5621d364-c767-4b40-a090-054042d1c49b?syn-25a6b1a6=1",
+      "published": "2026-11-16T15:10:54+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "雅尔塔2.0？特朗普、习近平和普京主导亚洲高风险外交周"
+    },
+    {
+      "id": "9eb9137468f2",
+      "title": "Canada’s Leader, Once a Curiosity at Asia Summits, Is Now a Star",
+      "summary": "Prime Minister Mark Carney is courting Europe, but the bigger payoff might be in China, where he will share summit stages with Xi Jinping, Vladimir Putin and President Trump.",
+      "link": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
+      "published": "2026-11-16T13:22:53+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "加拿大的领导人曾是亚洲峰会上的一个新鲜面孔，如今已成为明星"
     },
     {
       "id": "ce9a63f06d73",
@@ -63,18 +87,6 @@
       "title_zh": "中国确认习近平-特朗普-普京历史性峰会。议程上将有哪些内容？"
     },
     {
-      "id": "d935703e035d",
-      "title": "US allies sign accord to keep China out of AI supply chains",
-      "summary": "Agreement comes in the run-up to US President Donald Trump’s meeting with Chinese President Xi Jinping",
-      "link": "https://www.ft.com/content/00501acf-8cfc-483d-bbd6-154013e4ca4b?syn-25a6b1a6=1",
-      "published": "2026-11-16T05:00:00+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "美国盟友签署协议，将中国排除在人工智能供应链之外"
-    },
-    {
       "id": "f03e51141aa8",
       "title": "Geopolitics a threat to shipping but Hong Kong can tap mainland China’s potential: experts",
       "summary": "Geopolitics will remain the biggest challenge to Hong Kong’s shipping industry as it seeks to stay competitive, although US President Donald Trump’s indication to hold off on further attacks on Iran is positive news amid the global fuel crisis, industry leaders have said.\nThey also highlighted the strategic importance of the city’s container terminal in Kwai Tsing as a link between mainland China and the world, saying it was a key piece of infrastructure for Hong Kong despite a sustained decline...",
@@ -84,7 +96,7 @@
       "source_color": "#003580",
       "source_lang": "en",
       "source_category": "asia",
-      "title_zh": "专家：地缘政治对航运构成威胁，但香港可以挖掘中国大陆的潜力"
+      "title_zh": "专家：地缘政治对航运构成威胁，但香港可以发掘中国大陆的潜力"
     },
     {
       "id": "50b1bc26ab32",
@@ -96,7 +108,7 @@
       "source_color": "#CC0000",
       "source_lang": "en",
       "source_category": "chinese_official",
-      "title_zh": "习近平与特朗普通话后，中国强调台湾是“核心利益的核心”；专家表示，“依靠美国实现独立”的幻想空间只会进一步缩小。"
+      "title_zh": "习近平与特朗普通话后，中国强调台湾问题是“核心利益中的核心”；专家表示，“依靠美国实现独立”的幻想空间只会进一步缩小。"
     },
     {
       "id": "2c9f49adac2e",
@@ -119,8 +131,7 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "北京方面释放出愿意与特朗普团队（甚至是昔日对手）进行对话的信号"
+      "source_category": "business"
     },
     {
       "id": "b279b93e7dae",
