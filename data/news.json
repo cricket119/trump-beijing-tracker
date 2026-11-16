@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T03:36:31.829608+00:00",
+  "last_updated": "2026-11-16T12:10:37.717294+00:00",
   "total": 11,
   "articles": [
     {
@@ -7,48 +7,72 @@
       "title": "US-China truce masks rising tensions ahead of Xi-Trump redux at APEC",
       "summary": "",
       "link": "https://asia.nikkei.com/spotlight/big-in-asia/us-china-truce-masks-rising-tensions-ahead-of-xi-trump-redux-at-apec",
-      "published": "2026-11-16T03:36:45.522429+00:00",
+      "published": "2026-11-16T12:10:51.951220+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
-      "title_zh": "在习近平与特朗普于亚太经合组织峰会再次会晤前夕，中美停火掩盖了日益加剧的紧张局势"
+      "title_zh": "在习近平与特朗普于亚太经合组织峰会再次会晤前夕，中美停战掩盖了日益加剧的紧张局势"
     },
     {
       "id": "b9047143803a",
       "title": "Eyeing his legacy, Trump seizes chance for arms talks with Xi and Putin",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/eyeing-his-legacy-trump-seizes-chance-for-arms-talks-with-xi-and-putin",
-      "published": "2026-11-16T03:36:45.522282+00:00",
+      "published": "2026-11-16T12:10:51.951071+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
-      "title_zh": "着眼于自己的政治遗产，特朗普抓住机会与习近平和普京进行军备谈判"
+      "title_zh": "着眼于自己的政治遗产，特朗普抓住机会与习近平和普京进行军备会谈"
     },
     {
-      "id": "94b098ec162b",
-      "title": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy",
-      "summary": "Summits in China and the Philippines provide a backdrop for a string of meetings involving powerful global rivals",
-      "link": "https://www.ft.com/content/5621d364-c767-4b40-a090-054042d1c49b?syn-25a6b1a6=1",
-      "published": "2026-11-16T01:41:33+00:00",
+      "id": "0ef3fe9f5fd2",
+      "title": "FirstFT: Jensen Huang talks about Nvidia comeback with allies",
+      "summary": "Also in today’s newsletter: IPOs struggle and Trump’s summit with Xi and Putin",
+      "link": "https://www.ft.com/content/0f30a230-4d66-481b-a4fd-3a4ed0c45855?syn-25a6b1a6=1",
+      "published": "2026-11-16T11:01:07+00:00",
       "source": "Financial Times",
       "source_color": "#C7A000",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "雅尔塔2.0？特朗普、习近平和普京主导亚洲高风险外交周"
+      "title_zh": "FirstFT：黄仁勋谈论英伟达携手盟友强势回归"
     },
     {
-      "id": "34e47b0319e2",
-      "title": "Trump, Xi and Putin Set for Rare APEC Trilateral Talks",
-      "summary": "US President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to hold a rare trilateral meeting Thursday on the sidelines of the APEC summit in Shenzhen. Reporting from Shenzhen, Bloomberg’s Stephen Engle says that while the White House is framing the talks around denuclearization, the conflicts in Ukraine and Iran are likely to come up in discussions. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-16/trump-xi-and-putin-set-for-rare-apec-trilateral-talks-video",
-      "published": "2026-11-16T00:34:26+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
+      "id": "1611a1640e96",
+      "title": "A Year On, Mark Carney of Canada Returns to Asia a Political Star",
+      "summary": "Canada’s leader is courting Europe, but the bigger payoff might be in China, where he will share summit stages with Xi Jinping, Vladimir Putin and President Trump.",
+      "link": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
+      "published": "2026-11-16T09:38:53+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "一年后，加拿大的马克·卡尼作为政治明星重返亚洲"
+    },
+    {
+      "id": "ce9a63f06d73",
+      "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
+      "summary": "The talks are expected to focus on issues including nuclear non-proliferation, the Middle East war, trade policies and, possibly, the Ukraine war.",
+      "link": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
+      "published": "2026-11-16T08:38:16+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "特朗普、习近平和普京将举行罕见的亚太经合组织三方会谈"
+      "title_zh": "中国确认习近平-特朗普-普京历史性峰会。议程上将有哪些内容？"
+    },
+    {
+      "id": "d935703e035d",
+      "title": "US allies sign accord to keep China out of AI supply chains",
+      "summary": "Agreement comes in the run-up to US President Donald Trump’s meeting with Chinese President Xi Jinping",
+      "link": "https://www.ft.com/content/00501acf-8cfc-483d-bbd6-154013e4ca4b?syn-25a6b1a6=1",
+      "published": "2026-11-16T05:00:00+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "美国盟友签署协议，将中国排除在人工智能供应链之外"
     },
     {
       "id": "f03e51141aa8",
@@ -60,31 +84,7 @@
       "source_color": "#003580",
       "source_lang": "en",
       "source_category": "asia",
-      "title_zh": "专家：地缘政治对航运构成威胁，但香港可以发掘中国大陆的潜力"
-    },
-    {
-      "id": "3ce00cac8f16",
-      "title": "Anthropic IPO to further fuel the AI news cycle",
-      "summary": "New York listing date arrives, Trump, Xi and Putin in Shenzhen, a UK-EU entente cordiale",
-      "link": "https://www.ft.com/content/3c7c1b7a-541d-47a3-b074-b8e17e7b050c?syn-25a6b1a6=1",
-      "published": "2026-11-15T18:15:07+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "Anthropic的IPO将进一步推动人工智能新闻周期"
-    },
-    {
-      "id": "b74b4f2f1cda",
-      "title": "US and allies sign accord to protect AI supply chains from China",
-      "summary": "Pact comes ahead of Donald Trump’s meeting with Xi Jinping at the Asia-Pacific Economic Cooperation forum in Shenzhen",
-      "link": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
-      "published": "2026-11-15T17:47:43+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "美国及其盟友签署协议，以保护人工智能供应链免受中国影响"
+      "title_zh": "专家：地缘政治对航运构成威胁，但香港可以挖掘中国大陆的潜力"
     },
     {
       "id": "50b1bc26ab32",
@@ -96,7 +96,7 @@
       "source_color": "#CC0000",
       "source_lang": "en",
       "source_category": "chinese_official",
-      "title_zh": "习近平与特朗普通话后，中国强调台湾是“核心利益的核心”；专家称“依靠美国实现独立”的幻想空间只会进一步缩小"
+      "title_zh": "习近平与特朗普通话后，中国强调台湾是“核心利益的核心”；专家表示，“依靠美国实现独立”的幻想空间只会进一步缩小。"
     },
     {
       "id": "2c9f49adac2e",
