@@ -1,102 +1,148 @@
 {
-  "last_updated": "2026-11-17T05:33:46.648703+00:00",
-  "total": 14,
+  "last_updated": "2026-11-17T17:10:27.201797+00:00",
+  "total": 18,
   "articles": [
     {
       "id": "d36721901048",
       "title": "US toy sellers pin tariff hopes on third Trump-Xi meeting this year",
       "summary": "",
       "link": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/us-toy-sellers-pin-tariff-hopes-on-third-trump-xi-meeting-this-year",
-      "published": "2026-11-17T05:34:01.691536+00:00",
+      "published": "2026-11-17T17:10:39.793435+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
-      "title_zh": "美国玩具卖家将关税希望寄予今年第三次特朗普-习近平会晤"
+      "title_zh": "美国玩具商将关税希望寄托在今年的第三次特朗普-习近平会晤上"
     },
     {
-      "id": "abe2f0275abe",
-      "title": "Trump Will Miss Most of the ASEAN Summit",
-      "summary": "President Trump will arrive in Manila as the meeting is wrapping up, a sign of how U.S. policy has left the region balancing between Washington and Beijing.",
-      "link": "https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html",
-      "published": "2026-11-17T05:00:14+00:00",
+      "id": "fe1ea432f514",
+      "title": "Trump’s Whirlwind Asia Trip Begins in the Philippines",
+      "summary": "President Trump’s 48-hour trip started with a meeting with Southeast Asian leaders in Manila. He will later meet Xi Jinping of China and Vladimir Putin of Russia in Shenzhen, a Chinese economic hub.",
+      "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
+      "published": "2026-11-17T16:02:17+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "特朗普将缺席东盟峰会的大部分议程"
+      "title_zh": "特朗普的亚洲旋风之旅从菲律宾开始"
     },
     {
-      "id": "815017882a29",
-      "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
-      "summary": "The Trump administration introduces export licence requirements for Malaysia, Thailand, Indonesia, Singapore and Brazil.",
-      "link": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
-      "published": "2026-11-17T02:52:56+00:00",
+      "id": "4d197fef7150",
+      "title": "Bessent vs Lutnick: Who is winning the China chip debate?",
+      "summary": "A rift has emerged in Trump’s cabinet over China’s access to advanced AI chips as export controls tighten.",
+      "link": "https://www.aljazeera.com/economy/2026/11/17/bessent-vs-lutnick-who-is-winning-the-china-chip-debate?traffic_source=rss",
+      "published": "2026-11-17T14:46:37+00:00",
       "source": "Al Jazeera",
       "source_color": "#009B77",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "在美国Nvidia丑闻的背景下，美国采取行动阻止中国远程访问人工智能芯片"
+      "title_zh": "贝森特与卢特尼克之争：谁在中国芯片争论中占上风？"
     },
     {
-      "id": "023d2ceb3040",
-      "title": "Trump departs for ASEAN on summit with Xi and Putin",
-      "summary": "Donald Trump is heading to the Philippines where he’s scheduled to speak at a meeting of ASEAN leaders in Manila.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
-      "published": "2026-11-16T23:42:03+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
+      "id": "e070d0b520dd",
+      "title": "A Visual Tour of President Trump’s Visits to Asia",
+      "summary": "President Trump landed in the Philippines on the first stop of a 48-hour Asia trip during which he is expected to meet with leaders including the presidents of Russia and China.",
+      "link": "https://www.nytimes.com/2026/11/17/world/asia/president-trump-visits-asia.html",
+      "published": "2026-11-17T14:26:17+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "特朗普启程前往东盟，将与习近平和普京举行峰会"
+      "title_zh": "特朗普总统亚洲之行图览"
     },
     {
-      "id": "b9409de43ecc",
-      "title": "Russia aims for ‘joint statement’ from trilateral summit with US and China",
-      "summary": "Thursday’s unprecedented meeting of Donald Trump, Xi Jinping and Vladimir Putin has drawn intense international attention",
-      "link": "https://www.ft.com/content/e567ba7d-c53a-47a2-a361-3b8a107fcdef?syn-25a6b1a6=1",
-      "published": "2026-11-16T23:22:46+00:00",
+      "id": "c393923af750",
+      "title": "Trump arrives in Asia ahead of Xi and Putin summit",
+      "summary": "US president ‘deeply committed’ to south-east Asia after arrival in Philippines at start of trip that includes regional summit in China",
+      "link": "https://www.ft.com/content/6a0efb61-a756-4794-90db-3d591f42f17f?syn-25a6b1a6=1",
+      "published": "2026-11-17T11:32:39+00:00",
       "source": "Financial Times",
       "source_color": "#C7A000",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "俄罗斯力求在与美国和中国的三方峰会上发表“联合声明”"
+      "title_zh": "特朗普在习近平和普京峰会前抵达亚洲"
+    },
+    {
+      "id": "abe2f0275abe",
+      "title": "Trump Will Miss Most of the ASEAN Summit",
+      "summary": "President Trump arrived in Manila as the meeting was wrapping up, a sign of how U.S. policy has left the region balancing between Washington and Beijing.",
+      "link": "https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html",
+      "published": "2026-11-17T10:51:03+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普将缺席大部分东盟峰会"
+    },
+    {
+      "id": "0ae82918f8a0",
+      "title": "As Trump Goes to China, A.I. Tensions Surge Amid Spying and Safety Fears",
+      "summary": "The espionage concerns that led to Jensen Huang’s ouster at Nvidia highlight a core challenge to diplomacy between Washington and Beijing on A.I. advancement.",
+      "link": "https://www.nytimes.com/2026/11/17/us/politics/trump-china-ai-tensions.html",
+      "published": "2026-11-17T10:22:54+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "随着特朗普访华，间谍和安全担忧加剧了人工智能领域的紧张局势"
+    },
+    {
+      "id": "8e704ef6aa5c",
+      "title": "Will President Trump meet Kim Jong Un?",
+      "summary": "President Trump says he would be keen to meet the North Korea leader in China.",
+      "link": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T10:13:27+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普总统会与金正恩会面吗？"
     },
     {
       "id": "49ae59f6e77e",
       "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
       "summary": "Trump’s accounts sold up to $1 million in Nvidia stock five days after he was briefed on Jensen Huang’s relationship with a suspected Chinese spy.",
       "link": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
-      "published": "2026-11-16T22:37:45+00:00",
+      "published": "2026-11-17T10:08:32+00:00",
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "在黄仁勋获得白宫准入后，特朗普的账户在英伟达的交易额高达9750万美元"
+      "title_zh": "在黄仁勋获得白宫准入期间，特朗普的账户在英伟达的交易额高达9750万美元"
     },
     {
-      "id": "689c4b445107",
-      "title": "Trump’s Asia Trip Will Bring Him to the Table With Xi and Putin: What to Know",
+      "id": "f436082deb3e",
+      "title": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
+      "summary": "The meeting will take place as Trump attends the Asia-Pacific Economic Co-operation (Apec) summit in the southern city of Shenzhen.",
+      "link": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T06:23:51+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "习近平将在此接待特朗普的中国“人工智能仙境”内部"
+    },
+    {
+      "id": "7aef174d25f1",
+      "title": "Number of Hong Kong students in US down 27% over past 10 years",
+      "summary": "The number of international students from Hong Kong in the United States has fallen by nearly 27 per cent over the past decade, with a slight year-on-year uptick of 0.5 per cent in the last school year despite the Trump administration’s clampdown on visas for students from mainland China and the city.\nThe latest data released by a US non-profit organisation on Monday showed that the rise was partly attributed to undergraduates, who recorded the strongest year-on-year growth at 4.1 per cent,...",
+      "link": "https://www.scmp.com/news/hong-kong/education/article/3374698/number-hong-kong-students-us-down-27-over-past-10-years",
+      "published": "2026-11-17T05:59:43+00:00",
+      "source": "SCMP",
+      "source_color": "#003580",
+      "source_lang": "en",
+      "source_category": "asia"
+    },
+    {
+      "id": "f5fd25a9b6a9",
+      "title": "Trump to Hold Meeting with Xi and Putin During Asia Trip: What to Know",
       "summary": "President Trump will also meet with regional leaders, including Australia’s prime minister, who said “we want to see a de-escalation in the conflicts.”",
       "link": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
       "published": "2026-11-16T21:42:52+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普的亚洲之行将使他与习近平和普京同席：需要了解的事项"
-    },
-    {
-      "id": "9eb9137468f2",
-      "title": "Canada’s Leader, Once a Curiosity at Asia Summits, Is Now a Star",
-      "summary": "Prime Minister Mark Carney is courting Europe, but the bigger payoff might be in China, where he will share summit stages with Xi Jinping, Vladimir Putin and President Trump.",
-      "link": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
-      "published": "2026-11-16T13:22:53+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "加拿大的领导人曾是亚洲峰会上的一个新鲜面孔，如今已成为耀眼的明星"
+      "source_category": "international"
     },
     {
       "id": "ce9a63f06d73",
@@ -107,8 +153,7 @@
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "中国确认习近平-特朗普-普京历史性峰会。议程上将有哪些内容？"
+      "source_category": "business"
     },
     {
       "id": "f03e51141aa8",
@@ -119,8 +164,7 @@
       "source": "SCMP",
       "source_color": "#003580",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "专家：地缘政治对航运构成威胁，但香港可以发掘中国大陆的潜力"
+      "source_category": "asia"
     },
     {
       "id": "50b1bc26ab32",
