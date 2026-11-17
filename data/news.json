@@ -1,18 +1,54 @@
 {
-  "last_updated": "2026-11-16T23:53:27.163272+00:00",
-  "total": 12,
+  "last_updated": "2026-11-17T05:33:46.648703+00:00",
+  "total": 14,
   "articles": [
     {
       "id": "d36721901048",
       "title": "US toy sellers pin tariff hopes on third Trump-Xi meeting this year",
       "summary": "",
       "link": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/us-toy-sellers-pin-tariff-hopes-on-third-trump-xi-meeting-this-year",
-      "published": "2026-11-16T23:53:40.198137+00:00",
+      "published": "2026-11-17T05:34:01.691536+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
-      "title_zh": "美国玩具商将关税希望寄予今年第三次特朗普-习近平会晤"
+      "title_zh": "美国玩具卖家将关税希望寄予今年第三次特朗普-习近平会晤"
+    },
+    {
+      "id": "abe2f0275abe",
+      "title": "Trump Will Miss Most of the ASEAN Summit",
+      "summary": "President Trump will arrive in Manila as the meeting is wrapping up, a sign of how U.S. policy has left the region balancing between Washington and Beijing.",
+      "link": "https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html",
+      "published": "2026-11-17T05:00:14+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普将缺席东盟峰会的大部分议程"
+    },
+    {
+      "id": "815017882a29",
+      "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+      "summary": "The Trump administration introduces export licence requirements for Malaysia, Thailand, Indonesia, Singapore and Brazil.",
+      "link": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
+      "published": "2026-11-17T02:52:56+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "在美国Nvidia丑闻的背景下，美国采取行动阻止中国远程访问人工智能芯片"
+    },
+    {
+      "id": "023d2ceb3040",
+      "title": "Trump departs for ASEAN on summit with Xi and Putin",
+      "summary": "Donald Trump is heading to the Philippines where he’s scheduled to speak at a meeting of ASEAN leaders in Manila.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
+      "published": "2026-11-16T23:42:03+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普启程前往东盟，将与习近平和普京举行峰会"
     },
     {
       "id": "b9409de43ecc",
@@ -43,24 +79,12 @@
       "title": "Trump’s Asia Trip Will Bring Him to the Table With Xi and Putin: What to Know",
       "summary": "President Trump will also meet with regional leaders, including Australia’s prime minister, who said “we want to see a de-escalation in the conflicts.”",
       "link": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
-      "published": "2026-11-16T21:42:51+00:00",
+      "published": "2026-11-16T21:42:52+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "特朗普的亚洲之行将使他与习近平和普京坐到谈判桌前：需要了解的要点"
-    },
-    {
-      "id": "94b098ec162b",
-      "title": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy",
-      "summary": "Summits in China and the Philippines provide a backdrop for a string of meetings involving powerful global rivals",
-      "link": "https://www.ft.com/content/5621d364-c767-4b40-a090-054042d1c49b?syn-25a6b1a6=1",
-      "published": "2026-11-16T15:10:54+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "雅尔塔2.0？特朗普、习近平和普京主导亚洲高风险外交周"
+      "title_zh": "特朗普的亚洲之行将使他与习近平和普京同席：需要了解的事项"
     },
     {
       "id": "9eb9137468f2",
@@ -72,7 +96,7 @@
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "加拿大的领导人曾是亚洲峰会上的一个新鲜面孔，如今已成为明星"
+      "title_zh": "加拿大的领导人曾是亚洲峰会上的一个新鲜面孔，如今已成为耀眼的明星"
     },
     {
       "id": "ce9a63f06d73",
@@ -107,8 +131,7 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official",
-      "title_zh": "习近平与特朗普通话后，中国强调台湾问题是“核心利益中的核心”；专家表示，“依靠美国实现独立”的幻想空间只会进一步缩小。"
+      "source_category": "chinese_official"
     },
     {
       "id": "2c9f49adac2e",
@@ -119,8 +142,7 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official",
-      "title_zh": "特朗普声称印度将购买委内瑞拉石油，并欢迎中国的投资；中国专家注意到这些言论“单方面”，印度方面未予确认。"
+      "source_category": "chinese_official"
     },
     {
       "id": "28925d7651b5",
