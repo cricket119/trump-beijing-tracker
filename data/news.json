@@ -1,25 +1,97 @@
 {
-  "last_updated": "2026-11-17T17:10:27.201797+00:00",
-  "total": 18,
+  "last_updated": "2026-11-18T01:56:03.354998+00:00",
+  "total": 21,
   "articles": [
     {
-      "id": "d36721901048",
-      "title": "US toy sellers pin tariff hopes on third Trump-Xi meeting this year",
-      "summary": "",
-      "link": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/us-toy-sellers-pin-tariff-hopes-on-third-trump-xi-meeting-this-year",
-      "published": "2026-11-17T17:10:39.793435+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
+      "id": "5d421700eeb8",
+      "title": "What is Trump hoping to achieve at APEC meeting in China?",
+      "summary": "US president expected to meet with Chinese leader for third time this year; hold trilateral summit with Putin.",
+      "link": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss",
+      "published": "2026-11-18T01:33:05+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
       "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "美国玩具商将关税希望寄托在今年的第三次特朗普-习近平会晤上"
+      "source_category": "international",
+      "title_zh": "特朗普希望在中国举行的亚太经合组织会议上取得什么成果？"
+    },
+    {
+      "id": "13a63e76d51e",
+      "title": "Three things to watch as Trump, Xi and Putin meet in China",
+      "summary": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APEC leaders' meeting.",
+      "link": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
+      "published": "2026-11-18T01:23:29+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普、习近平和普京在中国会晤时需要关注的三件事"
+    },
+    {
+      "id": "ac950c829510",
+      "title": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment?",
+      "summary": "The leader wants the APEC summit to showcase China’s strengths, but he faces export worries and an unpredictable Trump, who has floated meeting Kim Jong-un.",
+      "link": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
+      "published": "2026-11-18T00:12:06+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "间谍丑闻、贸易摩擦和一位意外来客会毁掉习近平的重要时刻吗？"
+    },
+    {
+      "id": "43f1296b8859",
+      "title": "Council on Foreign Relations’ McGuire on Trump-XI Meeting Implications for Chips",
+      "summary": "Chris McGuire, Council on Foreign Relations' Senior Fellow on China and Emerging Technologies discusses US restrictions on Nvidia chip sales and remote access, as the US president prepares to meet Chinese President Xi Jinping at the APEC summit. He speaks with Romaine Bostick and Ed Ludlow on \"The Close\". (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-17/what-trump-xi-s-meeting-could-mean-for-the-chip-sector-video",
+      "published": "2026-11-17T23:59:56+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "美国外交关系委员会的麦奎尔谈论特朗普与习近平会晤对芯片的影响"
+    },
+    {
+      "id": "711bfb2f85a4",
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "summary": "China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced chips.",
+      "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T23:02:12+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "在特朗普与习近平会晤之际，中国的人工智能梦想遭遇意外障碍：英伟达间谍丑闻"
+    },
+    {
+      "id": "25f218aa24b4",
+      "title": "Putin Arrives in China for Trump, Xi Meeting",
+      "summary": "Vladimir Putin arrived in Shenzhen Wednesday ahead of his meeting with Presidents Xi Jinping and Donald Trump during the annual APEC assembly on Thursday. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-17/putin-arrives-in-china-for-trump-xi-meeting-video",
+      "published": "2026-11-17T22:33:24+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "普京抵达中国，参加与特朗普、习近平的会晤"
+    },
+    {
+      "id": "947744e60e1e",
+      "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+      "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+      "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T20:25:46+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普在与俄罗斯和中国总统会谈前抵达亚洲"
     },
     {
       "id": "fe1ea432f514",
       "title": "Trump’s Whirlwind Asia Trip Begins in the Philippines",
       "summary": "President Trump’s 48-hour trip started with a meeting with Southeast Asian leaders in Manila. He will later meet Xi Jinping of China and Vladimir Putin of Russia in Shenzhen, a Chinese economic hub.",
       "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
-      "published": "2026-11-17T16:02:17+00:00",
+      "published": "2026-11-17T20:21:27+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
@@ -27,16 +99,28 @@
       "title_zh": "特朗普的亚洲旋风之旅从菲律宾开始"
     },
     {
-      "id": "4d197fef7150",
-      "title": "Bessent vs Lutnick: Who is winning the China chip debate?",
-      "summary": "A rift has emerged in Trump’s cabinet over China’s access to advanced AI chips as export controls tighten.",
-      "link": "https://www.aljazeera.com/economy/2026/11/17/bessent-vs-lutnick-who-is-winning-the-china-chip-debate?traffic_source=rss",
-      "published": "2026-11-17T14:46:37+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
+      "id": "e629ff2ddd26",
+      "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
+      "summary": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
+      "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T18:58:57+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "贝森特与卢特尼克之争：谁在中国芯片争论中占上风？"
+      "title_zh": "随着特朗普的关税对加拿大汽车行业造成压力，卡尼将目光投向中国"
+    },
+    {
+      "id": "abe2f0275abe",
+      "title": "Trump Will Miss Most of the ASEAN Summit",
+      "summary": "President Trump arrived in Manila as the meeting was wrapping up, a sign of how U.S. policy has left the region balancing between Washington and Beijing.",
+      "link": "https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html",
+      "published": "2026-11-17T17:51:27+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普将缺席东盟峰会的大部分议程"
     },
     {
       "id": "e070d0b520dd",
@@ -47,32 +131,7 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普总统亚洲之行图览"
-    },
-    {
-      "id": "c393923af750",
-      "title": "Trump arrives in Asia ahead of Xi and Putin summit",
-      "summary": "US president ‘deeply committed’ to south-east Asia after arrival in Philippines at start of trip that includes regional summit in China",
-      "link": "https://www.ft.com/content/6a0efb61-a756-4794-90db-3d591f42f17f?syn-25a6b1a6=1",
-      "published": "2026-11-17T11:32:39+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普在习近平和普京峰会前抵达亚洲"
-    },
-    {
-      "id": "abe2f0275abe",
-      "title": "Trump Will Miss Most of the ASEAN Summit",
-      "summary": "President Trump arrived in Manila as the meeting was wrapping up, a sign of how U.S. policy has left the region balancing between Washington and Beijing.",
-      "link": "https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html",
-      "published": "2026-11-17T10:51:03+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普将缺席大部分东盟峰会"
+      "source_category": "international"
     },
     {
       "id": "0ae82918f8a0",
@@ -83,8 +142,7 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "随着特朗普访华，间谍和安全担忧加剧了人工智能领域的紧张局势"
+      "source_category": "international"
     },
     {
       "id": "8e704ef6aa5c",
@@ -95,8 +153,7 @@
       "source": "BBC",
       "source_color": "#BB1919",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普总统会与金正恩会面吗？"
+      "source_category": "international"
     },
     {
       "id": "49ae59f6e77e",
@@ -107,8 +164,7 @@
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "在黄仁勋获得白宫准入期间，特朗普的账户在英伟达的交易额高达9750万美元"
+      "source_category": "business"
     },
     {
       "id": "f436082deb3e",
@@ -119,8 +175,7 @@
       "source": "BBC",
       "source_color": "#BB1919",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "习近平将在此接待特朗普的中国“人工智能仙境”内部"
+      "source_category": "international"
     },
     {
       "id": "7aef174d25f1",
@@ -132,28 +187,6 @@
       "source_color": "#003580",
       "source_lang": "en",
       "source_category": "asia"
-    },
-    {
-      "id": "f5fd25a9b6a9",
-      "title": "Trump to Hold Meeting with Xi and Putin During Asia Trip: What to Know",
-      "summary": "President Trump will also meet with regional leaders, including Australia’s prime minister, who said “we want to see a de-escalation in the conflicts.”",
-      "link": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
-      "published": "2026-11-16T21:42:52+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
-      "id": "ce9a63f06d73",
-      "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
-      "summary": "The talks are expected to focus on issues including nuclear non-proliferation, the Middle East war, trade policies and, possibly, the Ukraine war.",
-      "link": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
-      "published": "2026-11-16T08:38:16+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
     },
     {
       "id": "f03e51141aa8",
