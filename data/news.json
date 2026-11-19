@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-18T22:44:55.394604+00:00",
-  "total": 24,
+  "last_updated": "2026-11-19T04:53:13.557839+00:00",
+  "total": 27,
   "articles": [
     {
       "id": "7f2b58b250f9",
       "title": "Xi urges freer trade as APEC leaders maneuver ahead of Trump talks",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/apec/xi-urges-freer-trade-as-apec-leaders-maneuver-ahead-of-trump-talks",
-      "published": "2026-11-18T22:45:10.126176+00:00",
+      "published": "2026-11-19T04:53:26.823875+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -15,23 +15,11 @@
       "title_zh": "习近平呼吁实现更自由的贸易，APEC领导人在特朗普会谈前进行斡旋"
     },
     {
-      "id": "1875860edffd",
-      "title": "APEC live: Banquet brings Trump and Putin, Xi and Takaichi together",
-      "summary": "",
-      "link": "https://asia.nikkei.com/politics/international-relations/apec/apec-live-banquet-brings-trump-and-putin-xi-and-takaichi-together",
-      "published": "2026-11-18T22:45:10.126097+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "亚太经合组织直播：晚宴将特朗普和普京、习近平和高市早苗聚集在一起"
-    },
-    {
       "id": "74736948eaea",
       "title": "China using Trump-Xi 'stability' to build strategic edge, US panel warns",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-using-trump-xi-stability-to-build-strategic-edge-us-panel-warns",
-      "published": "2026-11-18T22:45:10.125988+00:00",
+      "published": "2026-11-19T04:53:26.823738+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -39,11 +27,47 @@
       "title_zh": "美国智库警告：中国正利用特朗普与习近平之间的“稳定关系”来建立战略优势"
     },
     {
+      "id": "0bb85182f109",
+      "title": "Trump, Xi and Putin gear up for first-ever trilateral meeting",
+      "summary": "",
+      "link": "https://asia.nikkei.com/politics/international-relations/apec/trump-xi-and-putin-gear-up-for-first-ever-trilateral-meeting",
+      "published": "2026-11-19T04:53:26.823647+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "特朗普、习近平和普京为有史以来的首次三方会晤做好准备"
+    },
+    {
+      "id": "0970312c6fb5",
+      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+      "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T04:42:52+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "这对中国的习近平来说是一个非凡的外交时刻，但也伴随着陷阱"
+    },
+    {
+      "id": "97dbc8af0c38",
+      "title": "How to Decode the Xi-Trump Hug",
+      "summary": "The welcome China’s leader, Xi Jinping, offered President Trump appeared to reflect a desire for a measure of stability at a time of growing disagreements.",
+      "link": "https://www.nytimes.com/2026/11/18/world/asia/xi-trump-hug-shenzhen.html",
+      "published": "2026-11-19T04:29:42+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "如何解读习近平与特朗普的拥抱"
+    },
+    {
       "id": "fea4ec21937a",
       "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
       "summary": "China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vladimir V. Putin of Russia.",
       "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
-      "published": "2026-11-18T20:13:01+00:00",
+      "published": "2026-11-19T03:58:59+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
@@ -51,35 +75,11 @@
       "title_zh": "特朗普、习近平和普京在各国领导人齐聚中国之际握手"
     },
     {
-      "id": "d865ccd0de33",
-      "title": "Trump and Putin to meet one-on-one in China Thursday",
-      "summary": "US and Russia leaders meet in China amid efforts to resolve Ukraine crisis and enhance post-war security guarantees.",
-      "link": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
-      "published": "2026-11-18T20:12:20+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普和普京将于周四在中国举行一对一面谈"
-    },
-    {
-      "id": "8587c46c61a2",
-      "title": "The Shadow of Yalta Hangs Over Trump’s Summit in China",
-      "summary": "A 1945 meeting of Churchill, Stalin and Franklin Roosevelt set Europe’s course for decades. Here’s what happened.",
-      "link": "https://www.nytimes.com/2026/11/18/world/asia/trump-xi-putin-summit-yalta.html",
-      "published": "2026-11-18T17:52:32+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "雅尔塔会议的阴影笼罩着特朗普的中国之行"
-    },
-    {
       "id": "86f7f1be23fe",
       "title": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit",
       "summary": "The bilateral meeting between the neighbors follows trade gains for Canada’s prime minister this week with China and the Philippines.",
       "link": "https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html",
-      "published": "2026-11-18T17:23:46+00:00",
+      "published": "2026-11-19T03:58:57+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
@@ -87,40 +87,95 @@
       "title_zh": "卡尼和特朗普在亚洲峰会上举行了临时贸易会晤"
     },
     {
-      "id": "436124832549",
-      "title": "Crowds gather as Trump arrives in China ahead of talks with Xi and Putin",
-      "summary": "Crowds gathered in Shenzhen, China,  to welcome US President Donald Trump as he arrived for the APEC summit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/crowds-gather-as-trump-arrives-in-china-ahead-of-talks-with-xi-and-putin?traffic_source=rss",
-      "published": "2026-11-18T16:40:03+00:00",
+      "id": "4048cf5e5254",
+      "title": "APEC Live: Trump, Xi and Putin to meet at historic trilateral China summit",
+      "summary": "The leaders of the US, China and Russia are due to hold highly anticipated talks in Shenzhen.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss",
+      "published": "2026-11-19T03:30:26+00:00",
       "source": "Al Jazeera",
       "source_color": "#009B77",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "特朗普抵达中国准备与习近平和普京会谈，大批民众前来迎接"
+      "title_zh": "APEC直播：特朗普、习近平和普京将在中国举行历史性的三方峰会"
     },
     {
-      "id": "2c8b2d3c3849",
-      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-      "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-      "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T16:10:44+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
+      "id": "2394a68938c5",
+      "title": "'The Meeting is the Message': Ex-CIA Official on Trilateral’s Symbolism",
+      "summary": "Dennis Wilder, Senior Fellow at Georgetown University and former CIA Deputy Assistant Director for East Asia and the Pacific, says the trilateral meeting between US President Donald Trump, Chinese counterpart Xi Jinping and Russian President Vladimir Putin is in itself sending a message. Wilder argues the meeting will enhance China’s status while projecting Donald Trump as a leader on the world stage. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-19/ex-cia-official-on-trilateral-s-symbolism-and-impact-video",
+      "published": "2026-11-19T03:27:56+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "“会议即信息”：前中情局官员谈三边委员会的象征意义"
+    },
+    {
+      "id": "f60f716f85fc",
+      "title": "China’s Xi greets Putin and Trump at APEC before historic summit",
+      "summary": "Chinese President Xi Jinping greeted Donald Trump and Vladimir Putin at APEC summit.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
+      "published": "2026-11-19T03:01:27+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "特朗普在中国的历史性会谈前与普京和习近平握手"
+      "title_zh": "习近平在历史性峰会前于亚太经合组织会议上与普京和特朗普握手致意"
     },
     {
-      "id": "0745ae1e96f2",
-      "title": "Xi greets Trump with hug ahead of historic summit with Putin",
-      "summary": "US and Chinese leaders to meet Russia’s Vladimir Putin to cap week of high-profile diplomacy",
-      "link": "https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1",
-      "published": "2026-11-18T13:09:53+00:00",
+      "id": "de26e86adbe6",
+      "title": "What do Trump, Putin and Xi want from their Shenzhen meeting?",
+      "summary": "The US, Chinese and Russian leaders are to hold their first three-way talks on the sidelines of the APEC summit.",
+      "link": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss",
+      "published": "2026-11-19T02:57:19+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international"
+    },
+    {
+      "id": "460f30ad0691",
+      "title": "Trump, Xi and Putin to hold high-stakes trilateral summit",
+      "summary": "Historic event in southern Chinese city of Shenzhen is culmination of a week of high-stakes diplomacy",
+      "link": "https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f",
+      "published": "2026-11-19T01:31:05+00:00",
       "source": "Financial Times",
       "source_color": "#C7A000",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "习近平在与普京举行历史性峰会前与特朗普拥抱致意"
+      "source_category": "business"
+    },
+    {
+      "id": "81106c93d5ae",
+      "title": "China Markets $2 Billion of Dollar Bonds as Xi, Trump Meet",
+      "summary": "China began marketing up to $2 billion of dollar-denominated sovereign bonds, as leaders of the world’s two largest economies are set to meet in Shenzhen.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-19/china-markets-up-to-2-billion-of-dollar-bonds-in-hong-kong",
+      "published": "2026-11-19T00:57:50+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business"
+    },
+    {
+      "id": "8587c46c61a2",
+      "title": "The Shadow of Yalta Hangs Over Trump’s Summit in China",
+      "summary": "A 1945 meeting of Churchill, Stalin and Franklin Roosevelt set Europe’s course for decades. Here’s what happened.",
+      "link": "https://www.nytimes.com/2026/11/18/world/asia/trump-xi-putin-summit-yalta.html",
+      "published": "2026-11-19T00:52:53+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international"
+    },
+    {
+      "id": "ee71ea35ab83",
+      "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+      "summary": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare trilateral meeting on Thursday.",
+      "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
+      "published": "2026-11-18T19:47:05+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business"
     },
     {
       "id": "48c8f08f6608",
@@ -154,17 +209,6 @@
       "source_color": "#BB1919",
       "source_lang": "en",
       "source_category": "international"
-    },
-    {
-      "id": "843a39907de3",
-      "title": "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trump-Putin-Xi summit",
-      "summary": "The dispute comes ahead of a planned meeting between Donald Trump, Vladimir Putin and Xi Jinping.",
-      "link": "https://www.cnbc.com/2026/11/18/ukraine-russia-war-trump-putin-deep-strikes.html",
-      "published": "2026-11-18T10:49:37+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
     },
     {
       "id": "f3d0983bbc55",
@@ -209,17 +253,6 @@
       "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business"
-    },
-    {
-      "id": "ac950c829510",
-      "title": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment?",
-      "summary": "The leader wants the APEC summit to showcase China’s strengths, but he faces export worries and an unpredictable Trump, who has floated meeting Kim Jong-un.",
-      "link": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
-      "published": "2026-11-18T02:11:27+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
     },
     {
       "id": "7aef174d25f1",
