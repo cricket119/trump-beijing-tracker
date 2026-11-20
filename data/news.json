@@ -1,37 +1,25 @@
 {
-  "last_updated": "2026-11-20T01:29:01.561452+00:00",
-  "total": 30,
+  "last_updated": "2026-11-20T12:17:48.598851+00:00",
+  "total": 21,
   "articles": [
-    {
-      "id": "74736948eaea",
-      "title": "China using Trump-Xi 'stability' to build strategic edge, US panel warns",
-      "summary": "",
-      "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-using-trump-xi-stability-to-build-strategic-edge-us-panel-warns",
-      "published": "2026-11-20T01:29:13.715148+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "美国智库警告：中国正利用特朗普与习近平之间的“稳定关系”来建立战略优势"
-    },
     {
       "id": "f539d3b80b43",
       "title": "Xi tells Trump to 'do right thing' on Taiwan as trade truce remains in flux",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/apec/xi-tells-trump-to-do-right-thing-on-taiwan-as-trade-truce-remains-in-flux",
-      "published": "2026-11-20T01:29:13.714963+00:00",
+      "published": "2026-11-20T12:18:00.562405+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
-      "title_zh": "在贸易休战仍不稳定的情况下，习近平敦促特朗普在台湾问题上“做正确的事”"
+      "title_zh": "习近平敦促特朗普在台湾问题上“做正确的事”，中美贸易休战仍变数重重"
     },
     {
       "id": "0f9e2f2310ab",
       "title": "Xi, Trump, Putin promise to raise energy supplies and lower nuclear risk",
       "summary": "",
       "link": "https://asia.nikkei.com/politics/international-relations/apec/xi-trump-putin-promise-to-raise-energy-supplies-and-lower-nuclear-risk",
-      "published": "2026-11-20T01:29:13.714910+00:00",
+      "published": "2026-11-20T12:18:00.562366+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -39,76 +27,52 @@
       "title_zh": "习近平、特朗普、普京承诺增加能源供应并降低核风险"
     },
     {
-      "id": "e84d42bdbb57",
-      "title": "Trilateral Talks Yield Few Concrete Results",
-      "summary": "Power dynamics were on full display as the leaders of the US, China, and Russia met on the sidelines of the APEC summit in Shenzhen. Presidents Donald Trump, Xi Jinping and Vladimir Putin pledged to boost global fuel supplies and held discussions spanning issues from Ukraine to denuclearization. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-20/trilateral-talks-yield-few-concrete-results",
-      "published": "2026-11-20T01:15:46+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
+      "id": "c2a3a883ebc7",
+      "title": "Editor's Choice: Xi, Trump and Putin's grand diplomatic theater leaves Asia on the sidelines",
+      "summary": "",
+      "link": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-xi-trump-and-putin-s-grand-diplomatic-theater-leaves-asia-on-the-sidelines",
+      "published": "2026-11-20T12:18:00.562042+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "三方会谈鲜有具体成果"
+      "source_category": "asia",
+      "title_zh": "编辑精选：习近平、特朗普和普京上演外交大戏，亚洲沦为配角"
     },
     {
-      "id": "bee4eb736661",
-      "title": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
-      "summary": "The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin said that Russia would not negotiate with Ukraine on a cease-fire.",
-      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
-      "published": "2026-11-20T00:51:01+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
+      "id": "335cb7b3211f",
+      "title": "China revels in Xi’s ‘Yalta 2.0’ moment",
+      "summary": "Trilateral summit with Donald Trump and Vladimir Putin projected Beijing’s global leadership role, analysts say",
+      "link": "https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1",
+      "published": "2026-11-20T05:45:11+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普、习近平和普京在首次峰会上寻求彰显实力"
+      "source_category": "business",
+      "title_zh": "中国沉浸在习近平的“雅尔塔2.0”时刻"
+    },
+    {
+      "id": "260b5a0fc1b8",
+      "title": "Comb restores hair growth; Kim Jong-un daughter’s luxury ski gear: SCMP’s 7 highlights",
+      "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing.\n1. China’s first lady Peng Liyuan lets her English do the talking in Trump welcome\nChinese first lady Peng Liyuan again let her English do the talking as she accompanied President Xi Jinping in welcoming his US counterpart Donald Trump...",
+      "link": "https://www.scmp.com/news/world/article/3375020/comb-restores-hair-growth-kim-jong-un-daughters-luxury-ski-gear-scmps-7-highlights",
+      "published": "2026-11-20T04:15:08+00:00",
+      "source": "SCMP",
+      "source_color": "#003580",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "梳子能恢复头发的生长；金正恩女儿的奢华滑雪装备：《南华早报》的7大亮点"
     },
     {
       "id": "78cb72aeea85",
       "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
       "summary": "President Trump called Russia’s leader his “friend” and marveled at China’s warm welcome for his first-ever trilateral summit. But there were no breakthroughs on nuclear control, the war in Ukraine or A.I.",
       "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
-      "published": "2026-11-20T00:14:03+00:00",
+      "published": "2026-11-20T02:10:57+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "特朗普炫耀与习近平和普京的友好关系，但几乎没有成果可言"
-    },
-    {
-      "id": "c2784f7c7035",
-      "title": "Will the Shenzhen summit safeguard world peace?",
-      "summary": "Xi, Putin and Trump issue Peace Declaration after historic summit.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/19/will-the-shenzhen-summit-safeguard-world-peace?traffic_source=rss",
-      "published": "2026-11-19T20:43:51+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "深圳峰会将捍卫世界和平吗？"
-    },
-    {
-      "id": "1d3767a3ab0b",
-      "title": "Kushner says Russia ‘comfortable’ with NATO-like guarantees for Ukraine",
-      "summary": "European leaders meet in Berlin after Trump summit with Putin and Xi. Putin vows to retaliate for Kerch Bridge strikes.",
-      "link": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss",
-      "published": "2026-11-19T19:40:23+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "库什纳表示，俄罗斯对向乌克兰提供类似北约的保障“感到满意”"
-    },
-    {
-      "id": "6cdacb05dd2d",
-      "title": "The Xi, Trump, Putin meeting and the dawn of a post-western world",
-      "summary": "The symbolism was the substance in Shenzhen",
-      "link": "https://www.ft.com/content/01dde30c-977c-4f21-8838-4c3955dfacb7?syn-25a6b1a6=1",
-      "published": "2026-11-19T19:19:44+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "习近平、特朗普、普京会晤与后西方世界的曙光"
+      "title_zh": "特朗普炫耀与习近平和普京的友好关系，但却鲜有成果可言"
     },
     {
       "id": "1c679c748e73",
@@ -131,7 +95,8 @@
       "source": "BBC",
       "source_color": "#BB1919",
       "source_lang": "en",
-      "source_category": "international"
+      "source_category": "international",
+      "title_zh": "BBC记者讨论特朗普、习近平和普京从历史性会晤中获得了什么"
     },
     {
       "id": "ce8a82bfc305",
@@ -142,7 +107,8 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international"
+      "source_category": "international",
+      "title_zh": "在与习近平和普京的峰会上，特朗普试图在向国外展示实力的同时，在国内分享权力"
     },
     {
       "id": "922fcb50ecd2",
@@ -153,7 +119,8 @@
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "特朗普、习近平、普京表示，他们计划在三方会谈后增加石油产量、改革联合国"
     },
     {
       "id": "11695709bde4",
@@ -165,39 +132,6 @@
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international"
-    },
-    {
-      "id": "4a8ee46072aa",
-      "title": "Trump, Putin and Xi in historic trilateral meeting",
-      "summary": "Also in today’s newsletter, US tech outages blamed on rush to fix bugs found by AI",
-      "link": "https://www.ft.com/content/3ab490ea-825a-4ef4-9239-a2905d7f7f3c?syn-25a6b1a6=1",
-      "published": "2026-11-19T14:00:03+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business"
-    },
-    {
-      "id": "00fe257687ea",
-      "title": "Kenya awards prized rare earth deposit to US group",
-      "summary": "Deal is a win for the Trump administration’s efforts to counter China’s dominance of the metals used for magnets",
-      "link": "https://www.ft.com/content/913e3748-6bf2-4c59-b2b6-31bf58a166ab?syn-25a6b1a6=1",
-      "published": "2026-11-19T13:53:19+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business"
-    },
-    {
-      "id": "a12a679a2f99",
-      "title": "Xi, Trump and Putin hail ‘groundbreaking’ meeting",
-      "summary": "The world’s three largest nuclear powers agree to talks on preventing proliferation",
-      "link": "https://www.ft.com/content/3fde6008-d9c4-46a3-89f8-0f7611cd9b3a?syn-25a6b1a6=1",
-      "published": "2026-11-19T13:00:44+00:00",
-      "source": "Financial Times",
-      "source_color": "#C7A000",
-      "source_lang": "en",
-      "source_category": "business"
     },
     {
       "id": "7639cce15f84",
@@ -244,17 +178,6 @@
       "source_category": "business"
     },
     {
-      "id": "97dbc8af0c38",
-      "title": "How to Decode the Xi-Trump Hug",
-      "summary": "The welcome China’s leader, Xi Jinping, offered President Trump appeared to reflect a desire for a measure of stability at a time of growing disagreements.",
-      "link": "https://www.nytimes.com/2026/11/18/world/asia/xi-trump-hug-shenzhen.html",
-      "published": "2026-11-19T08:32:47+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
       "id": "0970312c6fb5",
       "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
       "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
@@ -266,33 +189,11 @@
       "source_category": "international"
     },
     {
-      "id": "48c8f08f6608",
-      "title": "Trump arrives in China for historic meeting with Xi, Putin",
-      "summary": "President Donald Trump in Shenzhen for historic trilateral talks with Chinese leader Xi Jinping and Russia's Vladimir Putin.",
-      "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html",
-      "published": "2026-11-18T12:24:24+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
-    },
-    {
       "id": "7fc93762203b",
       "title": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
       "summary": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
       "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
       "published": "2026-11-18T08:29:35+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business"
-    },
-    {
-      "id": "dbe2afd01343",
-      "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
-      "summary": "Xi opened the APEC summit in Shenzhen by calling for lower trade and investment barriers, pledging broader access to China’s market and manufacturing sector.",
-      "link": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
-      "published": "2026-11-18T08:00:05+00:00",
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
