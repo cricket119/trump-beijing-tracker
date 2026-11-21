@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-11-20T22:25:07.916051+00:00",
-  "total": 21,
+  "last_updated": "2026-11-21T04:38:54.545892+00:00",
+  "total": 20,
   "articles": [
     {
       "id": "c2a3a883ebc7",
       "title": "Editor's Choice: Xi, Trump and Putin's grand diplomatic theater leaves Asia on the sidelines",
       "summary": "",
       "link": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-xi-trump-and-putin-s-grand-diplomatic-theater-leaves-asia-on-the-sidelines",
-      "published": "2026-11-20T22:25:22.366599+00:00",
+      "published": "2026-11-21T04:39:07.524985+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "编辑精选：习近平、特朗普和普京上演外交大戏，亚洲沦为配角"
+    },
+    {
+      "id": "78cb72aeea85",
+      "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+      "summary": "President Trump called Russia’s leader his “friend” and marveled at China’s warm welcome for his first-ever trilateral summit. But there were no breakthroughs on nuclear control, the war in Ukraine or A.I.",
+      "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
+      "published": "2026-11-20T22:34:05+00:00",
+      "source": "NYT",
+      "source_color": "#444444",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普炫耀与习近平和普京的友谊，但却没有什么实际成果可展示"
     },
     {
       "id": "ec3b3c27779e",
@@ -24,7 +36,7 @@
       "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "特朗普表示，他与习近平讨论了黄仁勋；贝森特对CNBC表示，英伟达芯片出口政策未变"
+      "title_zh": "特朗普表示他与习近平讨论了黄仁勋；贝森特对CNBC表示，英伟达芯片出口政策未变"
     },
     {
       "id": "561c5fc71f19",
@@ -36,7 +48,7 @@
       "source_color": "#009B77",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "特朗普为与普京的关系辩护，并警告称人工智能数据中心必须留在美国"
+      "title_zh": "特朗普为与普京的关系辩护，并警告人工智能数据中心必须留在美国"
     },
     {
       "id": "64311d04753d",
@@ -63,18 +75,6 @@
       "title_zh": "英国和布鲁塞尔已开始逆转脱欧进程。会走多远？"
     },
     {
-      "id": "78cb72aeea85",
-      "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
-      "summary": "President Trump called Russia’s leader his “friend” and marveled at China’s warm welcome for his first-ever trilateral summit. But there were no breakthroughs on nuclear control, the war in Ukraine or A.I.",
-      "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
-      "published": "2026-11-20T20:20:51+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普炫耀与习近平和普京的友好关系，但却没有什么实际成果可展示"
-    },
-    {
       "id": "f4088df83a0a",
       "title": "Donald Trump threatens ‘tremendous’ tax on data centres built outside US",
       "summary": "President says fight is about preventing Beijing from taking the lead in developing AI technology",
@@ -84,7 +84,7 @@
       "source_color": "#C7A000",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "唐纳德·特朗普威胁要对在美国境外建设的数据中心征收“巨额”税款"
+      "title_zh": "唐纳德·特朗普威胁要对在美国境外建造的数据中心征收“巨额”税款"
     },
     {
       "id": "9bb043210bce",
@@ -96,7 +96,7 @@
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "普京带着象征性的胜利离开峰会，并表示他和特朗普有着共同的“价值观”"
+      "title_zh": "普京带着象征性的胜利离开峰会，称他和特朗普有着共同的“价值观”"
     },
     {
       "id": "1e58e81e0a60",
@@ -121,17 +121,6 @@
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "梳子可恢复头发的生长；金正恩女儿的奢华滑雪装备：南华早报的7大亮点"
-    },
-    {
-      "id": "2b5e832a7aae",
-      "title": "BBC correspondents discuss what Trump, Xi and Putin got out of historic talks",
-      "summary": "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, but what did they get out of meeting?",
-      "link": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T17:23:29+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
-      "source_lang": "en",
-      "source_category": "international"
     },
     {
       "id": "ce8a82bfc305",
