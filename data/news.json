@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-11-21T21:16:19.328041+00:00",
-  "total": 20,
+  "last_updated": "2026-11-22T03:52:54.233595+00:00",
+  "total": 19,
   "articles": [
     {
       "id": "c2a3a883ebc7",
       "title": "Editor's Choice: Xi, Trump and Putin's grand diplomatic theater leaves Asia on the sidelines",
       "summary": "",
       "link": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-xi-trump-and-putin-s-grand-diplomatic-theater-leaves-asia-on-the-sidelines",
-      "published": "2026-11-21T21:16:31.843962+00:00",
+      "published": "2026-11-22T03:53:08.914364+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
-      "title_zh": "编辑精选：习近平、特朗普和普京上演外交大戏，亚洲沦为配角"
+      "title_zh": "编辑精选：习近平、特朗普和普京上演外交大戏，亚洲被晾在一边"
     },
     {
       "id": "4d5c0614a3a4",
@@ -48,7 +48,7 @@
       "source_color": "#1976D2",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "峰会后，特朗普与普京的关系成为焦点"
+      "title_zh": "峰会后，特朗普与普京的关系成为关注焦点"
     },
     {
       "id": "5eec424ab6e3",
@@ -84,7 +84,7 @@
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "特朗普炫耀与习近平和普京的友好关系，但却鲜有成果可言"
+      "title_zh": "特朗普炫耀与习近平和普京的友好关系，但却没有什么实际成果可展示"
     },
     {
       "id": "ec3b3c27779e",
@@ -96,7 +96,7 @@
       "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "特朗普表示，他与习近平讨论了黄仁勋；贝森特对CNBC表示，英伟达芯片出口政策未变。"
+      "title_zh": "特朗普表示，他与习近平讨论了黄仁勋；贝森特对CNBC表示，英伟达芯片出口政策未变"
     },
     {
       "id": "64311d04753d",
@@ -120,7 +120,7 @@
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "英国和布鲁塞尔已开始“脱欧”回撤。会走多远？"
+      "title_zh": "英国和布鲁塞尔已开始逆转脱欧进程。会走多远？"
     },
     {
       "id": "9bb043210bce",
@@ -161,17 +161,6 @@
       "summary": "Weakened by the midterm elections, President Trump offered hugs, arm pats and smiles to autocrats from Russia and China in contrast to the threats he is making to ascendant Democrats in Washington.",
       "link": "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html",
       "published": "2026-11-19T17:05:18+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
-    },
-    {
-      "id": "11695709bde4",
-      "title": "Putin, Trump and Xi Condemn Nuclear War as Europe Watches Closely",
-      "summary": "After their summit, the leaders of Russia, the United States and China agreed that “a nuclear war cannot be won and must never be fought.” Some analysts are skeptical that real change will result.",
-      "link": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html",
-      "published": "2026-11-19T14:23:07+00:00",
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
