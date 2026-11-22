@@ -1,78 +1,54 @@
 {
-  "last_updated": "2026-11-22T12:06:07.763995+00:00",
-  "total": 20,
+  "last_updated": "2026-11-22T21:22:58.804731+00:00",
+  "total": 16,
   "articles": [
     {
-      "id": "c2a3a883ebc7",
-      "title": "Editor's Choice: Xi, Trump and Putin's grand diplomatic theater leaves Asia on the sidelines",
-      "summary": "",
-      "link": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-xi-trump-and-putin-s-grand-diplomatic-theater-leaves-asia-on-the-sidelines",
-      "published": "2026-11-22T12:06:21.667511+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "编辑精选：习近平、特朗普和普京上演外交大戏，亚洲沦为配角"
-    },
-    {
-      "id": "5f6b7b9e3695",
-      "title": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
-      "summary": "US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, says analyst.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
-      "published": "2026-11-22T09:06:27+00:00",
+      "id": "2ade6cf4a8a9",
+      "title": "On China, is Trump bucking the US national security establishment?",
+      "summary": "On China, US is torn between the fears of the national security establishment and the prospect of expanded trade.",
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/11/22/on-china-is-trump-bucking-the-us-national-security-establishment?traffic_source=rss",
+      "published": "2026-11-22T19:30:00+00:00",
       "source": "Al Jazeera",
       "source_color": "#009B77",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "“特朗普的退出策略可能取决于悄然解除对伊朗的封锁”"
+      "title_zh": "在对华问题上，特朗普是否在与美国国家安全机构作对？"
     },
     {
-      "id": "4d5c0614a3a4",
-      "title": "Trump’s Putin Outreach Tests Ukraine Talks",
-      "summary": "Bloomberg White House and National Security Editor Michelle Jamrisko tells Bloomberg This Weekend that President Donald Trump’s summit with Vladimir Putin and Xi Jinping reinforced his approach to diplomacy but left major questions unresolved over Ukraine and potential US security guarantees. Speaking with hosts David Gura and Christina Ruffini, Jamrisko discusses European skepticism toward Putin, tensions within the Trump administration and Vice President JD Vance’s effort to distinguish his views as he looks toward 2028. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-21/trump-s-putin-outreach-tests-ukraine-talks-video",
-      "published": "2026-11-21T13:56:40+00:00",
+      "id": "07ff36f7e417",
+      "title": "Rahm Emanuel Says Trump Is Playing Into China’s Hands",
+      "summary": "Former US Ambassador to Japan Rahm Emanuel tells Bloomberg This Weekend that he is seriously considering a 2028 presidential run as he lays out an economic vision focused on reforming capitalism, combating corruption and strengthening the middle class. Speaking with hosts David Gura and Christina Ruffini, Emanuel also criticizes President Donald Trump’s approach to China and Russia, arguing that the US should work more closely with allies to counter Beijing and protect American economic and national security interests.  (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-22/rahm-emanuel-says-trump-is-playing-into-china-s-hands-video",
+      "published": "2026-11-22T15:52:02+00:00",
       "source": "Bloomberg",
       "source_color": "#1976D2",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "特朗普向普京示好，考验乌克兰谈判"
+      "title_zh": "拉姆·伊曼纽尔表示，特朗普正中了中国的下怀"
     },
     {
-      "id": "3ead82763cdc",
-      "title": "Putin Gains From Trump, Xi Summit Spotlight",
-      "summary": "Bloomberg News White House Correspondent Jeff Mason tells Bloomberg This Weekend that Vladimir Putin emerged as a key beneficiary of his historic meeting with President Donald Trump and Xi Jinping, returning to the global stage alongside the US and Chinese leaders despite Russia’s continuing war in Ukraine. Speaking with hosts David Gura and Christina Ruffini, Mason says the summit reflected Trump’s preference for leader-level diplomacy and explains why a Democratic-controlled Congress and Stephen Miller’s appointment as White House chief of staff are unlikely to fundamentally change the presi",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-21/putin-gains-from-trump-xi-summit-spotlight-video",
-      "published": "2026-11-21T13:12:23+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "普京从特朗普与习近平的峰会焦点中获益"
-    },
-    {
-      "id": "e4c1934a7336",
-      "title": "Trump’s Putin Ties Draw Focus After Summit",
-      "summary": "Bloomberg Economics Analyst Alex Kokcharov tells Bloomberg This Weekend that President Donald Trump’s historic meeting with Vladimir Putin and Xi Jinping produced limited concrete results despite a joint declaration on energy, nuclear risks and other global issues. Speaking with hosts David Gura and Christina Ruffini, Kokcharov explains what Trump’s relationship with Putin means for Ukraine as Europe takes on more of Kyiv’s support and the war intensifies after Ukraine’s latest attack on the Crimean Bridge. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-21/trump-s-putin-ties-draw-focus-after-summit-video",
-      "published": "2026-11-21T13:05:13+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "峰会后，特朗普与普京的关系成为关注焦点"
-    },
-    {
-      "id": "5eec424ab6e3",
-      "title": "Traders start to move US copper to China as Trump tariff fears ease",
-      "summary": "Acute Chinese shortage and high local premium create lucrative arbitrage",
-      "link": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1",
-      "published": "2026-11-21T12:00:08+00:00",
+      "id": "39661e5f2d2a",
+      "title": "Xi needs Trump more than ever",
+      "summary": "The Shenzhen summit shows the high stakes for Beijing as many in Washington call for tougher measures",
+      "link": "https://www.ft.com/content/4dbdecf6-396d-4629-8600-8a55034a9827",
+      "published": "2026-11-22T13:00:06+00:00",
       "source": "Financial Times",
       "source_color": "#C7A000",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "随着对特朗普关税的担忧缓解，交易商开始将美国铜运往中国"
+      "title_zh": "习近平比以往任何时候都更需要特朗普"
+    },
+    {
+      "id": "2918a0574c62",
+      "title": "Trump’s Asia Trip Leaves Key Issues Unresolved",
+      "summary": "ABC News State Department reporter Shannon Kingston tells Bloomberg This Weekend that Russia’s increasingly provocative actions near NATO countries are complicating President Donald Trump’s push for a negotiated end to the war in Ukraine, while Moscow remains publicly defiant. Speaking with hosts David Gura and Christina Ruffini, Kingston says Trump’s Asia trip produced few concrete results and puts greater pressure on the upcoming G20 meetings to deliver progress on China, trade and other unresolved diplomatic issues. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-22/trump-s-asia-trip-leaves-key-issues-unresolved-video",
+      "published": "2026-11-22T12:39:41+00:00",
+      "source": "Bloomberg",
+      "source_color": "#1976D2",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普的亚洲之行未能解决关键问题"
     },
     {
       "id": "865c18dc93a4",
@@ -131,7 +107,8 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international"
+      "source_category": "international",
+      "title_zh": "英国和布鲁塞尔已开始逆转脱欧进程。会走多远？"
     },
     {
       "id": "9bb043210bce",
@@ -142,7 +119,8 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international"
+      "source_category": "international",
+      "title_zh": "普京带着象征性的胜利离开峰会，称他和特朗普有着共同的“价值观”"
     },
     {
       "id": "1e58e81e0a60",
@@ -154,28 +132,6 @@
       "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business"
-    },
-    {
-      "id": "260b5a0fc1b8",
-      "title": "Comb restores hair growth; Kim Jong-un daughter’s luxury ski gear: SCMP’s 7 highlights",
-      "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing.\n1. China’s first lady Peng Liyuan lets her English do the talking in Trump welcome\nChinese first lady Peng Liyuan again let her English do the talking as she accompanied President Xi Jinping in welcoming his US counterpart Donald Trump...",
-      "link": "https://www.scmp.com/news/world/article/3375020/comb-restores-hair-growth-kim-jong-un-daughters-luxury-ski-gear-scmps-7-highlights",
-      "published": "2026-11-20T04:15:08+00:00",
-      "source": "SCMP",
-      "source_color": "#003580",
-      "source_lang": "en",
-      "source_category": "asia"
-    },
-    {
-      "id": "ce8a82bfc305",
-      "title": "At Summit With Xi and Putin, Trump Seeks to Project Power Abroad While Sharing It at Home",
-      "summary": "Weakened by the midterm elections, President Trump offered hugs, arm pats and smiles to autocrats from Russia and China in contrast to the threats he is making to ascendant Democrats in Washington.",
-      "link": "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html",
-      "published": "2026-11-19T17:05:18+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international"
     },
     {
       "id": "b3c157cada0b",
