@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-11-22T03:52:54.233595+00:00",
-  "total": 19,
+  "last_updated": "2026-11-22T12:06:07.763995+00:00",
+  "total": 20,
   "articles": [
     {
       "id": "c2a3a883ebc7",
       "title": "Editor's Choice: Xi, Trump and Putin's grand diplomatic theater leaves Asia on the sidelines",
       "summary": "",
       "link": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-xi-trump-and-putin-s-grand-diplomatic-theater-leaves-asia-on-the-sidelines",
-      "published": "2026-11-22T03:53:08.914364+00:00",
+      "published": "2026-11-22T12:06:21.667511+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
-      "title_zh": "编辑精选：习近平、特朗普和普京上演外交大戏，亚洲被晾在一边"
+      "title_zh": "编辑精选：习近平、特朗普和普京上演外交大戏，亚洲沦为配角"
+    },
+    {
+      "id": "5f6b7b9e3695",
+      "title": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
+      "summary": "US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, says analyst.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
+      "published": "2026-11-22T09:06:27+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "“特朗普的退出策略可能取决于悄然解除对伊朗的封锁”"
     },
     {
       "id": "4d5c0614a3a4",
@@ -84,7 +96,7 @@
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "特朗普炫耀与习近平和普京的友好关系，但却没有什么实际成果可展示"
+      "title_zh": "特朗普炫耀与习近平和普京的友好关系，但却鲜有成果可言"
     },
     {
       "id": "ec3b3c27779e",
@@ -96,7 +108,7 @@
       "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "特朗普表示，他与习近平讨论了黄仁勋；贝森特对CNBC表示，英伟达芯片出口政策未变"
+      "title_zh": "特朗普表示他与习近平讨论了黄仁勋；贝森特告诉CNBC，英伟达芯片出口政策未变"
     },
     {
       "id": "64311d04753d",
@@ -119,8 +131,7 @@
       "source": "NYT",
       "source_color": "#444444",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "英国和布鲁塞尔已开始逆转脱欧进程。会走多远？"
+      "source_category": "international"
     },
     {
       "id": "9bb043210bce",
