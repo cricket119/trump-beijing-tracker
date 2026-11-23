@@ -1,31 +1,7 @@
 {
-  "last_updated": "2026-11-22T21:22:58.804731+00:00",
-  "total": 16,
+  "last_updated": "2026-11-23T04:32:59.470685+00:00",
+  "total": 12,
   "articles": [
-    {
-      "id": "2ade6cf4a8a9",
-      "title": "On China, is Trump bucking the US national security establishment?",
-      "summary": "On China, US is torn between the fears of the national security establishment and the prospect of expanded trade.",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/11/22/on-china-is-trump-bucking-the-us-national-security-establishment?traffic_source=rss",
-      "published": "2026-11-22T19:30:00+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "在对华问题上，特朗普是否在与美国国家安全机构作对？"
-    },
-    {
-      "id": "07ff36f7e417",
-      "title": "Rahm Emanuel Says Trump Is Playing Into China’s Hands",
-      "summary": "Former US Ambassador to Japan Rahm Emanuel tells Bloomberg This Weekend that he is seriously considering a 2028 presidential run as he lays out an economic vision focused on reforming capitalism, combating corruption and strengthening the middle class. Speaking with hosts David Gura and Christina Ruffini, Emanuel also criticizes President Donald Trump’s approach to China and Russia, arguing that the US should work more closely with allies to counter Beijing and protect American economic and national security interests.  (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-22/rahm-emanuel-says-trump-is-playing-into-china-s-hands-video",
-      "published": "2026-11-22T15:52:02+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "拉姆·伊曼纽尔表示，特朗普正中了中国的下怀"
-    },
     {
       "id": "39661e5f2d2a",
       "title": "Xi needs Trump more than ever",
@@ -39,18 +15,6 @@
       "title_zh": "习近平比以往任何时候都更需要特朗普"
     },
     {
-      "id": "2918a0574c62",
-      "title": "Trump’s Asia Trip Leaves Key Issues Unresolved",
-      "summary": "ABC News State Department reporter Shannon Kingston tells Bloomberg This Weekend that Russia’s increasingly provocative actions near NATO countries are complicating President Donald Trump’s push for a negotiated end to the war in Ukraine, while Moscow remains publicly defiant. Speaking with hosts David Gura and Christina Ruffini, Kingston says Trump’s Asia trip produced few concrete results and puts greater pressure on the upcoming G20 meetings to deliver progress on China, trade and other unresolved diplomatic issues. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-22/trump-s-asia-trip-leaves-key-issues-unresolved-video",
-      "published": "2026-11-22T12:39:41+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普的亚洲之行未能解决关键问题"
-    },
-    {
       "id": "865c18dc93a4",
       "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
       "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
@@ -61,18 +25,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "特朗普称普京是朋友，泽连斯基则称普京是“杀手”"
-    },
-    {
-      "id": "78cb72aeea85",
-      "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
-      "summary": "President Trump called Russia’s leader his “friend” and marveled at China’s warm welcome for his first-ever trilateral summit. But there were no breakthroughs on nuclear control, the war in Ukraine or A.I.",
-      "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
-      "published": "2026-11-20T22:34:05+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普炫耀与习近平和普京的友好关系，但却鲜有成果可言"
     },
     {
       "id": "ec3b3c27779e",
@@ -120,7 +72,7 @@
       "source_color": "#444444",
       "source_lang": "en",
       "source_category": "international",
-      "title_zh": "普京带着象征性的胜利离开峰会，称他和特朗普有着共同的“价值观”"
+      "title_zh": "普京带着象征性的胜利离开峰会，并表示他和特朗普有着“共同的价值观”"
     },
     {
       "id": "1e58e81e0a60",
@@ -131,7 +83,8 @@
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "特朗普结束亚洲之行回国，中美贸易、台湾和科技领域的紧张局势仍未得到解决"
     },
     {
       "id": "b3c157cada0b",
@@ -142,7 +95,8 @@
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "亚太经合组织最后一天照片：特朗普、习近平和普京握手；高市早苗保持距离"
     },
     {
       "id": "50b1bc26ab32",
@@ -153,7 +107,8 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official"
+      "source_category": "chinese_official",
+      "title_zh": "习近平与特朗普通话后，中国强调台湾是“核心利益的核心”；专家表示，“依靠美国实现独立”的幻想空间只会进一步缩小。"
     },
     {
       "id": "2c9f49adac2e",
@@ -164,7 +119,8 @@
       "source": "Global Times",
       "source_color": "#CC0000",
       "source_lang": "en",
-      "source_category": "chinese_official"
+      "source_category": "chinese_official",
+      "title_zh": "特朗普声称印度将购买委内瑞拉石油，并欢迎中国的投资；中国专家注意到这些言论“单方面”，印度方面未予确认。"
     },
     {
       "id": "28925d7651b5",
