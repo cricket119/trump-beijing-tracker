@@ -1,54 +1,18 @@
 {
-  "last_updated": "2026-11-23T04:32:59.470685+00:00",
-  "total": 12,
+  "last_updated": "2026-11-23T19:36:07.096452+00:00",
+  "total": 6,
   "articles": [
     {
-      "id": "39661e5f2d2a",
-      "title": "Xi needs Trump more than ever",
-      "summary": "The Shenzhen summit shows the high stakes for Beijing as many in Washington call for tougher measures",
-      "link": "https://www.ft.com/content/4dbdecf6-396d-4629-8600-8a55034a9827",
-      "published": "2026-11-22T13:00:06+00:00",
+      "id": "5eec424ab6e3",
+      "title": "Traders start to move US copper to China as Trump tariff fears ease",
+      "summary": "Acute Chinese shortage and high local premium create lucrative arbitrage",
+      "link": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1",
+      "published": "2026-11-23T12:21:55+00:00",
       "source": "Financial Times",
       "source_color": "#C7A000",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "习近平比以往任何时候都更需要特朗普"
-    },
-    {
-      "id": "865c18dc93a4",
-      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T08:10:25+00:00",
-      "source": "BBC",
-      "source_color": "#BB1919",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普称普京是朋友，泽连斯基则称普京是“杀手”"
-    },
-    {
-      "id": "ec3b3c27779e",
-      "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
-      "summary": "Trump said he discussed Jensen Huang with China's Xi. Bessent said the ousted Nvidia CEO didn't come up in talks he had while in China.",
-      "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
-      "published": "2026-11-20T22:08:41+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普表示他与习近平讨论了黄仁勋；贝森特告诉CNBC，英伟达芯片出口政策未变"
-    },
-    {
-      "id": "64311d04753d",
-      "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
-      "summary": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
-      "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
-      "published": "2026-11-20T20:47:58+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普誓言阻止美国公司在海外建设数据中心，并威胁要征收“巨额税款”"
+      "title_zh": "随着对特朗普关税的担忧缓解，交易商开始将美国铜运往中国"
     },
     {
       "id": "e98e23e6656c",
@@ -61,42 +25,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "英国和布鲁塞尔已开始逆转脱欧进程。会走多远？"
-    },
-    {
-      "id": "9bb043210bce",
-      "title": "Putin Exits Summit With Symbolic Win, Saying He and Trump Share ‘Values’",
-      "summary": "Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power.",
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
-      "published": "2026-11-20T13:56:56+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
-      "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "普京带着象征性的胜利离开峰会，并表示他和特朗普有着“共同的价值观”"
-    },
-    {
-      "id": "1e58e81e0a60",
-      "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
-      "summary": "Analysts note few concrete outcomes from the high-profile trilateral and other meetings for APEC in Shenzhen this week.",
-      "link": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
-      "published": "2026-11-20T13:29:50+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普结束亚洲之行回国，中美贸易、台湾和科技领域的紧张局势仍未得到解决"
-    },
-    {
-      "id": "b3c157cada0b",
-      "title": "APEC final day in photos: Trump, Xi and Putin shake hands; Takaichi kept at a distance",
-      "summary": "Leaders gathered Thursday for the second day of the economic summit, ahead of a historic trilateral meeting between the U.S., Russia and China.",
-      "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-photos-us-china-russia-trilateral-.html",
-      "published": "2026-11-19T10:54:07+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "亚太经合组织最后一天照片：特朗普、习近平和普京握手；高市早苗保持距离"
     },
     {
       "id": "50b1bc26ab32",
@@ -131,7 +59,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "北京方面释放出愿意与特朗普团队（甚至是老对手）进行对话的信号"
     },
     {
       "id": "b279b93e7dae",
@@ -142,7 +71,8 @@
       "source": "WSJ",
       "source_color": "#333333",
       "source_lang": "en",
-      "source_category": "business"
+      "source_category": "business",
+      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
     }
   ]
 }
