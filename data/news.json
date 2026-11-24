@@ -1,30 +1,42 @@
 {
-  "last_updated": "2026-11-24T04:29:03.244675+00:00",
-  "total": 7,
+  "last_updated": "2026-11-24T19:10:33.063812+00:00",
+  "total": 8,
   "articles": [
     {
-      "id": "ff3d722d1267",
-      "title": "Trump postpones US Army plan to detonate toxic explosives in Iowa",
-      "summary": "President Trump has further postponed the US Army’s planned detonation of nearly five tonnes of lead azide in Iowa.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa?traffic_source=rss",
-      "published": "2026-11-23T22:54:47+00:00",
-      "source": "Al Jazeera",
-      "source_color": "#009B77",
+      "id": "ad74ed7b365b",
+      "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
+      "summary": "President Trump's decision to force Nvidia's board to bring back Jensen Huang as CEO is exactly what Beijing, Tehran, and Moscow would want to see.",
+      "link": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
+      "published": "2026-11-24T18:30:06+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "特朗普推迟美国陆军在爱荷华州引爆有毒炸药的计划"
+      "source_category": "business",
+      "title_zh": "评论文章：特朗普对英伟达董事会的干预为国家安全设定了代价。我们的对手会留意到这一点"
     },
     {
-      "id": "0144f8f51c10",
-      "title": "Trump made up to $15mn on Nvidia shares after Huang’s return",
-      "summary": "Profit on 30% jump in chip group’s share price based on maximum amount US president could have owned in latest disclosure",
-      "link": "https://www.ft.com/content/67b0a070-c2a9-4229-885a-383cca657763?syn-25a6b1a6=1",
-      "published": "2026-11-23T22:21:44+00:00",
+      "id": "c4dd90023dcc",
+      "title": "Trump readies raft of new tariffs on major economies",
+      "summary": "China, the EU, Japan and South Korea expected to be hit by levies as US president doubles down on trade strategy",
+      "link": "https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1",
+      "published": "2026-11-24T16:30:35+00:00",
       "source": "Financial Times",
       "source_color": "#C7A000",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "黄仁勋回归后，特朗普的英伟达股票收益高达1500万美元"
+      "title_zh": "特朗普准备对主要经济体征收一系列新关税"
+    },
+    {
+      "id": "d91538bcecd0",
+      "title": "What Jensen Huang's return teaches China's Xi about Trump",
+      "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+      "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T07:26:27+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "黄仁勋的回归给中国的习近平带来了哪些关于特朗普的启示"
     },
     {
       "id": "d36342c5bc73",
@@ -36,7 +48,7 @@
       "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "彼得森：贝森特对黄仁勋态度的转变揭示了特朗普和中国的情况"
+      "title_zh": "彼得森：贝森特对黄仁勋态度的转变揭示了特朗普和中国之间的关系"
     },
     {
       "id": "50b1bc26ab32",
@@ -72,7 +84,7 @@
       "source_color": "#333333",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "北京方面释放出愿意与特朗普团队（甚至是老对手）进行对话的信号"
+      "title_zh": "北京方面释放出愿意与特朗普团队（甚至是昔日对手）进行对话的信号"
     },
     {
       "id": "b279b93e7dae",
