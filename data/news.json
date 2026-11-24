@@ -1,30 +1,42 @@
 {
-  "last_updated": "2026-11-23T19:36:07.096452+00:00",
-  "total": 6,
+  "last_updated": "2026-11-24T04:29:03.244675+00:00",
+  "total": 7,
   "articles": [
     {
-      "id": "5eec424ab6e3",
-      "title": "Traders start to move US copper to China as Trump tariff fears ease",
-      "summary": "Acute Chinese shortage and high local premium create lucrative arbitrage",
-      "link": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1",
-      "published": "2026-11-23T12:21:55+00:00",
+      "id": "ff3d722d1267",
+      "title": "Trump postpones US Army plan to detonate toxic explosives in Iowa",
+      "summary": "President Trump has further postponed the US Army’s planned detonation of nearly five tonnes of lead azide in Iowa.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa?traffic_source=rss",
+      "published": "2026-11-23T22:54:47+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普推迟美国陆军在爱荷华州引爆有毒炸药的计划"
+    },
+    {
+      "id": "0144f8f51c10",
+      "title": "Trump made up to $15mn on Nvidia shares after Huang’s return",
+      "summary": "Profit on 30% jump in chip group’s share price based on maximum amount US president could have owned in latest disclosure",
+      "link": "https://www.ft.com/content/67b0a070-c2a9-4229-885a-383cca657763?syn-25a6b1a6=1",
+      "published": "2026-11-23T22:21:44+00:00",
       "source": "Financial Times",
       "source_color": "#C7A000",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "随着对特朗普关税的担忧缓解，交易商开始将美国铜运往中国"
+      "title_zh": "黄仁勋回归后，特朗普的英伟达股票收益高达1500万美元"
     },
     {
-      "id": "e98e23e6656c",
-      "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
-      "summary": "The United Kingdom is removing barriers with the European Union a decade after it voted to leave. Global turmoil, and the disruptive policies of President Trump, helped push them back together.",
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
-      "published": "2026-11-20T20:22:14+00:00",
-      "source": "NYT",
-      "source_color": "#444444",
+      "id": "d36342c5bc73",
+      "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
+      "summary": "Treasury Secretary Scott Bessent was becoming the face of an emerging harder line on Nvidia— until he reversed course",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
+      "published": "2026-11-23T21:00:59+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
       "source_lang": "en",
-      "source_category": "international",
-      "title_zh": "英国和布鲁塞尔已开始逆转脱欧进程。会走多远？"
+      "source_category": "business",
+      "title_zh": "彼得森：贝森特对黄仁勋态度的转变揭示了特朗普和中国的情况"
     },
     {
       "id": "50b1bc26ab32",
