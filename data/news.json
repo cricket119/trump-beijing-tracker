@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T19:10:33.063812+00:00",
+  "last_updated": "2026-11-25T03:13:28.034224+00:00",
   "total": 8,
   "articles": [
     {
@@ -7,12 +7,24 @@
       "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
       "summary": "President Trump's decision to force Nvidia's board to bring back Jensen Huang as CEO is exactly what Beijing, Tehran, and Moscow would want to see.",
       "link": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
-      "published": "2026-11-24T18:30:06+00:00",
+      "published": "2026-11-25T02:50:08+00:00",
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "评论文章：特朗普对英伟达董事会的干预为国家安全设定了代价。我们的对手会留意到这一点"
+      "title_zh": "评论文章：特朗普对英伟达董事会的干预为国家安全贴上了价格标签。我们的对手会留意到这一点"
+    },
+    {
+      "id": "fc11c80ea8ef",
+      "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
+      "summary": "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S. national security.",
+      "link": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
+      "published": "2026-11-24T21:13:39+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "特朗普希望黄仁勋回来。现在，总统在华盛顿孤立无援。"
     },
     {
       "id": "c4dd90023dcc",
@@ -37,18 +49,6 @@
       "source_lang": "en",
       "source_category": "international",
       "title_zh": "黄仁勋的回归给中国的习近平带来了哪些关于特朗普的启示"
-    },
-    {
-      "id": "d36342c5bc73",
-      "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
-      "summary": "Treasury Secretary Scott Bessent was becoming the face of an emerging harder line on Nvidia— until he reversed course",
-      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
-      "published": "2026-11-23T21:00:59+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "彼得森：贝森特对黄仁勋态度的转变揭示了特朗普和中国之间的关系"
     },
     {
       "id": "50b1bc26ab32",
