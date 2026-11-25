@@ -1,18 +1,42 @@
 {
-  "last_updated": "2026-11-25T13:41:15.565305+00:00",
-  "total": 6,
+  "last_updated": "2026-11-25T23:51:17.818763+00:00",
+  "total": 8,
   "articles": [
     {
-      "id": "1cbfd86d723b",
-      "title": "China Hits Back at New Trump Tariff Prospects",
-      "summary": "China called the prospect of new US tariffs on its exports “political maneuvering” and said the two nations should work together to maintain their trade truce. \n\nJensen Huang struck a somber tone a day after his reinstatement as Nvidia CEO, apologizing to employees during an all-hands meeting and sharing that he’d been in daily therapy to address the behavior that led to his brief ouster from the top job.\n\nA global selloff in technology stocks is showing no sign of letting up as questions about the outlook for the artificial intelligence trade pile up.\n\nToday’s guests: Christian Mueller-Glissm",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-25/the-pulse-11-25-2026-video",
-      "published": "2026-11-25T10:51:01+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
+      "id": "68b144c1e134",
+      "title": "Trump rebuilds tariff wall with new duties on China, Japan and others",
+      "summary": "",
+      "link": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/trump-rebuilds-tariff-wall-with-new-duties-on-china-japan-and-others",
+      "published": "2026-11-25T23:51:31.157095+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "特朗普对中国、日本和其他国家征收新关税，重建关税壁垒"
+    },
+    {
+      "id": "8711179f7f2c",
+      "title": "Trump announces raft of new tariffs on major economies",
+      "summary": "China, the EU, Japan and South Korea to be hit by levies as US president doubles down on trade strategy",
+      "link": "https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1",
+      "published": "2026-11-25T14:00:55+00:00",
+      "source": "Financial Times",
+      "source_color": "#C7A000",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "中国对特朗普的新关税前景予以回击"
+      "title_zh": "特朗普宣布对主要经济体征收一系列新关税"
+    },
+    {
+      "id": "ad74ed7b365b",
+      "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
+      "summary": "President Trump's decision to force Nvidia's board to bring back Jensen Huang as CEO is exactly what Beijing, Tehran, and Moscow would want to see.",
+      "link": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
+      "published": "2026-11-25T02:50:08+00:00",
+      "source": "CNBC",
+      "source_color": "#005594",
+      "source_lang": "en",
+      "source_category": "business",
+      "title_zh": "评论文章：特朗普对英伟达董事会的干预为国家安全设定了代价。我们的对手会留意到这一点"
     },
     {
       "id": "fc11c80ea8ef",
@@ -36,7 +60,7 @@
       "source_color": "#CC0000",
       "source_lang": "en",
       "source_category": "chinese_official",
-      "title_zh": "习近平与特朗普通话后，中国强调台湾是“核心利益的核心”；专家称“依靠美国实现独立”的幻想空间只会进一步缩小"
+      "title_zh": "习近平与特朗普通话后，中国强调台湾是“核心利益的核心”；专家表示，“依靠美国实现独立”的幻想空间只会进一步缩小。"
     },
     {
       "id": "2c9f49adac2e",
@@ -60,7 +84,7 @@
       "source_color": "#333333",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "北京方面释放出愿意与特朗普团队（甚至是老对手）进行对话的信号"
+      "title_zh": "北京方面释放出愿意与特朗普团队（甚至是昔日对手）进行对话的信号"
     },
     {
       "id": "b279b93e7dae",
