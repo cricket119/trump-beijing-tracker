@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T23:51:17.818763+00:00",
+  "last_updated": "2026-11-26T05:49:00.190293+00:00",
   "total": 8,
   "articles": [
     {
@@ -7,7 +7,7 @@
       "title": "Trump rebuilds tariff wall with new duties on China, Japan and others",
       "summary": "",
       "link": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/trump-rebuilds-tariff-wall-with-new-duties-on-china-japan-and-others",
-      "published": "2026-11-25T23:51:31.157095+00:00",
+      "published": "2026-11-26T05:49:13.139129+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -15,40 +15,40 @@
       "title_zh": "特朗普对中国、日本和其他国家征收新关税，重建关税壁垒"
     },
     {
-      "id": "8711179f7f2c",
-      "title": "Trump announces raft of new tariffs on major economies",
-      "summary": "China, the EU, Japan and South Korea to be hit by levies as US president doubles down on trade strategy",
-      "link": "https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1",
-      "published": "2026-11-25T14:00:55+00:00",
+      "id": "ef3d622905ed",
+      "title": "The ICE raids ‘wreaking havoc’ across American academia",
+      "summary": "Critics say detention of PhD student Eva Yi Xie and others shows how the Trump administration has escalated its crackdown",
+      "link": "https://www.ft.com/content/125e9b6d-4e45-4554-9a86-a3ce172bcf65?syn-25a6b1a6=1",
+      "published": "2026-11-26T05:01:09+00:00",
       "source": "Financial Times",
       "source_color": "#C7A000",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "特朗普宣布对主要经济体征收一系列新关税"
+      "title_zh": "移民和海关执法局（ICE）的突袭“肆虐”美国学术界"
     },
     {
-      "id": "ad74ed7b365b",
-      "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
-      "summary": "President Trump's decision to force Nvidia's board to bring back Jensen Huang as CEO is exactly what Beijing, Tehran, and Moscow would want to see.",
-      "link": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
-      "published": "2026-11-25T02:50:08+00:00",
+      "id": "c09589916d27",
+      "title": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
+      "summary": "Proposed tariffs of 18% on Bangladesh, Cambodia, Thailand, and 20% on China and Vietnam, subject to their respective trade deals, offer India a competitive advantage.",
+      "link": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
+      "published": "2026-11-26T04:12:18+00:00",
       "source": "CNBC",
       "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "评论文章：特朗普对英伟达董事会的干预为国家安全设定了代价。我们的对手会留意到这一点"
+      "title_zh": "特朗普的最新关税举措如何使印度在与亚洲出口国竞争中占据优势"
     },
     {
-      "id": "fc11c80ea8ef",
-      "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
-      "summary": "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S. national security.",
-      "link": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
-      "published": "2026-11-24T21:13:39+00:00",
-      "source": "CNBC",
-      "source_color": "#005594",
+      "id": "de1353a78794",
+      "title": "What we know about Trump's Thanksgiving tariffs",
+      "summary": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
+      "link": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T19:38:05+00:00",
+      "source": "BBC",
+      "source_color": "#BB1919",
       "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普希望黄仁勋回归。现在，总统在华盛顿孤立无援。"
+      "source_category": "international",
+      "title_zh": "我们对特朗普感恩节关税的了解"
     },
     {
       "id": "50b1bc26ab32",
@@ -60,7 +60,7 @@
       "source_color": "#CC0000",
       "source_lang": "en",
       "source_category": "chinese_official",
-      "title_zh": "习近平与特朗普通话后，中国强调台湾是“核心利益的核心”；专家表示，“依靠美国实现独立”的幻想空间只会进一步缩小。"
+      "title_zh": "习近平与特朗普通话后，中国强调台湾问题是“核心利益中的核心”；专家表示，“依靠美国实现独立”的幻想空间只会进一步缩小。"
     },
     {
       "id": "2c9f49adac2e",
