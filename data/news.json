@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-26T17:56:56.589417+00:00",
-  "total": 7,
+  "last_updated": "2026-11-27T02:30:56.752507+00:00",
+  "total": 8,
   "articles": [
     {
       "id": "68b144c1e134",
       "title": "Trump rebuilds tariff wall with new duties on China, Japan and others",
       "summary": "",
       "link": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/trump-rebuilds-tariff-wall-with-new-duties-on-china-japan-and-others",
-      "published": "2026-11-26T17:57:09.706222+00:00",
+      "published": "2026-11-27T02:31:10.093553+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,12 +19,24 @@
       "title": "Asia rejects basis of new Trump tariffs as US gathers China ammunition",
       "summary": "",
       "link": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/asia-rejects-basis-of-new-trump-tariffs-as-us-gathers-china-ammunition",
-      "published": "2026-11-26T17:57:09.706028+00:00",
+      "published": "2026-11-27T02:31:10.093320+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "亚洲拒绝接受特朗普新关税的依据，而美国则在为对付中国积蓄弹药"
+    },
+    {
+      "id": "cc4432aeabdf",
+      "title": "Trump-Xi summits unlikely to solve China's rare-earth licensing maze",
+      "summary": "",
+      "link": "https://asia.nikkei.com/opinion/trump-xi-summits-unlikely-to-solve-china-s-rare-earth-licensing-maze",
+      "published": "2026-11-27T02:31:10.093214+00:00",
+      "source": "Nikkei Asia",
+      "source_color": "#E60012",
+      "source_lang": "en",
+      "source_category": "asia",
+      "title_zh": "特朗普-习近平峰会不太可能解决中国的稀土许可迷局"
     },
     {
       "id": "c09589916d27",
@@ -48,7 +60,7 @@
       "source_color": "#CC0000",
       "source_lang": "en",
       "source_category": "chinese_official",
-      "title_zh": "习近平与特朗普通话后，中国强调台湾是“核心利益的核心”；专家称“依靠美国实现独立”的幻想空间只会进一步缩小"
+      "title_zh": "习近平与特朗普通话后，中国强调台湾是“核心利益的核心”；专家表示，“依靠美国实现独立”的幻想空间只会进一步缩小。"
     },
     {
       "id": "2c9f49adac2e",
