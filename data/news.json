@@ -1,25 +1,13 @@
 {
-  "last_updated": "2026-11-27T02:30:56.752507+00:00",
+  "last_updated": "2026-11-27T13:16:41.089830+00:00",
   "total": 8,
   "articles": [
-    {
-      "id": "68b144c1e134",
-      "title": "Trump rebuilds tariff wall with new duties on China, Japan and others",
-      "summary": "",
-      "link": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/trump-rebuilds-tariff-wall-with-new-duties-on-china-japan-and-others",
-      "published": "2026-11-27T02:31:10.093553+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "特朗普对中国、日本和其他国家征收新关税，重建关税壁垒"
-    },
     {
       "id": "5751d6c7838d",
       "title": "Asia rejects basis of new Trump tariffs as US gathers China ammunition",
       "summary": "",
       "link": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/asia-rejects-basis-of-new-trump-tariffs-as-us-gathers-china-ammunition",
-      "published": "2026-11-27T02:31:10.093320+00:00",
+      "published": "2026-11-27T13:16:53.879687+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -31,12 +19,24 @@
       "title": "Trump-Xi summits unlikely to solve China's rare-earth licensing maze",
       "summary": "",
       "link": "https://asia.nikkei.com/opinion/trump-xi-summits-unlikely-to-solve-china-s-rare-earth-licensing-maze",
-      "published": "2026-11-27T02:31:10.093214+00:00",
+      "published": "2026-11-27T13:16:53.879595+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "特朗普-习近平峰会不太可能解决中国的稀土许可迷局"
+    },
+    {
+      "id": "ac6ce494911c",
+      "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
+      "summary": "US presidents new tariff regime targets China hardest, just weeks before Trump and Xi meet again in Miami.",
+      "link": "https://www.aljazeera.com/features/2026/11/27/trump-embraced-xi-then-slapped-new-tariffs-on-china-whats-his-game-plan?traffic_source=rss",
+      "published": "2026-11-27T12:48:44+00:00",
+      "source": "Al Jazeera",
+      "source_color": "#009B77",
+      "source_lang": "en",
+      "source_category": "international",
+      "title_zh": "特朗普拥抱习近平，然后对中国征收新关税：他的策略是什么？"
     },
     {
       "id": "c09589916d27",
@@ -72,7 +72,7 @@
       "source_color": "#CC0000",
       "source_lang": "en",
       "source_category": "chinese_official",
-      "title_zh": "特朗普声称印度将购买委内瑞拉石油，并欢迎中国的投资；中国专家注意到这些言论“单方面”，印度方面未予确认。"
+      "title_zh": "特朗普声称印度将购买委内瑞拉石油，并欢迎中国的投资；中国专家指出该言论“单方面”，印度方面未予确认。"
     },
     {
       "id": "28925d7651b5",
@@ -84,7 +84,7 @@
       "source_color": "#333333",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "北京方面释放出愿意与特朗普团队（甚至是昔日对手）进行对话的信号"
+      "title_zh": "北京方面释放出愿意与特朗普团队（甚至是老对手）进行对话的信号"
     },
     {
       "id": "b279b93e7dae",
@@ -96,7 +96,7 @@
       "source_color": "#333333",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
+      "title_zh": "加拿大正在成为芬太尼出口国，也成为特朗普的目标"
     }
   ]
 }
