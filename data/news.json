@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T23:48:11.001701+00:00",
+  "last_updated": "2026-11-28T05:21:55.890367+00:00",
   "total": 8,
   "articles": [
     {
@@ -7,7 +7,7 @@
       "title": "Asia rejects basis of new Trump tariffs as US gathers China ammunition",
       "summary": "",
       "link": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/asia-rejects-basis-of-new-trump-tariffs-as-us-gathers-china-ammunition",
-      "published": "2026-11-27T23:48:23.837443+00:00",
+      "published": "2026-11-28T05:22:09.252646+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -19,7 +19,7 @@
       "title": "Trump-Xi summits unlikely to solve China's rare-earth licensing maze",
       "summary": "",
       "link": "https://asia.nikkei.com/opinion/trump-xi-summits-unlikely-to-solve-china-s-rare-earth-licensing-maze",
-      "published": "2026-11-27T23:48:23.837331+00:00",
+      "published": "2026-11-28T05:22:09.252528+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
@@ -48,7 +48,7 @@
       "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "特朗普的最新关税举措如何使印度在与亚洲出口国竞争中占据优势"
+      "title_zh": "特朗普的最新关税举措如何使印度在与亚洲出口国竞争对手的较量中占据优势"
     },
     {
       "id": "50b1bc26ab32",
@@ -72,7 +72,7 @@
       "source_color": "#CC0000",
       "source_lang": "en",
       "source_category": "chinese_official",
-      "title_zh": "特朗普声称印度将购买委内瑞拉石油，并欢迎中国的投资；中国专家指出该言论“单方面”，印度方面未予确认。"
+      "title_zh": "特朗普声称印度将购买委内瑞拉石油，并欢迎中国的投资；中国专家注意到这些言论“单方面”，印度方面未予确认。"
     },
     {
       "id": "28925d7651b5",
@@ -96,7 +96,7 @@
       "source_color": "#333333",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "加拿大正在成为芬太尼出口国，也成为特朗普的目标"
+      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
     }
   ]
 }
