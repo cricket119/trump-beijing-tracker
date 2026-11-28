@@ -1,42 +1,18 @@
 {
-  "last_updated": "2026-11-28T05:21:55.890367+00:00",
-  "total": 8,
+  "last_updated": "2026-11-28T16:27:56.441931+00:00",
+  "total": 6,
   "articles": [
-    {
-      "id": "5751d6c7838d",
-      "title": "Asia rejects basis of new Trump tariffs as US gathers China ammunition",
-      "summary": "",
-      "link": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/asia-rejects-basis-of-new-trump-tariffs-as-us-gathers-china-ammunition",
-      "published": "2026-11-28T05:22:09.252646+00:00",
-      "source": "Nikkei Asia",
-      "source_color": "#E60012",
-      "source_lang": "en",
-      "source_category": "asia",
-      "title_zh": "亚洲拒绝接受特朗普新关税的依据，而美国则在为对付中国积蓄弹药"
-    },
     {
       "id": "cc4432aeabdf",
       "title": "Trump-Xi summits unlikely to solve China's rare-earth licensing maze",
       "summary": "",
       "link": "https://asia.nikkei.com/opinion/trump-xi-summits-unlikely-to-solve-china-s-rare-earth-licensing-maze",
-      "published": "2026-11-28T05:22:09.252528+00:00",
+      "published": "2026-11-28T16:28:08.865227+00:00",
       "source": "Nikkei Asia",
       "source_color": "#E60012",
       "source_lang": "en",
       "source_category": "asia",
       "title_zh": "特朗普-习近平峰会不太可能解决中国的稀土许可迷局"
-    },
-    {
-      "id": "fa738f3b9c35",
-      "title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
-      "summary": "The message from Washington this week was unmistakable: America must do whatever it takes to win the artificial-intelligence race with China, and the government is prepared to intervene to make it happen.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-27/trump-s-ai-gambit-fuels-wild-thanksgiving-week-on-wall-street",
-      "published": "2026-11-27T18:43:36+00:00",
-      "source": "Bloomberg",
-      "source_color": "#1976D2",
-      "source_lang": "en",
-      "source_category": "business",
-      "title_zh": "特朗普的人工智能策略引发华尔街感恩节周的剧烈波动"
     },
     {
       "id": "c09589916d27",
@@ -48,7 +24,7 @@
       "source_color": "#005594",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "特朗普的最新关税举措如何使印度在与亚洲出口国竞争对手的较量中占据优势"
+      "title_zh": "特朗普的最新关税举措如何使印度在与亚洲出口国竞争中占据优势"
     },
     {
       "id": "50b1bc26ab32",
@@ -60,7 +36,7 @@
       "source_color": "#CC0000",
       "source_lang": "en",
       "source_category": "chinese_official",
-      "title_zh": "习近平与特朗普通话后，中国强调台湾是“核心利益的核心”；专家表示，“依靠美国实现独立”的幻想空间只会进一步缩小。"
+      "title_zh": "习近平与特朗普通话后，中国强调台湾是“核心利益的核心”；专家称“依靠美国实现独立”的幻想空间只会进一步缩小"
     },
     {
       "id": "2c9f49adac2e",
@@ -84,7 +60,7 @@
       "source_color": "#333333",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "北京方面释放出愿意与特朗普团队（甚至是昔日对手）进行对话的信号"
+      "title_zh": "北京方面释放出愿意与特朗普团队（甚至是老对手）进行对话的信号"
     },
     {
       "id": "b279b93e7dae",
@@ -96,7 +72,7 @@
       "source_color": "#333333",
       "source_lang": "en",
       "source_category": "business",
-      "title_zh": "加拿大正在成为芬太尼出口国，也是特朗普的目标"
+      "title_zh": "加拿大正在成为芬太尼出口国，也成为特朗普的目标"
     }
   ]
 }
